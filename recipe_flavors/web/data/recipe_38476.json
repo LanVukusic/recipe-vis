@@ -1,0 +1,112 @@
+{
+  "id": 38476,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_peel",
+    "wheat",
+    "sour_milk"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "sour_milk",
+      "value": 11
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "sour_milk",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "sour_milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "sour_milk",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 31633,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "wheat",
+    "egg",
+    "onion",
+    "potato"
+  ],
+  "score_avg": 7.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "peanut_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "peanut_oil",
+      "y": "potato",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "peanut_oil",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "peanut_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "peanut_oil",
+      "value": 9
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

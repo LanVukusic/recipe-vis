@@ -1,0 +1,112 @@
+{
+  "id": 32683,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "lemon_juice",
+    "mustard",
+    "cream"
+  ],
+  "score_avg": 1.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "dill",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "dill",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

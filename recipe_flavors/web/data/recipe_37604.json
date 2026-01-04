@@ -1,0 +1,72 @@
+{
+  "id": 37604,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "chicken",
+    "macaroni"
+  ],
+  "score_avg": 21.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.5
+    }
+  ]
+}

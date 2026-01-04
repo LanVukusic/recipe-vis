@@ -1,0 +1,42 @@
+{
+  "id": 7706,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yam",
+    "butter"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yam",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "yam",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 1.0
+    }
+  ]
+}

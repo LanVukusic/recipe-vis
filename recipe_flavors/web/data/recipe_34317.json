@@ -1,0 +1,112 @@
+{
+  "id": 34317,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "egg",
+    "banana",
+    "vegetable_oil"
+  ],
+  "score_avg": 16.833333333333332,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "banana",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "banana",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "banana",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

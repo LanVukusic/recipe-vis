@@ -1,0 +1,42 @@
+{
+  "id": 32494,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "banana"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 0.0
+    }
+  ]
+}

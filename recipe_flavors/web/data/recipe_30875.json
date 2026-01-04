@@ -1,0 +1,112 @@
+{
+  "id": 30875,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "thyme",
+    "bacon",
+    "apple",
+    "brussels_sprout"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "bacon",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "apple",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "bacon",
+      "y": "brussels_sprout",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "apple",
+      "y": "bacon",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "brussels_sprout",
+      "value": 3
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "apple",
+      "value": 3
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "brussels_sprout",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "apple",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "brussels_sprout",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

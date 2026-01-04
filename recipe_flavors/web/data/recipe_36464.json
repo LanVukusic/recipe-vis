@@ -1,0 +1,112 @@
+{
+  "id": 36464,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "lemon_juice",
+    "apple",
+    "pork_sausage"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

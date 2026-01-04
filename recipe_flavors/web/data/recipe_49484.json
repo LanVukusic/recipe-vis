@@ -1,0 +1,162 @@
+{
+  "id": 49484,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "sage",
+    "corn",
+    "bacon",
+    "parmesan_cheese",
+    "cream"
+  ],
+  "score_avg": 21.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "corn",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "parmesan_cheese",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "parmesan_cheese",
+      "value": 51
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "bacon",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 36.25
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "corn",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.5
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 36677,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "cream",
+    "cider",
+    "sweet_potato",
+    "hazelnut"
+  ],
+  "score_avg": 1.7,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cider",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "hazelnut",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cider",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "cider",
+      "y": "hazelnut",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "cider",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "hazelnut",
+      "value": 1
+    },
+    {
+      "x": "hazelnut",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "hazelnut",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "cider",
+      "value": 4
+    },
+    {
+      "x": "hazelnut",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cider",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 0.75
+    }
+  ]
+}

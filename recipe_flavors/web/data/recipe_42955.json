@@ -1,0 +1,42 @@
+{
+  "id": 42955,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "beef"
+  ],
+  "score_avg": 98.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "beef",
+      "value": 98
+    },
+    {
+      "x": "beef",
+      "y": "chicken",
+      "value": 98
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 98.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 98.0
+    }
+  ]
+}

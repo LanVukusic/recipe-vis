@@ -1,0 +1,112 @@
+{
+  "id": 45919,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "carrot",
+    "lemon",
+    "pineapple"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "carrot",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "carrot",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

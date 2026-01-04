@@ -1,0 +1,112 @@
+{
+  "id": 9418,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "vegetable_oil",
+    "lemon_juice",
+    "egg"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "olive",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "olive",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "olive",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

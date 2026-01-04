@@ -1,0 +1,42 @@
+{
+  "id": 30096,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream_cheese",
+    "shrimp"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "shrimp",
+      "value": 36
+    },
+    {
+      "x": "shrimp",
+      "y": "cream_cheese",
+      "value": 36
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 36.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 47222,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "feta_cheese",
+    "black_pepper",
+    "bell_pepper"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 11.5
+    }
+  ]
+}

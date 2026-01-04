@@ -1,0 +1,72 @@
+{
+  "id": 40655,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "plum",
+    "oat",
+    "cinnamon"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "oat",
+      "value": 10
+    },
+    {
+      "x": "plum",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "oat",
+      "y": "plum",
+      "value": 10
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "plum",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "oat",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "plum",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "oat",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.0
+    }
+  ]
+}

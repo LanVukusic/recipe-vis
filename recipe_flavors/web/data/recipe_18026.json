@@ -1,0 +1,372 @@
+{
+  "id": 18026,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "roasted_peanut",
+    "corn",
+    "raisin",
+    "cocoa",
+    "vanilla",
+    "cereal",
+    "milk"
+  ],
+  "score_avg": 16.964285714285715,
+  "pair_coverage": 0.6785714285714286,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "roasted_peanut",
+      "value": 41
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "cocoa",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "roasted_peanut",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "roasted_peanut",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cocoa",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "roasted_peanut",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cereal",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "roasted_peanut",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "corn",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "roasted_peanut",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 30.714285714285715
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.714285714285715
+    },
+    {
+      "ingredient": "corn",
+      "mean": 22.714285714285715
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 14.714285714285714
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 8.571428571428571
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

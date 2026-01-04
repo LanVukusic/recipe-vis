@@ -1,0 +1,112 @@
+{
+  "id": 22071,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "onion",
+    "cottage_cheese"
+  ],
+  "score_avg": 40.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "cottage_cheese",
+      "value": 62
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "cottage_cheese",
+      "value": 63
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cottage_cheese",
+      "value": 18
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 48.666666666666664
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 47.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 46.666666666666664
+    },
+    {
+      "ingredient": "onion",
+      "mean": 17.666666666666668
+    }
+  ]
+}

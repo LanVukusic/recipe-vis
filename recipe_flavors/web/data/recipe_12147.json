@@ -1,0 +1,112 @@
+{
+  "id": 12147,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "turnip",
+    "mustard",
+    "smoke"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "turnip",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "turnip",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "turnip",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

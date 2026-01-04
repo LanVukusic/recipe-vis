@@ -1,0 +1,672 @@
+{
+  "id": 12433,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape_juice",
+    "vanilla",
+    "milk",
+    "blackberry",
+    "strawberry",
+    "cinnamon",
+    "berry",
+    "rice",
+    "egg",
+    "blueberry",
+    "cream"
+  ],
+  "score_avg": 19.454545454545453,
+  "pair_coverage": 0.9090909090909091,
+  "heatmap": [
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "blackberry",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "blackberry",
+      "value": 25
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "berry",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "rice",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "blueberry",
+      "value": 12
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "blackberry",
+      "value": 37
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "berry",
+      "value": 24
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "blueberry",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "blackberry",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "blackberry",
+      "y": "vanilla",
+      "value": 25
+    },
+    {
+      "x": "blackberry",
+      "y": "milk",
+      "value": 37
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "cinnamon",
+      "value": 18
+    },
+    {
+      "x": "blackberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "blackberry",
+      "y": "rice",
+      "value": 27
+    },
+    {
+      "x": "blackberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "blackberry",
+      "y": "blueberry",
+      "value": 57
+    },
+    {
+      "x": "blackberry",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "strawberry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cinnamon",
+      "value": 22
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "blackberry",
+      "value": 18
+    },
+    {
+      "x": "cinnamon",
+      "y": "strawberry",
+      "value": 22
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "berry",
+      "value": 14
+    },
+    {
+      "x": "cinnamon",
+      "y": "rice",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "blueberry",
+      "value": 16
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "berry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "milk",
+      "value": 24
+    },
+    {
+      "x": "berry",
+      "y": "blackberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "cinnamon",
+      "value": 14
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "berry",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "berry",
+      "y": "blueberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "vanilla",
+      "value": 18
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "rice",
+      "y": "blackberry",
+      "value": 27
+    },
+    {
+      "x": "rice",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "rice",
+      "y": "berry",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "blueberry",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "blackberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "berry",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "blueberry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "vanilla",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "blackberry",
+      "value": 57
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "cinnamon",
+      "value": 16
+    },
+    {
+      "x": "blueberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "blueberry",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "blueberry",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "blackberry",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "berry",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "blueberry",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 36.8
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 31.1
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.7
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 25.9
+    },
+    {
+      "ingredient": "berry",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.3
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 10.3
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.9
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.5
+    }
+  ]
+}

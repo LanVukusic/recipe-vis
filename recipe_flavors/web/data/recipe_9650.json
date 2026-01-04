@@ -1,0 +1,112 @@
+{
+  "id": 9650,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "squid",
+    "lemon",
+    "garlic"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "squid",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "squid",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "squid",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "squid",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

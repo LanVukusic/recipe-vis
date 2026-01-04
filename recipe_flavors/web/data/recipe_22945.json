@@ -1,0 +1,72 @@
+{
+  "id": 22945,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "meat",
+    "beef",
+    "bread"
+  ],
+  "score_avg": 34.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "beef",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "meat",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "meat",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 30.0
+    }
+  ]
+}

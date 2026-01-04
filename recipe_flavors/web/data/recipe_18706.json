@@ -1,0 +1,42 @@
+{
+  "id": 18706,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "coconut"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "coconut",
+      "value": 1
+    },
+    {
+      "x": "coconut",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cane_molasses",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 1.0
+    }
+  ]
+}

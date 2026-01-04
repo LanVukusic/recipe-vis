@@ -1,0 +1,72 @@
+{
+  "id": 17198,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "pork",
+    "soy_sauce"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "pork",
+      "value": 26
+    },
+    {
+      "x": "orange",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "orange",
+      "value": 26
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "pork",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 17643,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pecan",
+    "cayenne"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.0
+    }
+  ]
+}

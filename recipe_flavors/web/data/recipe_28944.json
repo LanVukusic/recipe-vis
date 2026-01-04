@@ -1,0 +1,112 @@
+{
+  "id": 28944,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "nutmeg",
+    "banana",
+    "milk"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "banana",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.666666666666667
+    }
+  ]
+}

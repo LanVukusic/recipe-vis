@@ -1,0 +1,112 @@
+{
+  "id": 21691,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "cucumber",
+    "onion",
+    "dill"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "dill",
+      "mean": 2.0
+    }
+  ]
+}

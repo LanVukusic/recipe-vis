@@ -1,0 +1,72 @@
+{
+  "id": 37599,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "cheddar_cheese",
+    "bacon"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "date",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "date",
+      "mean": 2.0
+    }
+  ]
+}

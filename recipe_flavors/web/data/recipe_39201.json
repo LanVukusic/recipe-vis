@@ -1,0 +1,162 @@
+{
+  "id": 39201,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "chicken",
+    "rice",
+    "cayenne",
+    "pepper"
+  ],
+  "score_avg": 20.8,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 26.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 25.25
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 13.5
+    }
+  ]
+}

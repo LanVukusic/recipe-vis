@@ -1,0 +1,112 @@
+{
+  "id": 8472,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "cider",
+    "apple",
+    "cinnamon"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cider",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cider",
+      "value": 59
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cider",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "cider",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": 30244,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken_broth",
+    "potato",
+    "corn",
+    "bacon",
+    "parsley",
+    "leek",
+    "milk_fat",
+    "milk"
+  ],
+  "score_avg": 12.857142857142858,
+  "pair_coverage": 0.6071428571428571,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "corn",
+      "value": 37
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "leek",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "corn",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "potato",
+      "value": 37
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "leek",
+      "value": 15
+    },
+    {
+      "x": "corn",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "leek",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "leek",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "leek",
+      "y": "corn",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "bacon",
+      "value": 19
+    },
+    {
+      "x": "leek",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "milk",
+      "value": 21
+    },
+    {
+      "x": "milk_fat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "leek",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 24.428571428571427
+    },
+    {
+      "ingredient": "milk",
+      "mean": 22.857142857142858
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.857142857142858
+    },
+    {
+      "ingredient": "corn",
+      "mean": 20.142857142857142
+    },
+    {
+      "ingredient": "leek",
+      "mean": 10.285714285714286
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.7142857142857144
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.42857142857142855
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.14285714285714285
+    }
+  ]
+}

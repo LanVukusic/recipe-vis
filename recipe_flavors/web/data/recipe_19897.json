@@ -1,0 +1,112 @@
+{
+  "id": 19897,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "mushroom",
+    "beef",
+    "onion"
+  ],
+  "score_avg": 18.833333333333332,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "beef",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

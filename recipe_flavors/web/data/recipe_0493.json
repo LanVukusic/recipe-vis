@@ -1,0 +1,112 @@
+{
+  "id": 493,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "peanut_oil",
+    "starch",
+    "cayenne",
+    "shrimp"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "peanut_oil",
+      "y": "shrimp",
+      "value": 6
+    },
+    {
+      "x": "starch",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "peanut_oil",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "peanut_oil",
+      "value": 6
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_oil",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

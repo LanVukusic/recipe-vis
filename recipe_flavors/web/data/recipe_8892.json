@@ -1,0 +1,42 @@
+{
+  "id": 8892,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "fennel"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "fennel",
+      "value": 8
+    },
+    {
+      "x": "fennel",
+      "y": "orange",
+      "value": 8
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 8.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 24299,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "meat",
+    "cream"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "meat",
+      "value": 32
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "meat",
+      "y": "cheese",
+      "value": 32
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "meat",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.5
+    }
+  ]
+}

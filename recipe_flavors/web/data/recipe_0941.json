@@ -1,0 +1,112 @@
+{
+  "id": 941,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "rice",
+    "barley",
+    "soybean",
+    "scallion"
+  ],
+  "score_avg": 10.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "barley",
+      "value": 3
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "rice",
+      "value": 3
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "soybean",
+      "value": 7
+    },
+    {
+      "x": "barley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "barley",
+      "value": 7
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "barley",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

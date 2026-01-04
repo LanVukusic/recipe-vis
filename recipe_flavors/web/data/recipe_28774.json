@@ -1,0 +1,162 @@
+{
+  "id": 28774,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tuna",
+    "cheddar_cheese",
+    "macaroni",
+    "mushroom",
+    "bread"
+  ],
+  "score_avg": 24.1,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "tuna",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "mushroom",
+      "value": 38
+    },
+    {
+      "x": "tuna",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tuna",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "macaroni",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "tuna",
+      "value": 38
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "tuna",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.25
+    }
+  ]
+}

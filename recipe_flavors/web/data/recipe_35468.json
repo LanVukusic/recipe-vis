@@ -1,0 +1,72 @@
+{
+  "id": 35468,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "onion"
+  ],
+  "score_avg": 32.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 41.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 17.5
+    }
+  ]
+}

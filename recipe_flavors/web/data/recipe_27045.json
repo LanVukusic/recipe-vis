@@ -1,0 +1,72 @@
+{
+  "id": 27045,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "honey",
+    "apple"
+  ],
+  "score_avg": 41.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "honey",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 51.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 31.5
+    }
+  ]
+}

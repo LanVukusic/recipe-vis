@@ -1,0 +1,72 @@
+{
+  "id": 17527,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "mint",
+    "cream"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "mint",
+      "y": "coffee",
+      "value": 8
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 5.5
+    }
+  ]
+}

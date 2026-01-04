@@ -1,0 +1,112 @@
+{
+  "id": 31212,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "egg",
+    "apple",
+    "walnut"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "apple",
+      "value": 61
+    },
+    {
+      "x": "cocoa",
+      "y": "walnut",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "apple",
+      "y": "cocoa",
+      "value": 61
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "cocoa",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "apple",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "apple",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 7.666666666666667
+    }
+  ]
+}

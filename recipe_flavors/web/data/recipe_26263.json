@@ -1,0 +1,162 @@
+{
+  "id": 26263,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "lettuce",
+    "cheddar_cheese",
+    "bacon",
+    "bread"
+  ],
+  "score_avg": 28.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "lettuce",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 34.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 32790,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "strawberry",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 27.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "yogurt",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "strawberry",
+      "y": "yogurt",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "vanilla",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 18.333333333333332
+    }
+  ]
+}

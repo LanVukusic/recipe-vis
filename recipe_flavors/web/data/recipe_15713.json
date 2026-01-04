@@ -1,0 +1,72 @@
+{
+  "id": 15713,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "peanut_butter",
+    "milk"
+  ],
+  "score_avg": 67.33333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 71.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 66.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 64.0
+    }
+  ]
+}

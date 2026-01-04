@@ -1,0 +1,42 @@
+{
+  "id": 15920,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "rum"
+  ],
+  "score_avg": 79.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "rum",
+      "value": 79
+    },
+    {
+      "x": "rum",
+      "y": "strawberry",
+      "value": 79
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 79.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 79.0
+    }
+  ]
+}

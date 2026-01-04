@@ -1,0 +1,42 @@
+{
+  "id": 45907,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "honey"
+  ],
+  "score_avg": 24.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "honey",
+      "value": 24
+    },
+    {
+      "x": "honey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 24.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 30532,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "bacon",
+    "brassica",
+    "cayenne",
+    "vinegar"
+  ],
+  "score_avg": 5.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "brassica",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.25
+    }
+  ]
+}

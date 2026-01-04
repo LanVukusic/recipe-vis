@@ -1,0 +1,72 @@
+{
+  "id": 17289,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "olive_oil",
+    "apple"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "apple",
+      "value": 20
+    },
+    {
+      "x": "olive_oil",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "turkey",
+      "value": 20
+    },
+    {
+      "x": "apple",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.5
+    }
+  ]
+}

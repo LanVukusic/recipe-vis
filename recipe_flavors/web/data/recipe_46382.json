@@ -1,0 +1,112 @@
+{
+  "id": 46382,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "rice",
+    "peanut_butter",
+    "milk"
+  ],
+  "score_avg": 25.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "peanut_butter",
+      "value": 53
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "rice",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "rice",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

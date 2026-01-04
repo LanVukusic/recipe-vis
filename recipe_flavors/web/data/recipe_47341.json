@@ -1,0 +1,112 @@
+{
+  "id": 47341,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "roasted_almond",
+    "olive_oil",
+    "garlic",
+    "rosemary"
+  ],
+  "score_avg": 0.16666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "roasted_almond",
+      "y": "roasted_almond",
+      "value": 0
+    },
+    {
+      "x": "roasted_almond",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_almond",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "roasted_almond",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "roasted_almond",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_almond",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "roasted_almond",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_almond",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.0
+    }
+  ]
+}

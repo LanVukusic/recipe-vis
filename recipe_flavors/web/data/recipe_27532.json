@@ -1,0 +1,162 @@
+{
+  "id": 27532,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "parmesan_cheese",
+    "egg",
+    "onion",
+    "cream_cheese"
+  ],
+  "score_avg": 24.6,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "parmesan_cheese",
+      "value": 130
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 46.75
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 43.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.75
+    }
+  ]
+}

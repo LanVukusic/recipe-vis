@@ -1,0 +1,112 @@
+{
+  "id": 5675,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "chicken",
+    "cayenne",
+    "prickly_pear"
+  ],
+  "score_avg": 15.166666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "prickly_pear",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "prickly_pear",
+      "value": 11
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "prickly_pear",
+      "value": 4
+    },
+    {
+      "x": "prickly_pear",
+      "y": "tomato",
+      "value": 18
+    },
+    {
+      "x": "prickly_pear",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "prickly_pear",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "prickly_pear",
+      "y": "prickly_pear",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "prickly_pear",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.666666666666667
+    }
+  ]
+}

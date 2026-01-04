@@ -1,0 +1,162 @@
+{
+  "id": 17972,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "haddock",
+    "pepper",
+    "cheddar_cheese",
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 18.4,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "haddock",
+      "y": "haddock",
+      "value": 0
+    },
+    {
+      "x": "haddock",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "haddock",
+      "y": "cheddar_cheese",
+      "value": 34
+    },
+    {
+      "x": "haddock",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "haddock",
+      "y": "mushroom",
+      "value": 31
+    },
+    {
+      "x": "pepper",
+      "y": "haddock",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "haddock",
+      "value": 34
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "onion",
+      "y": "haddock",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "haddock",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "haddock",
+      "mean": 19.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.0
+    }
+  ]
+}

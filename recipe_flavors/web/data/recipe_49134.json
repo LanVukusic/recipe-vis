@@ -1,0 +1,112 @@
+{
+  "id": 49134,
+  "cuisine": "SoutheastAsian",
+  "ingredients": [
+    "chicken",
+    "garlic",
+    "cilantro",
+    "ginger"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "cilantro",
+      "value": 10
+    },
+    {
+      "x": "chicken",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "cilantro",
+      "y": "chicken",
+      "value": 10
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "cilantro",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    }
+  ]
+}

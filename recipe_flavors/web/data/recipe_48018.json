@@ -1,0 +1,72 @@
+{
+  "id": 48018,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "potato_chip",
+    "pecan"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato_chip",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "pecan",
+      "value": 10
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "potato_chip",
+      "value": 10
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato_chip",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

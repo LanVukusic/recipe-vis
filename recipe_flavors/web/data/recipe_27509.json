@@ -1,0 +1,112 @@
+{
+  "id": 27509,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "olive",
+    "pepper",
+    "grape_juice"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive",
+      "value": 14
+    },
+    {
+      "x": "asparagus",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "asparagus",
+      "value": 14
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

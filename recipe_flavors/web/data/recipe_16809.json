@@ -1,0 +1,112 @@
+{
+  "id": 16809,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vanilla",
+    "lemon_juice",
+    "banana"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "banana",
+      "value": 42
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "vanilla",
+      "value": 21
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

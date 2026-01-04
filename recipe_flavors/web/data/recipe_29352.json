@@ -1,0 +1,112 @@
+{
+  "id": 29352,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "vanilla",
+    "wheat",
+    "soybean"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "wheat",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

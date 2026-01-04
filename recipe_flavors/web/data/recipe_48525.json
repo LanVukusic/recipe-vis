@@ -1,0 +1,112 @@
+{
+  "id": 48525,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "lamb",
+    "celery",
+    "yogurt",
+    "cucumber"
+  ],
+  "score_avg": 9.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "celery",
+      "value": 14
+    },
+    {
+      "x": "lamb",
+      "y": "yogurt",
+      "value": 15
+    },
+    {
+      "x": "lamb",
+      "y": "cucumber",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "lamb",
+      "value": 14
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "yogurt",
+      "value": 8
+    },
+    {
+      "x": "celery",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "yogurt",
+      "y": "lamb",
+      "value": 15
+    },
+    {
+      "x": "yogurt",
+      "y": "celery",
+      "value": 8
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "lamb",
+      "value": 7
+    },
+    {
+      "x": "cucumber",
+      "y": "celery",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lamb",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "celery",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 5.666666666666667
+    }
+  ]
+}

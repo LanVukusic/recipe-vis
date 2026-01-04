@@ -1,0 +1,42 @@
+{
+  "id": 43194,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peppermint",
+    "cream_cheese"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    },
+    {
+      "x": "peppermint",
+      "y": "cream_cheese",
+      "value": 11
+    },
+    {
+      "x": "cream_cheese",
+      "y": "peppermint",
+      "value": 11
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peppermint",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 11.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 48648,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "butter",
+    "tomato",
+    "coriander",
+    "onion"
+  ],
+  "score_avg": 20.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "coriander",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "coriander",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "coriander",
+      "y": "tomato",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 11.0
+    }
+  ]
+}

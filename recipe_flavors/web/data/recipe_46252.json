@@ -1,0 +1,112 @@
+{
+  "id": 46252,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chive",
+    "onion",
+    "cream_cheese",
+    "potato"
+  ],
+  "score_avg": 17.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "chive",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "potato",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "chive",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "cream_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "potato",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "cream_cheese",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "chive",
+      "mean": 7.666666666666667
+    }
+  ]
+}

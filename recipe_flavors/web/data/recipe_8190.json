@@ -1,0 +1,42 @@
+{
+  "id": 8190,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kiwi",
+    "lime"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "kiwi",
+      "y": "kiwi",
+      "value": 0
+    },
+    {
+      "x": "kiwi",
+      "y": "lime",
+      "value": 15
+    },
+    {
+      "x": "lime",
+      "y": "kiwi",
+      "value": 15
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "kiwi",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 15.0
+    }
+  ]
+}

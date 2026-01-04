@@ -1,0 +1,112 @@
+{
+  "id": 19922,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "gelatin",
+    "chicken",
+    "pepper"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

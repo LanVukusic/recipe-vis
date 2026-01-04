@@ -1,0 +1,792 @@
+{
+  "id": 28523,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "cheese",
+    "pepper",
+    "wheat",
+    "shallot",
+    "chicken_broth",
+    "parsley",
+    "parmesan_cheese",
+    "macaroni",
+    "butter",
+    "sherry",
+    "pecan"
+  ],
+  "score_avg": 13.287878787878787,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "turkey",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "turkey",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "turkey",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "turkey",
+      "y": "sherry",
+      "value": 26
+    },
+    {
+      "x": "turkey",
+      "y": "pecan",
+      "value": 29
+    },
+    {
+      "x": "cheese",
+      "y": "turkey",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "sherry",
+      "value": 71
+    },
+    {
+      "x": "cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "sherry",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "parmesan_cheese",
+      "value": 7
+    },
+    {
+      "x": "shallot",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "sherry",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "pecan",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "turkey",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "sherry",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "pecan",
+      "value": 7
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "turkey",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "shallot",
+      "value": 7
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sherry",
+      "value": 84
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pecan",
+      "value": 34
+    },
+    {
+      "x": "macaroni",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "turkey",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "sherry",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "sherry",
+      "y": "turkey",
+      "value": 26
+    },
+    {
+      "x": "sherry",
+      "y": "cheese",
+      "value": 71
+    },
+    {
+      "x": "sherry",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "sherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "sherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "sherry",
+      "y": "parmesan_cheese",
+      "value": 84
+    },
+    {
+      "x": "sherry",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "pecan",
+      "value": 24
+    },
+    {
+      "x": "pecan",
+      "y": "turkey",
+      "value": 29
+    },
+    {
+      "x": "pecan",
+      "y": "cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "pecan",
+      "y": "parmesan_cheese",
+      "value": 34
+    },
+    {
+      "x": "pecan",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "sherry",
+      "value": 24
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 35.63636363636363
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 30.818181818181817
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 25.09090909090909
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 15.363636363636363
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.8181818181818183
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.1818181818181819
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

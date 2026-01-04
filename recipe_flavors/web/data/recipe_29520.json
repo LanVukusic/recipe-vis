@@ -1,0 +1,42 @@
+{
+  "id": 29520,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "green_bell_pepper"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 1.0
+    }
+  ]
+}

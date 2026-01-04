@@ -1,0 +1,72 @@
+{
+  "id": 1674,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "fish",
+    "japanese_plum",
+    "lemon"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "japanese_plum",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "japanese_plum",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "japanese_plum",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "fish",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "japanese_plum",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fish",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "japanese_plum",
+      "mean": 1.0
+    }
+  ]
+}

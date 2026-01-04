@@ -1,0 +1,112 @@
+{
+  "id": 47909,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "blue_cheese",
+    "grape",
+    "avocado"
+  ],
+  "score_avg": 50.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "blue_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "grape",
+      "value": 56
+    },
+    {
+      "x": "cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "grape",
+      "value": 62
+    },
+    {
+      "x": "blue_cheese",
+      "y": "avocado",
+      "value": 15
+    },
+    {
+      "x": "grape",
+      "y": "cheese",
+      "value": 56
+    },
+    {
+      "x": "grape",
+      "y": "blue_cheese",
+      "value": 62
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "avocado",
+      "value": 26
+    },
+    {
+      "x": "avocado",
+      "y": "cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "blue_cheese",
+      "value": 15
+    },
+    {
+      "x": "avocado",
+      "y": "grape",
+      "value": 26
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 68.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 65.66666666666667
+    },
+    {
+      "ingredient": "grape",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 18.333333333333332
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 16176,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "pork",
+    "brassica",
+    "cider"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cider",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "cider",
+      "value": 13
+    },
+    {
+      "x": "brassica",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "pork",
+      "value": 13
+    },
+    {
+      "x": "cider",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cider",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "pork",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

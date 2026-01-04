@@ -1,0 +1,112 @@
+{
+  "id": 724,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "chicken",
+    "meat",
+    "ginger",
+    "soy_sauce"
+  ],
+  "score_avg": 13.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "chicken",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "chicken",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "meat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "meat",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "meat",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

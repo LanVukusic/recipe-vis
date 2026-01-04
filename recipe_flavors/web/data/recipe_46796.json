@@ -1,0 +1,72 @@
+{
+  "id": 46796,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "orange",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream_cheese",
+      "y": "orange",
+      "value": 39
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "orange",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    }
+  ]
+}

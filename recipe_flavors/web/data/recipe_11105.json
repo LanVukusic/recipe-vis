@@ -1,0 +1,112 @@
+{
+  "id": 11105,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "anise",
+    "anise_seed",
+    "pineapple"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "anise_seed",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "anise",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "anise_seed",
+      "mean": 0.0
+    }
+  ]
+}

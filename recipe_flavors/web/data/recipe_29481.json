@@ -1,0 +1,162 @@
+{
+  "id": 29481,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken_broth",
+    "orange_juice",
+    "almond",
+    "brown_rice"
+  ],
+  "score_avg": 8.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "brown_rice",
+      "value": 45
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "brown_rice",
+      "value": 11
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "brown_rice",
+      "value": 4
+    },
+    {
+      "x": "brown_rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "brown_rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "brown_rice",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

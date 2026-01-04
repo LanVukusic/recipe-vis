@@ -1,0 +1,42 @@
+{
+  "id": 27524,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "bacon"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "olive",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 18.0
+    }
+  ]
+}

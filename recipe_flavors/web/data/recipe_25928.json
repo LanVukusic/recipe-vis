@@ -1,0 +1,162 @@
+{
+  "id": 25928,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "vegetable_oil",
+    "chicken",
+    "lemon_juice",
+    "starch"
+  ],
+  "score_avg": 1.5,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "peanut_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "peanut_oil",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

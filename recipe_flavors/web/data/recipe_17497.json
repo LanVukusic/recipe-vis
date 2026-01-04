@@ -1,0 +1,42 @@
+{
+  "id": 17497,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "cranberry"
+  ],
+  "score_avg": 72.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cranberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 72.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 72.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 12641,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "vanilla",
+    "cream"
+  ],
+  "score_avg": 11.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "yogurt",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "yogurt",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "yogurt",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 8.5
+    }
+  ]
+}

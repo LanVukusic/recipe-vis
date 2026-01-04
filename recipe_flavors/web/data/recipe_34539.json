@@ -1,0 +1,72 @@
+{
+  "id": 34539,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

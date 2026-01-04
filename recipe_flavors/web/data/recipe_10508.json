@@ -1,0 +1,42 @@
+{
+  "id": 10508,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "orange_juice"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.0
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "id": 23652,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "green_bell_pepper",
+    "onion",
+    "beef",
+    "black_pepper",
+    "garlic",
+    "mozzarella_cheese",
+    "rice"
+  ],
+  "score_avg": 19.285714285714285,
+  "pair_coverage": 0.9285714285714286,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "mozzarella_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "green_bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "mozzarella_cheese",
+      "value": 74
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "green_bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "beef",
+      "value": 74
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "rice",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 35.42857142857143
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 27.857142857142858
+    },
+    {
+      "ingredient": "rice",
+      "mean": 23.571428571428573
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.142857142857142
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.857142857142858
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 8.571428571428571
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.857142857142857
+    }
+  ]
+}

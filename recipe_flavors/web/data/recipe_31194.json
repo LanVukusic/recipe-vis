@@ -1,0 +1,162 @@
+{
+  "id": 31194,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "lemon",
+    "egg",
+    "sour_milk",
+    "lard"
+  ],
+  "score_avg": 1.4,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "sour_milk",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sour_milk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "sour_milk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "sour_milk",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "sour_milk",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

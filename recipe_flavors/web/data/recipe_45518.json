@@ -1,0 +1,72 @@
+{
+  "id": 45518,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "peppermint"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "peppermint",
+      "value": 14
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peppermint",
+      "value": 0
+    },
+    {
+      "x": "peppermint",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

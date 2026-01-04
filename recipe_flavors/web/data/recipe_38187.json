@@ -1,0 +1,112 @@
+{
+  "id": 38187,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "gelatin",
+    "rice",
+    "milk"
+  ],
+  "score_avg": 26.666666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 39.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 38.333333333333336
+    },
+    {
+      "ingredient": "rice",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

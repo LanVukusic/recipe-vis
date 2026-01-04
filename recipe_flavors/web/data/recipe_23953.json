@@ -1,0 +1,162 @@
+{
+  "id": 23953,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "wheat",
+    "milk",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "milk",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream_cheese",
+      "y": "orange_juice",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 8229,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "lemon_juice",
+    "lemon",
+    "blackberry",
+    "raspberry",
+    "fruit",
+    "wine"
+  ],
+  "score_avg": 20.61904761904762,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "cocoa",
+      "y": "blackberry",
+      "value": 32
+    },
+    {
+      "x": "cocoa",
+      "y": "raspberry",
+      "value": 42
+    },
+    {
+      "x": "cocoa",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cocoa",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "lemon",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "blackberry",
+      "y": "cocoa",
+      "value": 32
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "blackberry",
+      "y": "wine",
+      "value": 35
+    },
+    {
+      "x": "raspberry",
+      "y": "cocoa",
+      "value": 42
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "raspberry",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "fruit",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "blackberry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "raspberry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 35.166666666666664
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "wine",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

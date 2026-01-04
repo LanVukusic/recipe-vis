@@ -1,0 +1,72 @@
+{
+  "id": 38114,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "soy_sauce",
+    "beef"
+  ],
+  "score_avg": 27.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "soy_sauce",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "beef",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 1.0
+    }
+  ]
+}

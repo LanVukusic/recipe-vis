@@ -1,0 +1,42 @@
+{
+  "id": 49555,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "macaroni",
+    "wheat"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "macaroni",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 4.0
+    }
+  ]
+}

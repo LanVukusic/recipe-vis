@@ -1,0 +1,562 @@
+{
+  "id": 20847,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "ham",
+    "onion",
+    "mushroom",
+    "sage",
+    "thyme",
+    "cheddar_cheese",
+    "rosemary",
+    "broccoli",
+    "bread"
+  ],
+  "score_avg": 8.577777777777778,
+  "pair_coverage": 0.8444444444444444,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "thyme",
+      "value": 4
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "rosemary",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "sage",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "sage",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "ham",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "thyme",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "rosemary",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "ham",
+      "value": 3
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "thyme",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 20.22222222222222
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 11.88888888888889
+    },
+    {
+      "ingredient": "ham",
+      "mean": 11.555555555555555
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.444444444444445
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.222222222222222
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.7777777777777777
+    }
+  ]
+}

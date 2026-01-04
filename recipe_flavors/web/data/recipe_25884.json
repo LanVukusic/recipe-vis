@@ -1,0 +1,72 @@
+{
+  "id": 25884,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "malt",
+    "hop",
+    "yeast"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "malt",
+      "y": "malt",
+      "value": 0
+    },
+    {
+      "x": "malt",
+      "y": "hop",
+      "value": 25
+    },
+    {
+      "x": "malt",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "hop",
+      "y": "malt",
+      "value": 25
+    },
+    {
+      "x": "hop",
+      "y": "hop",
+      "value": 0
+    },
+    {
+      "x": "hop",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "malt",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "hop",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "malt",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "hop",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

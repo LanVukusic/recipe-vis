@@ -1,0 +1,42 @@
+{
+  "id": 19772,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "beef"
+  ],
+  "score_avg": 30.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "coconut",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 30.0
+    }
+  ]
+}

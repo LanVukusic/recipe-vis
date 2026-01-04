@@ -1,0 +1,792 @@
+{
+  "id": 564,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pork",
+    "onion",
+    "starch",
+    "corn",
+    "bacon",
+    "soy_sauce",
+    "tangerine",
+    "ginger",
+    "scallion",
+    "garlic",
+    "orange",
+    "vegetable_oil"
+  ],
+  "score_avg": 9.530303030303031,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "corn",
+      "value": 36
+    },
+    {
+      "x": "pork",
+      "y": "bacon",
+      "value": 115
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "tangerine",
+      "value": 15
+    },
+    {
+      "x": "pork",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "pork",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "orange",
+      "value": 26
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tangerine",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pork",
+      "value": 36
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "tangerine",
+      "value": 15
+    },
+    {
+      "x": "corn",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "corn",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pork",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "tangerine",
+      "value": 15
+    },
+    {
+      "x": "bacon",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "bacon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "orange",
+      "value": 26
+    },
+    {
+      "x": "bacon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "pork",
+      "value": 15
+    },
+    {
+      "x": "tangerine",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "tangerine",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "corn",
+      "value": 15
+    },
+    {
+      "x": "tangerine",
+      "y": "bacon",
+      "value": 15
+    },
+    {
+      "x": "tangerine",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "tangerine",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "tangerine",
+      "y": "orange",
+      "value": 62
+    },
+    {
+      "x": "tangerine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "pork",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "corn",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "bacon",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "tangerine",
+      "value": 26
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tangerine",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "pork",
+      "value": 26
+    },
+    {
+      "x": "orange",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "corn",
+      "value": 25
+    },
+    {
+      "x": "orange",
+      "y": "bacon",
+      "value": 26
+    },
+    {
+      "x": "orange",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "tangerine",
+      "value": 62
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tangerine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 21.90909090909091
+    },
+    {
+      "ingredient": "pork",
+      "mean": 21.545454545454547
+    },
+    {
+      "ingredient": "orange",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 14.181818181818182
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 13.454545454545455
+    },
+    {
+      "ingredient": "tangerine",
+      "mean": 12.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.636363636363637
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.1818181818181817
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

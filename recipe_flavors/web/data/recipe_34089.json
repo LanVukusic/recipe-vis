@@ -1,0 +1,112 @@
+{
+  "id": 34089,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "grape_juice",
+    "black_pepper",
+    "berry"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "grape_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "strawberry",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "berry",
+      "value": 8
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "berry",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

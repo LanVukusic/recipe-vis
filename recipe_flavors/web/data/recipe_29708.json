@@ -1,0 +1,292 @@
+{
+  "id": 29708,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "rice",
+    "mushroom",
+    "olive",
+    "corn",
+    "cheddar_cheese",
+    "pork_sausage"
+  ],
+  "score_avg": 38.714285714285715,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "olive",
+      "value": 17
+    },
+    {
+      "x": "rice",
+      "y": "corn",
+      "value": 34
+    },
+    {
+      "x": "rice",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "pork_sausage",
+      "value": 43
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive",
+      "value": 22
+    },
+    {
+      "x": "mushroom",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "olive",
+      "y": "tomato",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "rice",
+      "value": 17
+    },
+    {
+      "x": "olive",
+      "y": "mushroom",
+      "value": 22
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "corn",
+      "value": 19
+    },
+    {
+      "x": "olive",
+      "y": "cheddar_cheese",
+      "value": 27
+    },
+    {
+      "x": "olive",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "rice",
+      "value": 34
+    },
+    {
+      "x": "corn",
+      "y": "mushroom",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "olive",
+      "value": 19
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "corn",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "olive",
+      "value": 27
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "corn",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "olive",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 49.333333333333336
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 43.666666666666664
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 42.833333333333336
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 42.166666666666664
+    },
+    {
+      "ingredient": "rice",
+      "mean": 37.166666666666664
+    },
+    {
+      "ingredient": "corn",
+      "mean": 34.333333333333336
+    },
+    {
+      "ingredient": "olive",
+      "mean": 21.5
+    }
+  ]
+}

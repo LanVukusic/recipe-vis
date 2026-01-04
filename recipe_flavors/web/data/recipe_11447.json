@@ -1,0 +1,112 @@
+{
+  "id": 11447,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "peanut_butter",
+    "banana",
+    "bread"
+  ],
+  "score_avg": 37.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "banana",
+      "value": 42
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "bread",
+      "value": 34
+    },
+    {
+      "x": "banana",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "bread",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "peanut_butter",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 30.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 28.333333333333332
+    }
+  ]
+}

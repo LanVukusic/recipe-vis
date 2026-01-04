@@ -1,0 +1,112 @@
+{
+  "id": 15273,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "cashew",
+    "vanilla"
+  ],
+  "score_avg": 17.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cashew",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cashew",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "cashew",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "cashew",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "cashew",
+      "y": "cashew",
+      "value": 0
+    },
+    {
+      "x": "cashew",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "cashew",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "cashew",
+      "mean": 7.0
+    }
+  ]
+}

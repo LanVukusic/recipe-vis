@@ -1,0 +1,792 @@
+{
+  "id": 10903,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "shallot",
+    "fish",
+    "white_wine",
+    "scallop",
+    "fennel",
+    "lobster",
+    "tomato",
+    "oregano",
+    "bay",
+    "butter"
+  ],
+  "score_avg": 6.181818181818182,
+  "pair_coverage": 0.45454545454545453,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "fish",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "scallop",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "white_wine",
+      "value": 31
+    },
+    {
+      "x": "fish",
+      "y": "scallop",
+      "value": 20
+    },
+    {
+      "x": "fish",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "lobster",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "fish",
+      "value": 31
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "scallop",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "lobster",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "scallop",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "scallop",
+      "y": "fish",
+      "value": 20
+    },
+    {
+      "x": "scallop",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "scallop",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "scallop",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "butter",
+      "value": 23
+    },
+    {
+      "x": "fennel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "lobster",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "lobster",
+      "y": "scallop",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "scallop",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "white_wine",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "scallop",
+      "value": 23
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 17.727272727272727
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 16.818181818181817
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.727272727272727
+    },
+    {
+      "ingredient": "fish",
+      "mean": 11.272727272727273
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 8.181818181818182
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 1.5454545454545454
+    },
+    {
+      "ingredient": "lobster",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.0
+    }
+  ]
+}

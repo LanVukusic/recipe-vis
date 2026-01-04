@@ -1,0 +1,42 @@
+{
+  "id": 9283,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "parmesan_cheese"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 4.0
+    }
+  ]
+}

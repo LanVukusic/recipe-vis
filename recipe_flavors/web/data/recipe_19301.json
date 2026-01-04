@@ -1,0 +1,792 @@
+{
+  "id": 19301,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "dill",
+    "onion",
+    "tarragon",
+    "feta_cheese",
+    "black_pepper",
+    "parsley",
+    "white_wine",
+    "vegetable_oil",
+    "egg",
+    "leek",
+    "bread"
+  ],
+  "score_avg": 11.075757575757576,
+  "pair_coverage": 0.7424242424242424,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "dill",
+      "value": 18
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "leek",
+      "value": 16
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "dill",
+      "y": "tomato",
+      "value": 18
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "feta_cheese",
+      "value": 9
+    },
+    {
+      "x": "dill",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "dill",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "dill",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "dill",
+      "y": "leek",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "feta_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "leek",
+      "value": 23
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "tarragon",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "white_wine",
+      "value": 3
+    },
+    {
+      "x": "tarragon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "dill",
+      "value": 9
+    },
+    {
+      "x": "feta_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "white_wine",
+      "value": 80
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "feta_cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "dill",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "white_wine",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "leek",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "dill",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "tarragon",
+      "value": 3
+    },
+    {
+      "x": "white_wine",
+      "y": "feta_cheese",
+      "value": 80
+    },
+    {
+      "x": "white_wine",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "white_wine",
+      "y": "egg",
+      "value": 22
+    },
+    {
+      "x": "white_wine",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "white_wine",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "white_wine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "leek",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "dill",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "feta_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "white_wine",
+      "value": 22
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "leek",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "tomato",
+      "value": 16
+    },
+    {
+      "x": "leek",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "leek",
+      "y": "onion",
+      "value": 23
+    },
+    {
+      "x": "leek",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "feta_cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "leek",
+      "y": "white_wine",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "leek",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "dill",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "feta_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "white_wine",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "leek",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 25.363636363636363
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 23.09090909090909
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 22.636363636363637
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.909090909090908
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "leek",
+      "mean": 9.545454545454545
+    },
+    {
+      "ingredient": "dill",
+      "mean": 7.454545454545454
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.545454545454546
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.36363636363636365
+    }
+  ]
+}

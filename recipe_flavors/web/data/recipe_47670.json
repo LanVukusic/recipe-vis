@@ -1,0 +1,112 @@
+{
+  "id": 47670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk",
+    "egg",
+    "blueberry",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "blueberry",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 0.0
+    }
+  ]
+}

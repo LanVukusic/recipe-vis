@@ -1,0 +1,42 @@
+{
+  "id": 10672,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "peach"
+  ],
+  "score_avg": 41.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "peach",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 41.0
+    }
+  ]
+}

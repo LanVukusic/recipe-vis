@@ -1,0 +1,112 @@
+{
+  "id": 47795,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "beef_broth",
+    "roasted_beef",
+    "beef"
+  ],
+  "score_avg": 45.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "roasted_beef",
+      "value": 32
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef_broth",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "roasted_beef",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "roasted_beef",
+      "y": "onion",
+      "value": 32
+    },
+    {
+      "x": "roasted_beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "beef",
+      "value": 199
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "roasted_beef",
+      "value": 199
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 78.33333333333333
+    },
+    {
+      "ingredient": "beef",
+      "mean": 77.66666666666667
+    },
+    {
+      "ingredient": "onion",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

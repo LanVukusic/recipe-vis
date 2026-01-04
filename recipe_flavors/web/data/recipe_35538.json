@@ -1,0 +1,162 @@
+{
+  "id": 35538,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "egg",
+    "milk",
+    "peanut_butter",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 12.2,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "whole_grain_wheat_flour",
+      "value": 2
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "peanut_butter",
+      "value": 2
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 22.75
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

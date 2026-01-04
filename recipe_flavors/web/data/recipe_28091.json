@@ -1,0 +1,112 @@
+{
+  "id": 28091,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "butter",
+    "peanut_butter",
+    "bread"
+  ],
+  "score_avg": 31.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "bread",
+      "value": 13
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "bread",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "peanut_butter",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 40.333333333333336
+    },
+    {
+      "ingredient": "bread",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "honey",
+      "mean": 18.333333333333332
+    }
+  ]
+}

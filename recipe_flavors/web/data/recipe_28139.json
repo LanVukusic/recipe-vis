@@ -1,0 +1,72 @@
+{
+  "id": 28139,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "butter",
+    "cane_molasses"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "peanut_oil",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peanut_oil",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

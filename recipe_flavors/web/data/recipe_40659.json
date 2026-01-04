@@ -1,0 +1,112 @@
+{
+  "id": 40659,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "carrot",
+    "onion",
+    "parsnip"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "parsnip",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "parsnip",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "parsnip",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "parsnip",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "parsnip",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "parsnip",
+      "mean": 1.0
+    }
+  ]
+}

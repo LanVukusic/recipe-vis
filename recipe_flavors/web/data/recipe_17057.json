@@ -1,0 +1,72 @@
+{
+  "id": 17057,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "bread",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 10.0
+    }
+  ]
+}

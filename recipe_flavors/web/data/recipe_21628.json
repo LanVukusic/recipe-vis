@@ -1,0 +1,112 @@
+{
+  "id": 21628,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grapefruit",
+    "whiskey",
+    "orange_juice",
+    "black_tea"
+  ],
+  "score_avg": 22.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "whiskey",
+      "value": 16
+    },
+    {
+      "x": "grapefruit",
+      "y": "orange_juice",
+      "value": 14
+    },
+    {
+      "x": "grapefruit",
+      "y": "black_tea",
+      "value": 23
+    },
+    {
+      "x": "whiskey",
+      "y": "grapefruit",
+      "value": 16
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "black_tea",
+      "value": 53
+    },
+    {
+      "x": "orange_juice",
+      "y": "grapefruit",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "black_tea",
+      "value": 19
+    },
+    {
+      "x": "black_tea",
+      "y": "grapefruit",
+      "value": 23
+    },
+    {
+      "x": "black_tea",
+      "y": "whiskey",
+      "value": 53
+    },
+    {
+      "x": "black_tea",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_tea",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 15.0
+    }
+  ]
+}

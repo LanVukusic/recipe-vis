@@ -1,0 +1,72 @@
+{
+  "id": 41935,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "oat",
+    "milk"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "oat",
+      "value": 11
+    },
+    {
+      "x": "celery",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "oat",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "oat",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "celery",
+      "mean": 15.5
+    }
+  ]
+}

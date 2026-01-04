@@ -1,0 +1,42 @@
+{
+  "id": 9921,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "red_wine",
+    "grapefruit"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "grapefruit",
+      "value": 17
+    },
+    {
+      "x": "grapefruit",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 17.0
+    }
+  ]
+}

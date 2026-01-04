@@ -1,0 +1,162 @@
+{
+  "id": 10991,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken_broth",
+    "turnip",
+    "parsley",
+    "scallion"
+  ],
+  "score_avg": 0.7,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

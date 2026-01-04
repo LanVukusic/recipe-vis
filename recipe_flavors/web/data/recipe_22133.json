@@ -1,0 +1,42 @@
+{
+  "id": 22133,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pear",
+    "ginger"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "pear",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pear",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 14.0
+    }
+  ]
+}

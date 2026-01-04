@@ -1,0 +1,112 @@
+{
+  "id": 8646,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "vinegar",
+    "rosemary",
+    "onion"
+  ],
+  "score_avg": 7.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "champagne_wine",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "champagne_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "vinegar",
+      "y": "champagne_wine",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "champagne_wine",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "champagne_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "champagne_wine",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 2.0
+    }
+  ]
+}

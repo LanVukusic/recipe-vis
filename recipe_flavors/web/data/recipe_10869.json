@@ -1,0 +1,162 @@
+{
+  "id": 10869,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "horseradish",
+    "black_pepper",
+    "mustard",
+    "tarragon",
+    "cream"
+  ],
+  "score_avg": 0.6,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

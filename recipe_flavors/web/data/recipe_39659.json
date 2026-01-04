@@ -1,0 +1,112 @@
+{
+  "id": 39659,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "milk",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 41.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream_cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 47.333333333333336
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 44.333333333333336
+    },
+    {
+      "ingredient": "cream",
+      "mean": 20.333333333333332
+    }
+  ]
+}

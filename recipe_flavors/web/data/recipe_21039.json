@@ -1,0 +1,162 @@
+{
+  "id": 21039,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "buttermilk",
+    "wheat",
+    "sesame_seed",
+    "yeast"
+  ],
+  "score_avg": 0.9,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "honey",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

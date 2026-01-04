@@ -1,0 +1,42 @@
+{
+  "id": 29878,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "lime"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 6.0
+    }
+  ]
+}

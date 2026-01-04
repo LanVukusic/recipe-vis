@@ -1,0 +1,372 @@
+{
+  "id": 20137,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "cherry",
+    "orange_juice",
+    "gelatin",
+    "pineapple",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 2.892857142857143,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "cherry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cherry",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 7.428571428571429
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.285714285714286
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 3.7142857142857144
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.142857142857143
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

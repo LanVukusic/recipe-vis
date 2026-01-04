@@ -1,0 +1,162 @@
+{
+  "id": 31118,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheddar_cheese",
+    "macaroni",
+    "sauerkraut",
+    "pork_sausage"
+  ],
+  "score_avg": 20.3,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "tomato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "tomato",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "cheddar_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "pork_sausage",
+      "value": 6
+    },
+    {
+      "x": "pork_sausage",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 33.75
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    }
+  ]
+}

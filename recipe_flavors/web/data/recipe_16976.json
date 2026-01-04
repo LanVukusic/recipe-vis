@@ -1,0 +1,162 @@
+{
+  "id": 16976,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "swiss_cheese",
+    "wheat",
+    "sauerkraut",
+    "beef",
+    "yeast"
+  ],
+  "score_avg": 10.1,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "beef",
+      "value": 78
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "beef",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "swiss_cheese",
+      "value": 78
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 22.75
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

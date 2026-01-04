@@ -1,0 +1,112 @@
+{
+  "id": 25603,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "fish",
+    "berry",
+    "strawberry"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "berry",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "strawberry",
+      "value": 33
+    },
+    {
+      "x": "berry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "berry",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

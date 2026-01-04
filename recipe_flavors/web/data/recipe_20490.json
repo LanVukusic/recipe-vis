@@ -1,0 +1,292 @@
+{
+  "id": 20490,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "cheese",
+    "strawberry",
+    "vanilla",
+    "egg",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 22.714285714285715,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "strawberry",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "strawberry",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "bread",
+      "mean": 20.166666666666668
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.166666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.833333333333332
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

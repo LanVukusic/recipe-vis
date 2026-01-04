@@ -1,0 +1,42 @@
+{
+  "id": 21830,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "pineapple"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 14.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 5488,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "yam",
+    "butter",
+    "honey"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yam",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "yam",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "honey",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "yam",
+      "mean": 1.0
+    }
+  ]
+}

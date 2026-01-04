@@ -1,0 +1,112 @@
+{
+  "id": 6246,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "vegetable_oil",
+    "egg",
+    "chicken_liver",
+    "onion"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "chicken_liver",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "chicken_liver",
+      "mean": 0.0
+    }
+  ]
+}

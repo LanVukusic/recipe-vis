@@ -1,0 +1,162 @@
+{
+  "id": 33109,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "smoked_sausage",
+    "garlic",
+    "sauerkraut",
+    "potato"
+  ],
+  "score_avg": 13.4,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "smoked_sausage",
+      "value": 32
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "mozzarella_cheese",
+      "value": 32
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "smoked_sausage",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sauerkraut",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "sauerkraut",
+      "y": "mozzarella_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "smoked_sausage",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "mozzarella_cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "smoked_sausage",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "sauerkraut",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5
+    }
+  ]
+}

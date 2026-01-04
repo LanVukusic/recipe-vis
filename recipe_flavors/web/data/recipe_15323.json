@@ -1,0 +1,112 @@
+{
+  "id": 15323,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "egg",
+    "milk",
+    "dill"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "dill",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "dill",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "dill",
+      "y": "milk",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "dill",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

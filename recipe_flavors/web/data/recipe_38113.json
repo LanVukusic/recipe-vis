@@ -1,0 +1,372 @@
+{
+  "id": 38113,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "white_bread",
+    "mustard",
+    "mushroom",
+    "bacon",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 26.892857142857142,
+  "pair_coverage": 0.9642857142857143,
+  "heatmap": [
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "white_bread",
+      "y": "mushroom",
+      "value": 28
+    },
+    {
+      "x": "white_bread",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "white_bread",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "white_bread",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "mustard",
+      "y": "white_bread",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "milk",
+      "value": 9
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "white_bread",
+      "value": 28
+    },
+    {
+      "x": "mushroom",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "bacon",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "white_bread",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 44.42857142857143
+    },
+    {
+      "ingredient": "milk",
+      "mean": 38.714285714285715
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 31.571428571428573
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 24.285714285714285
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.571428571428573
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.428571428571429
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 6.142857142857143
+    }
+  ]
+}

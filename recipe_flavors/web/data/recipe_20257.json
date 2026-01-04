@@ -1,0 +1,112 @@
+{
+  "id": 20257,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut",
+    "vanilla",
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 32.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "vanilla",
+      "value": 15
+    },
+    {
+      "x": "peanut",
+      "y": "egg",
+      "value": 21
+    },
+    {
+      "x": "peanut",
+      "y": "peanut_butter",
+      "value": 97
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut",
+      "value": 15
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "peanut",
+      "value": 21
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut",
+      "value": 97
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 49.666666666666664
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 44.333333333333336
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 15.333333333333334
+    }
+  ]
+}

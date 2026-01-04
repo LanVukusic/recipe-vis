@@ -1,0 +1,42 @@
+{
+  "id": 28473,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vanilla"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 33.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 45972,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "apricot",
+    "orange_juice"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "apricot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "orange_juice",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "apricot",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

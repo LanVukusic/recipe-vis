@@ -1,0 +1,72 @@
+{
+  "id": 38894,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "bacon",
+    "starch"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

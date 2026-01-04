@@ -1,0 +1,72 @@
+{
+  "id": 34300,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "cream",
+    "gelatin"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

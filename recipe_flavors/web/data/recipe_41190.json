@@ -1,0 +1,112 @@
+{
+  "id": 41190,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "nutmeg",
+    "red_wine",
+    "salmon"
+  ],
+  "score_avg": 23.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "nutmeg",
+      "value": 19
+    },
+    {
+      "x": "orange",
+      "y": "red_wine",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "salmon",
+      "value": 25
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange",
+      "value": 19
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "red_wine",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "salmon",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "red_wine",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "salmon",
+      "value": 37
+    },
+    {
+      "x": "salmon",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "salmon",
+      "y": "nutmeg",
+      "value": 6
+    },
+    {
+      "x": "salmon",
+      "y": "red_wine",
+      "value": 37
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "orange",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 11.333333333333334
+    }
+  ]
+}

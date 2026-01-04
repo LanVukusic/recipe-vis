@@ -1,0 +1,112 @@
+{
+  "id": 3463,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "orange",
+    "tuna",
+    "lime_juice",
+    "prickly_pear"
+  ],
+  "score_avg": 8.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "tuna",
+      "value": 25
+    },
+    {
+      "x": "orange",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "prickly_pear",
+      "value": 15
+    },
+    {
+      "x": "tuna",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "prickly_pear",
+      "value": 10
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "prickly_pear",
+      "value": 1
+    },
+    {
+      "x": "prickly_pear",
+      "y": "orange",
+      "value": 15
+    },
+    {
+      "x": "prickly_pear",
+      "y": "tuna",
+      "value": 10
+    },
+    {
+      "x": "prickly_pear",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "prickly_pear",
+      "y": "prickly_pear",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "prickly_pear",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

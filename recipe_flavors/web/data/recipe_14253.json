@@ -1,0 +1,72 @@
+{
+  "id": 14253,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "rice",
+    "beef"
+  ],
+  "score_avg": 59.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 67.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 62.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 49.5
+    }
+  ]
+}

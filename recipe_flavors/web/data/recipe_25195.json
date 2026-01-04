@@ -1,0 +1,72 @@
+{
+  "id": 25195,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "bacon",
+    "blue_cheese"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "date",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "blue_cheese",
+      "value": 65
+    },
+    {
+      "x": "blue_cheese",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "date",
+      "mean": 2.0
+    }
+  ]
+}

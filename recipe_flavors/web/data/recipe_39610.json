@@ -1,0 +1,112 @@
+{
+  "id": 39610,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "egg",
+    "milk",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

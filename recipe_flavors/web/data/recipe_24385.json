@@ -1,0 +1,72 @@
+{
+  "id": 24385,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cane_molasses",
+    "pepper"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cane_molasses",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

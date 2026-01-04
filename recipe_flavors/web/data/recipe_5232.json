@@ -1,0 +1,112 @@
+{
+  "id": 5232,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "black_bean",
+    "pepper",
+    "garlic",
+    "onion"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "black_bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "black_bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "pepper",
+      "y": "black_bean",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "black_bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "black_bean",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    }
+  ]
+}

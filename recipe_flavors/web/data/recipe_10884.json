@@ -1,0 +1,112 @@
+{
+  "id": 10884,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "maple_syrup",
+    "black_pepper",
+    "yam"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "maple_syrup",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "yam",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "yam",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "yam",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 23865,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "olive_oil",
+    "pepper",
+    "thyme"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "asparagus",
+      "value": 2
+    },
+    {
+      "x": "thyme",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "thyme",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

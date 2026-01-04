@@ -1,0 +1,792 @@
+{
+  "id": 33712,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "lemon_juice",
+    "grape",
+    "onion",
+    "beef",
+    "black_pepper",
+    "corn_flake",
+    "cayenne",
+    "gelatin",
+    "smoked_sausage",
+    "garlic",
+    "egg"
+  ],
+  "score_avg": 8.818181818181818,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "grape",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "smoked_sausage",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "grape",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "grape",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "grape",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "grape",
+      "y": "beef",
+      "value": 50
+    },
+    {
+      "x": "grape",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "grape",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "grape",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "smoked_sausage",
+      "value": 20
+    },
+    {
+      "x": "grape",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "grape",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "grape",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "smoked_sausage",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "grape",
+      "value": 50
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "smoked_sausage",
+      "value": 44
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "smoked_sausage",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "grape",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "smoked_sausage",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "grape",
+      "value": 20
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "beef",
+      "value": 44
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "grape",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "smoked_sausage",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "grape",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "smoked_sausage",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 23.636363636363637
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "grape",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.909090909090908
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 10.727272727272727
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.363636363636363
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.454545454545454
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

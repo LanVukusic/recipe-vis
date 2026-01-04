@@ -1,0 +1,72 @@
+{
+  "id": 21069,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pea",
+    "brown_rice",
+    "cranberry"
+  ],
+  "score_avg": 31.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "brown_rice",
+      "value": 27
+    },
+    {
+      "x": "pea",
+      "y": "cranberry",
+      "value": 30
+    },
+    {
+      "x": "brown_rice",
+      "y": "pea",
+      "value": 27
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "pea",
+      "value": 30
+    },
+    {
+      "x": "cranberry",
+      "y": "brown_rice",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "pea",
+      "mean": 28.5
+    }
+  ]
+}

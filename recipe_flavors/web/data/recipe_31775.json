@@ -1,0 +1,112 @@
+{
+  "id": 31775,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "swiss_cheese",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 36.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "swiss_cheese",
+      "value": 35
+    },
+    {
+      "x": "turkey",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "turkey",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "turkey",
+      "value": 35
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "milk",
+      "value": 73
+    },
+    {
+      "x": "egg",
+      "y": "turkey",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "swiss_cheese",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "turkey",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "swiss_cheese",
+      "value": 73
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 45.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 45.666666666666664
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 26.666666666666668
+    }
+  ]
+}

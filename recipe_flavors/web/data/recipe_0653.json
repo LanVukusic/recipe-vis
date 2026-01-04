@@ -1,0 +1,222 @@
+{
+  "id": 653,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "mushroom",
+    "vegetable_oil",
+    "soy_sauce",
+    "wine",
+    "fish",
+    "scallion"
+  ],
+  "score_avg": 6.866666666666666,
+  "pair_coverage": 0.4666666666666667,
+  "heatmap": [
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "mushroom",
+      "y": "fish",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "mushroom",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "fish",
+      "value": 26
+    },
+    {
+      "x": "wine",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "mushroom",
+      "value": 31
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wine",
+      "value": 26
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 14.8
+    },
+    {
+      "ingredient": "wine",
+      "mean": 13.8
+    },
+    {
+      "ingredient": "fish",
+      "mean": 11.4
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.8
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

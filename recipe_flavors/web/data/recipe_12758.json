@@ -1,0 +1,42 @@
+{
+  "id": 12758,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "tabasco_pepper"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "tabasco_pepper",
+      "value": 8
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "beer",
+      "value": 8
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 8.0
+    }
+  ]
+}

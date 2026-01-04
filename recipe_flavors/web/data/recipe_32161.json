@@ -1,0 +1,112 @@
+{
+  "id": 32161,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cranberry",
+    "pecan",
+    "cream_cheese",
+    "blue_cheese"
+  ],
+  "score_avg": 50.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "pecan",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "cream_cheese",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "blue_cheese",
+      "value": 45
+    },
+    {
+      "x": "pecan",
+      "y": "cranberry",
+      "value": 26
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cream_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "blue_cheese",
+      "value": 31
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "blue_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cranberry",
+      "value": 45
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pecan",
+      "value": 31
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 68.66666666666667
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 67.33333333333333
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 29.0
+    }
+  ]
+}

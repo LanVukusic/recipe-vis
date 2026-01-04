@@ -1,0 +1,112 @@
+{
+  "id": 45566,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "seed",
+    "bell_pepper",
+    "bread"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "seed",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "seed",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "seed",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

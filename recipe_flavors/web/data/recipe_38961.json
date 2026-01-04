@@ -1,0 +1,112 @@
+{
+  "id": 38961,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bean",
+    "lemon_juice",
+    "almond"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "bean",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "bean",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

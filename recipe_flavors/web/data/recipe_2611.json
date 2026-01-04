@@ -1,0 +1,112 @@
+{
+  "id": 2611,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "fish",
+    "lemon",
+    "wasabi",
+    "soy_sauce"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "fish",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "fish",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fish",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "wasabi",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 3679,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheese",
+    "cayenne",
+    "lime"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "lime",
+      "value": 13
+    },
+    {
+      "x": "lime",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "cayenne",
+      "value": 13
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 8.5
+    }
+  ]
+}

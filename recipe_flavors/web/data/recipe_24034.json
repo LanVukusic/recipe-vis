@@ -1,0 +1,162 @@
+{
+  "id": 24034,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "maple_syrup",
+    "apple",
+    "pork_sausage",
+    "wheat_bread"
+  ],
+  "score_avg": 30.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "wheat_bread",
+      "value": 45
+    },
+    {
+      "x": "maple_syrup",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "maple_syrup",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "wheat_bread",
+      "value": 42
+    },
+    {
+      "x": "pork_sausage",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat_bread",
+      "value": 50
+    },
+    {
+      "x": "wheat_bread",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "wheat_bread",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "apple",
+      "value": 42
+    },
+    {
+      "x": "wheat_bread",
+      "y": "pork_sausage",
+      "value": 50
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 37.75
+    },
+    {
+      "ingredient": "apple",
+      "mean": 36.25
+    },
+    {
+      "ingredient": "wheat_bread",
+      "mean": 34.25
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.25
+    }
+  ]
+}

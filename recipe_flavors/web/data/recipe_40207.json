@@ -1,0 +1,112 @@
+{
+  "id": 40207,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "strawberry",
+    "mint",
+    "blueberry"
+  ],
+  "score_avg": 32.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "champagne_wine",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "champagne_wine",
+      "y": "blueberry",
+      "value": 27
+    },
+    {
+      "x": "strawberry",
+      "y": "champagne_wine",
+      "value": 72
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "mint",
+      "y": "champagne_wine",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "strawberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "blueberry",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "champagne_wine",
+      "value": 27
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "mint",
+      "mean": 12.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 26857,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "milk"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 36.0
+    }
+  ]
+}

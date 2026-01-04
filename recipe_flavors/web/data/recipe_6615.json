@@ -1,0 +1,72 @@
+{
+  "id": 6615,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "garlic",
+    "lemon",
+    "cumin"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cumin",
+      "value": 9
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.5
+    }
+  ]
+}

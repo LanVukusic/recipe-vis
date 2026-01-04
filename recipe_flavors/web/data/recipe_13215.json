@@ -1,0 +1,112 @@
+{
+  "id": 13215,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "fruit",
+    "apple",
+    "cream"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

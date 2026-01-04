@@ -1,0 +1,112 @@
+{
+  "id": 20932,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "garlic",
+    "egg",
+    "tabasco_pepper"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "garlic",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "egg",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

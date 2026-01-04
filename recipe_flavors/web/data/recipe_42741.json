@@ -1,0 +1,162 @@
+{
+  "id": 42741,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "salmon",
+    "whiskey",
+    "bourbon_whiskey"
+  ],
+  "score_avg": 13.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "salmon",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "whiskey",
+      "value": 49
+    },
+    {
+      "x": "butter",
+      "y": "bourbon_whiskey",
+      "value": 6
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "salmon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "whiskey",
+      "value": 27
+    },
+    {
+      "x": "salmon",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "butter",
+      "value": 49
+    },
+    {
+      "x": "whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "salmon",
+      "value": 27
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "salmon",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.25
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 18.75
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

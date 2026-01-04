@@ -1,0 +1,72 @@
+{
+  "id": 14953,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "milk",
+    "pineapple"
+  ],
+  "score_avg": 34.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "orange",
+      "y": "pineapple",
+      "value": 37
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "orange",
+      "value": 37
+    },
+    {
+      "x": "pineapple",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.5
+    }
+  ]
+}

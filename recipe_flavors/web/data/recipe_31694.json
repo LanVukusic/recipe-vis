@@ -1,0 +1,42 @@
+{
+  "id": 31694,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "black_tea"
+  ],
+  "score_avg": 34.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "black_tea",
+      "value": 34
+    },
+    {
+      "x": "black_tea",
+      "y": "lemon",
+      "value": 34
+    },
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "black_tea",
+      "mean": 34.0
+    }
+  ]
+}

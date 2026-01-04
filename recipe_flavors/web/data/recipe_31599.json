@@ -1,0 +1,112 @@
+{
+  "id": 31599,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "savory",
+    "soy_sauce",
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 36900,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "milk",
+    "berry"
+  ],
+  "score_avg": 18.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "berry",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "berry",
+      "value": 24
+    },
+    {
+      "x": "berry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "milk",
+      "value": 24
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "berry",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 16.0
+    }
+  ]
+}

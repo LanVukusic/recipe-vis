@@ -1,0 +1,162 @@
+{
+  "id": 13880,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "rice",
+    "milk",
+    "mushroom",
+    "pea"
+  ],
+  "score_avg": 41.1,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "pea",
+      "value": 30
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "pea",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "pea",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "pea",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "pea",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "pea",
+      "y": "milk",
+      "value": 27
+    },
+    {
+      "x": "pea",
+      "y": "mushroom",
+      "value": 29
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 47.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 42.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "pea",
+      "mean": 27.25
+    }
+  ]
+}

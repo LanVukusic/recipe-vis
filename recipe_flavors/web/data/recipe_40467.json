@@ -1,0 +1,112 @@
+{
+  "id": 40467,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "tuna",
+    "cucumber",
+    "cream"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "tuna",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "tuna",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "cucumber",
+      "value": 12
+    },
+    {
+      "x": "tuna",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "tuna",
+      "value": 12
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "tuna",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tuna",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 5.333333333333333
+    }
+  ]
+}

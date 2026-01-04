@@ -1,0 +1,792 @@
+{
+  "id": 15471,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "wheat",
+    "citrus",
+    "egg",
+    "vanilla",
+    "cocoa",
+    "nutmeg",
+    "cinnamon",
+    "orange_peel",
+    "lard",
+    "lemon_peel"
+  ],
+  "score_avg": 8.833333333333334,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "citrus",
+      "value": 14
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cheese",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "orange_peel",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "cheese",
+      "value": 14
+    },
+    {
+      "x": "citrus",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "citrus",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "citrus",
+      "y": "cocoa",
+      "value": 8
+    },
+    {
+      "x": "citrus",
+      "y": "nutmeg",
+      "value": 12
+    },
+    {
+      "x": "citrus",
+      "y": "cinnamon",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "citrus",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "citrus",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "citrus",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "citrus",
+      "value": 8
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "cocoa",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "orange_peel",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "lemon_peel",
+      "value": 6
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cheese",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "citrus",
+      "value": 12
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cocoa",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "nutmeg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "orange_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "citrus",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "orange_peel",
+      "y": "nutmeg",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon_peel",
+      "value": 5
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "citrus",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "lemon_peel",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "orange_peel",
+      "value": 5
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 19.818181818181817
+    },
+    {
+      "ingredient": "butter",
+      "mean": 19.545454545454547
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 19.272727272727273
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.545454545454545
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.818181818181818
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 7.181818181818182
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.818181818181818
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 15599,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "white_bread",
+    "apple"
+  ],
+  "score_avg": 41.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "white_bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "white_bread",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 46.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 46.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 30.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 18530,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "white_wine",
+    "cream"
+  ],
+  "score_avg": 26.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "white_wine",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    }
+  ]
+}

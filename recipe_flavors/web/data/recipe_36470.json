@@ -1,0 +1,72 @@
+{
+  "id": 36470,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "raisin",
+    "lemon"
+  ],
+  "score_avg": 27.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "raisin",
+      "value": 8
+    },
+    {
+      "x": "orange",
+      "y": "lemon",
+      "value": 69
+    },
+    {
+      "x": "raisin",
+      "y": "orange",
+      "value": 8
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "lemon",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 7.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 38018,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "carrot",
+    "starch"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "orange_juice",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

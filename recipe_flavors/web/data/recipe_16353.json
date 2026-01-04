@@ -1,0 +1,72 @@
+{
+  "id": 16353,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "watermelon",
+    "lemon_juice",
+    "rosemary"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "watermelon",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "watermelon",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

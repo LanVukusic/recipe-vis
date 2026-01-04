@@ -1,0 +1,112 @@
+{
+  "id": 42487,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "mushroom",
+    "pea",
+    "brown_rice"
+  ],
+  "score_avg": 36.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "pea",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "brown_rice",
+      "value": 39
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "brown_rice",
+      "value": 44
+    },
+    {
+      "x": "pea",
+      "y": "cheese",
+      "value": 30
+    },
+    {
+      "x": "pea",
+      "y": "mushroom",
+      "value": 29
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "brown_rice",
+      "value": 27
+    },
+    {
+      "x": "brown_rice",
+      "y": "cheese",
+      "value": 39
+    },
+    {
+      "x": "brown_rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "brown_rice",
+      "y": "pea",
+      "value": 27
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 41.666666666666664
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 40.333333333333336
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "pea",
+      "mean": 28.666666666666668
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1706,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "soybean"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 1.0
+    }
+  ]
+}

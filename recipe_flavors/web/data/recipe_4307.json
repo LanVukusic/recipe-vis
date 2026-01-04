@@ -1,0 +1,792 @@
+{
+  "id": 4307,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "beef",
+    "onion",
+    "potato",
+    "yeast",
+    "cayenne",
+    "scallion",
+    "kidney_bean",
+    "cheddar_cheese",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 18.575757575757574,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "kidney_bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "kidney_bean",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "kidney_bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "cayenne",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "kidney_bean",
+      "value": 34
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "cayenne",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "kidney_bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "kidney_bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "kidney_bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "kidney_bean",
+      "y": "potato",
+      "value": 34
+    },
+    {
+      "x": "kidney_bean",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "kidney_bean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "kidney_bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "kidney_bean",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "kidney_bean",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "kidney_bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "kidney_bean",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 39.81818181818182
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 35.45454545454545
+    },
+    {
+      "ingredient": "milk",
+      "mean": 32.90909090909091
+    },
+    {
+      "ingredient": "butter",
+      "mean": 32.45454545454545
+    },
+    {
+      "ingredient": "potato",
+      "mean": 25.636363636363637
+    },
+    {
+      "ingredient": "kidney_bean",
+      "mean": 22.90909090909091
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.363636363636363
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

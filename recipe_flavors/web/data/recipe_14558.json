@@ -1,0 +1,162 @@
+{
+  "id": 14558,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "chicken",
+    "cream",
+    "bacon",
+    "white_wine"
+  ],
+  "score_avg": 23.6,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "bacon",
+      "value": 84
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "white_wine",
+      "value": 13
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "white_wine",
+      "y": "bacon",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 38.75
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 37.75
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 28.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.25
+    }
+  ]
+}

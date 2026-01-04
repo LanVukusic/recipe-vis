@@ -1,0 +1,42 @@
+{
+  "id": 18177,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "gin"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "olive",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "gin",
+      "mean": 6.0
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 9518,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "dill",
+    "mustard",
+    "beef",
+    "lettuce",
+    "cream",
+    "bread"
+  ],
+  "score_avg": 12.285714285714286,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "dill",
+      "value": 18
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "dill",
+      "y": "tomato",
+      "value": 18
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "dill",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "dill",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "dill",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "mustard",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "dill",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "mustard",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "lettuce",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "beef",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "dill",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "dill",
+      "mean": 7.166666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.0
+    }
+  ]
+}

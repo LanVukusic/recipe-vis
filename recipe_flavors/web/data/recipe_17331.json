@@ -1,0 +1,42 @@
+{
+  "id": 17331,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "beer"
+  ],
+  "score_avg": 54.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "beer",
+      "value": 54
+    },
+    {
+      "x": "beer",
+      "y": "corn",
+      "value": 54
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "beer",
+      "mean": 54.0
+    }
+  ]
+}

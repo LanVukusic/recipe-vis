@@ -1,0 +1,112 @@
+{
+  "id": 40145,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nutmeg",
+    "orange_juice",
+    "lime_juice",
+    "rum"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "rum",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "rum",
+      "value": 19
+    },
+    {
+      "x": "lime_juice",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "nutmeg",
+      "value": 8
+    },
+    {
+      "x": "rum",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "rum",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

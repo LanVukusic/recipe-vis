@@ -1,0 +1,72 @@
+{
+  "id": 22085,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rice",
+    "cinnamon",
+    "apple"
+  ],
+  "score_avg": 18.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "rice",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "cinnamon",
+      "y": "rice",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "rice",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 10.0
+    }
+  ]
+}

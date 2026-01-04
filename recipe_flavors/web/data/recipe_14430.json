@@ -1,0 +1,162 @@
+{
+  "id": 14430,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "cheddar_cheese",
+    "ham",
+    "mushroom",
+    "milk"
+  ],
+  "score_avg": 27.9,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "ham",
+      "y": "egg_noodle",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "ham",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.5
+    }
+  ]
+}

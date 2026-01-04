@@ -1,0 +1,42 @@
+{
+  "id": 42192,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_currant",
+    "apple"
+  ],
+  "score_avg": 51.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_currant",
+      "y": "black_currant",
+      "value": 0
+    },
+    {
+      "x": "black_currant",
+      "y": "apple",
+      "value": 51
+    },
+    {
+      "x": "apple",
+      "y": "black_currant",
+      "value": 51
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_currant",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 51.0
+    }
+  ]
+}

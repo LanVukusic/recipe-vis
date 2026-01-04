@@ -1,0 +1,792 @@
+{
+  "id": 9189,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "lemon_juice",
+    "onion",
+    "chicken_broth",
+    "parsley",
+    "parmesan_cheese",
+    "white_wine",
+    "scallop",
+    "garlic",
+    "butter",
+    "rice"
+  ],
+  "score_avg": 13.924242424242424,
+  "pair_coverage": 0.6515151515151515,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "scallop",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "scallop",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "white_wine",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "scallop",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "white_wine",
+      "value": 98
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "scallop",
+      "value": 31
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "white_wine",
+      "y": "parmesan_cheese",
+      "value": 98
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "scallop",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "white_wine",
+      "y": "rice",
+      "value": 39
+    },
+    {
+      "x": "scallop",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "scallop",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "scallop",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "scallop",
+      "y": "parmesan_cheese",
+      "value": 31
+    },
+    {
+      "x": "scallop",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "scallop",
+      "y": "butter",
+      "value": 23
+    },
+    {
+      "x": "scallop",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "white_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "scallop",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "white_wine",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "scallop",
+      "value": 23
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "parmesan_cheese",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "white_wine",
+      "value": 39
+    },
+    {
+      "x": "rice",
+      "y": "scallop",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 32.27272727272727
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 29.727272727272727
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 26.09090909090909
+    },
+    {
+      "ingredient": "rice",
+      "mean": 19.727272727272727
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 11.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.272727272727273
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

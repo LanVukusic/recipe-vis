@@ -1,0 +1,792 @@
+{
+  "id": 11871,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "marjoram",
+    "brassica",
+    "ham",
+    "onion",
+    "chicken_broth",
+    "bay",
+    "celery",
+    "pecan",
+    "nutmeg",
+    "rice",
+    "egg"
+  ],
+  "score_avg": 7.696969696969697,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "marjoram",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "marjoram",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "marjoram",
+      "y": "pecan",
+      "value": 6
+    },
+    {
+      "x": "marjoram",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "marjoram",
+      "y": "rice",
+      "value": 7
+    },
+    {
+      "x": "marjoram",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "brassica",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "brassica",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "marjoram",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "celery",
+      "value": 12
+    },
+    {
+      "x": "ham",
+      "y": "pecan",
+      "value": 28
+    },
+    {
+      "x": "ham",
+      "y": "nutmeg",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "rice",
+      "value": 25
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "brassica",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "marjoram",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "ham",
+      "value": 12
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "pecan",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "nutmeg",
+      "value": 8
+    },
+    {
+      "x": "celery",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "marjoram",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "ham",
+      "value": 28
+    },
+    {
+      "x": "pecan",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "nutmeg",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "rice",
+      "value": 27
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "marjoram",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "nutmeg",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "celery",
+      "value": 8
+    },
+    {
+      "x": "nutmeg",
+      "y": "pecan",
+      "value": 6
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "marjoram",
+      "value": 7
+    },
+    {
+      "x": "rice",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "ham",
+      "value": 25
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "pecan",
+      "value": 27
+    },
+    {
+      "x": "rice",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "marjoram",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.09090909090909
+    },
+    {
+      "ingredient": "rice",
+      "mean": 15.272727272727273
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 13.272727272727273
+    },
+    {
+      "ingredient": "ham",
+      "mean": 11.636363636363637
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.363636363636363
+    },
+    {
+      "ingredient": "celery",
+      "mean": 9.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.909090909090909
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 3.8181818181818183
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

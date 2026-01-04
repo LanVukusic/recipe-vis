@@ -1,0 +1,112 @@
+{
+  "id": 29380,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "cod",
+    "parsley"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "cod",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cod",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cod",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "cod",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "cod",
+      "y": "cod",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "cod",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "cod",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.333333333333333
+    }
+  ]
+}

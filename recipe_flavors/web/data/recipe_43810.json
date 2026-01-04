@@ -1,0 +1,112 @@
+{
+  "id": 43810,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "butter",
+    "lobster",
+    "milk"
+  ],
+  "score_avg": 30.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "lobster",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "lobster",
+      "y": "cocoa",
+      "value": 2
+    },
+    {
+      "x": "lobster",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "lobster",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 42.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "lobster",
+      "mean": 2.0
+    }
+  ]
+}

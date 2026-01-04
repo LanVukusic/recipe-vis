@@ -1,0 +1,112 @@
+{
+  "id": 49656,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "yogurt",
+    "coffee",
+    "vanilla",
+    "rum"
+  ],
+  "score_avg": 32.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "coffee",
+      "value": 28
+    },
+    {
+      "x": "yogurt",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "yogurt",
+      "y": "rum",
+      "value": 19
+    },
+    {
+      "x": "coffee",
+      "y": "yogurt",
+      "value": 28
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "rum",
+      "value": 77
+    },
+    {
+      "x": "vanilla",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "rum",
+      "value": 31
+    },
+    {
+      "x": "rum",
+      "y": "yogurt",
+      "value": 19
+    },
+    {
+      "x": "rum",
+      "y": "coffee",
+      "value": 77
+    },
+    {
+      "x": "rum",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "rum",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 19.333333333333332
+    }
+  ]
+}

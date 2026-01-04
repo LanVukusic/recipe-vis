@@ -1,0 +1,112 @@
+{
+  "id": 32873,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "wine",
+    "ham",
+    "pineapple"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "cane_molasses",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "ham",
+      "value": 22
+    },
+    {
+      "x": "wine",
+      "y": "pineapple",
+      "value": 48
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "wine",
+      "value": 22
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wine",
+      "value": 48
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

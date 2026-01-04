@@ -1,0 +1,162 @@
+{
+  "id": 21174,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "cheddar_cheese",
+    "garlic",
+    "cream_cheese",
+    "bread"
+  ],
+  "score_avg": 45.3,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cheddar_cheese",
+      "value": 97
+    },
+    {
+      "x": "beer",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "beer",
+      "y": "cream_cheese",
+      "value": 87
+    },
+    {
+      "x": "beer",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beer",
+      "value": 97
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "garlic",
+      "y": "beer",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "cream_cheese",
+      "y": "beer",
+      "value": 87
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheddar_cheese",
+      "value": 130
+    },
+    {
+      "x": "cream_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "beer",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 68.5
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 65.25
+    },
+    {
+      "ingredient": "beer",
+      "mean": 57.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.25
+    }
+  ]
+}

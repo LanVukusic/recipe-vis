@@ -1,0 +1,162 @@
+{
+  "id": 34240,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "blue_cheese",
+    "walnut",
+    "pear",
+    "bread"
+  ],
+  "score_avg": 9.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pear",
+      "value": 19
+    },
+    {
+      "x": "blue_cheese",
+      "y": "bread",
+      "value": 42
+    },
+    {
+      "x": "walnut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "blue_cheese",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "pear",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "pear",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "blue_cheese",
+      "value": 19
+    },
+    {
+      "x": "pear",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "blue_cheese",
+      "value": 42
+    },
+    {
+      "x": "bread",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "pear",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "pear",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

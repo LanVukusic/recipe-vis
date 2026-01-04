@@ -1,0 +1,792 @@
+{
+  "id": 30383,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "lemon_juice",
+    "vinegar",
+    "feta_cheese",
+    "parsley",
+    "white_wine",
+    "cucumber",
+    "bell_pepper",
+    "oregano",
+    "basil",
+    "macaroni"
+  ],
+  "score_avg": 6.621212121212121,
+  "pair_coverage": 0.5303030303030303,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "feta_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "white_wine",
+      "value": 80
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "white_wine",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "feta_cheese",
+      "value": 80
+    },
+    {
+      "x": "white_wine",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "cucumber",
+      "value": 9
+    },
+    {
+      "x": "white_wine",
+      "y": "bell_pepper",
+      "value": 25
+    },
+    {
+      "x": "white_wine",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "white_wine",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "feta_cheese",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "white_wine",
+      "value": 9
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "white_wine",
+      "value": 25
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "basil",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "white_wine",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "basil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 19.545454545454547
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 17.363636363636363
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 17.09090909090909
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 9.545454545454545
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

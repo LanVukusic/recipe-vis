@@ -1,0 +1,72 @@
+{
+  "id": 15850,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tabasco_pepper",
+    "pea",
+    "mushroom"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pea",
+      "y": "tabasco_pepper",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "mushroom",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "tabasco_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "pea",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 7.0
+    }
+  ]
+}

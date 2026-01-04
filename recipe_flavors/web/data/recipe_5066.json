@@ -1,0 +1,112 @@
+{
+  "id": 5066,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vegetable",
+    "tomato",
+    "cayenne",
+    "beef"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "beef",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

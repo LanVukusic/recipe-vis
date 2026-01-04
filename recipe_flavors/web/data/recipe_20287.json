@@ -1,0 +1,112 @@
+{
+  "id": 20287,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "cream_cheese",
+    "pumpkin"
+  ],
+  "score_avg": 44.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "pumpkin",
+      "value": 6
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pumpkin",
+      "value": 6
+    },
+    {
+      "x": "pumpkin",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "pumpkin",
+      "y": "cream_cheese",
+      "value": 6
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 65.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 65.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 5.666666666666667
+    }
+  ]
+}

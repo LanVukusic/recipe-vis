@@ -1,0 +1,112 @@
+{
+  "id": 38948,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "milk",
+    "cream_cheese",
+    "blue_cheese"
+  ],
+  "score_avg": 58.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "asparagus",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "asparagus",
+      "y": "blue_cheese",
+      "value": 28
+    },
+    {
+      "x": "milk",
+      "y": "asparagus",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "blue_cheese",
+      "value": 76
+    },
+    {
+      "x": "cream_cheese",
+      "y": "asparagus",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "blue_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "asparagus",
+      "value": 28
+    },
+    {
+      "x": "blue_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 78.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 74.66666666666667
+    },
+    {
+      "ingredient": "milk",
+      "mean": 55.333333333333336
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 26.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 14412,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 25.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.0
+    }
+  ]
+}

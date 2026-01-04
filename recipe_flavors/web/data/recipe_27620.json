@@ -1,0 +1,42 @@
+{
+  "id": 27620,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "radish"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "radish",
+      "value": 7
+    },
+    {
+      "x": "radish",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "radish",
+      "y": "radish",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "radish",
+      "mean": 7.0
+    }
+  ]
+}

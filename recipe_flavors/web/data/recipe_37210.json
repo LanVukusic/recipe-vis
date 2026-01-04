@@ -1,0 +1,162 @@
+{
+  "id": 37210,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "garlic",
+    "sesame_seed",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 19.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "parmesan_cheese",
+      "value": 13
+    },
+    {
+      "x": "sesame_seed",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sesame_seed",
+      "value": 13
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 34.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 31.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    }
+  ]
+}

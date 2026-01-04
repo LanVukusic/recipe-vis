@@ -1,0 +1,112 @@
+{
+  "id": 19503,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "asparagus",
+    "egg",
+    "parsley"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "asparagus",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "asparagus",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "asparagus",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.0
+    }
+  ]
+}

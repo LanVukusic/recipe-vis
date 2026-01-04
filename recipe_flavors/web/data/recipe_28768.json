@@ -1,0 +1,562 @@
+{
+  "id": 28768,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "green_bell_pepper",
+    "onion",
+    "chicken_broth",
+    "orange_juice",
+    "cayenne",
+    "shrimp",
+    "garlic",
+    "rice",
+    "fish"
+  ],
+  "score_avg": 9.066666666666666,
+  "pair_coverage": 0.6888888888888889,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "orange_juice",
+      "value": 5
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "orange_juice",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "orange_juice",
+      "y": "shrimp",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "orange_juice",
+      "y": "fish",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "orange_juice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "orange_juice",
+      "value": 7
+    },
+    {
+      "x": "shrimp",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "rice",
+      "value": 27
+    },
+    {
+      "x": "shrimp",
+      "y": "fish",
+      "value": 24
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "shrimp",
+      "value": 27
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "fish",
+      "value": 28
+    },
+    {
+      "x": "fish",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "fish",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "shrimp",
+      "value": 24
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "rice",
+      "value": 28
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 15.444444444444445
+    },
+    {
+      "ingredient": "fish",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 11.88888888888889
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 6.777777777777778
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 6.444444444444445
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 6.444444444444445
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

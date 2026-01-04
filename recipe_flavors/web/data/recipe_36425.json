@@ -1,0 +1,112 @@
+{
+  "id": 36425,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "marjoram",
+    "parsley",
+    "potato"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "marjoram",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "marjoram",
+      "y": "potato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "marjoram",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "marjoram",
+      "value": 10
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 7.333333333333333
+    }
+  ]
+}

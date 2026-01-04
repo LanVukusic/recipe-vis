@@ -1,0 +1,112 @@
+{
+  "id": 27720,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "fish",
+    "bacon",
+    "beef"
+  ],
+  "score_avg": 31.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "beef",
+      "value": 48
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "fish",
+      "value": 48
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 51.666666666666664
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

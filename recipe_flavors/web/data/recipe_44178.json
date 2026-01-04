@@ -1,0 +1,112 @@
+{
+  "id": 44178,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "olive_oil",
+    "cabbage",
+    "macaroni"
+  ],
+  "score_avg": 0.16666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.0
+    }
+  ]
+}

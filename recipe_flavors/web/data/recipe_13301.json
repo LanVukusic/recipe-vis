@@ -1,0 +1,162 @@
+{
+  "id": 13301,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "seed",
+    "broccoli",
+    "cauliflower",
+    "apple"
+  ],
+  "score_avg": 7.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "mandarin",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "mandarin",
+      "y": "cauliflower",
+      "value": 7
+    },
+    {
+      "x": "mandarin",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "seed",
+      "y": "mandarin",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "mandarin",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cauliflower",
+      "value": 10
+    },
+    {
+      "x": "broccoli",
+      "y": "apple",
+      "value": 3
+    },
+    {
+      "x": "cauliflower",
+      "y": "mandarin",
+      "value": 7
+    },
+    {
+      "x": "cauliflower",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "broccoli",
+      "value": 10
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "apple",
+      "value": 10
+    },
+    {
+      "x": "apple",
+      "y": "mandarin",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "seed",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "apple",
+      "y": "cauliflower",
+      "value": 10
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.5
+    }
+  ]
+}

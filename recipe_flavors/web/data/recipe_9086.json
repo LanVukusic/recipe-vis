@@ -1,0 +1,562 @@
+{
+  "id": 9086,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "vinegar",
+    "fish",
+    "red_wine",
+    "pear",
+    "cumin",
+    "bean",
+    "basil",
+    "corn"
+  ],
+  "score_avg": 7.155555555555556,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "pear",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "fish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "red_wine",
+      "value": 30
+    },
+    {
+      "x": "fish",
+      "y": "pear",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "bean",
+      "value": 25
+    },
+    {
+      "x": "fish",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "corn",
+      "value": 21
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "fish",
+      "value": 30
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "pear",
+      "value": 21
+    },
+    {
+      "x": "red_wine",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "red_wine",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "pear",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "pear",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "pear",
+      "y": "red_wine",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "cumin",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "pear",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "bean",
+      "value": 3
+    },
+    {
+      "x": "cumin",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "corn",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "bean",
+      "y": "fish",
+      "value": 25
+    },
+    {
+      "x": "bean",
+      "y": "red_wine",
+      "value": 42
+    },
+    {
+      "x": "bean",
+      "y": "pear",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "cumin",
+      "value": 3
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bean",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "corn",
+      "y": "fish",
+      "value": 21
+    },
+    {
+      "x": "corn",
+      "y": "red_wine",
+      "value": 42
+    },
+    {
+      "x": "corn",
+      "y": "pear",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 17.77777777777778
+    },
+    {
+      "ingredient": "bean",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "fish",
+      "mean": 10.11111111111111
+    },
+    {
+      "ingredient": "pear",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.777777777777778
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.1111111111111112
+    },
+    {
+      "ingredient": "basil",
+      "mean": 0.8888888888888888
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5555555555555556
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 23986,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_peel",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 23689,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "banana",
+    "cranberry"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cranberry",
+      "value": 43
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "banana",
+      "value": 43
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

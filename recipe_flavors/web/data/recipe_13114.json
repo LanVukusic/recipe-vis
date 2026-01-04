@@ -1,0 +1,112 @@
+{
+  "id": 13114,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "popcorn",
+    "cheddar_cheese",
+    "bacon",
+    "lard"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "cheddar_cheese",
+      "value": 11
+    },
+    {
+      "x": "popcorn",
+      "y": "bacon",
+      "value": 15
+    },
+    {
+      "x": "popcorn",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "popcorn",
+      "value": 11
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "popcorn",
+      "value": 15
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

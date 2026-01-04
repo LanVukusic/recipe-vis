@@ -1,0 +1,42 @@
+{
+  "id": 38051,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "parmesan_cheese",
+    "mushroom"
+  ],
+  "score_avg": 65.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 65.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 65.0
+    }
+  ]
+}

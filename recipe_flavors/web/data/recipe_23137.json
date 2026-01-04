@@ -1,0 +1,292 @@
+{
+  "id": 23137,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chive",
+    "cream_cheese",
+    "garlic",
+    "artichoke",
+    "onion",
+    "mozzarella_cheese",
+    "bread"
+  ],
+  "score_avg": 15.238095238095237,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "chive",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "chive",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "garlic",
+      "y": "chive",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "cream_cheese",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "mozzarella_cheese",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "chive",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mozzarella_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "artichoke",
+      "value": 3
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.833333333333334
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "chive",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 1.1666666666666667
+    }
+  ]
+}

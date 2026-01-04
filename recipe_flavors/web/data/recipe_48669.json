@@ -1,0 +1,72 @@
+{
+  "id": 48669,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "cocoa",
+    "tea",
+    "milk"
+  ],
+  "score_avg": 61.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "tea",
+      "value": 69
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "tea",
+      "y": "cocoa",
+      "value": 69
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "tea",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tea",
+      "mean": 66.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 60.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 57.5
+    }
+  ]
+}

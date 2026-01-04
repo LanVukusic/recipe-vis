@@ -1,0 +1,292 @@
+{
+  "id": 1675,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "kelp",
+    "soy_sauce",
+    "sake",
+    "fish",
+    "pumpkin",
+    "shiitake",
+    "shrimp"
+  ],
+  "score_avg": 7.904761904761905,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "kelp",
+      "y": "kelp",
+      "value": 0
+    },
+    {
+      "x": "kelp",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "kelp",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "kelp",
+      "y": "fish",
+      "value": 4
+    },
+    {
+      "x": "kelp",
+      "y": "pumpkin",
+      "value": 2
+    },
+    {
+      "x": "kelp",
+      "y": "shiitake",
+      "value": 7
+    },
+    {
+      "x": "kelp",
+      "y": "shrimp",
+      "value": 3
+    },
+    {
+      "x": "soy_sauce",
+      "y": "kelp",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shiitake",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "sake",
+      "y": "kelp",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "fish",
+      "value": 13
+    },
+    {
+      "x": "sake",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "shiitake",
+      "value": 14
+    },
+    {
+      "x": "sake",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "fish",
+      "y": "kelp",
+      "value": 4
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "sake",
+      "value": 13
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "shiitake",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "shrimp",
+      "value": 24
+    },
+    {
+      "x": "pumpkin",
+      "y": "kelp",
+      "value": 2
+    },
+    {
+      "x": "pumpkin",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "fish",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "shiitake",
+      "value": 7
+    },
+    {
+      "x": "pumpkin",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "shiitake",
+      "y": "kelp",
+      "value": 7
+    },
+    {
+      "x": "shiitake",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "shiitake",
+      "y": "sake",
+      "value": 14
+    },
+    {
+      "x": "shiitake",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "shiitake",
+      "y": "pumpkin",
+      "value": 7
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "shrimp",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "kelp",
+      "value": 3
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "sake",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "fish",
+      "value": 24
+    },
+    {
+      "x": "shrimp",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "shiitake",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shiitake",
+      "mean": 16.166666666666668
+    },
+    {
+      "ingredient": "fish",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "sake",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "kelp",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    }
+  ]
+}

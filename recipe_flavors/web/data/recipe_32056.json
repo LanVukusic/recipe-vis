@@ -1,0 +1,162 @@
+{
+  "id": 32056,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_juice",
+    "rice",
+    "avocado",
+    "tabasco_pepper",
+    "vinegar"
+  ],
+  "score_avg": 4.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "avocado",
+      "value": 18
+    },
+    {
+      "x": "rice",
+      "y": "tabasco_pepper",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "rice",
+      "value": 18
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "tabasco_pepper",
+      "value": 3
+    },
+    {
+      "x": "avocado",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "avocado",
+      "value": 3
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "rice",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "avocado",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "tabasco_pepper",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.25
+    }
+  ]
+}

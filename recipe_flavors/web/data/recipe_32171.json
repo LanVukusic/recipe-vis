@@ -1,0 +1,42 @@
+{
+  "id": 32171,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_juice",
+    "cucumber"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 0.0
+    }
+  ]
+}

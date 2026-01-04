@@ -1,0 +1,72 @@
+{
+  "id": 5394,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "honey",
+    "mango",
+    "milk"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "mango",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "mango",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 21.0
+    }
+  ]
+}

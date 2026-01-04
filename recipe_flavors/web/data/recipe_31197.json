@@ -1,0 +1,222 @@
+{
+  "id": 31197,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "turkey",
+    "onion",
+    "egg_noodle",
+    "parmesan_cheese",
+    "cream"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.8666666666666667,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "turkey",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "turkey",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "turkey",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "turkey",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "turkey",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "egg_noodle",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 29.4
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 18.4
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.8
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.6
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.8
+    }
+  ]
+}

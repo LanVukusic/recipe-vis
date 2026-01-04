@@ -1,0 +1,112 @@
+{
+  "id": 35199,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "wine",
+    "lemon",
+    "lime"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "cocoa",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "cocoa",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "cocoa",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "cocoa",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "wine",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "lime",
+      "mean": 29.0
+    }
+  ]
+}

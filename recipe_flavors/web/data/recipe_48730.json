@@ -1,0 +1,72 @@
+{
+  "id": 48730,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "yogurt",
+    "wheat",
+    "barley"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "barley",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "barley",
+      "value": 4
+    },
+    {
+      "x": "barley",
+      "y": "yogurt",
+      "value": 4
+    },
+    {
+      "x": "barley",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "barley",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.5
+    }
+  ]
+}

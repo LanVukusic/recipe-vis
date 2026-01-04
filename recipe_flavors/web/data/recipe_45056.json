@@ -1,0 +1,292 @@
+{
+  "id": 45056,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "apple",
+    "pineapple",
+    "orange",
+    "soy_sauce",
+    "ginger",
+    "wine"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "apple",
+      "y": "orange",
+      "value": 67
+    },
+    {
+      "x": "apple",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "wine",
+      "value": 71
+    },
+    {
+      "x": "pineapple",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "orange",
+      "value": 37
+    },
+    {
+      "x": "pineapple",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "wine",
+      "value": 48
+    },
+    {
+      "x": "orange",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "apple",
+      "value": 67
+    },
+    {
+      "x": "orange",
+      "y": "pineapple",
+      "value": 37
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "wine",
+      "value": 36
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "apple",
+      "value": 71
+    },
+    {
+      "x": "wine",
+      "y": "pineapple",
+      "value": 48
+    },
+    {
+      "x": "wine",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 31.166666666666668
+    },
+    {
+      "ingredient": "orange",
+      "mean": 30.833333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

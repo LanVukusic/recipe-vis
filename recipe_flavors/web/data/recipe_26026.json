@@ -1,0 +1,42 @@
+{
+  "id": 26026,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rice",
+    "peanut_butter"
+  ],
+  "score_avg": 53.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "peanut_butter",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "rice",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 53.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 53.0
+    }
+  ]
+}

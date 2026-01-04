@@ -1,0 +1,42 @@
+{
+  "id": 42743,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken"
+  ],
+  "score_avg": 63.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 63.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 63.0
+    }
+  ]
+}

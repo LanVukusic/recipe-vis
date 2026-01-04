@@ -1,0 +1,162 @@
+{
+  "id": 2457,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "cane_molasses",
+    "black_pepper",
+    "nut",
+    "pear",
+    "ginger"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "nut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "pear",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "black_pepper",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "pear",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "pear",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

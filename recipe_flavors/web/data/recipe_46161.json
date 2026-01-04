@@ -1,0 +1,72 @@
+{
+  "id": 46161,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 22879,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese"
+  ],
+  "score_avg": 51.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 51.0
+    }
+  ]
+}

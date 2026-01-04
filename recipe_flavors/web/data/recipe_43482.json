@@ -1,0 +1,112 @@
+{
+  "id": 43482,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "mint",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 18.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "mint",
+      "y": "cocoa",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "mint",
+      "mean": 6.0
+    }
+  ]
+}

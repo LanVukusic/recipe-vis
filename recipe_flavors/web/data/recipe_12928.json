@@ -1,0 +1,162 @@
+{
+  "id": 12928,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "garlic",
+    "chickpea",
+    "sesame_seed"
+  ],
+  "score_avg": 0.1,
+  "pair_coverage": 0.1,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "chickpea",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 0.0
+    }
+  ]
+}

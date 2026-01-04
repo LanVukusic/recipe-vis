@@ -1,0 +1,162 @@
+{
+  "id": 24999,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "pepper",
+    "lemon_juice",
+    "bacon",
+    "apple"
+  ],
+  "score_avg": 5.2,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "bacon",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

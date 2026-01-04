@@ -1,0 +1,112 @@
+{
+  "id": 8575,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "strawberry",
+    "lemon",
+    "wine"
+  ],
+  "score_avg": 45.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "strawberry",
+      "value": 61
+    },
+    {
+      "x": "cocoa",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "strawberry",
+      "y": "cocoa",
+      "value": 61
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "wine",
+      "value": 72
+    },
+    {
+      "x": "lemon",
+      "y": "cocoa",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "wine",
+      "mean": 51.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 46.666666666666664
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 26.333333333333332
+    }
+  ]
+}

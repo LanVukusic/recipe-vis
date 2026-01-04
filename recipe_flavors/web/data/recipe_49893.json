@@ -1,0 +1,112 @@
+{
+  "id": 49893,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "orange",
+    "olive_oil",
+    "lemon_juice",
+    "blue_cheese"
+  ],
+  "score_avg": 8.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "lemon_juice",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "blue_cheese",
+      "value": 44
+    },
+    {
+      "x": "olive_oil",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "orange",
+      "value": 44
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

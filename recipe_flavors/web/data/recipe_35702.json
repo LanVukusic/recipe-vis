@@ -1,0 +1,72 @@
+{
+  "id": 35702,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "ginger",
+    "yeast"
+  ],
+  "score_avg": 11.666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

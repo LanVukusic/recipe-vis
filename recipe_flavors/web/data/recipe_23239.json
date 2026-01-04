@@ -1,0 +1,162 @@
+{
+  "id": 23239,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "cream",
+    "ham",
+    "parmesan_cheese",
+    "potato"
+  ],
+  "score_avg": 41.3,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "parmesan_cheese",
+      "value": 134
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "potato",
+      "value": 28
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheddar_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "cream",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "ham",
+      "value": 28
+    },
+    {
+      "x": "potato",
+      "y": "parmesan_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 62.5
+    },
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 61.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 26.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 18.75
+    }
+  ]
+}

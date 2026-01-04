@@ -1,0 +1,72 @@
+{
+  "id": 4662,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "gin",
+    "beer",
+    "lemon_juice"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "beer",
+      "value": 7
+    },
+    {
+      "x": "gin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "gin",
+      "value": 7
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "lemon_juice",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "beer",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "gin",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

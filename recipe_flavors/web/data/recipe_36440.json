@@ -1,0 +1,112 @@
+{
+  "id": 36440,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "cherry",
+    "pork",
+    "garlic"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "pork",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "pork",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cherry",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

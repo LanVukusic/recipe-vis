@@ -1,0 +1,112 @@
+{
+  "id": 15242,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "oat",
+    "peanut_butter",
+    "cereal"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "oat",
+      "value": 23
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "cocoa",
+      "value": 23
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "peanut_butter",
+      "value": 25
+    },
+    {
+      "x": "oat",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "oat",
+      "value": 25
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 34.333333333333336
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "oat",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

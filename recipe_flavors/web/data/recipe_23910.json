@@ -1,0 +1,112 @@
+{
+  "id": 23910,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vegetable_oil",
+    "rye_flour",
+    "yeast"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rye_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "rye_flour",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "rye_flour",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

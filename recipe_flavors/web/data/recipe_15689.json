@@ -1,0 +1,112 @@
+{
+  "id": 15689,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tabasco_pepper",
+    "onion",
+    "beef",
+    "bread"
+  ],
+  "score_avg": 14.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "tabasco_pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

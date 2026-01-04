@@ -1,0 +1,112 @@
+{
+  "id": 23639,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef_broth",
+    "pepper",
+    "coffee",
+    "pork"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "coffee",
+      "value": 3
+    },
+    {
+      "x": "beef_broth",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "coffee",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "beef_broth",
+      "value": 3
+    },
+    {
+      "x": "coffee",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "coffee",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "pork",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 1.0
+    }
+  ]
+}

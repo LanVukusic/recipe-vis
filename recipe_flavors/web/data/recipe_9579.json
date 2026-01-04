@@ -1,0 +1,292 @@
+{
+  "id": 9579,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "veal",
+    "mustard",
+    "basil",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "veal",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "veal",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "veal",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "veal",
+      "value": 0
+    },
+    {
+      "x": "veal",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "veal",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "veal",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "veal",
+      "y": "bread",
+      "value": 21
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "veal",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "parmesan_cheese",
+      "value": 11
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "veal",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "veal",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mustard",
+      "value": 11
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "veal",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 28.833333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 16.166666666666668
+    },
+    {
+      "ingredient": "veal",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 9671,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "grape_juice",
+    "onion",
+    "mushroom",
+    "scallion",
+    "garlic",
+    "barley",
+    "soybean",
+    "walnut",
+    "rice",
+    "rosemary"
+  ],
+  "score_avg": 8.318181818181818,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "barley",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "soybean",
+      "value": 70
+    },
+    {
+      "x": "tomato",
+      "y": "walnut",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "barley",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "soybean",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "barley",
+      "value": 5
+    },
+    {
+      "x": "mushroom",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "mushroom",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "barley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "barley",
+      "y": "mushroom",
+      "value": 5
+    },
+    {
+      "x": "barley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "soybean",
+      "value": 7
+    },
+    {
+      "x": "barley",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "barley",
+      "y": "rice",
+      "value": 3
+    },
+    {
+      "x": "barley",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "tomato",
+      "value": 70
+    },
+    {
+      "x": "soybean",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "onion",
+      "value": 25
+    },
+    {
+      "x": "soybean",
+      "y": "mushroom",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "barley",
+      "value": 7
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "walnut",
+      "value": 12
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "walnut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "barley",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "soybean",
+      "value": 12
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "rice",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "barley",
+      "value": 3
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "rice",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "soybean",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 23.09090909090909
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 18.818181818181817
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 18.636363636363637
+    },
+    {
+      "ingredient": "rice",
+      "mean": 16.363636363636363
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.272727272727273
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "barley",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 82,
+  "cuisine": "African",
+  "ingredients": [
+    "olive_oil",
+    "cinnamon",
+    "starch",
+    "cardamom",
+    "ginger",
+    "honey",
+    "carrot",
+    "garlic",
+    "tomato",
+    "coriander",
+    "lamb",
+    "lemon"
+  ],
+  "score_avg": 9.636363636363637,
+  "pair_coverage": 0.7575757575757576,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "honey",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cardamom",
+      "value": 14
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "tomato",
+      "value": 16
+    },
+    {
+      "x": "cinnamon",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "lamb",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon",
+      "value": 19
+    },
+    {
+      "x": "starch",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cinnamon",
+      "value": 14
+    },
+    {
+      "x": "cardamom",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "ginger",
+      "value": 30
+    },
+    {
+      "x": "cardamom",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "cardamom",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "cardamom",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cardamom",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "cardamom",
+      "y": "coriander",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "lamb",
+      "value": 13
+    },
+    {
+      "x": "cardamom",
+      "y": "lemon",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cardamom",
+      "value": 30
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "tomato",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "coriander",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "lamb",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "honey",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "honey",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cardamom",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "honey",
+      "y": "coriander",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cardamom",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "coriander",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cardamom",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "cinnamon",
+      "value": 16
+    },
+    {
+      "x": "tomato",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cardamom",
+      "value": 21
+    },
+    {
+      "x": "tomato",
+      "y": "ginger",
+      "value": 31
+    },
+    {
+      "x": "tomato",
+      "y": "honey",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "coriander",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "cinnamon",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "coriander",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "coriander",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "coriander",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "tomato",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "lamb",
+      "value": 11
+    },
+    {
+      "x": "coriander",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "lamb",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "cardamom",
+      "value": 13
+    },
+    {
+      "x": "lamb",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "lamb",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "lamb",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "lemon",
+      "value": 13
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "cinnamon",
+      "value": 19
+    },
+    {
+      "x": "lemon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cardamom",
+      "value": 31
+    },
+    {
+      "x": "lemon",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "carrot",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "tomato",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "coriander",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "lamb",
+      "value": 13
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.727272727272727
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 13.727272727272727
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 11.727272727272727
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 10.363636363636363
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 9.272727272727273
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.636363636363637
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5454545454545454
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

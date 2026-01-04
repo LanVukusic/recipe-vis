@@ -1,0 +1,42 @@
+{
+  "id": 16960,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "blue_cheese"
+  ],
+  "score_avg": 71.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "blue_cheese",
+      "value": 71
+    },
+    {
+      "x": "blue_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 71.0
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 71.0
+    }
+  ]
+}

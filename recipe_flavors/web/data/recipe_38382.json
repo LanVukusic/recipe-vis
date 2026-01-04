@@ -1,0 +1,112 @@
+{
+  "id": 38382,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "olive_oil",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 9.666666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "turkey",
+      "y": "bread",
+      "value": 22
+    },
+    {
+      "x": "olive_oil",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "turkey",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "turkey",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

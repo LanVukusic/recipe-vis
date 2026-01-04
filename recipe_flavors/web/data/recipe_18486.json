@@ -1,0 +1,72 @@
+{
+  "id": 18486,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "litchi",
+    "peach",
+    "cranberry"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "litchi",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "peach",
+      "value": 13
+    },
+    {
+      "x": "litchi",
+      "y": "cranberry",
+      "value": 22
+    },
+    {
+      "x": "peach",
+      "y": "litchi",
+      "value": 13
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cranberry",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "litchi",
+      "value": 22
+    },
+    {
+      "x": "cranberry",
+      "y": "peach",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "litchi",
+      "mean": 17.5
+    }
+  ]
+}

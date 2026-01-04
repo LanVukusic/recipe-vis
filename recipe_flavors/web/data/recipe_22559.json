@@ -1,0 +1,112 @@
+{
+  "id": 22559,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "lemon_juice",
+    "nutmeg",
+    "banana"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nutmeg",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "banana",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 38047,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "vinegar",
+    "pepper",
+    "mustard",
+    "beef",
+    "soy_sauce",
+    "onion",
+    "ginger",
+    "scallion",
+    "garlic",
+    "soybean",
+    "sherry"
+  ],
+  "score_avg": 13.606060606060606,
+  "pair_coverage": 0.7727272727272727,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "ginger",
+      "value": 31
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "soybean",
+      "value": 70
+    },
+    {
+      "x": "tomato",
+      "y": "sherry",
+      "value": 64
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "sherry",
+      "value": 20
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "sherry",
+      "value": 9
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "mustard",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "ginger",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "sherry",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "mustard",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "soybean",
+      "value": 96
+    },
+    {
+      "x": "beef",
+      "y": "sherry",
+      "value": 67
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sherry",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "soybean",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "sherry",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "tomato",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "sherry",
+      "value": 26
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "sherry",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "tomato",
+      "value": 70
+    },
+    {
+      "x": "soybean",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "beef",
+      "value": 96
+    },
+    {
+      "x": "soybean",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "onion",
+      "value": 25
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "sherry",
+      "value": 67
+    },
+    {
+      "x": "sherry",
+      "y": "tomato",
+      "value": 64
+    },
+    {
+      "x": "sherry",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "sherry",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "sherry",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "sherry",
+      "y": "beef",
+      "value": 67
+    },
+    {
+      "x": "sherry",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "sherry",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "sherry",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "sherry",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "sherry",
+      "y": "soybean",
+      "value": 67
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 30.545454545454547
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 29.727272727272727
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 27.272727272727273
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 25.90909090909091
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 14.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.636363636363637
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.272727272727273
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    }
+  ]
+}

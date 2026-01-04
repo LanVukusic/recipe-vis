@@ -1,0 +1,292 @@
+{
+  "id": 3115,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "butter",
+    "strawberry",
+    "wheat",
+    "cardamom",
+    "pecan",
+    "vanilla",
+    "egg"
+  ],
+  "score_avg": 16.523809523809526,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "strawberry",
+      "value": 64
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cardamom",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "strawberry",
+      "y": "butter",
+      "value": 64
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "cardamom",
+      "value": 24
+    },
+    {
+      "x": "strawberry",
+      "y": "pecan",
+      "value": 28
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "cardamom",
+      "y": "strawberry",
+      "value": 24
+    },
+    {
+      "x": "cardamom",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "pecan",
+      "value": 13
+    },
+    {
+      "x": "cardamom",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cardamom",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "strawberry",
+      "value": 28
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cardamom",
+      "value": 13
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cardamom",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 29.333333333333332
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

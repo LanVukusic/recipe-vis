@@ -1,0 +1,112 @@
+{
+  "id": 13008,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "onion",
+    "sweet_potato",
+    "apple"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "sweet_potato",
+      "value": 6
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sweet_potato",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "sweet_potato",
+      "y": "pork",
+      "value": 6
+    },
+    {
+      "x": "sweet_potato",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "apple",
+      "value": 4
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "apple",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 4.333333333333333
+    }
+  ]
+}

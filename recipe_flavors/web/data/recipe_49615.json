@@ -1,0 +1,42 @@
+{
+  "id": 49615,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "lemon"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 2.0
+    }
+  ]
+}

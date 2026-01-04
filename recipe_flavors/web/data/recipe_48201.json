@@ -1,0 +1,72 @@
+{
+  "id": 48201,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "lamb",
+    "cabbage",
+    "black_pepper"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "cabbage",
+      "value": 8
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "cabbage",
+      "y": "lamb",
+      "value": 8
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lamb",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.0
+    }
+  ]
+}

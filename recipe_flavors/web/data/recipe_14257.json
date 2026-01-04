@@ -1,0 +1,72 @@
+{
+  "id": 14257,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "raspberry",
+    "lime_juice"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "raspberry",
+      "value": 33
+    },
+    {
+      "x": "citrus",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "citrus",
+      "value": 33
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "raspberry",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    }
+  ]
+}

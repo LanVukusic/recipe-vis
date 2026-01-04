@@ -1,0 +1,112 @@
+{
+  "id": 15680,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "wheat",
+    "milk",
+    "macadamia_nut"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "macadamia_nut",
+      "value": 13
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macadamia_nut",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "macadamia_nut",
+      "value": 12
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "milk",
+      "value": 12
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "macadamia_nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "macadamia_nut",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 8731,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_juice",
+    "wheat",
+    "mustard",
+    "onion",
+    "yeast",
+    "vanilla",
+    "parsley",
+    "cucumber",
+    "chive",
+    "vegetable_oil",
+    "lemon"
+  ],
+  "score_avg": 3.196969696969697,
+  "pair_coverage": 0.48484848484848486,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "cucumber",
+      "value": 14
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "chive",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "chive",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "cucumber",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "chive",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "vanilla",
+      "value": 3
+    },
+    {
+      "x": "chive",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 6.090909090909091
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.8181818181818183
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 2.727272727272727
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

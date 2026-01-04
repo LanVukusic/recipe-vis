@@ -1,0 +1,162 @@
+{
+  "id": 29457,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "savory",
+    "egg",
+    "wheat",
+    "milk",
+    "pork_sausage"
+  ],
+  "score_avg": 11.8,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "pork_sausage",
+      "value": 27
+    },
+    {
+      "x": "wheat",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 21.75
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.0
+    }
+  ]
+}

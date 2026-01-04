@@ -1,0 +1,112 @@
+{
+  "id": 47289,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "butter",
+    "bean",
+    "pepper"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "bean",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "bean",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 3.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 7394,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "plum",
+    "raspberry"
+  ],
+  "score_avg": 38.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "raspberry",
+      "value": 38
+    },
+    {
+      "x": "raspberry",
+      "y": "plum",
+      "value": 38
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "plum",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 38.0
+    }
+  ]
+}

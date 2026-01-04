@@ -1,0 +1,222 @@
+{
+  "id": 32616,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vegetable_oil",
+    "orange_juice",
+    "egg",
+    "banana",
+    "walnut"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "banana",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "banana",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.2
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2
+    }
+  ]
+}

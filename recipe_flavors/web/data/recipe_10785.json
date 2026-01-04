@@ -1,0 +1,292 @@
+{
+  "id": 10785,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "cured_pork",
+    "mustard",
+    "onion",
+    "vegetable_oil",
+    "tarragon",
+    "cream"
+  ],
+  "score_avg": 5.9523809523809526,
+  "pair_coverage": 0.5238095238095238,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "cured_pork",
+      "value": 45
+    },
+    {
+      "x": "turkey",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "turkey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "turkey",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cured_pork",
+      "y": "turkey",
+      "value": 45
+    },
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "cured_pork",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cured_pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "mustard",
+      "y": "turkey",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "cured_pork",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "cured_pork",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cured_pork",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cured_pork",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

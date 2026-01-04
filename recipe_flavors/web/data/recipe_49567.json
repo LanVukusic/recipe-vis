@@ -1,0 +1,292 @@
+{
+  "id": 49567,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "cheese",
+    "corn",
+    "cream",
+    "buttermilk",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 20.238095238095237,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheese",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "corn",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "corn",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "parmesan_cheese",
+      "value": 51
+    },
+    {
+      "x": "corn",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "buttermilk",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "parmesan_cheese",
+      "value": 10
+    },
+    {
+      "x": "buttermilk",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "buttermilk",
+      "value": 10
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 39.833333333333336
+    },
+    {
+      "ingredient": "corn",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.833333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 30537,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "lemon_juice",
+    "nutmeg"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "lemon_juice",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "nutmeg",
+      "value": 19
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange",
+      "value": 19
+    },
+    {
+      "x": "nutmeg",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

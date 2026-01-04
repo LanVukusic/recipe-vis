@@ -1,0 +1,112 @@
+{
+  "id": 43311,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "pork_sausage",
+    "onion",
+    "zucchini"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pork_sausage",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.0
+    }
+  ]
+}

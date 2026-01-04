@@ -1,0 +1,112 @@
+{
+  "id": 22671,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "banana",
+    "squash",
+    "potato"
+  ],
+  "score_avg": 17.166666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "banana",
+      "value": 42
+    },
+    {
+      "x": "butter",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "banana",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "potato",
+      "value": 21
+    },
+    {
+      "x": "squash",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "potato",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "banana",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

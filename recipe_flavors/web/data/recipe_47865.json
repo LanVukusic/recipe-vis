@@ -1,0 +1,72 @@
+{
+  "id": 47865,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "vanilla",
+    "egg"
+  ],
+  "score_avg": 20.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.5
+    }
+  ]
+}

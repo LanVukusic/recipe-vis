@@ -1,0 +1,42 @@
+{
+  "id": 37100,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "anise",
+    "lemon"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "anise",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "anise",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    }
+  ]
+}

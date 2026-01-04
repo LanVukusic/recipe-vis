@@ -1,0 +1,162 @@
+{
+  "id": 7845,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_peel",
+    "lemon_juice",
+    "orange_juice",
+    "lemon_peel",
+    "cranberry"
+  ],
+  "score_avg": 4.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon_peel",
+      "value": 5
+    },
+    {
+      "x": "orange_peel",
+      "y": "cranberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_peel",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_peel",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "cranberry",
+      "value": 15
+    },
+    {
+      "x": "lemon_peel",
+      "y": "orange_peel",
+      "value": 5
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cranberry",
+      "value": 3
+    },
+    {
+      "x": "cranberry",
+      "y": "orange_peel",
+      "value": 3
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

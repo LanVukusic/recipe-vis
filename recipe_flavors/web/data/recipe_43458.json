@@ -1,0 +1,292 @@
+{
+  "id": 43458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "wheat",
+    "apple",
+    "roasted_peanut",
+    "pineapple",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 14.904761904761905,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "vinegar",
+      "y": "roasted_peanut",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "vinegar",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "roasted_peanut",
+      "value": 46
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "apple",
+      "value": 46
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "pineapple",
+      "value": 25
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cream",
+      "value": 19
+    },
+    {
+      "x": "pineapple",
+      "y": "vinegar",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "roasted_peanut",
+      "value": 25
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "roasted_peanut",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "roasted_peanut",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.833333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

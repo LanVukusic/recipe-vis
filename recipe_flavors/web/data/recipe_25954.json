@@ -1,0 +1,292 @@
+{
+  "id": 25954,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "green_bell_pepper",
+    "ham",
+    "mushroom",
+    "pineapple",
+    "onion",
+    "bell_pepper"
+  ],
+  "score_avg": 18.285714285714285,
+  "pair_coverage": 0.9523809523809523,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "ham",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "pineapple",
+      "value": 36
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "ham",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "ham",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "green_bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "pineapple",
+      "y": "tomato",
+      "value": 36
+    },
+    {
+      "x": "pineapple",
+      "y": "green_bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "mushroom",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "onion",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ham",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 27.833333333333332
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 19.166666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 10.833333333333334
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.666666666666666
+    }
+  ]
+}

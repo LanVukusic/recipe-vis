@@ -1,0 +1,72 @@
+{
+  "id": 4834,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cayenne",
+    "avocado",
+    "onion"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "avocado",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "avocado",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "avocado",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 1.5
+    }
+  ]
+}

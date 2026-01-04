@@ -1,0 +1,112 @@
+{
+  "id": 38121,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "gelatin",
+    "corn",
+    "milk"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "melon",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "gelatin",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "melon",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "melon",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "melon",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

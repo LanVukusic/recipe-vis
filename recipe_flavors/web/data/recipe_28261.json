@@ -1,0 +1,72 @@
+{
+  "id": 28261,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "orange_juice",
+    "lime_juice"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

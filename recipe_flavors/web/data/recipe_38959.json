@@ -1,0 +1,112 @@
+{
+  "id": 38959,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "carrot",
+    "apple",
+    "pineapple"
+  ],
+  "score_avg": 24.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "carrot",
+      "y": "orange_juice",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "apple",
+      "value": 19
+    },
+    {
+      "x": "carrot",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "orange_juice",
+      "value": 30
+    },
+    {
+      "x": "apple",
+      "y": "carrot",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 11.666666666666666
+    }
+  ]
+}

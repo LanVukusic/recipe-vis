@@ -1,0 +1,42 @@
+{
+  "id": 873,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "soy_sauce",
+    "seaweed"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "seaweed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "seaweed",
+      "mean": 0.0
+    }
+  ]
+}

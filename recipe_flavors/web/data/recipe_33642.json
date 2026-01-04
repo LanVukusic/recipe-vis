@@ -1,0 +1,222 @@
+{
+  "id": 33642,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "yeast",
+    "frankfurter",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 14.266666666666667,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "frankfurter",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "frankfurter",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "frankfurter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "frankfurter",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "frankfurter",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "frankfurter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "frankfurter",
+      "y": "frankfurter",
+      "value": 0
+    },
+    {
+      "x": "frankfurter",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "frankfurter",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "frankfurter",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "frankfurter",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 26.2
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 25.6
+    },
+    {
+      "ingredient": "frankfurter",
+      "mean": 17.2
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.2
+    }
+  ]
+}

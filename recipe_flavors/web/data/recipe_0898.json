@@ -1,0 +1,42 @@
+{
+  "id": 898,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "brown_rice",
+    "green_tea"
+  ],
+  "score_avg": 48.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "green_tea",
+      "value": 48
+    },
+    {
+      "x": "green_tea",
+      "y": "brown_rice",
+      "value": 48
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "brown_rice",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "green_tea",
+      "mean": 48.0
+    }
+  ]
+}

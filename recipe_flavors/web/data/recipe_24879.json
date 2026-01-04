@@ -1,0 +1,162 @@
+{
+  "id": 24879,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "lemon_juice",
+    "lemon",
+    "egg",
+    "apricot"
+  ],
+  "score_avg": 5.7,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "apricot",
+      "value": 34
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apricot",
+      "value": 10
+    },
+    {
+      "x": "apricot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "lemon",
+      "value": 34
+    },
+    {
+      "x": "apricot",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

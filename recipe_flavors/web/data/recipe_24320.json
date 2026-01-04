@@ -1,0 +1,162 @@
+{
+  "id": 24320,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "olive_oil",
+    "grape_juice",
+    "onion",
+    "feta_cheese"
+  ],
+  "score_avg": 2.5,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "grape_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "feta_cheese",
+      "value": 17
+    },
+    {
+      "x": "feta_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "feta_cheese",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.5
+    }
+  ]
+}

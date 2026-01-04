@@ -1,0 +1,112 @@
+{
+  "id": 6506,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "mandarin",
+    "vegetable_oil",
+    "citrus",
+    "strawberry"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mandarin",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "mandarin",
+      "y": "strawberry",
+      "value": 39
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mandarin",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "citrus",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "citrus",
+      "y": "mandarin",
+      "value": 51
+    },
+    {
+      "x": "citrus",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "strawberry",
+      "value": 33
+    },
+    {
+      "x": "strawberry",
+      "y": "mandarin",
+      "value": 39
+    },
+    {
+      "x": "strawberry",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "citrus",
+      "value": 33
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mandarin",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 1.0
+    }
+  ]
+}

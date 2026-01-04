@@ -1,0 +1,72 @@
+{
+  "id": 41039,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken_broth",
+    "horseradish"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

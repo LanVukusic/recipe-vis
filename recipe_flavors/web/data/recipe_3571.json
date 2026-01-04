@@ -1,0 +1,72 @@
+{
+  "id": 3571,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "onion",
+    "lime"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lime",
+      "value": 7
+    },
+    {
+      "x": "lime",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 1.0
+    }
+  ]
+}

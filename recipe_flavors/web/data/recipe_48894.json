@@ -1,0 +1,112 @@
+{
+  "id": 48894,
+  "cuisine": "SoutheastAsian",
+  "ingredients": [
+    "lime_juice",
+    "soy_sauce",
+    "garlic",
+    "thai_pepper"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "thai_pepper",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "thai_pepper",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thai_pepper",
+      "value": 1
+    },
+    {
+      "x": "thai_pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "thai_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "thai_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "thai_pepper",
+      "y": "thai_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "thai_pepper",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

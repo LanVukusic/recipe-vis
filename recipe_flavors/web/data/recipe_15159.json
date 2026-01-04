@@ -1,0 +1,562 @@
+{
+  "id": 15159,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "wheat",
+    "meat",
+    "mushroom",
+    "starch",
+    "bacon",
+    "parsley",
+    "garlic",
+    "beef_broth"
+  ],
+  "score_avg": 3.888888888888889,
+  "pair_coverage": 0.4666666666666667,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "meat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "bacon",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "meat",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "meat",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "starch",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "meat",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 11.777777777777779
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "meat",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 2.7777777777777777
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.4444444444444446
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5555555555555556
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5555555555555556
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.1111111111111111
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

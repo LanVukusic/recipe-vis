@@ -1,0 +1,72 @@
+{
+  "id": 39654,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "raspberry",
+    "peach"
+  ],
+  "score_avg": 38.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "champagne_wine",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "raspberry",
+      "y": "champagne_wine",
+      "value": 47
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "peach",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "champagne_wine",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "peach",
+      "mean": 34.5
+    }
+  ]
+}

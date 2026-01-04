@@ -1,0 +1,112 @@
+{
+  "id": 35395,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "vanilla",
+    "soybean",
+    "lard"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "vanilla",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

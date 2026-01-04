@@ -1,0 +1,162 @@
+{
+  "id": 9889,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "garlic",
+    "lemon_peel",
+    "broccoli",
+    "parmesan_cheese"
+  ],
+  "score_avg": 1.9,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "lemon_peel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "parmesan_cheese",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "parmesan_cheese",
+      "value": 7
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "broccoli",
+      "value": 7
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 43221,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nutmeg",
+    "wheat",
+    "apple",
+    "onion",
+    "parsley",
+    "cucumber",
+    "cinnamon",
+    "chive",
+    "vegetable_oil",
+    "cream",
+    "egg",
+    "sour_milk"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.6363636363636364,
+  "heatmap": [
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "chive",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "cucumber",
+      "value": 10
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "sour_milk",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "chive",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "sour_milk",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "sour_milk",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "apple",
+      "value": 10
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "sour_milk",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "chive",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "chive",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "sour_milk",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sour_milk",
+      "value": 5
+    },
+    {
+      "x": "sour_milk",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "apple",
+      "value": 3
+    },
+    {
+      "x": "sour_milk",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "sour_milk",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "sour_milk",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "sour_milk",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "sour_milk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "sour_milk",
+      "y": "sour_milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 8.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.090909090909091
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.090909090909091
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 4.818181818181818
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.7272727272727275
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "sour_milk",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

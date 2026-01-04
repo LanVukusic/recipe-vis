@@ -1,0 +1,42 @@
+{
+  "id": 16716,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "vinegar"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 1.0
+    }
+  ]
+}

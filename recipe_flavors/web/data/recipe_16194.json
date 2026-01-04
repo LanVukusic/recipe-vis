@@ -1,0 +1,72 @@
+{
+  "id": 16194,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 36.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 43.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 29.0
+    }
+  ]
+}

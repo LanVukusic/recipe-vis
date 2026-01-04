@@ -1,0 +1,112 @@
+{
+  "id": 36865,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pepper",
+    "salmon",
+    "scallion"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "salmon",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "salmon",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "salmon",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

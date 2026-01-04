@@ -1,0 +1,462 @@
+{
+  "id": 15604,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "vinegar",
+    "red_wine",
+    "parmesan_cheese",
+    "garlic",
+    "bell_pepper",
+    "macaroni",
+    "zucchini"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.5833333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "red_wine",
+      "value": 45
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "parmesan_cheese",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "mushroom",
+      "value": 45
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "parmesan_cheese",
+      "value": 82
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "zucchini",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "red_wine",
+      "value": 82
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "zucchini",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.125
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.125
+    }
+  ]
+}

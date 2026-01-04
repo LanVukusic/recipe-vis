@@ -1,0 +1,112 @@
+{
+  "id": 37250,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "mint",
+    "cucumber",
+    "passion_fruit"
+  ],
+  "score_avg": 13.166666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "melon",
+      "y": "cucumber",
+      "value": 10
+    },
+    {
+      "x": "melon",
+      "y": "passion_fruit",
+      "value": 40
+    },
+    {
+      "x": "mint",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "passion_fruit",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "cucumber",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "passion_fruit",
+      "value": 6
+    },
+    {
+      "x": "passion_fruit",
+      "y": "melon",
+      "value": 40
+    },
+    {
+      "x": "passion_fruit",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "passion_fruit",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "passion_fruit",
+      "y": "passion_fruit",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "passion_fruit",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 6.0
+    }
+  ]
+}

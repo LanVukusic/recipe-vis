@@ -1,0 +1,72 @@
+{
+  "id": 38487,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "wheat",
+    "milk"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "wheat",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coconut",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

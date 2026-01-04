@@ -1,0 +1,112 @@
+{
+  "id": 3690,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "orange",
+    "vegetable_oil",
+    "wheat",
+    "cinnamon"
+  ],
+  "score_avg": 3.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "cinnamon",
+      "value": 21
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange",
+      "value": 21
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

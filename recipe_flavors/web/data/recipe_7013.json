@@ -1,0 +1,42 @@
+{
+  "id": 7013,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "ham"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 1.0
+    }
+  ]
+}

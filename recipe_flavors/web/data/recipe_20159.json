@@ -1,0 +1,222 @@
+{
+  "id": 20159,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "green_bell_pepper",
+    "beef",
+    "mushroom",
+    "cheddar_cheese",
+    "onion",
+    "bread"
+  ],
+  "score_avg": 27.266666666666666,
+  "pair_coverage": 0.9333333333333333,
+  "heatmap": [
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "green_bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "mushroom",
+      "y": "green_bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "green_bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 44.6
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 41.8
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 34.4
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.8
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 4.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 44977,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bourbon_whiskey",
+    "vanilla",
+    "sweet_potato"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bourbon_whiskey",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "sweet_potato",
+      "value": 5
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "vanilla",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "sweet_potato",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 2.0
+    }
+  ]
+}

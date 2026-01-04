@@ -1,0 +1,72 @@
+{
+  "id": 47417,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "guava",
+    "mango",
+    "rum"
+  ],
+  "score_avg": 64.33333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "guava",
+      "y": "guava",
+      "value": 0
+    },
+    {
+      "x": "guava",
+      "y": "mango",
+      "value": 69
+    },
+    {
+      "x": "guava",
+      "y": "rum",
+      "value": 62
+    },
+    {
+      "x": "mango",
+      "y": "guava",
+      "value": 69
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "rum",
+      "value": 62
+    },
+    {
+      "x": "rum",
+      "y": "guava",
+      "value": 62
+    },
+    {
+      "x": "rum",
+      "y": "mango",
+      "value": 62
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "guava",
+      "mean": 65.5
+    },
+    {
+      "ingredient": "mango",
+      "mean": 65.5
+    },
+    {
+      "ingredient": "rum",
+      "mean": 62.0
+    }
+  ]
+}

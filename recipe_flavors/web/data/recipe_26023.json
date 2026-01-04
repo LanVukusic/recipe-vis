@@ -1,0 +1,72 @@
+{
+  "id": 26023,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pistachio",
+    "egg"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pistachio",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "pistachio",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pistachio",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "pistachio",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "pistachio",
+      "mean": 4.0
+    }
+  ]
+}

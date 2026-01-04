@@ -1,0 +1,112 @@
+{
+  "id": 46960,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "ham",
+    "cream_cheese",
+    "pineapple"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pineapple",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "cream_cheese",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    }
+  ]
+}

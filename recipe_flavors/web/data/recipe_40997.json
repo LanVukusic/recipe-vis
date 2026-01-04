@@ -1,0 +1,112 @@
+{
+  "id": 40997,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fruit",
+    "horseradish",
+    "cream_cheese",
+    "pineapple"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "pineapple",
+      "value": 1
+    },
+    {
+      "x": "horseradish",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "pineapple",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pineapple",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "horseradish",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "cream_cheese",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

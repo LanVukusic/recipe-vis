@@ -1,0 +1,162 @@
+{
+  "id": 21816,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "cottage_cheese",
+    "garlic",
+    "parmesan_cheese",
+    "egg_noodle"
+  ],
+  "score_avg": 15.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cottage_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "parmesan_cheese",
+      "value": 130
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cottage_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cottage_cheese",
+      "value": 130
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 35.25
+    },
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 35.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 28181,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "garlic",
+    "soybean",
+    "mushroom",
+    "vegetable",
+    "broccoli"
+  ],
+  "score_avg": 6.533333333333333,
+  "pair_coverage": 0.7333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "mushroom",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "broccoli",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "vegetable",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "soybean",
+      "value": 7
+    },
+    {
+      "x": "broccoli",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 16.6
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.2
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6
+    }
+  ]
+}

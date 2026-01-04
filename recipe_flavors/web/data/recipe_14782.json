@@ -1,0 +1,72 @@
+{
+  "id": 14782,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "cider",
+    "cinnamon"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cider",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cider",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

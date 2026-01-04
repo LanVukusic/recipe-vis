@@ -1,0 +1,72 @@
+{
+  "id": 47983,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "mint",
+    "lime"
+  ],
+  "score_avg": 20.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "strawberry",
+      "y": "lime",
+      "value": 35
+    },
+    {
+      "x": "mint",
+      "y": "strawberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "lime",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "mint",
+      "mean": 13.0
+    }
+  ]
+}

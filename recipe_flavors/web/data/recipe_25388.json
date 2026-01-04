@@ -1,0 +1,112 @@
+{
+  "id": 25388,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "cheddar_cheese",
+    "bacon",
+    "ham"
+  ],
+  "score_avg": 57.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cheddar_cheese",
+      "value": 68
+    },
+    {
+      "x": "chicken",
+      "y": "bacon",
+      "value": 84
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken",
+      "value": 68
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "bacon",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 66.33333333333333
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 65.33333333333333
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 56.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 43.0
+    }
+  ]
+}

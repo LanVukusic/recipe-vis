@@ -1,0 +1,162 @@
+{
+  "id": 48460,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "cilantro",
+    "carrot",
+    "lime_juice",
+    "lime"
+  ],
+  "score_avg": 3.1,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "cilantro",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cilantro",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "cilantro",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

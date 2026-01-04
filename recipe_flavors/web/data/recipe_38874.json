@@ -1,0 +1,162 @@
+{
+  "id": 38874,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "tomato_juice",
+    "macaroni",
+    "beef",
+    "cheddar_cheese"
+  ],
+  "score_avg": 22.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "tomato_juice",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato_juice",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "tomato_juice",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "tomato_juice",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "tomato_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "tomato_juice",
+      "mean": 0.75
+    }
+  ]
+}

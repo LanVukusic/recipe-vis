@@ -1,0 +1,112 @@
+{
+  "id": 3688,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "guava",
+    "seed",
+    "cinnamon",
+    "pumpkin"
+  ],
+  "score_avg": 7.166666666666667,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "guava",
+      "y": "guava",
+      "value": 0
+    },
+    {
+      "x": "guava",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "guava",
+      "y": "cinnamon",
+      "value": 25
+    },
+    {
+      "x": "guava",
+      "y": "pumpkin",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "guava",
+      "value": 6
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "guava",
+      "value": 25
+    },
+    {
+      "x": "cinnamon",
+      "y": "seed",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "pumpkin",
+      "value": 1
+    },
+    {
+      "x": "pumpkin",
+      "y": "guava",
+      "value": 4
+    },
+    {
+      "x": "pumpkin",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "guava",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

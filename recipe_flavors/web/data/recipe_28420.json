@@ -1,0 +1,42 @@
+{
+  "id": 28420,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "cherry"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 15.0
+    }
+  ]
+}

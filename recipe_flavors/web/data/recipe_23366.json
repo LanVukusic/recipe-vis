@@ -1,0 +1,72 @@
+{
+  "id": 23366,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg_noodle",
+    "egg"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.0
+    }
+  ]
+}

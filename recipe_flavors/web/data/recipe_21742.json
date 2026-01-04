@@ -1,0 +1,162 @@
+{
+  "id": 21742,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "walnut",
+    "bacon",
+    "cream_cheese",
+    "blue_cheese"
+  ],
+  "score_avg": 29.8,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "blue_cheese",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "bacon",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "cream_cheese",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "blue_cheese",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "walnut",
+      "value": 9
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "blue_cheese",
+      "value": 65
+    },
+    {
+      "x": "cream_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "blue_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "blue_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 52.25
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.25
+    }
+  ]
+}

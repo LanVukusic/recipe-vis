@@ -1,0 +1,112 @@
+{
+  "id": 41349,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "lemon_juice",
+    "milk",
+    "raspberry"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "raspberry",
+      "value": 48
+    },
+    {
+      "x": "raspberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

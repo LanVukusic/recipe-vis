@@ -1,0 +1,112 @@
+{
+  "id": 30621,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "rosemary",
+    "potato"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 6.333333333333333
+    }
+  ]
+}

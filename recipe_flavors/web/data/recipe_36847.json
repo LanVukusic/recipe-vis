@@ -1,0 +1,112 @@
+{
+  "id": 36847,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "lemon_juice",
+    "carrot",
+    "cinnamon"
+  ],
+  "score_avg": 9.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "lemon_juice",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "orange",
+      "y": "cinnamon",
+      "value": 21
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "orange",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange",
+      "value": 21
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

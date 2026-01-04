@@ -1,0 +1,42 @@
+{
+  "id": 10788,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "potato"
+  ],
+  "score_avg": 20.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "potato",
+      "value": 20
+    },
+    {
+      "x": "potato",
+      "y": "olive",
+      "value": 20
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.0
+    }
+  ]
+}

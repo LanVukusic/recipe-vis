@@ -1,0 +1,292 @@
+{
+  "id": 32051,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "meat",
+    "vinegar",
+    "rosemary",
+    "chicken",
+    "red_wine",
+    "potato"
+  ],
+  "score_avg": 14.047619047619047,
+  "pair_coverage": 0.9523809523809523,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "meat",
+      "y": "rosemary",
+      "value": 3
+    },
+    {
+      "x": "meat",
+      "y": "chicken",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "red_wine",
+      "value": 22
+    },
+    {
+      "x": "meat",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "meat",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "potato",
+      "value": 11
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "meat",
+      "value": 3
+    },
+    {
+      "x": "rosemary",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "red_wine",
+      "value": 43
+    },
+    {
+      "x": "chicken",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "meat",
+      "value": 22
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "potato",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "meat",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "vinegar",
+      "value": 11
+    },
+    {
+      "x": "potato",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "red_wine",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "potato",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 20.833333333333332
+    },
+    {
+      "ingredient": "meat",
+      "mean": 16.833333333333332
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.1666666666666667
+    }
+  ]
+}

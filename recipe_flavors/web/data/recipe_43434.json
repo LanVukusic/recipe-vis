@@ -1,0 +1,162 @@
+{
+  "id": 43434,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "pepper",
+    "tabasco_pepper",
+    "meat",
+    "smoke"
+  ],
+  "score_avg": 4.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "tabasco_pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "meat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 29425,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "raspberry",
+    "pineapple"
+  ],
+  "score_avg": 38.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "melon",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "raspberry",
+      "y": "melon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "pineapple",
+      "y": "melon",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "raspberry",
+      "value": 35
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 39.5
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 36.5
+    }
+  ]
+}

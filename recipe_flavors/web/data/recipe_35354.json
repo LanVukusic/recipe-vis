@@ -1,0 +1,162 @@
+{
+  "id": 35354,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "beer",
+    "cheddar_cheese",
+    "wheat",
+    "onion"
+  ],
+  "score_avg": 17.8,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "beer",
+      "value": 17
+    },
+    {
+      "x": "dill",
+      "y": "cheddar_cheese",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "beer",
+      "y": "dill",
+      "value": 17
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cheddar_cheese",
+      "value": 97
+    },
+    {
+      "x": "beer",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "onion",
+      "value": 28
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "dill",
+      "value": 10
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beer",
+      "value": 97
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "wheat",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "beer",
+      "value": 28
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "dill",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

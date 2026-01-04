@@ -1,0 +1,72 @@
+{
+  "id": 19278,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "milk",
+    "peach"
+  ],
+  "score_avg": 43.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "peach",
+      "value": 48
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peach",
+      "value": 29
+    },
+    {
+      "x": "peach",
+      "y": "strawberry",
+      "value": 48
+    },
+    {
+      "x": "peach",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "peach",
+      "mean": 38.5
+    }
+  ]
+}

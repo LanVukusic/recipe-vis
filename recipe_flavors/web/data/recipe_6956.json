@@ -1,0 +1,792 @@
+{
+  "id": 6956,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "cilantro",
+    "watercress",
+    "wheat",
+    "beef",
+    "yeast",
+    "shallot",
+    "mint",
+    "vinegar",
+    "garlic",
+    "rice"
+  ],
+  "score_avg": 5.212121212121212,
+  "pair_coverage": 0.5454545454545454,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "tomato",
+      "y": "watercress",
+      "value": 6
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "cilantro",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cilantro",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "watercress",
+      "y": "tomato",
+      "value": 6
+    },
+    {
+      "x": "watercress",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "watercress",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cilantro",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "watercress",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "shallot",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "yeast",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "shallot",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "rice",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "tomato",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "rice",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "rice",
+      "value": 10
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cilantro",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "watercress",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "rice",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "rice",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "rice",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 17.727272727272727
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 12.181818181818182
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 4.545454545454546
+    },
+    {
+      "ingredient": "mint",
+      "mean": 3.6363636363636362
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 2.272727272727273
+    },
+    {
+      "ingredient": "watercress",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

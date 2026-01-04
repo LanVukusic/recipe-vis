@@ -1,0 +1,72 @@
+{
+  "id": 3359,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "cayenne",
+    "cream_cheese"
+  ],
+  "score_avg": 46.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "cayenne",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheddar_cheese",
+      "value": 130
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 68.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 67.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.0
+    }
+  ]
+}

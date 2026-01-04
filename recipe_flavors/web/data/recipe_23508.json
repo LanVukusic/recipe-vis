@@ -1,0 +1,42 @@
+{
+  "id": 23508,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "potato"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 7.0
+    }
+  ]
+}

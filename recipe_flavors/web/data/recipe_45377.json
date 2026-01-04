@@ -1,0 +1,72 @@
+{
+  "id": 45377,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bourbon_whiskey",
+    "apple",
+    "whiskey"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "apple",
+      "value": 5
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "apple",
+      "y": "bourbon_whiskey",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "whiskey",
+      "value": 58
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "apple",
+      "value": 58
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 4.0
+    }
+  ]
+}

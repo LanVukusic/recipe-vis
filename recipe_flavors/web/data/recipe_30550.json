@@ -1,0 +1,72 @@
+{
+  "id": 30550,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "milk",
+    "black_tea"
+  ],
+  "score_avg": 38.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "black_tea",
+      "value": 27
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "black_tea",
+      "value": 68
+    },
+    {
+      "x": "black_tea",
+      "y": "honey",
+      "value": 27
+    },
+    {
+      "x": "black_tea",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_tea",
+      "mean": 47.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 23.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 6474,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "vegetable_oil",
+    "nut",
+    "black_pepper",
+    "fig"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fig",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "fig",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fig",
+      "value": 2
+    },
+    {
+      "x": "fig",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "fig",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "fig",
+      "y": "fig",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fig",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

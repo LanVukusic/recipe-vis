@@ -1,0 +1,42 @@
+{
+  "id": 17698,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "cream_cheese"
+  ],
+  "score_avg": 27.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 27.0
+    }
+  ]
+}

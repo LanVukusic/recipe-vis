@@ -1,0 +1,162 @@
+{
+  "id": 17087,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "cheese",
+    "soy_sauce",
+    "macaroni",
+    "garlic"
+  ],
+  "score_avg": 0.8,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.25
+    }
+  ]
+}

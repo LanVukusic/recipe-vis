@@ -1,0 +1,562 @@
+{
+  "id": 32884,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "ham",
+    "wasabi",
+    "lettuce",
+    "wheat_bread",
+    "soybean",
+    "vegetable_oil",
+    "rice",
+    "egg",
+    "barley"
+  ],
+  "score_avg": 13.977777777777778,
+  "pair_coverage": 0.6444444444444445,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat_bread",
+      "value": 58
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "soybean",
+      "value": 70
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "barley",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "wheat_bread",
+      "value": 26
+    },
+    {
+      "x": "ham",
+      "y": "soybean",
+      "value": 38
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "rice",
+      "value": 25
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "barley",
+      "value": 6
+    },
+    {
+      "x": "wasabi",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wasabi",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "wheat_bread",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "soybean",
+      "value": 6
+    },
+    {
+      "x": "lettuce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "cheddar_cheese",
+      "value": 58
+    },
+    {
+      "x": "wheat_bread",
+      "y": "ham",
+      "value": 26
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "soybean",
+      "value": 58
+    },
+    {
+      "x": "wheat_bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "rice",
+      "value": 38
+    },
+    {
+      "x": "wheat_bread",
+      "y": "egg",
+      "value": 26
+    },
+    {
+      "x": "wheat_bread",
+      "y": "barley",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "cheddar_cheese",
+      "value": 70
+    },
+    {
+      "x": "soybean",
+      "y": "ham",
+      "value": 38
+    },
+    {
+      "x": "soybean",
+      "y": "wasabi",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "lettuce",
+      "value": 6
+    },
+    {
+      "x": "soybean",
+      "y": "wheat_bread",
+      "value": 58
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "egg",
+      "value": 31
+    },
+    {
+      "x": "soybean",
+      "y": "barley",
+      "value": 7
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "ham",
+      "value": 25
+    },
+    {
+      "x": "rice",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "wheat_bread",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "barley",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat_bread",
+      "value": 26
+    },
+    {
+      "x": "egg",
+      "y": "soybean",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "barley",
+      "value": 4
+    },
+    {
+      "x": "barley",
+      "y": "cheddar_cheese",
+      "value": 9
+    },
+    {
+      "x": "barley",
+      "y": "ham",
+      "value": 6
+    },
+    {
+      "x": "barley",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "wheat_bread",
+      "value": 8
+    },
+    {
+      "x": "barley",
+      "y": "soybean",
+      "value": 7
+    },
+    {
+      "x": "barley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "rice",
+      "value": 3
+    },
+    {
+      "x": "barley",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.666666666666668
+    },
+    {
+      "ingredient": "wheat_bread",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.88888888888889
+    },
+    {
+      "ingredient": "barley",
+      "mean": 4.111111111111111
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 1.4444444444444444
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2222222222222222
+    },
+    {
+      "ingredient": "wasabi",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

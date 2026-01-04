@@ -1,0 +1,112 @@
+{
+  "id": 3138,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "egg_noodle",
+    "pork",
+    "black_pepper",
+    "cabbage"
+  ],
+  "score_avg": 2.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "pork",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.0
+    }
+  ]
+}

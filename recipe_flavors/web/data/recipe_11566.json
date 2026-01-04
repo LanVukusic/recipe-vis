@@ -1,0 +1,42 @@
+{
+  "id": 11566,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peach",
+    "ginger"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "peach",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 17.0
+    }
+  ]
+}

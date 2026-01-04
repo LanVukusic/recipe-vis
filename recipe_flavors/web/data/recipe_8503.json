@@ -1,0 +1,42 @@
+{
+  "id": 8503,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "lemon"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "cherry",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 17.0
+    }
+  ]
+}

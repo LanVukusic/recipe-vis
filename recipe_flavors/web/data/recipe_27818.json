@@ -1,0 +1,112 @@
+{
+  "id": 27818,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cayenne",
+    "bacon",
+    "parmesan_cheese",
+    "beef"
+  ],
+  "score_avg": 45.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "beef",
+      "value": 93
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "parmesan_cheese",
+      "value": 93
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 66.33333333333333
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 56.666666666666664
+    },
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 56.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.333333333333333
+    }
+  ]
+}

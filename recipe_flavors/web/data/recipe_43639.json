@@ -1,0 +1,112 @@
+{
+  "id": 43639,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "chicken",
+    "macaroni",
+    "mushroom"
+  ],
+  "score_avg": 10.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

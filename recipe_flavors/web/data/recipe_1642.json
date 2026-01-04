@@ -1,0 +1,112 @@
+{
+  "id": 1642,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "cane_molasses",
+    "soy_sauce",
+    "rice",
+    "nut"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

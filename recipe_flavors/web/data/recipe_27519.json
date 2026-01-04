@@ -1,0 +1,162 @@
+{
+  "id": 27519,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "starch",
+    "sesame_oil",
+    "chicken_broth",
+    "soy_sauce"
+  ],
+  "score_avg": 0.3,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

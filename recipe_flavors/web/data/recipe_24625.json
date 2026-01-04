@@ -1,0 +1,792 @@
+{
+  "id": 24625,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "olive_oil",
+    "lemon",
+    "potato",
+    "feta_cheese",
+    "black_pepper",
+    "parsley",
+    "garlic",
+    "butter",
+    "oregano",
+    "wheat",
+    "beef_broth"
+  ],
+  "score_avg": 6.803030303030303,
+  "pair_coverage": 0.6212121212121212,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "lemon",
+      "value": 13
+    },
+    {
+      "x": "lamb",
+      "y": "potato",
+      "value": 34
+    },
+    {
+      "x": "lamb",
+      "y": "feta_cheese",
+      "value": 40
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "lamb",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lamb",
+      "value": 13
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "potato",
+      "value": 19
+    },
+    {
+      "x": "lemon",
+      "y": "feta_cheese",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "lamb",
+      "value": 34
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "lemon",
+      "value": 19
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "feta_cheese",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "lamb",
+      "value": 40
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "feta_cheese",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "feta_cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lamb",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lamb",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "feta_cheese",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "oregano",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "feta_cheese",
+      "mean": 17.181818181818183
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.181818181818183
+    },
+    {
+      "ingredient": "potato",
+      "mean": 14.909090909090908
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 9.363636363636363
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 28657,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vanilla",
+    "coffee",
+    "cream"
+  ],
+  "score_avg": 28.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "coffee",
+      "value": 60
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "coffee",
+      "y": "butter",
+      "value": 60
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 38.333333333333336
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 16.333333333333332
+    }
+  ]
+}

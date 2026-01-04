@@ -1,0 +1,112 @@
+{
+  "id": 43005,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "olive_oil",
+    "cheddar_cheese",
+    "garlic"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "corn_grit",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "corn_grit",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

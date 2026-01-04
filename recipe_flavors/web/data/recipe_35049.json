@@ -1,0 +1,42 @@
+{
+  "id": 35049,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "roasted_pork",
+    "pepper"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "roasted_pork",
+      "y": "roasted_pork",
+      "value": 0
+    },
+    {
+      "x": "roasted_pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_pork",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.0
+    }
+  ]
+}

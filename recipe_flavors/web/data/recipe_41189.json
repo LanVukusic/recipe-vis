@@ -1,0 +1,112 @@
+{
+  "id": 41189,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "nutmeg",
+    "squash",
+    "ginger"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "squash",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "nutmeg",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

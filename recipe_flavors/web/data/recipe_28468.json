@@ -1,0 +1,112 @@
+{
+  "id": 28468,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "orange_peel",
+    "wheat",
+    "buttermilk"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "orange_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

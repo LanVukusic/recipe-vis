@@ -1,0 +1,792 @@
+{
+  "id": 1099,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "black_pepper",
+    "fish",
+    "squid",
+    "bacon",
+    "garlic",
+    "cabbage",
+    "scallion",
+    "oyster",
+    "katsuobushi",
+    "onion",
+    "soy_sauce"
+  ],
+  "score_avg": 4.181818181818182,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "katsuobushi",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "squid",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "oyster",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "katsuobushi",
+      "value": 8
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "squid",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "bacon",
+      "value": 11
+    },
+    {
+      "x": "squid",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "squid",
+      "y": "cabbage",
+      "value": 4
+    },
+    {
+      "x": "squid",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "oyster",
+      "value": 3
+    },
+    {
+      "x": "squid",
+      "y": "katsuobushi",
+      "value": 4
+    },
+    {
+      "x": "squid",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "squid",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "squid",
+      "value": 11
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "bacon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "oyster",
+      "value": 14
+    },
+    {
+      "x": "bacon",
+      "y": "katsuobushi",
+      "value": 13
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "squid",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "oyster",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "katsuobushi",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "fish",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "squid",
+      "value": 4
+    },
+    {
+      "x": "cabbage",
+      "y": "bacon",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "oyster",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "katsuobushi",
+      "value": 3
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cabbage",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "squid",
+      "value": 3
+    },
+    {
+      "x": "oyster",
+      "y": "bacon",
+      "value": 14
+    },
+    {
+      "x": "oyster",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "oyster",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "oyster",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "katsuobushi",
+      "value": 3
+    },
+    {
+      "x": "oyster",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "oyster",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "katsuobushi",
+      "y": "fish",
+      "value": 8
+    },
+    {
+      "x": "katsuobushi",
+      "y": "squid",
+      "value": 4
+    },
+    {
+      "x": "katsuobushi",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "katsuobushi",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "katsuobushi",
+      "y": "cabbage",
+      "value": 3
+    },
+    {
+      "x": "katsuobushi",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "oyster",
+      "value": 3
+    },
+    {
+      "x": "katsuobushi",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "katsuobushi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "squid",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "oyster",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "katsuobushi",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 10.181818181818182
+    },
+    {
+      "ingredient": "fish",
+      "mean": 8.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.090909090909092
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 5.7272727272727275
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "katsuobushi",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "squid",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

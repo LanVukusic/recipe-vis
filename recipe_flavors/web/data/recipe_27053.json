@@ -1,0 +1,792 @@
+{
+  "id": 27053,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "cheese",
+    "nut",
+    "garlic",
+    "artichoke",
+    "chicken",
+    "cream",
+    "tomato",
+    "vinegar",
+    "asparagus",
+    "parsley",
+    "scallion"
+  ],
+  "score_avg": 6.863636363636363,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "cheese",
+      "y": "asparagus",
+      "value": 26
+    },
+    {
+      "x": "cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "tomato",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "asparagus",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "asparagus",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "artichoke",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "artichoke",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "artichoke",
+      "y": "asparagus",
+      "value": 1
+    },
+    {
+      "x": "artichoke",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "artichoke",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "asparagus",
+      "value": 27
+    },
+    {
+      "x": "chicken",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "asparagus",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "artichoke",
+      "value": 5
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "asparagus",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cheese",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "artichoke",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "asparagus",
+      "value": 4
+    },
+    {
+      "x": "vinegar",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "cheese",
+      "value": 26
+    },
+    {
+      "x": "asparagus",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "asparagus",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "asparagus",
+      "y": "artichoke",
+      "value": 1
+    },
+    {
+      "x": "asparagus",
+      "y": "chicken",
+      "value": 27
+    },
+    {
+      "x": "asparagus",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "asparagus",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "asparagus",
+      "y": "vinegar",
+      "value": 4
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "asparagus",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "asparagus",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.2727272727272725
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.181818181818182
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.272727272727273
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.1818181818181817
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

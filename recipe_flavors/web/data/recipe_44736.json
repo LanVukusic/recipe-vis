@@ -1,0 +1,292 @@
+{
+  "id": 44736,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "pineapple",
+    "mandarin",
+    "macaroni",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 2.9523809523809526,
+  "pair_coverage": 0.47619047619047616,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "mandarin",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "mandarin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "mandarin",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "macaroni",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "mandarin",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "mandarin",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.833333333333333
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

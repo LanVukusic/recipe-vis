@@ -1,0 +1,72 @@
+{
+  "id": 43406,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lima_bean",
+    "chicken_broth",
+    "onion"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lima_bean",
+      "y": "lima_bean",
+      "value": 0
+    },
+    {
+      "x": "lima_bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "lima_bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "chicken_broth",
+      "y": "lima_bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lima_bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lima_bean",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.5
+    }
+  ]
+}

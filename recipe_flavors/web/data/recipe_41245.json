@@ -1,0 +1,112 @@
+{
+  "id": 41245,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "rosemary",
+    "garlic",
+    "scallop"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "scallop",
+      "value": 23
+    },
+    {
+      "x": "rosemary",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "scallop",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallop",
+      "value": 3
+    },
+    {
+      "x": "scallop",
+      "y": "butter",
+      "value": 23
+    },
+    {
+      "x": "scallop",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "scallop",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

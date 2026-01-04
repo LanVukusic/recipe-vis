@@ -1,0 +1,112 @@
+{
+  "id": 23468,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "red_wine",
+    "wine",
+    "raspberry",
+    "cranberry"
+  ],
+  "score_avg": 62.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "red_wine",
+      "y": "raspberry",
+      "value": 54
+    },
+    {
+      "x": "red_wine",
+      "y": "cranberry",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "cranberry",
+      "value": 36
+    },
+    {
+      "x": "raspberry",
+      "y": "red_wine",
+      "value": 54
+    },
+    {
+      "x": "raspberry",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cranberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "red_wine",
+      "value": 40
+    },
+    {
+      "x": "cranberry",
+      "y": "wine",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 74.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 70.33333333333333
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 57.666666666666664
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 49.333333333333336
+    }
+  ]
+}

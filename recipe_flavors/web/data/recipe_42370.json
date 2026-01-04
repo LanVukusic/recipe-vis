@@ -1,0 +1,162 @@
+{
+  "id": 42370,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "oat",
+    "wheat",
+    "blueberry"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "blueberry",
+      "value": 28
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "blueberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "oat",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "oat",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

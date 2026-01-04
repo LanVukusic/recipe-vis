@@ -1,0 +1,42 @@
+{
+  "id": 2882,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "apricot",
+    "rum"
+  ],
+  "score_avg": 44.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "rum",
+      "value": 44
+    },
+    {
+      "x": "rum",
+      "y": "apricot",
+      "value": 44
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 44.0
+    }
+  ]
+}

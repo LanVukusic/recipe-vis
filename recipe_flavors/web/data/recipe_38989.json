@@ -1,0 +1,292 @@
+{
+  "id": 38989,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "mushroom",
+    "potato",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "pork_sausage"
+  ],
+  "score_avg": 48.523809523809526,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "pork",
+      "y": "cheddar_cheese",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork",
+      "y": "pork_sausage",
+      "value": 115
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "pork",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "mushroom",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "potato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "egg",
+      "y": "pork",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "pork_sausage",
+      "value": 27
+    },
+    {
+      "x": "milk",
+      "y": "pork",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork",
+      "value": 115
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 59.666666666666664
+    },
+    {
+      "ingredient": "pork",
+      "mean": 58.333333333333336
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 57.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 50.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 27.833333333333332
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 48589,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "cardamom",
+    "white_bread",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 16.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "white_bread",
+      "value": 12
+    },
+    {
+      "x": "cardamom",
+      "y": "milk",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "white_bread",
+      "y": "cardamom",
+      "value": 12
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "white_bread",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "milk",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "white_bread",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 12.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 31466,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "berry",
+    "pear",
+    "apple",
+    "cranberry"
+  ],
+  "score_avg": 38.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "pear",
+      "value": 21
+    },
+    {
+      "x": "berry",
+      "y": "apple",
+      "value": 34
+    },
+    {
+      "x": "berry",
+      "y": "cranberry",
+      "value": 52
+    },
+    {
+      "x": "pear",
+      "y": "berry",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "apple",
+      "value": 44
+    },
+    {
+      "x": "pear",
+      "y": "cranberry",
+      "value": 23
+    },
+    {
+      "x": "apple",
+      "y": "berry",
+      "value": 34
+    },
+    {
+      "x": "apple",
+      "y": "pear",
+      "value": 44
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cranberry",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "cranberry",
+      "y": "pear",
+      "value": 23
+    },
+    {
+      "x": "cranberry",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 45.666666666666664
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 44.666666666666664
+    },
+    {
+      "ingredient": "berry",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "pear",
+      "mean": 29.333333333333332
+    }
+  ]
+}

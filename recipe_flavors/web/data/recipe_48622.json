@@ -1,0 +1,72 @@
+{
+  "id": 48622,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "yogurt",
+    "mango",
+    "mint"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "mango",
+      "value": 15
+    },
+    {
+      "x": "yogurt",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "yogurt",
+      "value": 15
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "mint",
+      "value": 15
+    },
+    {
+      "x": "mint",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mango",
+      "value": 15
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "mint",
+      "mean": 7.5
+    }
+  ]
+}

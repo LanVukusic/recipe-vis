@@ -1,0 +1,112 @@
+{
+  "id": 29803,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "cranberry",
+    "raspberry",
+    "pineapple"
+  ],
+  "score_avg": 43.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "melon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "melon",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "cranberry",
+      "y": "melon",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "raspberry",
+      "y": "melon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "cranberry",
+      "value": 72
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "pineapple",
+      "y": "melon",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "cranberry",
+      "value": 35
+    },
+    {
+      "x": "pineapple",
+      "y": "raspberry",
+      "value": 35
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 49.333333333333336
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "melon",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 36.0
+    }
+  ]
+}

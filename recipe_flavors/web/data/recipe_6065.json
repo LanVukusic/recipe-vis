@@ -1,0 +1,72 @@
+{
+  "id": 6065,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "coconut",
+    "milk"
+  ],
+  "score_avg": 46.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "coconut",
+      "y": "butter",
+      "value": 34
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "coconut",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 52.5
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 32.5
+    }
+  ]
+}

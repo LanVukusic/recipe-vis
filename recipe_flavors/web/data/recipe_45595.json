@@ -1,0 +1,112 @@
+{
+  "id": 45595,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "raisin",
+    "milk",
+    "oatmeal"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oatmeal",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "oatmeal",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "oatmeal",
+      "value": 7
+    },
+    {
+      "x": "oatmeal",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "oatmeal",
+      "y": "oatmeal",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "oatmeal",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 18779,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "egg",
+    "bell_pepper",
+    "parmesan_cheese"
+  ],
+  "score_avg": 40.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bell_pepper",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 62.666666666666664
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 57.333333333333336
+    },
+    {
+      "ingredient": "egg",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 17.333333333333332
+    }
+  ]
+}

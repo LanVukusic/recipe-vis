@@ -1,0 +1,112 @@
+{
+  "id": 20192,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "walnut",
+    "wheat",
+    "blue_cheese"
+  ],
+  "score_avg": 15.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "walnut",
+      "value": 10
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "blue_cheese",
+      "value": 71
+    },
+    {
+      "x": "walnut",
+      "y": "butter",
+      "value": 10
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "blue_cheese",
+      "value": 8
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blue_cheese",
+      "value": 4
+    },
+    {
+      "x": "blue_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "blue_cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "blue_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 27.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    }
+  ]
+}

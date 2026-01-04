@@ -1,0 +1,792 @@
+{
+  "id": 9500,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "lime_peel_oil",
+    "nut",
+    "anise",
+    "lime_juice",
+    "ginger",
+    "cocoa",
+    "gelatin",
+    "cream_cheese",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 10.075757575757576,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cocoa",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "cocoa",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "anise",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "anise",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "anise",
+      "y": "cocoa",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "anise",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cocoa",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "lime_peel_oil",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "anise",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cocoa",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cream_cheese",
+      "value": 29
+    },
+    {
+      "x": "ginger",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "cocoa",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "cocoa",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cocoa",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ginger",
+      "value": 29
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 23.818181818181817
+    },
+    {
+      "ingredient": "milk",
+      "mean": 23.454545454545453
+    },
+    {
+      "ingredient": "butter",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 21.09090909090909
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 12.090909090909092
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.636363636363637
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "anise",
+      "mean": 1.3636363636363635
+    },
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

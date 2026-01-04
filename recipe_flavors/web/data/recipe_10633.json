@@ -1,0 +1,292 @@
+{
+  "id": 10633,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cured_pork",
+    "olive_oil",
+    "clam",
+    "lemon",
+    "bell_pepper",
+    "oregano",
+    "garlic"
+  ],
+  "score_avg": 5.9523809523809526,
+  "pair_coverage": 0.5714285714285714,
+  "heatmap": [
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "clam",
+      "value": 37
+    },
+    {
+      "x": "cured_pork",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "cured_pork",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "cured_pork",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "olive_oil",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "cured_pork",
+      "value": 37
+    },
+    {
+      "x": "clam",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "clam",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "clam",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "cured_pork",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "clam",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cured_pork",
+      "value": 11
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "clam",
+      "value": 11
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "oregano",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cured_pork",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "clam",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cured_pork",
+      "mean": 12.833333333333334
+    },
+    {
+      "ingredient": "clam",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 6.833333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

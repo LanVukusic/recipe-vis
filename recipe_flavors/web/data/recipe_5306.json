@@ -1,0 +1,112 @@
+{
+  "id": 5306,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "orange",
+    "tequila",
+    "almond",
+    "lime"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "lime",
+      "value": 56
+    },
+    {
+      "x": "tequila",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "orange",
+      "value": 56
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

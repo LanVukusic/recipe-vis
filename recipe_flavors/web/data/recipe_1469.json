@@ -1,0 +1,292 @@
+{
+  "id": 1469,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "pork",
+    "garlic",
+    "starch",
+    "sake",
+    "cayenne",
+    "black_pepper"
+  ],
+  "score_avg": 2.7142857142857144,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "sake",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "starch",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "sake",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cayenne",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "pork",
+      "mean": 2.8333333333333335
+    },
+    {
+      "ingredient": "sake",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

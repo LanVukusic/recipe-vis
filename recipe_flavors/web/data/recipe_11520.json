@@ -1,0 +1,162 @@
+{
+  "id": 11520,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "nutmeg",
+    "squash",
+    "vegetable_oil"
+  ],
+  "score_avg": 0.9,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

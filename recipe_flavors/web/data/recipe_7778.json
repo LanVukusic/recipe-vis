@@ -1,0 +1,72 @@
+{
+  "id": 7778,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "grape_juice",
+    "black_pepper"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "grape_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "strawberry",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

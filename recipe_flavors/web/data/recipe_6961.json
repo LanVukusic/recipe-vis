@@ -1,0 +1,792 @@
+{
+  "id": 6961,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pork",
+    "mint",
+    "wheat",
+    "apple",
+    "onion",
+    "shallot",
+    "raisin",
+    "corn",
+    "black_pepper",
+    "garlic",
+    "rosemary"
+  ],
+  "score_avg": 5.5606060606060606,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mint",
+      "value": 7
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "pork",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "pork",
+      "y": "corn",
+      "value": 36
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "pork",
+      "value": 7
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "mint",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "raisin",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "mint",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "rosemary",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "shallot",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pork",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "mint",
+      "value": 4
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pork",
+      "value": 36
+    },
+    {
+      "x": "corn",
+      "y": "mint",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "apple",
+      "value": 10
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 13.090909090909092
+    },
+    {
+      "ingredient": "pork",
+      "mean": 11.909090909090908
+    },
+    {
+      "ingredient": "corn",
+      "mean": 11.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.545454545454546
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.636363636363637
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.1818181818181817
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.36363636363636365
+    }
+  ]
+}

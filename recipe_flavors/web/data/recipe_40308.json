@@ -1,0 +1,792 @@
+{
+  "id": 40308,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "ham",
+    "onion",
+    "olive_oil",
+    "corn",
+    "anise",
+    "black_pepper",
+    "seed",
+    "garlic",
+    "basil",
+    "egg",
+    "broccoli"
+  ],
+  "score_avg": 4.878787878787879,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cheese",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "corn",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "anise",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "anise",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "anise",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "anise",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "anise",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "seed",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 12.909090909090908
+    },
+    {
+      "ingredient": "corn",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 8.727272727272727
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "anise",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

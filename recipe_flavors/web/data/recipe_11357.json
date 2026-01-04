@@ -1,0 +1,292 @@
+{
+  "id": 11357,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "cream",
+    "apricot",
+    "vanilla",
+    "almond",
+    "milk",
+    "blueberry"
+  ],
+  "score_avg": 9.142857142857142,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "blueberry",
+      "value": 5
+    },
+    {
+      "x": "apricot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "apricot",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "apricot",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "apricot",
+      "y": "blueberry",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "apricot",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "blueberry",
+      "value": 12
+    },
+    {
+      "x": "almond",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "apricot",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "blueberry",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "apricot",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "blueberry",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "blueberry",
+      "y": "apricot",
+      "value": 33
+    },
+    {
+      "x": "blueberry",
+      "y": "vanilla",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "blueberry",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 12.833333333333334
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.166666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.833333333333333
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

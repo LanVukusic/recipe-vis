@@ -1,0 +1,162 @@
+{
+  "id": 41590,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "green_bell_pepper",
+    "cucumber",
+    "seed",
+    "onion"
+  ],
+  "score_avg": 1.7,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.25
+    }
+  ]
+}

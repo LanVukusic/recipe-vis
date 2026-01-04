@@ -1,0 +1,112 @@
+{
+  "id": 27193,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "milk",
+    "peppermint",
+    "cream"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "peppermint",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peppermint",
+      "value": 14
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "peppermint",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "peppermint",
+      "y": "milk",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    },
+    {
+      "x": "peppermint",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "peppermint",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 6.333333333333333
+    }
+  ]
+}

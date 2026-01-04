@@ -1,0 +1,72 @@
+{
+  "id": 18556,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "cherry",
+    "lemon_juice"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "citrus",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "citrus",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

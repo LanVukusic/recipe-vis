@@ -1,0 +1,72 @@
+{
+  "id": 21347,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "grapefruit",
+    "pineapple"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "grapefruit",
+      "value": 16
+    },
+    {
+      "x": "apricot",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "grapefruit",
+      "y": "apricot",
+      "value": 16
+    },
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "apricot",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "grapefruit",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 14.0
+    }
+  ]
+}

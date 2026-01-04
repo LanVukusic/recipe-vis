@@ -1,0 +1,72 @@
+{
+  "id": 9427,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "peanut_butter",
+    "cream"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cream",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "peanut_butter",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.0
+    }
+  ]
+}

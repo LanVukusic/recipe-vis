@@ -1,0 +1,42 @@
+{
+  "id": 21068,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "carrot"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "coconut",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 2.0
+    }
+  ]
+}

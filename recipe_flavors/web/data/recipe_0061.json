@@ -1,0 +1,162 @@
+{
+  "id": 61,
+  "cuisine": "African",
+  "ingredients": [
+    "cheese",
+    "yeast",
+    "lemon_juice",
+    "wheat",
+    "starch"
+  ],
+  "score_avg": 0.2,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

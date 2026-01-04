@@ -1,0 +1,162 @@
+{
+  "id": 18943,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "brandy",
+    "pecan",
+    "banana"
+  ],
+  "score_avg": 11.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "brandy",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "banana",
+      "value": 42
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "brandy",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "pecan",
+      "value": 4
+    },
+    {
+      "x": "brandy",
+      "y": "banana",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "brandy",
+      "value": 4
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "banana",
+      "value": 20
+    },
+    {
+      "x": "banana",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "brandy",
+      "value": 5
+    },
+    {
+      "x": "banana",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.25
+    },
+    {
+      "ingredient": "banana",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 14.75
+    },
+    {
+      "ingredient": "brandy",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

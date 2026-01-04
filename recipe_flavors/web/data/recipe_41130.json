@@ -1,0 +1,42 @@
+{
+  "id": 41130,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "butter"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "turkey",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 31.0
+    }
+  ]
+}

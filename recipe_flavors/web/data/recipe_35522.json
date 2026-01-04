@@ -1,0 +1,372 @@
+{
+  "id": 35522,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kale",
+    "onion",
+    "potato",
+    "garlic",
+    "vegetable_oil",
+    "chicken",
+    "pork_sausage",
+    "cream"
+  ],
+  "score_avg": 11.642857142857142,
+  "pair_coverage": 0.6785714285714286,
+  "heatmap": [
+    {
+      "x": "kale",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "kale",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "kale",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "kale",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "kale",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "kale",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "kale",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "kale",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "cream",
+      "value": 14
+    },
+    {
+      "x": "garlic",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "pork_sausage",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "kale",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pork_sausage",
+      "value": 84
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "pork_sausage",
+      "y": "kale",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork_sausage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "kale",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "pork_sausage",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 25.571428571428573
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 24.285714285714285
+    },
+    {
+      "ingredient": "potato",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.142857142857142
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.571428571428571
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "kale",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

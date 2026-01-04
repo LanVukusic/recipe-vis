@@ -1,0 +1,42 @@
+{
+  "id": 17663,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "blueberry"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "blueberry",
+      "value": 28
+    },
+    {
+      "x": "blueberry",
+      "y": "cheese",
+      "value": 28
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 28.0
+    }
+  ]
+}

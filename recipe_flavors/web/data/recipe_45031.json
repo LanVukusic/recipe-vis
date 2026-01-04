@@ -1,0 +1,112 @@
+{
+  "id": 45031,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "walnut",
+    "apple",
+    "cheese"
+  ],
+  "score_avg": 22.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "vinegar",
+      "y": "cheese",
+      "value": 19
+    },
+    {
+      "x": "walnut",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "apple",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "cheese",
+      "value": 8
+    },
+    {
+      "x": "apple",
+      "y": "vinegar",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "cheese",
+      "y": "apple",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 5.666666666666667
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 8563,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peach",
+    "cream"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "peach",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.0
+    }
+  ]
+}

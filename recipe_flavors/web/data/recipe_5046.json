@@ -1,0 +1,792 @@
+{
+  "id": 5046,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vinegar",
+    "pepper",
+    "cheddar_cheese",
+    "ham",
+    "black_bean",
+    "chicken_broth",
+    "red_wine",
+    "cayenne",
+    "cumin",
+    "bay",
+    "garlic",
+    "bell_pepper"
+  ],
+  "score_avg": 8.56060606060606,
+  "pair_coverage": 0.7121212121212122,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cheddar_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "black_bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "black_bean",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "black_bean",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "red_wine",
+      "value": 77
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "ham",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "black_bean",
+      "value": 24
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "red_wine",
+      "value": 22
+    },
+    {
+      "x": "ham",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "black_bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "black_bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "black_bean",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "black_bean",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "black_bean",
+      "y": "red_wine",
+      "value": 42
+    },
+    {
+      "x": "black_bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "black_bean",
+      "y": "cumin",
+      "value": 3
+    },
+    {
+      "x": "black_bean",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "black_bean",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "cheddar_cheese",
+      "value": 77
+    },
+    {
+      "x": "red_wine",
+      "y": "ham",
+      "value": 22
+    },
+    {
+      "x": "red_wine",
+      "y": "black_bean",
+      "value": 42
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "black_bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cumin",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "black_bean",
+      "value": 3
+    },
+    {
+      "x": "cumin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "bay",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ham",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_bean",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 19.545454545454547
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 18.181818181818183
+    },
+    {
+      "ingredient": "black_bean",
+      "mean": 13.909090909090908
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.545454545454545
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 9.181818181818182
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 9.181818181818182
+    },
+    {
+      "ingredient": "ham",
+      "mean": 8.909090909090908
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.7272727272727275
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

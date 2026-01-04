@@ -1,0 +1,162 @@
+{
+  "id": 21725,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "chicken",
+    "swiss_cheese",
+    "ham",
+    "bread"
+  ],
+  "score_avg": 30.8,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "chicken",
+      "value": 21
+    },
+    {
+      "x": "olive",
+      "y": "swiss_cheese",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "olive",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "olive",
+      "value": 21
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "ham",
+      "y": "olive",
+      "value": 15
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "swiss_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "ham",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 25.25
+    },
+    {
+      "ingredient": "olive",
+      "mean": 18.25
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 30429,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "liver",
+    "egg",
+    "beef_broth",
+    "black_pepper",
+    "bread"
+  ],
+  "score_avg": 1.4,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "liver",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "beef_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "liver",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bread",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "liver",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.2
+    }
+  ]
+}

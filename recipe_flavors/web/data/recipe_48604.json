@@ -1,0 +1,112 @@
+{
+  "id": 48604,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "yogurt",
+    "cardamom",
+    "mango",
+    "milk"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "cardamom",
+      "value": 4
+    },
+    {
+      "x": "yogurt",
+      "y": "mango",
+      "value": 15
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "cardamom",
+      "y": "yogurt",
+      "value": 4
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "mango",
+      "value": 21
+    },
+    {
+      "x": "cardamom",
+      "y": "milk",
+      "value": 19
+    },
+    {
+      "x": "mango",
+      "y": "yogurt",
+      "value": 15
+    },
+    {
+      "x": "mango",
+      "y": "cardamom",
+      "value": 21
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "mango",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 14.666666666666666
+    }
+  ]
+}

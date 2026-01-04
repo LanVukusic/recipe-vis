@@ -1,0 +1,112 @@
+{
+  "id": 3667,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "milk_fat",
+    "avocado",
+    "milk",
+    "lime_juice"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "avocado",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 45665,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn_flake",
+    "potato"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "corn_flake",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 2.0
+    }
+  ]
+}

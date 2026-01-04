@@ -1,0 +1,72 @@
+{
+  "id": 27010,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "almond",
+    "bacon"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "almond",
+      "y": "bean",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "bacon",
+      "value": 7
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "almond",
+      "value": 7
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 5.0
+    }
+  ]
+}

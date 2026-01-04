@@ -1,0 +1,72 @@
+{
+  "id": 39791,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "gelatin",
+    "pecan"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "gelatin",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cocoa",
+      "value": 33
+    },
+    {
+      "x": "pecan",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

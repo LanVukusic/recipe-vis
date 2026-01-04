@@ -1,0 +1,112 @@
+{
+  "id": 19476,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "ham",
+    "ginger",
+    "pineapple"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ham",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "ham",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

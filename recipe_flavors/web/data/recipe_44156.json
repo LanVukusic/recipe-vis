@@ -1,0 +1,162 @@
+{
+  "id": 44156,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "pecan",
+    "rice",
+    "lemon",
+    "milk"
+  ],
+  "score_avg": 15.3,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "rice",
+      "value": 27
+    },
+    {
+      "x": "pecan",
+      "y": "lemon",
+      "value": 13
+    },
+    {
+      "x": "pecan",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "rice",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pecan",
+      "value": 27
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "lemon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "pecan",
+      "value": 13
+    },
+    {
+      "x": "lemon",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

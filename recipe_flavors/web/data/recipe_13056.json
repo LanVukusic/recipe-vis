@@ -1,0 +1,162 @@
+{
+  "id": 13056,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "radish",
+    "cucumber",
+    "bell_pepper",
+    "feta_cheese"
+  ],
+  "score_avg": 13.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "radish",
+      "value": 7
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "radish",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "radish",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "radish",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "radish",
+      "y": "feta_cheese",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "radish",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "feta_cheese",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "radish",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "radish",
+      "value": 8
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "radish",
+      "mean": 4.75
+    }
+  ]
+}

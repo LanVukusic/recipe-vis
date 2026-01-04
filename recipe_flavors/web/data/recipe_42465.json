@@ -1,0 +1,162 @@
+{
+  "id": 42465,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "orange_juice",
+    "mint",
+    "apple",
+    "pineapple"
+  ],
+  "score_avg": 13.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "mint",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "mint",
+      "y": "pineapple",
+      "value": 8
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "orange_juice",
+      "value": 30
+    },
+    {
+      "x": "apple",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 13.25
+    },
+    {
+      "ingredient": "mint",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

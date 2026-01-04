@@ -1,0 +1,792 @@
+{
+  "id": 2838,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "onion",
+    "beef",
+    "egg_noodle",
+    "red_wine",
+    "cayenne",
+    "parsley",
+    "bay",
+    "garlic",
+    "bell_pepper",
+    "savory"
+  ],
+  "score_avg": 7.151515151515151,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "red_wine",
+      "value": 58
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "butter",
+      "value": 58
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "beef",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 19.818181818181817
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.90909090909091
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 15.272727272727273
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 10.181818181818182
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.909090909090909
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.454545454545454
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.9090909090909091
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.0
+    }
+  ]
+}

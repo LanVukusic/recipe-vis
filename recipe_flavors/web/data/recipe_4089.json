@@ -1,0 +1,42 @@
+{
+  "id": 4089,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "bell_pepper",
+    "lime"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lime",
+      "value": 15
+    },
+    {
+      "x": "lime",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 15.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 18830,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "lime"
+  ],
+  "score_avg": 25.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "lime",
+      "value": 25
+    },
+    {
+      "x": "lime",
+      "y": "beer",
+      "value": 25
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 25.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 38028,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "lettuce",
+    "cheddar_cheese",
+    "bacon"
+  ],
+  "score_avg": 29.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "lettuce",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

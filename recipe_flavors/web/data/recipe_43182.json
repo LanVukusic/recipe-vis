@@ -1,0 +1,162 @@
+{
+  "id": 43182,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "garlic",
+    "mushroom",
+    "blue_cheese"
+  ],
+  "score_avg": 18.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "blue_cheese",
+      "value": 56
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "blue_cheese",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "blue_cheese",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "tomato",
+      "value": 56
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

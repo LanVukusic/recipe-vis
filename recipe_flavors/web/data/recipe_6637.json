@@ -1,0 +1,112 @@
+{
+  "id": 6637,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "yogurt",
+    "egg",
+    "milk",
+    "starch"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "yogurt",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yogurt",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 32408,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "potato_chip",
+    "cheddar_cheese",
+    "onion"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "potato_chip",
+      "value": 21
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "potato_chip",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "potato_chip",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato_chip",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "potato_chip",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 13.666666666666666
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 9848,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "cream"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.0
+    }
+  ]
+}

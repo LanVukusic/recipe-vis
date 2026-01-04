@@ -1,0 +1,292 @@
+{
+  "id": 16394,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "beef",
+    "starch",
+    "soy_sauce",
+    "pineapple",
+    "carrot",
+    "nut"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "pineapple",
+      "value": 37
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "starch",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "beef",
+      "value": 37
+    },
+    {
+      "x": "pineapple",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "nut",
+      "value": 2
+    },
+    {
+      "x": "nut",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 10.166666666666666
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.8333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

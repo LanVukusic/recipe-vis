@@ -1,0 +1,72 @@
+{
+  "id": 17499,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "coffee",
+    "milk"
+  ],
+  "score_avg": 70.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "coffee",
+      "value": 95
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "coffee",
+      "y": "cocoa",
+      "value": 95
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 79.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 73.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 57.5
+    }
+  ]
+}

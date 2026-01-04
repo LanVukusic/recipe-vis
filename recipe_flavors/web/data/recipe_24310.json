@@ -1,0 +1,112 @@
+{
+  "id": 24310,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "champagne_wine",
+    "wheat",
+    "egg"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "champagne_wine",
+      "value": 47
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "champagne_wine",
+      "y": "butter",
+      "value": 47
+    },
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "champagne_wine",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

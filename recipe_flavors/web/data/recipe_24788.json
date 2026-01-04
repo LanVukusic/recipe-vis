@@ -1,0 +1,292 @@
+{
+  "id": 24788,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "orange_peel",
+    "almond",
+    "wheat",
+    "lard",
+    "orange_juice",
+    "egg"
+  ],
+  "score_avg": 1.1904761904761905,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "orange_peel",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "orange_peel",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_peel",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "egg",
+      "mean": 1.8333333333333333
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

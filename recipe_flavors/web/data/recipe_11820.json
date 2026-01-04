@@ -1,0 +1,42 @@
+{
+  "id": 11820,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cumin",
+    "beef"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cumin",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 2.0
+    }
+  ]
+}

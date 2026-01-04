@@ -1,0 +1,162 @@
+{
+  "id": 30333,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "beef_broth",
+    "rice",
+    "mushroom",
+    "onion"
+  ],
+  "score_avg": 19.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "beef_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "beef_broth",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 26.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 1.5
+    }
+  ]
+}

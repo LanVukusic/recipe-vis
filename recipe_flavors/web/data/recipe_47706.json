@@ -1,0 +1,72 @@
+{
+  "id": 47706,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "beer",
+    "raisin"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "beer",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "beer",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "beer",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.0
+    }
+  ]
+}

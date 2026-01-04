@@ -1,0 +1,162 @@
+{
+  "id": 29464,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "garlic",
+    "soybean",
+    "ginger",
+    "lime"
+  ],
+  "score_avg": 9.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "lime",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "lime",
+      "value": 25
+    },
+    {
+      "x": "lime",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "soybean",
+      "value": 22
+    },
+    {
+      "x": "lime",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

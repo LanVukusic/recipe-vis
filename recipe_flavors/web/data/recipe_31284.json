@@ -1,0 +1,792 @@
+{
+  "id": 31284,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "green_bell_pepper",
+    "mustard",
+    "mushroom",
+    "sage",
+    "black_pepper",
+    "white_wine",
+    "garlic",
+    "tomato",
+    "lamb",
+    "vinegar",
+    "onion"
+  ],
+  "score_avg": 9.090909090909092,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "white_wine",
+      "value": 11
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "green_bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "white_wine",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "lamb",
+      "value": 36
+    },
+    {
+      "x": "mushroom",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "sage",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "green_bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "white_wine",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "green_bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "white_wine",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "white_wine",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "white_wine",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "lamb",
+      "value": 30
+    },
+    {
+      "x": "white_wine",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "white_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "green_bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "mushroom",
+      "value": 36
+    },
+    {
+      "x": "lamb",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "white_wine",
+      "value": 30
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "lamb",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "lamb",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 21.272727272727273
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 18.363636363636363
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 11.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.272727272727273
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.909090909090909
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.363636363636363
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    }
+  ]
+}

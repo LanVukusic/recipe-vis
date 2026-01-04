@@ -1,0 +1,112 @@
+{
+  "id": 47855,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "coffee",
+    "lemon_juice",
+    "cream"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "coffee",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

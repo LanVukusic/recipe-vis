@@ -1,0 +1,562 @@
+{
+  "id": 22056,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "citrus",
+    "plum",
+    "raisin",
+    "pecan",
+    "cinnamon",
+    "nutmeg",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 9.422222222222222,
+  "pair_coverage": 0.8444444444444444,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "plum",
+      "value": 27
+    },
+    {
+      "x": "butter",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "citrus",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "plum",
+      "value": 20
+    },
+    {
+      "x": "citrus",
+      "y": "raisin",
+      "value": 4
+    },
+    {
+      "x": "citrus",
+      "y": "pecan",
+      "value": 9
+    },
+    {
+      "x": "citrus",
+      "y": "cinnamon",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "nutmeg",
+      "value": 12
+    },
+    {
+      "x": "citrus",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "citrus",
+      "y": "bread",
+      "value": 8
+    },
+    {
+      "x": "plum",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "plum",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "citrus",
+      "value": 20
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "plum",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "plum",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "plum",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "plum",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "plum",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "citrus",
+      "value": 4
+    },
+    {
+      "x": "raisin",
+      "y": "plum",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pecan",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "bread",
+      "value": 9
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "citrus",
+      "value": 9
+    },
+    {
+      "x": "pecan",
+      "y": "plum",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "pecan",
+      "y": "nutmeg",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "plum",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "pecan",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "citrus",
+      "value": 12
+    },
+    {
+      "x": "nutmeg",
+      "y": "plum",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "pecan",
+      "value": 6
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "citrus",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "plum",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "citrus",
+      "value": 8
+    },
+    {
+      "x": "bread",
+      "y": "plum",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "raisin",
+      "value": 9
+    },
+    {
+      "x": "bread",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "cinnamon",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 18.444444444444443
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 13.222222222222221
+    },
+    {
+      "ingredient": "bread",
+      "mean": 11.444444444444445
+    },
+    {
+      "ingredient": "plum",
+      "mean": 11.11111111111111
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 9.777777777777779
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.222222222222221
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.777777777777778
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 6.555555555555555
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 6.444444444444445
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2222222222222222
+    }
+  ]
+}

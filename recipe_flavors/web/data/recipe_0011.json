@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "cuisine": "African",
+  "ingredients": [
+    "chicken",
+    "onion"
+  ],
+  "score_avg": 20.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 20.0
+    }
+  ]
+}

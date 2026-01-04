@@ -1,0 +1,42 @@
+{
+  "id": 44608,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cucumber",
+    "lemon"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cucumber",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 8.0
+    }
+  ]
+}

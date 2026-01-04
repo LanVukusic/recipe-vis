@@ -1,0 +1,292 @@
+{
+  "id": 27235,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "garlic",
+    "meat",
+    "mushroom",
+    "egg_noodle",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 5.380952380952381,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "meat",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "meat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "meat",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "meat",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "egg_noodle",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 10.833333333333334
+    },
+    {
+      "ingredient": "meat",
+      "mean": 7.833333333333333
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.833333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.833333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

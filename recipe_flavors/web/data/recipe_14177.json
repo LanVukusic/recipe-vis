@@ -1,0 +1,72 @@
+{
+  "id": 14177,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "potato_chip",
+    "milk"
+  ],
+  "score_avg": 26.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "potato_chip",
+      "value": 17
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "potato_chip",
+      "y": "cocoa",
+      "value": 17
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "potato_chip",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 14.0
+    }
+  ]
+}

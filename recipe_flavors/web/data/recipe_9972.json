@@ -1,0 +1,112 @@
+{
+  "id": 9972,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "red_wine",
+    "rhubarb",
+    "wine"
+  ],
+  "score_avg": 22.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "rhubarb",
+      "value": 4
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "rhubarb",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "red_wine",
+      "value": 4
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "wine",
+      "value": 3
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "rhubarb",
+      "value": 3
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 43.666666666666664
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

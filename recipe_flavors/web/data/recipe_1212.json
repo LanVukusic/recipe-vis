@@ -1,0 +1,42 @@
+{
+  "id": 1212,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "citrus",
+    "nut"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "citrus",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 3.0
+    }
+  ]
+}

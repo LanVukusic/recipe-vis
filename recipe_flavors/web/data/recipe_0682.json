@@ -1,0 +1,112 @@
+{
+  "id": 682,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "sake",
+    "chicken",
+    "green_bell_pepper",
+    "soy_sauce"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "sake",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "sake",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "sake",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

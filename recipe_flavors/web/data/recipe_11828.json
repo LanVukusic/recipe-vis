@@ -1,0 +1,42 @@
+{
+  "id": 11828,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "seed"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "seed",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "orange",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 7.0
+    }
+  ]
+}

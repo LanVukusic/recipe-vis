@@ -1,0 +1,42 @@
+{
+  "id": 49674,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "strawberry",
+    "wine"
+  ],
+  "score_avg": 72.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "wine",
+      "value": 72
+    },
+    {
+      "x": "wine",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 72.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 72.0
+    }
+  ]
+}

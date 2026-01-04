@@ -1,0 +1,72 @@
+{
+  "id": 36832,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "cream",
+    "rhubarb"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "orange_juice",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 0.0
+    }
+  ]
+}

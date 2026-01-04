@@ -1,0 +1,112 @@
+{
+  "id": 4589,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vegetable",
+    "black_bean",
+    "corn",
+    "tomato"
+  ],
+  "score_avg": 18.833333333333332,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "black_bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "corn",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "black_bean",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "black_bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_bean",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

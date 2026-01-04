@@ -1,0 +1,42 @@
+{
+  "id": 30566,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 15.0
+    }
+  ]
+}

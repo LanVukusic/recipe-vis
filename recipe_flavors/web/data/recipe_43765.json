@@ -1,0 +1,112 @@
+{
+  "id": 43765,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "scallion",
+    "swiss_cheese",
+    "mustard",
+    "bread"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "mustard",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "swiss_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

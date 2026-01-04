@@ -1,0 +1,162 @@
+{
+  "id": 10779,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "beer",
+    "onion",
+    "pork_sausage",
+    "mustard"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beer",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "onion",
+      "value": 28
+    },
+    {
+      "x": "beer",
+      "y": "pork_sausage",
+      "value": 70
+    },
+    {
+      "x": "beer",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "beer",
+      "value": 28
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "beer",
+      "value": 70
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "beer",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "pork_sausage",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

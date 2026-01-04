@@ -1,0 +1,42 @@
+{
+  "id": 6294,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "coffee",
+    "orange_juice"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "orange_juice",
+      "value": 13
+    },
+    {
+      "x": "orange_juice",
+      "y": "coffee",
+      "value": 13
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 13.0
+    }
+  ]
+}

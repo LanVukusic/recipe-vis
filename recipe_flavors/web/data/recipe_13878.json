@@ -1,0 +1,72 @@
+{
+  "id": 13878,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "mushroom",
+    "pork_sausage"
+  ],
+  "score_avg": 46.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bean",
+      "y": "pork_sausage",
+      "value": 42
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 45.5
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 44.5
+    }
+  ]
+}

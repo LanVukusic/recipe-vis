@@ -1,0 +1,112 @@
+{
+  "id": 48450,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "apricot",
+    "grape_juice",
+    "peach",
+    "cherry"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "peach",
+      "value": 36
+    },
+    {
+      "x": "apricot",
+      "y": "cherry",
+      "value": 26
+    },
+    {
+      "x": "grape_juice",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cherry",
+      "value": 1
+    },
+    {
+      "x": "peach",
+      "y": "apricot",
+      "value": 36
+    },
+    {
+      "x": "peach",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cherry",
+      "value": 21
+    },
+    {
+      "x": "cherry",
+      "y": "apricot",
+      "value": 26
+    },
+    {
+      "x": "cherry",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "cherry",
+      "y": "peach",
+      "value": 21
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "peach",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 44098,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream_cheese",
+    "black_pepper",
+    "bell_pepper",
+    "parmesan_cheese",
+    "milk"
+  ],
+  "score_avg": 38.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "cream_cheese",
+      "y": "parmesan_cheese",
+      "value": 130
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cream_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "bell_pepper",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "milk",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 61.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 55.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 41.25
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 13.25
+    }
+  ]
+}

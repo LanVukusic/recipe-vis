@@ -1,0 +1,72 @@
+{
+  "id": 36136,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "raspberry",
+    "currant"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "raspberry",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "currant",
+      "value": 5
+    },
+    {
+      "x": "raspberry",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "currant",
+      "value": 31
+    },
+    {
+      "x": "currant",
+      "y": "honey",
+      "value": 5
+    },
+    {
+      "x": "currant",
+      "y": "raspberry",
+      "value": 31
+    },
+    {
+      "x": "currant",
+      "y": "currant",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "currant",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 13.5
+    }
+  ]
+}

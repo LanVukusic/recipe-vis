@@ -1,0 +1,112 @@
+{
+  "id": 7364,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "shallot",
+    "cane_molasses",
+    "ginger",
+    "cranberry"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "cranberry",
+      "value": 3
+    },
+    {
+      "x": "cane_molasses",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "cranberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "ginger",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

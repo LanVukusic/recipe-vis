@@ -1,0 +1,112 @@
+{
+  "id": 12394,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "carrot",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 12.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "carrot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.666666666666667
+    }
+  ]
+}

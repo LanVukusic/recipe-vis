@@ -1,0 +1,462 @@
+{
+  "id": 19007,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "cheddar_cheese",
+    "meat",
+    "scallion",
+    "vegetable",
+    "white_bread",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 11.777777777777779,
+  "pair_coverage": 0.5833333333333334,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "white_bread",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "meat",
+      "value": 33
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "cheddar_cheese",
+      "value": 33
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "white_bread",
+      "value": 21
+    },
+    {
+      "x": "meat",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "meat",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "meat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "white_bread",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "meat",
+      "value": 21
+    },
+    {
+      "x": "white_bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "white_bread",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "meat",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "meat",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "white_bread",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.625
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "meat",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.125
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 32932,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape_juice",
+    "lemon",
+    "lime"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 22222,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "fish",
+    "black_pepper",
+    "tuna",
+    "bread"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "tuna",
+      "value": 64
+    },
+    {
+      "x": "fish",
+      "y": "bread",
+      "value": 22
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tuna",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "tuna",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "fish",
+      "value": 64
+    },
+    {
+      "x": "tuna",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "fish",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "tuna",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tuna",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "fish",
+      "mean": 21.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    }
+  ]
+}

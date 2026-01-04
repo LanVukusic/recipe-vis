@@ -1,0 +1,72 @@
+{
+  "id": 47433,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "honey",
+    "cream"
+  ],
+  "score_avg": 16.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "honey",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.5
+    }
+  ]
+}

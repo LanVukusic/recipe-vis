@@ -1,0 +1,112 @@
+{
+  "id": 39255,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coriander",
+    "olive_oil",
+    "almond",
+    "cayenne"
+  ],
+  "score_avg": 2.1666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "coriander",
+      "y": "cayenne",
+      "value": 12
+    },
+    {
+      "x": "olive_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "cayenne",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coriander",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

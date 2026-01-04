@@ -1,0 +1,792 @@
+{
+  "id": 45001,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "thyme",
+    "yeast",
+    "potato",
+    "bacon",
+    "scallion",
+    "mozzarella_cheese",
+    "garlic",
+    "oregano",
+    "basil",
+    "cheddar_cheese"
+  ],
+  "score_avg": 10.93939393939394,
+  "pair_coverage": 0.48484848484848486,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "bacon",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mozzarella_cheese",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "thyme",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "mozzarella_cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "bacon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bacon",
+      "value": 59
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cheddar_cheese",
+      "value": 127
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "oregano",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "potato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cheddar_cheese",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 30.636363636363637
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 28.181818181818183
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.727272727272727
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 22.727272727272727
+    },
+    {
+      "ingredient": "potato",
+      "mean": 18.636363636363637
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.1818181818181819
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 5595,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "coriander",
+    "garlic",
+    "avocado"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "avocado",
+      "value": 21
+    },
+    {
+      "x": "coriander",
+      "y": "tomato",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "avocado",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "avocado",
+      "y": "coriander",
+      "value": 9
+    },
+    {
+      "x": "avocado",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

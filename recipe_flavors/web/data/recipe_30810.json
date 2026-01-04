@@ -1,0 +1,72 @@
+{
+  "id": 30810,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "tequila",
+    "lime"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "lime",
+      "value": 25
+    },
+    {
+      "x": "tequila",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "beer",
+      "value": 25
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

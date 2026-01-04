@@ -1,0 +1,72 @@
+{
+  "id": 38091,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "litchi",
+    "cream"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "litchi",
+      "value": 4
+    },
+    {
+      "x": "coconut",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "litchi",
+      "y": "coconut",
+      "value": 4
+    },
+    {
+      "x": "litchi",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "coconut",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "litchi",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "litchi",
+      "mean": 3.5
+    }
+  ]
+}

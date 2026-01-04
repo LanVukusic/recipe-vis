@@ -1,0 +1,112 @@
+{
+  "id": 33899,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "sesame_oil",
+    "green_bell_pepper",
+    "broccoli",
+    "sesame_seed"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "broccoli",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

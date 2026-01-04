@@ -1,0 +1,162 @@
+{
+  "id": 40636,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vegetable_oil",
+    "pork",
+    "apple",
+    "blue_cheese"
+  ],
+  "score_avg": 38.3,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "blue_cheese",
+      "value": 71
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "blue_cheese",
+      "value": 61
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "blue_cheese",
+      "value": 86
+    },
+    {
+      "x": "blue_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "blue_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "blue_cheese",
+      "y": "apple",
+      "value": 86
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 54.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 48.5
+    },
+    {
+      "ingredient": "apple",
+      "mean": 47.25
+    },
+    {
+      "ingredient": "pork",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

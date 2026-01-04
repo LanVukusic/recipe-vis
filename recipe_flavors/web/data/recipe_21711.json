@@ -1,0 +1,42 @@
+{
+  "id": 21711,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "malt",
+    "beef"
+  ],
+  "score_avg": 52.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "malt",
+      "y": "malt",
+      "value": 0
+    },
+    {
+      "x": "malt",
+      "y": "beef",
+      "value": 52
+    },
+    {
+      "x": "beef",
+      "y": "malt",
+      "value": 52
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "malt",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 52.0
+    }
+  ]
+}

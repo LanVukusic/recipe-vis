@@ -1,0 +1,112 @@
+{
+  "id": 20702,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "egg",
+    "apple",
+    "cream_cheese"
+  ],
+  "score_avg": 30.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "apple",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "apple",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cream_cheese",
+      "value": 73
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "apple",
+      "value": 73
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "apple",
+      "mean": 40.333333333333336
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.666666666666668
+    }
+  ]
+}

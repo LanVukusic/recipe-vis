@@ -1,0 +1,112 @@
+{
+  "id": 5773,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "pork",
+    "turnip",
+    "bean",
+    "onion"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "turnip",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "bean",
+      "value": 2
+    },
+    {
+      "x": "turnip",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "pork",
+      "value": 42
+    },
+    {
+      "x": "bean",
+      "y": "turnip",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "turnip",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 1.0
+    }
+  ]
+}

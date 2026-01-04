@@ -1,0 +1,162 @@
+{
+  "id": 40719,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "pepper",
+    "bacon",
+    "onion",
+    "kidney_bean"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "kidney_bean",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "kidney_bean",
+      "value": 43
+    },
+    {
+      "x": "onion",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "kidney_bean",
+      "value": 13
+    },
+    {
+      "x": "kidney_bean",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "kidney_bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "kidney_bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "kidney_bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "kidney_bean",
+      "y": "kidney_bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "kidney_bean",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

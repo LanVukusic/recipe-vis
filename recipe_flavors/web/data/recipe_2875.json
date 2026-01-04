@@ -1,0 +1,112 @@
+{
+  "id": 2875,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "horseradish",
+    "smoked_sausage",
+    "beet",
+    "smoke"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoke",
+      "value": 3
+    },
+    {
+      "x": "beet",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoked_sausage",
+      "value": 3
+    },
+    {
+      "x": "smoke",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "beet",
+      "mean": 0.0
+    }
+  ]
+}

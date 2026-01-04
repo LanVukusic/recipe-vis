@@ -1,0 +1,112 @@
+{
+  "id": 44607,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "asparagus",
+    "almond",
+    "parmesan_cheese"
+  ],
+  "score_avg": 24.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "asparagus",
+      "y": "parmesan_cheese",
+      "value": 30
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "asparagus",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

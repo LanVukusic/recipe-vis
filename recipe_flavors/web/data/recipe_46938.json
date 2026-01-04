@@ -1,0 +1,72 @@
+{
+  "id": 46938,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "black_pepper",
+    "bell_pepper"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

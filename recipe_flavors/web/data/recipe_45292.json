@@ -1,0 +1,42 @@
+{
+  "id": 45292,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "cream"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "whiskey",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whiskey",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.0
+    }
+  ]
+}

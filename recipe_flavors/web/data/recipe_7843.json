@@ -1,0 +1,72 @@
+{
+  "id": 7843,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "quince",
+    "vanilla",
+    "white_wine"
+  ],
+  "score_avg": 25.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "quince",
+      "y": "quince",
+      "value": 0
+    },
+    {
+      "x": "quince",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "quince",
+      "y": "white_wine",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "quince",
+      "value": 10
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "white_wine",
+      "value": 40
+    },
+    {
+      "x": "white_wine",
+      "y": "quince",
+      "value": 27
+    },
+    {
+      "x": "white_wine",
+      "y": "vanilla",
+      "value": 40
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "quince",
+      "mean": 18.5
+    }
+  ]
+}

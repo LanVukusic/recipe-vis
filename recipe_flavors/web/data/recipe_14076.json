@@ -1,0 +1,112 @@
+{
+  "id": 14076,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "garlic",
+    "crab"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "crab",
+      "value": 22
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "crab",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "crab",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

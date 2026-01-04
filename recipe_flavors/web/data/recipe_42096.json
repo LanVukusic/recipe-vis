@@ -1,0 +1,562 @@
+{
+  "id": 42096,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "tea",
+    "vanilla",
+    "black_pepper",
+    "ginger",
+    "cinnamon",
+    "black_tea",
+    "yogurt",
+    "vegetable_oil",
+    "milk"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.6444444444444445,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_tea",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "vanilla",
+      "value": 39
+    },
+    {
+      "x": "tea",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "tea",
+      "y": "ginger",
+      "value": 47
+    },
+    {
+      "x": "tea",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "tea",
+      "y": "black_tea",
+      "value": 171
+    },
+    {
+      "x": "tea",
+      "y": "yogurt",
+      "value": 19
+    },
+    {
+      "x": "tea",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "tea",
+      "value": 39
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "black_tea",
+      "value": 45
+    },
+    {
+      "x": "vanilla",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tea",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_tea",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "tea",
+      "value": 47
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "black_tea",
+      "value": 50
+    },
+    {
+      "x": "ginger",
+      "y": "yogurt",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "tea",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_tea",
+      "value": 22
+    },
+    {
+      "x": "cinnamon",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "black_tea",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_tea",
+      "y": "tea",
+      "value": 171
+    },
+    {
+      "x": "black_tea",
+      "y": "vanilla",
+      "value": 45
+    },
+    {
+      "x": "black_tea",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "black_tea",
+      "y": "ginger",
+      "value": 50
+    },
+    {
+      "x": "black_tea",
+      "y": "cinnamon",
+      "value": 22
+    },
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    },
+    {
+      "x": "black_tea",
+      "y": "yogurt",
+      "value": 23
+    },
+    {
+      "x": "black_tea",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_tea",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "yogurt",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "tea",
+      "value": 19
+    },
+    {
+      "x": "yogurt",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "yogurt",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "yogurt",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "black_tea",
+      "value": 23
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_tea",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "tea",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "black_tea",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_tea",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "tea",
+      "mean": 41.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 20.444444444444443
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 11.222222222222221
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.222222222222221
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.1111111111111111
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

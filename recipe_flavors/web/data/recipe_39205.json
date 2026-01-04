@@ -1,0 +1,72 @@
+{
+  "id": 39205,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "garlic",
+    "chicken_liver"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_liver",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "chicken_liver",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "chicken_liver",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "chicken_liver",
+      "mean": 1.5
+    }
+  ]
+}

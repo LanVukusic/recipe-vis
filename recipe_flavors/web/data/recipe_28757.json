@@ -1,0 +1,112 @@
+{
+  "id": 28757,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "vinegar",
+    "red_wine",
+    "raspberry"
+  ],
+  "score_avg": 21.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "yogurt",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "yogurt",
+      "y": "raspberry",
+      "value": 13
+    },
+    {
+      "x": "vinegar",
+      "y": "yogurt",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "red_wine",
+      "y": "yogurt",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "raspberry",
+      "value": 54
+    },
+    {
+      "x": "raspberry",
+      "y": "yogurt",
+      "value": 13
+    },
+    {
+      "x": "raspberry",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "red_wine",
+      "value": 54
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 13.333333333333334
+    }
+  ]
+}

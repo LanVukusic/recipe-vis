@@ -1,0 +1,162 @@
+{
+  "id": 1896,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "lemon",
+    "soy_sauce",
+    "japanese_plum",
+    "egg",
+    "shrimp"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "japanese_plum",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "shrimp",
+      "value": 9
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "japanese_plum",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "japanese_plum",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shrimp",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "japanese_plum",
+      "mean": 0.25
+    }
+  ]
+}

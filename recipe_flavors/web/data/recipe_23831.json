@@ -1,0 +1,72 @@
+{
+  "id": 23831,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "raspberry",
+    "wine"
+  ],
+  "score_avg": 50.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "raspberry",
+      "value": 42
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "raspberry",
+      "y": "cocoa",
+      "value": 42
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 55.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 52.5
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 44.5
+    }
+  ]
+}

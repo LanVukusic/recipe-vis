@@ -1,0 +1,792 @@
+{
+  "id": 175,
+  "cuisine": "African",
+  "ingredients": [
+    "lamb",
+    "olive_oil",
+    "lemon_juice",
+    "wheat",
+    "onion",
+    "apricot",
+    "mint",
+    "black_pepper",
+    "cumin",
+    "garlic",
+    "coriander",
+    "lemon_peel"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.5606060606060606,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "apricot",
+      "value": 15
+    },
+    {
+      "x": "lamb",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "lamb",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "apricot",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "apricot",
+      "y": "lamb",
+      "value": 15
+    },
+    {
+      "x": "apricot",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "apricot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "apricot",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "apricot",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "apricot",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "lamb",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "apricot",
+      "value": 12
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "lemon_peel",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "apricot",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "cumin",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "coriander",
+      "value": 7
+    },
+    {
+      "x": "cumin",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "lamb",
+      "value": 11
+    },
+    {
+      "x": "coriander",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "coriander",
+      "y": "apricot",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "coriander",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "apricot",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "lemon_peel",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "coriander",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2727272727272727
+    }
+  ]
+}

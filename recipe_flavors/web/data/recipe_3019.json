@@ -1,0 +1,42 @@
+{
+  "id": 3019,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "egg",
+    "milk"
+  ],
+  "score_avg": 32.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 32.0
+    }
+  ]
+}

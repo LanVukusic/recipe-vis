@@ -1,0 +1,162 @@
+{
+  "id": 505,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vinegar",
+    "chicken",
+    "garlic",
+    "pepper",
+    "soybean"
+  ],
+  "score_avg": 12.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "soybean",
+      "value": 71
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "chicken",
+      "value": 71
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.25
+    }
+  ]
+}

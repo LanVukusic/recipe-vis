@@ -1,0 +1,292 @@
+{
+  "id": 16791,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "potato",
+    "mozzarella_cheese",
+    "tuna",
+    "egg",
+    "milk",
+    "parmesan_cheese",
+    "scallion"
+  ],
+  "score_avg": 34.333333333333336,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "mozzarella_cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "tuna",
+      "value": 35
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "potato",
+      "y": "parmesan_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tuna",
+      "value": 43
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "potato",
+      "value": 35
+    },
+    {
+      "x": "tuna",
+      "y": "mozzarella_cheese",
+      "value": 43
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tuna",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "tuna",
+      "y": "parmesan_cheese",
+      "value": 48
+    },
+    {
+      "x": "tuna",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "tuna",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "mozzarella_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "tuna",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tuna",
+      "value": 48
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "milk",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 57.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 51.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 43.166666666666664
+    },
+    {
+      "ingredient": "potato",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

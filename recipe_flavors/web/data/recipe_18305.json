@@ -1,0 +1,162 @@
+{
+  "id": 18305,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "popcorn",
+    "cane_molasses",
+    "corn",
+    "butter",
+    "milk"
+  ],
+  "score_avg": 19.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "corn",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "milk",
+      "value": 14
+    },
+    {
+      "x": "cane_molasses",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "butter",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 22.75
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

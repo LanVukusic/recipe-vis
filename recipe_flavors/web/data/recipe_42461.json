@@ -1,0 +1,562 @@
+{
+  "id": 42461,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "vinegar",
+    "feta_cheese",
+    "red_wine",
+    "black_pepper",
+    "macaroni",
+    "artichoke",
+    "olive",
+    "garlic",
+    "bell_pepper"
+  ],
+  "score_avg": 7.066666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive",
+      "value": 3
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "feta_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "artichoke",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "olive",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "red_wine",
+      "value": 71
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "feta_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "feta_cheese",
+      "value": 71
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "olive",
+      "value": 31
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "artichoke",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "olive",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "olive_oil",
+      "value": 3
+    },
+    {
+      "x": "olive",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "olive",
+      "y": "feta_cheese",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "red_wine",
+      "value": 31
+    },
+    {
+      "x": "olive",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "olive",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 16.77777777777778
+    },
+    {
+      "ingredient": "olive",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.555555555555555
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.444444444444445
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.7777777777777777
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8888888888888888
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 0.7777777777777778
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

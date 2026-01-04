@@ -1,0 +1,112 @@
+{
+  "id": 6635,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "mint",
+    "lemon_juice",
+    "wheat",
+    "pea"
+  ],
+  "score_avg": 2.1666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "pea",
+      "value": 7
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "mint",
+      "value": 7
+    },
+    {
+      "x": "pea",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 7513,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cardamom",
+    "lemon_juice",
+    "raspberry",
+    "peach"
+  ],
+  "score_avg": 13.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cardamom",
+      "y": "raspberry",
+      "value": 27
+    },
+    {
+      "x": "cardamom",
+      "y": "peach",
+      "value": 10
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cardamom",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cardamom",
+      "value": 27
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "peach",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "cardamom",
+      "value": 10
+    },
+    {
+      "x": "peach",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "peach",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

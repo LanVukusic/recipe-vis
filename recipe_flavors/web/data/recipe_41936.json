@@ -1,0 +1,72 @@
+{
+  "id": 41936,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "cayenne",
+    "cream_cheese"
+  ],
+  "score_avg": 23.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "cream_cheese",
+      "value": 63
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 3.5
+    }
+  ]
+}

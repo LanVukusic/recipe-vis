@@ -1,0 +1,792 @@
+{
+  "id": 7898,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "cardamom",
+    "vanilla",
+    "pear",
+    "ginger",
+    "white_wine",
+    "cocoa",
+    "buttermilk",
+    "pear_brandy",
+    "cinnamon",
+    "egg"
+  ],
+  "score_avg": 12.984848484848484,
+  "pair_coverage": 0.7727272727272727,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "pear",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "ginger",
+      "value": 29
+    },
+    {
+      "x": "cheese",
+      "y": "white_wine",
+      "value": 79
+    },
+    {
+      "x": "cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cheese",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "pear_brandy",
+      "value": 3
+    },
+    {
+      "x": "cheese",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cheese",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cardamom",
+      "y": "pear",
+      "value": 10
+    },
+    {
+      "x": "cardamom",
+      "y": "ginger",
+      "value": 30
+    },
+    {
+      "x": "cardamom",
+      "y": "white_wine",
+      "value": 23
+    },
+    {
+      "x": "cardamom",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "cardamom",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "pear_brandy",
+      "value": 1
+    },
+    {
+      "x": "cardamom",
+      "y": "cinnamon",
+      "value": 14
+    },
+    {
+      "x": "cardamom",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "vanilla",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cardamom",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pear",
+      "value": 5
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "white_wine",
+      "value": 40
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "pear_brandy",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "pear",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "cardamom",
+      "value": 10
+    },
+    {
+      "x": "pear",
+      "y": "vanilla",
+      "value": 5
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "pear",
+      "y": "white_wine",
+      "value": 25
+    },
+    {
+      "x": "pear",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "pear",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "pear",
+      "y": "pear_brandy",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "cheese",
+      "value": 29
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cardamom",
+      "value": 30
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "pear",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "white_wine",
+      "value": 34
+    },
+    {
+      "x": "ginger",
+      "y": "cocoa",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "pear_brandy",
+      "value": 4
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "white_wine",
+      "y": "cheese",
+      "value": 79
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "cardamom",
+      "value": 23
+    },
+    {
+      "x": "white_wine",
+      "y": "vanilla",
+      "value": 40
+    },
+    {
+      "x": "white_wine",
+      "y": "pear",
+      "value": 25
+    },
+    {
+      "x": "white_wine",
+      "y": "ginger",
+      "value": 34
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "cocoa",
+      "value": 86
+    },
+    {
+      "x": "white_wine",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "white_wine",
+      "y": "pear_brandy",
+      "value": 7
+    },
+    {
+      "x": "white_wine",
+      "y": "cinnamon",
+      "value": 14
+    },
+    {
+      "x": "white_wine",
+      "y": "egg",
+      "value": 22
+    },
+    {
+      "x": "cocoa",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cardamom",
+      "value": 15
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "pear",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "cocoa",
+      "y": "white_wine",
+      "value": 86
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "cocoa",
+      "y": "pear_brandy",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "pear",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "white_wine",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "cocoa",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "pear_brandy",
+      "y": "cheese",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "cardamom",
+      "value": 1
+    },
+    {
+      "x": "pear_brandy",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "pear_brandy",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "pear_brandy",
+      "y": "white_wine",
+      "value": 7
+    },
+    {
+      "x": "pear_brandy",
+      "y": "cocoa",
+      "value": 2
+    },
+    {
+      "x": "pear_brandy",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cardamom",
+      "value": 14
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "white_wine",
+      "value": 14
+    },
+    {
+      "x": "cinnamon",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "pear",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "white_wine",
+      "value": 22
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 30.545454545454547
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 25.545454545454547
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 25.454545454545453
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 16.818181818181817
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.909090909090908
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 11.454545454545455
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.090909090909092
+    },
+    {
+      "ingredient": "pear",
+      "mean": 8.818181818181818
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 8.181818181818182
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "pear_brandy",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

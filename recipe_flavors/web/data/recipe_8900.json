@@ -1,0 +1,112 @@
+{
+  "id": 8900,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "apricot",
+    "milk",
+    "gelatin"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "apricot",
+      "value": 7
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "yogurt",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "yogurt",
+      "value": 7
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "apricot",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "apricot",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

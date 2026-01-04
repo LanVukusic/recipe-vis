@@ -1,0 +1,42 @@
+{
+  "id": 22826,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "popcorn"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 14.0
+    }
+  ]
+}

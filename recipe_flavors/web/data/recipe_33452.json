@@ -1,0 +1,112 @@
+{
+  "id": 33452,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "lemon_juice",
+    "lemon_peel",
+    "white_wine"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "strawberry",
+      "y": "white_wine",
+      "value": 99
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "strawberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "white_wine",
+      "value": 4
+    },
+    {
+      "x": "white_wine",
+      "y": "strawberry",
+      "value": 99
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 34.333333333333336
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

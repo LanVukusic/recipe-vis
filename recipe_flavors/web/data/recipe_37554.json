@@ -1,0 +1,42 @@
+{
+  "id": 37554,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "pineapple"
+  ],
+  "score_avg": 38.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "melon",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 38.0
+    }
+  ]
+}

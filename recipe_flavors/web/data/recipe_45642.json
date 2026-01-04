@@ -1,0 +1,72 @@
+{
+  "id": 45642,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "nut",
+    "wheat"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "mandarin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "mandarin",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mandarin",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

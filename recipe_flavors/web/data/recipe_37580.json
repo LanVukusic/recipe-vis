@@ -1,0 +1,112 @@
+{
+  "id": 37580,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "corn",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 27.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "corn",
+      "value": 25
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "corn",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "corn",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "orange",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 21.0
+    }
+  ]
+}

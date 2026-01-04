@@ -1,0 +1,112 @@
+{
+  "id": 27539,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bread",
+    "crab",
+    "cream_cheese",
+    "scallion"
+  ],
+  "score_avg": 11.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "bread",
+      "value": 8
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "cream_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "crab",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

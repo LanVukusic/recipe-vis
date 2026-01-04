@@ -1,0 +1,72 @@
+{
+  "id": 18523,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "orange_peel",
+    "white_bread"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "orange_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "white_bread",
+      "value": 2
+    },
+    {
+      "x": "white_bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 3.0
+    }
+  ]
+}

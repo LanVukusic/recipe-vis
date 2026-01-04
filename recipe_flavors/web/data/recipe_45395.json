@@ -1,0 +1,112 @@
+{
+  "id": 45395,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef_broth",
+    "black_pepper",
+    "barley",
+    "beef"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "barley",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "barley",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "barley",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "barley",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 45683,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rose",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "rose",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "rose",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "rose",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "rose",
+      "mean": 4.5
+    }
+  ]
+}

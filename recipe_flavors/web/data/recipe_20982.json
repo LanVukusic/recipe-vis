@@ -1,0 +1,162 @@
+{
+  "id": 20982,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg_noodle",
+    "chicken_broth",
+    "rice",
+    "chicken"
+  ],
+  "score_avg": 16.3,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 29.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "rice",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.5
+    }
+  ]
+}

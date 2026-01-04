@@ -1,0 +1,792 @@
+{
+  "id": 6114,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "onion",
+    "black_pepper",
+    "corn",
+    "cayenne",
+    "milk_fat",
+    "garlic",
+    "bell_pepper",
+    "lard",
+    "basil",
+    "milk"
+  ],
+  "score_avg": 9.878787878787879,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "milk_fat",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "cheese",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "corn",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "milk_fat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "corn",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "basil",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "lard",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "basil",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "tomato",
+      "value": 43
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 19.363636363636363
+    },
+    {
+      "ingredient": "milk",
+      "mean": 18.818181818181817
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 18.454545454545453
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 14.909090909090908
+    },
+    {
+      "ingredient": "corn",
+      "mean": 14.090909090909092
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 8.909090909090908
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.454545454545455
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "basil",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 812,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "fennel",
+    "black_pepper",
+    "star_anise",
+    "cinnamon"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "star_anise",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "cinnamon",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "star_anise",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "star_anise",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "star_anise",
+      "y": "black_pepper",
+      "value": 4
+    },
+    {
+      "x": "star_anise",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "fennel",
+      "value": 10
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "star_anise",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cinnamon",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "star_anise",
+      "mean": 6.0
+    }
+  ]
+}

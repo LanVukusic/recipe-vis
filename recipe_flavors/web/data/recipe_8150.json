@@ -1,0 +1,72 @@
+{
+  "id": 8150,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "apple",
+    "wine"
+  ],
+  "score_avg": 43.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "apple",
+      "y": "lemon",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "wine",
+      "value": 71
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "apple",
+      "value": 71
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 55.5
+    },
+    {
+      "ingredient": "wine",
+      "mean": 45.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 30.0
+    }
+  ]
+}

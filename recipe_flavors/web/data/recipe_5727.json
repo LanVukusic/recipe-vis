@@ -1,0 +1,162 @@
+{
+  "id": 5727,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "sherry",
+    "fish",
+    "lemon_juice",
+    "ginger",
+    "mango"
+  ],
+  "score_avg": 18.6,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "fish",
+      "value": 28
+    },
+    {
+      "x": "sherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "sherry",
+      "y": "mango",
+      "value": 57
+    },
+    {
+      "x": "fish",
+      "y": "sherry",
+      "value": 28
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "mango",
+      "value": 22
+    },
+    {
+      "x": "lemon_juice",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "sherry",
+      "value": 26
+    },
+    {
+      "x": "ginger",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mango",
+      "value": 33
+    },
+    {
+      "x": "mango",
+      "y": "sherry",
+      "value": 57
+    },
+    {
+      "x": "mango",
+      "y": "fish",
+      "value": 22
+    },
+    {
+      "x": "mango",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "fish",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.75
+    }
+  ]
+}

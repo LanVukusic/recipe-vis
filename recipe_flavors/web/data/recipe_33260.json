@@ -1,0 +1,72 @@
+{
+  "id": 33260,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "cheddar_cheese",
+    "macaroni"
+  ],
+  "score_avg": 44.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cheddar_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 65.5
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 64.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.5
+    }
+  ]
+}

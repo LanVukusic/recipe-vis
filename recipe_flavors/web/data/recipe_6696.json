@@ -1,0 +1,112 @@
+{
+  "id": 6696,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "butter",
+    "dill",
+    "rice",
+    "pistachio"
+  ],
+  "score_avg": 13.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "pistachio",
+      "value": 5
+    },
+    {
+      "x": "dill",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "dill",
+      "y": "pistachio",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "dill",
+      "value": 15
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pistachio",
+      "value": 4
+    },
+    {
+      "x": "pistachio",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pistachio",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "pistachio",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "pistachio",
+      "y": "pistachio",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "dill",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "pistachio",
+      "mean": 3.6666666666666665
+    }
+  ]
+}

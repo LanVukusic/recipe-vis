@@ -1,0 +1,162 @@
+{
+  "id": 8543,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "gruyere_cheese",
+    "egg",
+    "apple",
+    "shrimp"
+  ],
+  "score_avg": 40.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "gruyere_cheese",
+      "value": 68
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "butter",
+      "value": 68
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "gruyere_cheese",
+      "value": 0
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "apple",
+      "value": 89
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "shrimp",
+      "value": 36
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "gruyere_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "gruyere_cheese",
+      "value": 89
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "shrimp",
+      "value": 21
+    },
+    {
+      "x": "shrimp",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "gruyere_cheese",
+      "value": 36
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "apple",
+      "value": 21
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "gruyere_cheese",
+      "mean": 55.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 47.75
+    },
+    {
+      "ingredient": "apple",
+      "mean": 46.75
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 24.0
+    }
+  ]
+}

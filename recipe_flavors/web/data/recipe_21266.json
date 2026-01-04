@@ -1,0 +1,72 @@
+{
+  "id": 21266,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "raspberry",
+    "cider"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "cider",
+      "value": 18
+    },
+    {
+      "x": "raspberry",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cider",
+      "value": 27
+    },
+    {
+      "x": "cider",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "raspberry",
+      "value": 27
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cider",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 16.0
+    }
+  ]
+}

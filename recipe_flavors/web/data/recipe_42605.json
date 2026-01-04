@@ -1,0 +1,162 @@
+{
+  "id": 42605,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pepper",
+    "scallion",
+    "cucumber",
+    "cottage_cheese"
+  ],
+  "score_avg": 8.2,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "cottage_cheese",
+      "value": 51
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cottage_cheese",
+      "value": 6
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 29065,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "buttermilk",
+    "vanilla",
+    "pecan"
+  ],
+  "score_avg": 14.166666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "buttermilk",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "pecan",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.0
+    }
+  ]
+}

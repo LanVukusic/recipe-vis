@@ -1,0 +1,112 @@
+{
+  "id": 28393,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "olive_oil",
+    "tomato",
+    "parmesan_cheese"
+  ],
+  "score_avg": 21.166666666666668,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "asparagus",
+      "y": "parmesan_cheese",
+      "value": 30
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "asparagus",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

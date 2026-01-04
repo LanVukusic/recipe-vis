@@ -1,0 +1,112 @@
+{
+  "id": 10586,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lima_bean",
+    "garlic",
+    "rosemary"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lima_bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "lima_bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "lima_bean",
+      "y": "lima_bean",
+      "value": 0
+    },
+    {
+      "x": "lima_bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "lima_bean",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "lima_bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "lima_bean",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lima_bean",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

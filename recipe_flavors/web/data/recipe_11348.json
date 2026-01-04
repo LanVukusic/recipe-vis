@@ -1,0 +1,112 @@
+{
+  "id": 11348,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "olive_oil",
+    "butter",
+    "beef"
+  ],
+  "score_avg": 29.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "lamb",
+      "y": "beef",
+      "value": 58
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "lamb",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "lamb",
+      "value": 58
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 46.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

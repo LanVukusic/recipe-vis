@@ -1,0 +1,112 @@
+{
+  "id": 13486,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "provolone_cheese",
+    "bread",
+    "ham",
+    "pineapple"
+  ],
+  "score_avg": 28.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "provolone_cheese",
+      "y": "provolone_cheese",
+      "value": 0
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "pineapple",
+      "value": 42
+    },
+    {
+      "x": "bread",
+      "y": "provolone_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "pineapple",
+      "value": 20
+    },
+    {
+      "x": "ham",
+      "y": "provolone_cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "provolone_cheese",
+      "value": 42
+    },
+    {
+      "x": "pineapple",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "provolone_cheese",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 22.666666666666668
+    }
+  ]
+}

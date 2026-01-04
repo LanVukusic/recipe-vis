@@ -1,0 +1,162 @@
+{
+  "id": 2048,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "tomato",
+    "cucumber",
+    "wheat",
+    "soybean",
+    "green_tea"
+  ],
+  "score_avg": 27.1,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "soybean",
+      "value": 70
+    },
+    {
+      "x": "tomato",
+      "y": "green_tea",
+      "value": 76
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "soybean",
+      "value": 13
+    },
+    {
+      "x": "cucumber",
+      "y": "green_tea",
+      "value": 13
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "green_tea",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "tomato",
+      "value": 70
+    },
+    {
+      "x": "soybean",
+      "y": "cucumber",
+      "value": 13
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "green_tea",
+      "value": 86
+    },
+    {
+      "x": "green_tea",
+      "y": "tomato",
+      "value": 76
+    },
+    {
+      "x": "green_tea",
+      "y": "cucumber",
+      "value": 13
+    },
+    {
+      "x": "green_tea",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "green_tea",
+      "y": "soybean",
+      "value": 86
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_tea",
+      "mean": 43.75
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 39.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

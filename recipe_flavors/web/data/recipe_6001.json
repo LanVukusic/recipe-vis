@@ -1,0 +1,792 @@
+{
+  "id": 6001,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "tomato",
+    "cilantro",
+    "lemon",
+    "onion",
+    "thyme",
+    "cayenne",
+    "corn",
+    "black_pepper",
+    "garlic",
+    "basil",
+    "rosemary"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "cilantro",
+      "value": 11
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "tomato",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "cilantro",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "cilantro",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "cilantro",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "cilantro",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cilantro",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cilantro",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "tomato",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "cilantro",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "thyme",
+      "value": 11
+    },
+    {
+      "x": "lemon",
+      "y": "cayenne",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "corn",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "thyme",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "tomato",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "cilantro",
+      "value": 2
+    },
+    {
+      "x": "thyme",
+      "y": "lemon",
+      "value": 11
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "thyme",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "cilantro",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "rosemary",
+      "value": 10
+    },
+    {
+      "x": "rosemary",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "cilantro",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "basil",
+      "value": 10
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 16.272727272727273
+    },
+    {
+      "ingredient": "butter",
+      "mean": 14.818181818181818
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 12.454545454545455
+    },
+    {
+      "ingredient": "corn",
+      "mean": 11.363636363636363
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 8.181818181818182
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 5.818181818181818
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "basil",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 3.1818181818181817
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.727272727272727
+    }
+  ]
+}

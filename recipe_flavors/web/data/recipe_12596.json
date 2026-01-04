@@ -1,0 +1,162 @@
+{
+  "id": 12596,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "sassafras",
+    "coffee",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 25.0,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "sassafras",
+      "value": 1
+    },
+    {
+      "x": "whiskey",
+      "y": "coffee",
+      "value": 54
+    },
+    {
+      "x": "whiskey",
+      "y": "vanilla",
+      "value": 25
+    },
+    {
+      "x": "whiskey",
+      "y": "milk",
+      "value": 50
+    },
+    {
+      "x": "sassafras",
+      "y": "whiskey",
+      "value": 1
+    },
+    {
+      "x": "sassafras",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "sassafras",
+      "y": "coffee",
+      "value": 2
+    },
+    {
+      "x": "sassafras",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "sassafras",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "whiskey",
+      "value": 54
+    },
+    {
+      "x": "coffee",
+      "y": "sassafras",
+      "value": 2
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "vanilla",
+      "y": "whiskey",
+      "value": 25
+    },
+    {
+      "x": "vanilla",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "whiskey",
+      "value": 50
+    },
+    {
+      "x": "milk",
+      "y": "sassafras",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 34.25
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "sassafras",
+      "mean": 1.0
+    }
+  ]
+}

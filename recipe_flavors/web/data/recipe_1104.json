@@ -1,0 +1,792 @@
+{
+  "id": 1104,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "coriander",
+    "fenugreek",
+    "pepper",
+    "wheat",
+    "roasted_sesame_seed",
+    "mackerel",
+    "black_pepper",
+    "cumin",
+    "ginger",
+    "parsley",
+    "vegetable_oil",
+    "turmeric"
+  ],
+  "score_avg": 4.46969696969697,
+  "pair_coverage": 0.5454545454545454,
+  "heatmap": [
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "roasted_sesame_seed",
+      "value": 4
+    },
+    {
+      "x": "coriander",
+      "y": "mackerel",
+      "value": 8
+    },
+    {
+      "x": "coriander",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "coriander",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "coriander",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "coriander",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "turmeric",
+      "value": 5
+    },
+    {
+      "x": "fenugreek",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "roasted_sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "mackerel",
+      "value": 4
+    },
+    {
+      "x": "fenugreek",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "fenugreek",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mackerel",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "turmeric",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mackerel",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "coriander",
+      "value": 4
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "mackerel",
+      "value": 9
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "coriander",
+      "value": 8
+    },
+    {
+      "x": "mackerel",
+      "y": "fenugreek",
+      "value": 4
+    },
+    {
+      "x": "mackerel",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "mackerel",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mackerel",
+      "y": "roasted_sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "mackerel",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mackerel",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "mackerel",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "mackerel",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mackerel",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "turmeric",
+      "value": 4
+    },
+    {
+      "x": "cumin",
+      "y": "coriander",
+      "value": 7
+    },
+    {
+      "x": "cumin",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "cumin",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "cumin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "turmeric",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "coriander",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "fenugreek",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "roasted_sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "mackerel",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "cumin",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "parsley",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "turmeric",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "coriander",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mackerel",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "cumin",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "turmeric",
+      "value": 5
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "coriander",
+      "value": 5
+    },
+    {
+      "x": "turmeric",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "turmeric",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "black_pepper",
+      "value": 4
+    },
+    {
+      "x": "turmeric",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "turmeric",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "turmeric",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "turmeric",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "turmeric",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 10.636363636363637
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 7.454545454545454
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.545454545454546
+    },
+    {
+      "ingredient": "mackerel",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "turmeric",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "fenugreek",
+      "mean": 1.4545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

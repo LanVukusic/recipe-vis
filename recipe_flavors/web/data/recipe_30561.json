@@ -1,0 +1,72 @@
+{
+  "id": 30561,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "whiskey",
+    "pineapple"
+  ],
+  "score_avg": 34.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "whiskey",
+      "value": 27
+    },
+    {
+      "x": "melon",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "whiskey",
+      "y": "melon",
+      "value": 27
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "melon",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "whiskey",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "melon",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 32.5
+    }
+  ]
+}

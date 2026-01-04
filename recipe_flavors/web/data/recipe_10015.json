@@ -1,0 +1,162 @@
+{
+  "id": 10015,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "fennel",
+    "meat",
+    "tarragon",
+    "potato"
+  ],
+  "score_avg": 10.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "meat",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "tarragon",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "potato",
+      "value": 3
+    },
+    {
+      "x": "meat",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "meat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "tarragon",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "tarragon",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "meat",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "tarragon",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "potato",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "meat",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.75
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 18180,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "vanilla"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 31.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 34090,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "watermelon",
+    "avocado",
+    "vinegar"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "avocado",
+      "value": 9
+    },
+    {
+      "x": "watermelon",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "watermelon",
+      "value": 9
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "avocado",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "avocado",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "watermelon",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.5
+    }
+  ]
+}

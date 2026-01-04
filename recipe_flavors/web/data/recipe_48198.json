@@ -1,0 +1,162 @@
+{
+  "id": 48198,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "rice",
+    "rye_flour",
+    "milk"
+  ],
+  "score_avg": 16.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "rye_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "rye_flour",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "rye_flour",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "rye_flour",
+      "mean": 1.0
+    }
+  ]
+}

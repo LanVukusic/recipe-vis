@@ -1,0 +1,42 @@
+{
+  "id": 26904,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "peppermint"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "peppermint",
+      "value": 12
+    },
+    {
+      "x": "peppermint",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 12.0
+    }
+  ]
+}

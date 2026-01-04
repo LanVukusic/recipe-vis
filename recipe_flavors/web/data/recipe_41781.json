@@ -1,0 +1,162 @@
+{
+  "id": 41781,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "vanilla",
+    "corn",
+    "soybean",
+    "peanut_butter"
+  ],
+  "score_avg": 25.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "soybean",
+      "value": 49
+    },
+    {
+      "x": "corn",
+      "y": "peanut_butter",
+      "value": 41
+    },
+    {
+      "x": "soybean",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "corn",
+      "value": 49
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "peanut_butter",
+      "value": 88
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "soybean",
+      "value": 88
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

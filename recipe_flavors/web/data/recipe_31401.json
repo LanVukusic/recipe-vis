@@ -1,0 +1,42 @@
+{
+  "id": 31401,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apple",
+    "milk"
+  ],
+  "score_avg": 53.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "milk",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "apple",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 53.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 53.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 14178,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "peppermint_oil"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peppermint_oil",
+      "value": 11
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "peppermint_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "peppermint_oil",
+      "mean": 11.0
+    }
+  ]
+}

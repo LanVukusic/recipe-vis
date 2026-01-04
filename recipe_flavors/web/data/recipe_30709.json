@@ -1,0 +1,42 @@
+{
+  "id": 30709,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "almond"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 6.0
+    }
+  ]
+}

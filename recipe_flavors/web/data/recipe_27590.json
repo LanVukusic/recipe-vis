@@ -1,0 +1,162 @@
+{
+  "id": 27590,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "olive_oil",
+    "chicken",
+    "garlic",
+    "mushroom"
+  ],
+  "score_avg": 18.8,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "olive_oil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "mozzarella_cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 29.75
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.25
+    }
+  ]
+}

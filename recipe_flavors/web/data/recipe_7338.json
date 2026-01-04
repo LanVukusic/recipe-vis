@@ -1,0 +1,222 @@
+{
+  "id": 7338,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "potato",
+    "vegetable_oil",
+    "porcini",
+    "parsley"
+  ],
+  "score_avg": 15.133333333333333,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "porcini",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "mushroom",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "porcini",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "porcini",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "porcini",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "porcini",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "porcini",
+      "value": 0
+    },
+    {
+      "x": "porcini",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "porcini",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 33.4
+    },
+    {
+      "ingredient": "porcini",
+      "mean": 33.4
+    },
+    {
+      "ingredient": "potato",
+      "mean": 18.6
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.6
+    }
+  ]
+}

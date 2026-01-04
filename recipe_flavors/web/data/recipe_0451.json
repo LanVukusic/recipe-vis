@@ -1,0 +1,792 @@
+{
+  "id": 451,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pork",
+    "wheat",
+    "sesame_oil",
+    "starch",
+    "black_pepper",
+    "ginger",
+    "garlic",
+    "cabbage",
+    "shrimp",
+    "oyster",
+    "vinegar",
+    "soy_sauce"
+  ],
+  "score_avg": 3.5606060606060606,
+  "pair_coverage": 0.5303030303030303,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "pork",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "pork",
+      "y": "oyster",
+      "value": 14
+    },
+    {
+      "x": "pork",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "pork",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cabbage",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "pork",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "cabbage",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "ginger",
+      "y": "oyster",
+      "value": 6
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "oyster",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "pork",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "cabbage",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cabbage",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "oyster",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "pork",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "ginger",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "oyster",
+      "value": 16
+    },
+    {
+      "x": "shrimp",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "pork",
+      "value": 14
+    },
+    {
+      "x": "oyster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "ginger",
+      "value": 6
+    },
+    {
+      "x": "oyster",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "oyster",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "oyster",
+      "y": "shrimp",
+      "value": 16
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "oyster",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "oyster",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 9.636363636363637
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 6.909090909090909
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 4.636363636363637
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.272727272727273
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

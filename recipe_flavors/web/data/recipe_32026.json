@@ -1,0 +1,42 @@
+{
+  "id": 32026,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 23.0
+    }
+  ]
+}

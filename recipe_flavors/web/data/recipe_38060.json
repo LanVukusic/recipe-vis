@@ -1,0 +1,162 @@
+{
+  "id": 38060,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken_broth",
+    "garlic",
+    "chicken",
+    "ginger",
+    "zucchini"
+  ],
+  "score_avg": 3.3,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.0
+    }
+  ]
+}

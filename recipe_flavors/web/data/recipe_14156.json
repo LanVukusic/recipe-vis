@@ -1,0 +1,72 @@
+{
+  "id": 14156,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "egg",
+    "apple"
+  ],
+  "score_avg": 18.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "apple",
+      "value": 33
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.5
+    }
+  ]
+}

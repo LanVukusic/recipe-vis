@@ -1,0 +1,112 @@
+{
+  "id": 37577,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "cheddar_cheese",
+    "black_pepper",
+    "potato"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "buttermilk",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "buttermilk",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "black_pepper",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.666666666666667
+    }
+  ]
+}

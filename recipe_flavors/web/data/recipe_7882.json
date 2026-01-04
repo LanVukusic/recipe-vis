@@ -1,0 +1,72 @@
+{
+  "id": 7882,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "raspberry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    }
+  ]
+}

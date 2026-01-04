@@ -1,0 +1,42 @@
+{
+  "id": 47088,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "bread"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 31.0
+    }
+  ]
+}

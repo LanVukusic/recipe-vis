@@ -1,0 +1,72 @@
+{
+  "id": 9398,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pea",
+    "onion"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pea",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "pea",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "pea",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.5
+    }
+  ]
+}

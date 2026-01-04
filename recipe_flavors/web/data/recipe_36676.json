@@ -1,0 +1,112 @@
+{
+  "id": 36676,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "grape_juice",
+    "bacon",
+    "pea"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "grape_juice",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pea",
+      "value": 33
+    },
+    {
+      "x": "pea",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "bacon",
+      "value": 33
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

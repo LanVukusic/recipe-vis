@@ -1,0 +1,112 @@
+{
+  "id": 5107,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "chicken",
+    "cayenne",
+    "bell_pepper"
+  ],
+  "score_avg": 8.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "bell_pepper",
+      "value": 14
+    },
+    {
+      "x": "cayenne",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

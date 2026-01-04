@@ -1,0 +1,112 @@
+{
+  "id": 7811,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fruit",
+    "sage",
+    "wine",
+    "turmeric"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "turmeric",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "turmeric",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "turmeric",
+      "value": 1
+    },
+    {
+      "x": "turmeric",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "turmeric",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "turmeric",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "turmeric",
+      "y": "turmeric",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sage",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "turmeric",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wine",
+      "mean": 1.0
+    }
+  ]
+}

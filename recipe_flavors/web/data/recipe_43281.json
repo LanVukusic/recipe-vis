@@ -1,0 +1,42 @@
+{
+  "id": 43281,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "pineapple"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 2.0
+    }
+  ]
+}

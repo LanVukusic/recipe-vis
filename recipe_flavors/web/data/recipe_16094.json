@@ -1,0 +1,72 @@
+{
+  "id": 16094,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "raspberry",
+    "mint"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "raspberry",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 8.0
+    }
+  ]
+}

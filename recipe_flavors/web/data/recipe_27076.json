@@ -1,0 +1,72 @@
+{
+  "id": 27076,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "banana",
+    "rum"
+  ],
+  "score_avg": 34.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "banana",
+      "value": 23
+    },
+    {
+      "x": "coconut",
+      "y": "rum",
+      "value": 34
+    },
+    {
+      "x": "banana",
+      "y": "coconut",
+      "value": 23
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "rum",
+      "value": 47
+    },
+    {
+      "x": "rum",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "banana",
+      "value": 47
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 40.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 28.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 34336,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "cane_molasses",
+    "cinnamon",
+    "pork_sausage"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cinnamon",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

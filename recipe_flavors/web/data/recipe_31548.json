@@ -1,0 +1,292 @@
+{
+  "id": 31548,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "cilantro",
+    "lemon_juice",
+    "cucumber",
+    "kumquat",
+    "watercress",
+    "pear"
+  ],
+  "score_avg": 1.0952380952380953,
+  "pair_coverage": 0.2857142857142857,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "watercress",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "kumquat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "pear",
+      "value": 9
+    },
+    {
+      "x": "watercress",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "watercress",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "kumquat",
+      "value": 9
+    },
+    {
+      "x": "pear",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pear",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "kumquat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "watercress",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

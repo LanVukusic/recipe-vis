@@ -1,0 +1,112 @@
+{
+  "id": 47425,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "raspberry",
+    "banana",
+    "soybean"
+  ],
+  "score_avg": 30.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "raspberry",
+      "value": 13
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "soybean",
+      "value": 15
+    },
+    {
+      "x": "raspberry",
+      "y": "orange_juice",
+      "value": 13
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "banana",
+      "value": 40
+    },
+    {
+      "x": "raspberry",
+      "y": "soybean",
+      "value": 56
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "raspberry",
+      "value": 40
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "soybean",
+      "value": 47
+    },
+    {
+      "x": "soybean",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "soybean",
+      "y": "raspberry",
+      "value": 56
+    },
+    {
+      "x": "soybean",
+      "y": "banana",
+      "value": 47
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 39.333333333333336
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "banana",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 13.333333333333334
+    }
+  ]
+}

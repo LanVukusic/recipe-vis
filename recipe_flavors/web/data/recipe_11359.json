@@ -1,0 +1,112 @@
+{
+  "id": 11359,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "coffee",
+    "anise",
+    "cream"
+  ],
+  "score_avg": 23.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "coffee",
+      "value": 95
+    },
+    {
+      "x": "cocoa",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "coffee",
+      "y": "cocoa",
+      "value": 95
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "anise",
+      "y": "cocoa",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "coffee",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 39.333333333333336
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 38.333333333333336
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "anise",
+      "mean": 2.0
+    }
+  ]
+}

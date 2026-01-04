@@ -1,0 +1,112 @@
+{
+  "id": 22727,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "corn",
+    "roasted_peanut"
+  ],
+  "score_avg": 24.333333333333332,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "roasted_peanut",
+      "value": 69
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "roasted_peanut",
+      "value": 41
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "id": 39372,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "onion",
+    "cheddar_cheese",
+    "almond",
+    "celery",
+    "potato_chip",
+    "vegetable_oil",
+    "chicken",
+    "rice",
+    "egg"
+  ],
+  "score_avg": 10.622222222222222,
+  "pair_coverage": 0.7111111111111111,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "potato_chip",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "celery",
+      "value": 23
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato_chip",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken",
+      "value": 68
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "almond",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "potato_chip",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "celery",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "cheddar_cheese",
+      "value": 23
+    },
+    {
+      "x": "celery",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "potato_chip",
+      "value": 4
+    },
+    {
+      "x": "celery",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "potato_chip",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "potato_chip",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "potato_chip",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "potato_chip",
+      "y": "celery",
+      "value": 4
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "potato_chip",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "potato_chip",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "cheddar_cheese",
+      "value": 68
+    },
+    {
+      "x": "chicken",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "potato_chip",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "rice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "potato_chip",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "potato_chip",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 18.22222222222222
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.11111111111111
+    },
+    {
+      "ingredient": "celery",
+      "mean": 9.555555555555555
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 6.888888888888889
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.8888888888888888
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2222222222222222
+    }
+  ]
+}

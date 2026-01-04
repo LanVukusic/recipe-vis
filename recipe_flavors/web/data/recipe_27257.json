@@ -1,0 +1,42 @@
+{
+  "id": 27257,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pecan"
+  ],
+  "score_avg": 35.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 35.0
+    }
+  ]
+}

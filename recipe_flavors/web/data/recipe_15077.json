@@ -1,0 +1,72 @@
+{
+  "id": 15077,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "lemon_juice",
+    "cottage_cheese"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cottage_cheese",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "yogurt",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

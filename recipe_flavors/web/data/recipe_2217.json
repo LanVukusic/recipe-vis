@@ -1,0 +1,792 @@
+{
+  "id": 2217,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "mustard",
+    "mushroom",
+    "carrot",
+    "cucumber",
+    "soybean",
+    "vinegar",
+    "beef",
+    "shiitake",
+    "cayenne",
+    "sesame_seed",
+    "vegetable"
+  ],
+  "score_avg": 11.984848484848484,
+  "pair_coverage": 0.7575757575757576,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "mustard",
+      "y": "shiitake",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "mushroom",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "soybean",
+      "value": 20
+    },
+    {
+      "x": "carrot",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "shiitake",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "cayenne",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "soybean",
+      "value": 13
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "cucumber",
+      "y": "shiitake",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "mushroom",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "carrot",
+      "value": 20
+    },
+    {
+      "x": "soybean",
+      "y": "cucumber",
+      "value": 13
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "beef",
+      "value": 96
+    },
+    {
+      "x": "soybean",
+      "y": "shiitake",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "sesame_seed",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "shiitake",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "sesame_seed",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "mustard",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "cucumber",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "soybean",
+      "value": 96
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "shiitake",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "sesame_seed",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "shiitake",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "shiitake",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "shiitake",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "shiitake",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "shiitake",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "shiitake",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "shiitake",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "cayenne",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "sesame_seed",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "sesame_seed",
+      "y": "shiitake",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 28.272727272727273
+    },
+    {
+      "ingredient": "beef",
+      "mean": 28.09090909090909
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 27.90909090909091
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.090909090909091
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.090909090909091
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 16865,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nutmeg",
+    "apple",
+    "cinnamon"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "apple",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cinnamon",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "apple",
+      "mean": 11.0
+    }
+  ]
+}

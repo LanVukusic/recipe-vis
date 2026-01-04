@@ -1,0 +1,42 @@
+{
+  "id": 10835,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_raspberry",
+    "blackberry"
+  ],
+  "score_avg": 52.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_raspberry",
+      "y": "black_raspberry",
+      "value": 0
+    },
+    {
+      "x": "black_raspberry",
+      "y": "blackberry",
+      "value": 52
+    },
+    {
+      "x": "blackberry",
+      "y": "black_raspberry",
+      "value": 52
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_raspberry",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 52.0
+    }
+  ]
+}

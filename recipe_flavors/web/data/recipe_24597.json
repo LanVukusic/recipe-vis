@@ -1,0 +1,42 @@
+{
+  "id": 24597,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "goat_cheese"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "goat_cheese",
+      "value": 33
+    },
+    {
+      "x": "goat_cheese",
+      "y": "turkey",
+      "value": 33
+    },
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "goat_cheese",
+      "mean": 33.0
+    }
+  ]
+}

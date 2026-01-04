@@ -1,0 +1,292 @@
+{
+  "id": 6253,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "strawberry",
+    "lemon_juice",
+    "wheat",
+    "starch",
+    "lemon",
+    "egg",
+    "wine"
+  ],
+  "score_avg": 8.714285714285714,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "wine",
+      "value": 72
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "wine",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

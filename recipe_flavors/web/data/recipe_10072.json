@@ -1,0 +1,792 @@
+{
+  "id": 10072,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "starch",
+    "nut",
+    "pear",
+    "ginger",
+    "mace",
+    "pear_brandy",
+    "milk",
+    "cream",
+    "butter",
+    "lemon_peel",
+    "vanilla"
+  ],
+  "score_avg": 6.181818181818182,
+  "pair_coverage": 0.6212121212121212,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "mace",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "pear",
+      "y": "mace",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "pear_brandy",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "pear",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "pear",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "pear",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "vanilla",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "pear",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mace",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "pear_brandy",
+      "value": 4
+    },
+    {
+      "x": "ginger",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "ginger",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_peel",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "mace",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "mace",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "mace",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "mace",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "mace",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "mace",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "mace",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "mace",
+      "y": "vanilla",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "pear_brandy",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "pear_brandy",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "pear_brandy",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "pear_brandy",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "pear",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "mace",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "pear_brandy",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pear",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "mace",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "pear_brandy",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "pear",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "butter",
+      "y": "mace",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "pear_brandy",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "lemon_peel",
+      "y": "mace",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "pear_brandy",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "pear",
+      "value": 5
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "mace",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "pear_brandy",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.363636363636363
+    },
+    {
+      "ingredient": "milk",
+      "mean": 15.818181818181818
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 11.272727272727273
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 8.636363636363637
+    },
+    {
+      "ingredient": "pear",
+      "mean": 6.363636363636363
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.2727272727272725
+    },
+    {
+      "ingredient": "mace",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "pear_brandy",
+      "mean": 1.4545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

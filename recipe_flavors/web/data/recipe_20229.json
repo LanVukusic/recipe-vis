@@ -1,0 +1,112 @@
+{
+  "id": 20229,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "corn",
+    "egg",
+    "gelatin"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "strawberry",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

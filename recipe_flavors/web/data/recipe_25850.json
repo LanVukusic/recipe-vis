@@ -1,0 +1,162 @@
+{
+  "id": 25850,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "pork",
+    "cabbage",
+    "onion",
+    "potato"
+  ],
+  "score_avg": 28.6,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pork",
+      "value": 80
+    },
+    {
+      "x": "chicken",
+      "y": "cabbage",
+      "value": 16
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "chicken",
+      "value": 80
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "cabbage",
+      "y": "chicken",
+      "value": 16
+    },
+    {
+      "x": "cabbage",
+      "y": "pork",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cabbage",
+      "y": "potato",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "pork",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "cabbage",
+      "value": 13
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 41.25
+    },
+    {
+      "ingredient": "pork",
+      "mean": 39.25
+    },
+    {
+      "ingredient": "potato",
+      "mean": 30.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 14.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 42274,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "peanut_butter",
+    "cream"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "peanut_butter",
+      "value": 41
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cream",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "peanut_butter",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    }
+  ]
+}

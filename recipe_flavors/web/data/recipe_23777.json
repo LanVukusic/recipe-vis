@@ -1,0 +1,162 @@
+{
+  "id": 23777,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "butter",
+    "pepper",
+    "swiss_cheese",
+    "cauliflower"
+  ],
+  "score_avg": 24.1,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "swiss_cheese",
+      "value": 56
+    },
+    {
+      "x": "tomato",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "cauliflower",
+      "value": 11
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "swiss_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cauliflower",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "tomato",
+      "value": 56
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "tomato",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "cauliflower",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cauliflower",
+      "y": "swiss_cheese",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 33.25
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.5
+    }
+  ]
+}

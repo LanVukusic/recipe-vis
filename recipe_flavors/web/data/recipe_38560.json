@@ -1,0 +1,72 @@
+{
+  "id": 38560,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "lemon_juice",
+    "cherry"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "cherry",
+      "value": 12
+    },
+    {
+      "x": "lemon_juice",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whiskey",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

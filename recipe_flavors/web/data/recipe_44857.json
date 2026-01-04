@@ -1,0 +1,42 @@
+{
+  "id": 44857,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "rhubarb"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rhubarb",
+      "value": 2
+    },
+    {
+      "x": "rhubarb",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 2.0
+    }
+  ]
+}

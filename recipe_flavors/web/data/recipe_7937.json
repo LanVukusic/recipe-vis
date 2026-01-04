@@ -1,0 +1,792 @@
+{
+  "id": 7937,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_juice",
+    "wheat",
+    "strawberry",
+    "egg",
+    "milk_fat",
+    "blackberry",
+    "lard",
+    "vegetable",
+    "lemon_peel",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 8.136363636363637,
+  "pair_coverage": 0.45454545454545453,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "strawberry",
+      "value": 64
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "blackberry",
+      "value": 42
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "butter",
+      "value": 64
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "milk_fat",
+      "value": 2
+    },
+    {
+      "x": "strawberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "strawberry",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blackberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "strawberry",
+      "value": 2
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "blackberry",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "blackberry",
+      "y": "milk",
+      "value": 37
+    },
+    {
+      "x": "blackberry",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "strawberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "blackberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "blackberry",
+      "value": 37
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "blackberry",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.636363636363637
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 20.818181818181817
+    },
+    {
+      "ingredient": "milk",
+      "mean": 20.181818181818183
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.181818181818182
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

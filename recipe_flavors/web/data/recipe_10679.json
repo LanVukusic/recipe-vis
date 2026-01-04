@@ -1,0 +1,72 @@
+{
+  "id": 10679,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "salmon",
+    "lime"
+  ],
+  "score_avg": 24.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "salmon",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "salmon",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "lime",
+      "value": 10
+    },
+    {
+      "x": "lime",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "salmon",
+      "value": 10
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 13.5
+    }
+  ]
+}

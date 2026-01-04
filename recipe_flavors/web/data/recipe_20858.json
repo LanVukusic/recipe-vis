@@ -1,0 +1,112 @@
+{
+  "id": 20858,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "butter",
+    "cheddar_cheese",
+    "black_pepper"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "corn_grit",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "corn_grit",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

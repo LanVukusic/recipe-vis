@@ -1,0 +1,72 @@
+{
+  "id": 20780,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "scallop",
+    "garlic",
+    "vinegar"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "scallop",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "scallop",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "scallop",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "scallop",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    }
+  ]
+}

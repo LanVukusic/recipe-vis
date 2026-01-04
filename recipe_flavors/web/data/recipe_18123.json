@@ -1,0 +1,112 @@
+{
+  "id": 18123,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "butter",
+    "brandy",
+    "cream"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "brandy",
+      "value": 15
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "brandy",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "brandy",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "brandy",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "brandy",
+      "mean": 7.666666666666667
+    }
+  ]
+}

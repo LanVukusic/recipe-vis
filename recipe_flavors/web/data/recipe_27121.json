@@ -1,0 +1,42 @@
+{
+  "id": 27121,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut",
+    "corn"
+  ],
+  "score_avg": 35.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "peanut",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 35.0
+    }
+  ]
+}

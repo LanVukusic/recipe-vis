@@ -1,0 +1,112 @@
+{
+  "id": 49389,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "chicken_broth",
+    "cream",
+    "corn",
+    "blue_cheese"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "blue_cheese",
+      "value": 27
+    },
+    {
+      "x": "corn",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "blue_cheese",
+      "value": 49
+    },
+    {
+      "x": "blue_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cream",
+      "value": 27
+    },
+    {
+      "x": "blue_cheese",
+      "y": "corn",
+      "value": 49
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

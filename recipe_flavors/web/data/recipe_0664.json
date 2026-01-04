@@ -1,0 +1,792 @@
+{
+  "id": 664,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vinegar",
+    "carrot",
+    "soy_sauce",
+    "avocado",
+    "wasabi",
+    "ginger",
+    "scallion",
+    "horseradish",
+    "cucumber",
+    "sesame_seed",
+    "crab",
+    "vegetable_oil"
+  ],
+  "score_avg": 1.9545454545454546,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "avocado",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "sesame_seed",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "avocado",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "avocado",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "avocado",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "avocado",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cucumber",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "sesame_seed",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "avocado",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "horseradish",
+      "value": 2
+    },
+    {
+      "x": "wasabi",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "avocado",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "crab",
+      "value": 7
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "wasabi",
+      "value": 2
+    },
+    {
+      "x": "horseradish",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "avocado",
+      "value": 4
+    },
+    {
+      "x": "cucumber",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "sesame_seed",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "avocado",
+      "value": 4
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "sesame_seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "crab",
+      "value": 5
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "avocado",
+      "value": 8
+    },
+    {
+      "x": "crab",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "ginger",
+      "value": 7
+    },
+    {
+      "x": "crab",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 6.090909090909091
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "crab",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "wasabi",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

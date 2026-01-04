@@ -1,0 +1,112 @@
+{
+  "id": 8249,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape",
+    "mint",
+    "blackberry",
+    "peach"
+  ],
+  "score_avg": 26.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "grape",
+      "y": "blackberry",
+      "value": 46
+    },
+    {
+      "x": "grape",
+      "y": "peach",
+      "value": 35
+    },
+    {
+      "x": "mint",
+      "y": "grape",
+      "value": 12
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "blackberry",
+      "value": 17
+    },
+    {
+      "x": "mint",
+      "y": "peach",
+      "value": 8
+    },
+    {
+      "x": "blackberry",
+      "y": "grape",
+      "value": 46
+    },
+    {
+      "x": "blackberry",
+      "y": "mint",
+      "value": 17
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "peach",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "grape",
+      "value": 35
+    },
+    {
+      "x": "peach",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "peach",
+      "y": "blackberry",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blackberry",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "grape",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 12.333333333333334
+    }
+  ]
+}

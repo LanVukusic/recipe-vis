@@ -1,0 +1,162 @@
+{
+  "id": 17879,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk_fat",
+    "grape_juice",
+    "lemon",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 5.3,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.0
+    }
+  ]
+}

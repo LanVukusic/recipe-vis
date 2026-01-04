@@ -1,0 +1,72 @@
+{
+  "id": 2134,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "nut",
+    "rice",
+    "black_sesame_seed"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "black_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "black_sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "black_sesame_seed",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "black_sesame_seed",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "black_sesame_seed",
+      "y": "black_sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "black_sesame_seed",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 28885,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "cured_pork",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 61.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cured_pork",
+      "value": 62
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cured_pork",
+      "y": "mozzarella_cheese",
+      "value": 62
+    },
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "parmesan_cheese",
+      "value": 69
+    },
+    {
+      "x": "cured_pork",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cured_pork",
+      "value": 69
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "cured_pork",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 78.66666666666667
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 75.66666666666667
+    },
+    {
+      "ingredient": "cured_pork",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 36.333333333333336
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 656,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "lemon_juice",
+    "crab",
+    "soy_sauce",
+    "rice",
+    "avocado",
+    "wasabi",
+    "wine"
+  ],
+  "score_avg": 5.0476190476190474,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "crab",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "crab",
+      "y": "avocado",
+      "value": 8
+    },
+    {
+      "x": "crab",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "wine",
+      "value": 13
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "crab",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "avocado",
+      "value": 18
+    },
+    {
+      "x": "rice",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "wine",
+      "value": 29
+    },
+    {
+      "x": "avocado",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "avocado",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "rice",
+      "value": 18
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "wine",
+      "value": 14
+    },
+    {
+      "x": "wasabi",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "crab",
+      "value": 13
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "rice",
+      "value": 29
+    },
+    {
+      "x": "wine",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "wine",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "wine",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "crab",
+      "mean": 7.166666666666667
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "wasabi",
+      "mean": 0.0
+    }
+  ]
+}

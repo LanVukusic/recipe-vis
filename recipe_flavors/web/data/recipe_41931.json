@@ -1,0 +1,112 @@
+{
+  "id": 41931,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "cabbage",
+    "beef",
+    "potato"
+  ],
+  "score_avg": 31.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "cabbage",
+      "value": 11
+    },
+    {
+      "x": "whiskey",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "potato",
+      "value": 30
+    },
+    {
+      "x": "cabbage",
+      "y": "whiskey",
+      "value": 11
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "cabbage",
+      "y": "potato",
+      "value": 13
+    },
+    {
+      "x": "beef",
+      "y": "whiskey",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "cabbage",
+      "value": 19
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "whiskey",
+      "value": 30
+    },
+    {
+      "x": "potato",
+      "y": "cabbage",
+      "value": 13
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 45.666666666666664
+    },
+    {
+      "ingredient": "potato",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 14.333333333333334
+    }
+  ]
+}

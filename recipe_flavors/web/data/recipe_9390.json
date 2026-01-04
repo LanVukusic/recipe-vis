@@ -1,0 +1,292 @@
+{
+  "id": 9390,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "thyme",
+    "leek",
+    "chicken_broth",
+    "chicken",
+    "white_wine"
+  ],
+  "score_avg": 12.047619047619047,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "leek",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "leek",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "white_wine",
+      "value": 57
+    },
+    {
+      "x": "thyme",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "leek",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "leek",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "leek",
+      "y": "white_wine",
+      "value": 20
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "leek",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "white_wine",
+      "y": "thyme",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 23.166666666666668
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "leek",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.1666666666666667
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

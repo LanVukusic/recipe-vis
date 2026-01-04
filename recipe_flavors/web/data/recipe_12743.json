@@ -1,0 +1,72 @@
+{
+  "id": 12743,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fruit",
+    "orange_juice",
+    "ginger"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "orange_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 1.0
+    }
+  ]
+}

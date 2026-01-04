@@ -1,0 +1,72 @@
+{
+  "id": 23645,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "beer",
+    "cream"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "beer",
+      "value": 70
+    },
+    {
+      "x": "whiskey",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "beer",
+      "y": "whiskey",
+      "value": 70
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cream",
+      "value": 16
+    },
+    {
+      "x": "cream",
+      "y": "whiskey",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "beer",
+      "value": 16
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 41.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.5
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 23,
+  "cuisine": "African",
+  "ingredients": [
+    "chicken_broth",
+    "green_bell_pepper",
+    "cayenne",
+    "peanut_butter",
+    "onion"
+  ],
+  "score_avg": 7.1,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "onion",
+      "value": 28
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "peanut_butter",
+      "value": 28
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

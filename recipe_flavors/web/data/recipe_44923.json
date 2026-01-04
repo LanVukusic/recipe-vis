@@ -1,0 +1,112 @@
+{
+  "id": 44923,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut",
+    "corn",
+    "rice",
+    "peanut_butter"
+  ],
+  "score_avg": 51.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "peanut",
+      "y": "rice",
+      "value": 47
+    },
+    {
+      "x": "peanut",
+      "y": "peanut_butter",
+      "value": 97
+    },
+    {
+      "x": "corn",
+      "y": "peanut",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "rice",
+      "value": 34
+    },
+    {
+      "x": "corn",
+      "y": "peanut_butter",
+      "value": 41
+    },
+    {
+      "x": "rice",
+      "y": "peanut",
+      "value": 47
+    },
+    {
+      "x": "rice",
+      "y": "corn",
+      "value": 34
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "peanut_butter",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut",
+      "value": 97
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "rice",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 63.666666666666664
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 59.666666666666664
+    },
+    {
+      "ingredient": "rice",
+      "mean": 44.666666666666664
+    },
+    {
+      "ingredient": "corn",
+      "mean": 36.666666666666664
+    }
+  ]
+}

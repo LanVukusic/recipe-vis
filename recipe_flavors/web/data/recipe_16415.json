@@ -1,0 +1,72 @@
+{
+  "id": 16415,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef_liver",
+    "egg",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "beef_liver",
+      "y": "beef_liver",
+      "value": 0
+    },
+    {
+      "x": "beef_liver",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "beef_liver",
+      "y": "whole_grain_wheat_flour",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "beef_liver",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "beef_liver",
+      "value": 2
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef_liver",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 0.0
+    }
+  ]
+}

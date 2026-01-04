@@ -1,0 +1,162 @@
+{
+  "id": 20409,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "vanilla",
+    "milk",
+    "coffee",
+    "banana"
+  ],
+  "score_avg": 41.3,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "coffee",
+      "value": 95
+    },
+    {
+      "x": "cocoa",
+      "y": "banana",
+      "value": 38
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "coffee",
+      "y": "cocoa",
+      "value": 95
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "cocoa",
+      "value": 38
+    },
+    {
+      "x": "banana",
+      "y": "vanilla",
+      "value": 21
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "coffee",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 54.75
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 53.75
+    },
+    {
+      "ingredient": "milk",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 29.75
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 26.25
+    }
+  ]
+}

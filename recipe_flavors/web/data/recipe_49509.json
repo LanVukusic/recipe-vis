@@ -1,0 +1,112 @@
+{
+  "id": 49509,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "cabbage",
+    "ham",
+    "onion"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "cabbage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "ham",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "ham",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

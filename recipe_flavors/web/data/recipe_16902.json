@@ -1,0 +1,72 @@
+{
+  "id": 16902,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "carrot",
+    "black_pepper"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "carrot",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 3.0
+    }
+  ]
+}

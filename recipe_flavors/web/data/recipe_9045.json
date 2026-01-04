@@ -1,0 +1,112 @@
+{
+  "id": 9045,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "roquefort_cheese",
+    "wheat",
+    "sesame_seed"
+  ],
+  "score_avg": 14.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "roquefort_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "roquefort_cheese",
+      "value": 0
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "roquefort_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "sesame_seed",
+      "y": "roquefort_cheese",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "roquefort_cheese",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 42973,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "cream_cheese"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 1.0
+    }
+  ]
+}

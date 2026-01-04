@@ -1,0 +1,42 @@
+{
+  "id": 18796,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "caviar",
+    "cream_cheese"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "caviar",
+      "y": "caviar",
+      "value": 0
+    },
+    {
+      "x": "caviar",
+      "y": "cream_cheese",
+      "value": 11
+    },
+    {
+      "x": "cream_cheese",
+      "y": "caviar",
+      "value": 11
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "caviar",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 11.0
+    }
+  ]
+}

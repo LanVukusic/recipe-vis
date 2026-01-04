@@ -1,0 +1,42 @@
+{
+  "id": 22758,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "cream"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "coconut",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    }
+  ]
+}

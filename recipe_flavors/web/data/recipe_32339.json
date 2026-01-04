@@ -1,0 +1,72 @@
+{
+  "id": 32339,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "butter",
+    "carrot"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

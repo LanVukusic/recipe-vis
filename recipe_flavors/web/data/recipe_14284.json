@@ -1,0 +1,42 @@
+{
+  "id": 14284,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "sassafras"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "sassafras",
+      "value": 1
+    },
+    {
+      "x": "sassafras",
+      "y": "whiskey",
+      "value": 1
+    },
+    {
+      "x": "sassafras",
+      "y": "sassafras",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whiskey",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "sassafras",
+      "mean": 1.0
+    }
+  ]
+}

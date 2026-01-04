@@ -1,0 +1,112 @@
+{
+  "id": 25287,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "cayenne",
+    "crab"
+  ],
+  "score_avg": 16.666666666666668,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "crab",
+      "value": 12
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "tomato",
+      "value": 12
+    },
+    {
+      "x": "crab",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "crab",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.666666666666667
+    }
+  ]
+}

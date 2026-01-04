@@ -1,0 +1,42 @@
+{
+  "id": 24780,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "red_wine",
+    "lemon"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "red_wine",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 22.0
+    }
+  ]
+}

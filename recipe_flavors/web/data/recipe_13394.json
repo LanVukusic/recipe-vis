@@ -1,0 +1,72 @@
+{
+  "id": 13394,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "black_pepper",
+    "pineapple"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "pineapple",
+      "value": 30
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "chicken",
+      "value": 30
+    },
+    {
+      "x": "pineapple",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.0
+    }
+  ]
+}

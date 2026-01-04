@@ -1,0 +1,42 @@
+{
+  "id": 8927,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "red_wine",
+    "star_anise"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "star_anise",
+      "value": 1
+    },
+    {
+      "x": "star_anise",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "star_anise",
+      "y": "star_anise",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "star_anise",
+      "mean": 1.0
+    }
+  ]
+}

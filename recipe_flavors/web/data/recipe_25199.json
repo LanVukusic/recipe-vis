@@ -1,0 +1,112 @@
+{
+  "id": 25199,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "bacon",
+    "chicken_liver",
+    "mustard"
+  ],
+  "score_avg": 6.166666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "olive",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "olive",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_liver",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "chicken_liver",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "chicken_liver",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "olive",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "olive",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "chicken_liver",
+      "mean": 1.0
+    }
+  ]
+}

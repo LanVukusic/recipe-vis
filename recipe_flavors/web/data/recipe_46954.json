@@ -1,0 +1,72 @@
+{
+  "id": 46954,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "strawberry",
+    "coconut"
+  ],
+  "score_avg": 38.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "orange",
+      "y": "coconut",
+      "value": 17
+    },
+    {
+      "x": "strawberry",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "coconut",
+      "value": 29
+    },
+    {
+      "x": "coconut",
+      "y": "orange",
+      "value": 17
+    },
+    {
+      "x": "coconut",
+      "y": "strawberry",
+      "value": 29
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 49.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 23.0
+    }
+  ]
+}

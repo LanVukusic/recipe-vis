@@ -1,0 +1,72 @@
+{
+  "id": 3209,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "cane_molasses",
+    "egg",
+    "hazelnut"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "hazelnut",
+      "value": 3
+    },
+    {
+      "x": "hazelnut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

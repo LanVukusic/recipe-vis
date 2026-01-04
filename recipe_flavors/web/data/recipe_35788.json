@@ -1,0 +1,112 @@
+{
+  "id": 35788,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "feta_cheese",
+    "bean",
+    "macaroni"
+  ],
+  "score_avg": 23.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "feta_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "feta_cheese",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "bean",
+      "mean": 29.333333333333332
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

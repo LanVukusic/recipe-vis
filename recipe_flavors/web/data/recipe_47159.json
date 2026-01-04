@@ -1,0 +1,292 @@
+{
+  "id": 47159,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "marjoram",
+    "garlic",
+    "thyme",
+    "onion",
+    "vegetable_oil",
+    "chicken"
+  ],
+  "score_avg": 3.2857142857142856,
+  "pair_coverage": 0.47619047619047616,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "thyme",
+      "value": 10
+    },
+    {
+      "x": "marjoram",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "marjoram",
+      "value": 10
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "marjoram",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.166666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 2.8333333333333335
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 2.8333333333333335
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

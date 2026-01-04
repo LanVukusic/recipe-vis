@@ -1,0 +1,162 @@
+{
+  "id": 20918,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "cabbage",
+    "carrot",
+    "egg",
+    "pineapple"
+  ],
+  "score_avg": 5.4,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cabbage",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cabbage",
+      "y": "pineapple",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cabbage",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cabbage",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "pineapple",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

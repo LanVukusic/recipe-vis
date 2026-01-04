@@ -1,0 +1,162 @@
+{
+  "id": 45682,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "vanilla",
+    "soybean",
+    "lard"
+  ],
+  "score_avg": 14.3,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "soybean",
+      "value": 73
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "vanilla",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "butter",
+      "value": 73
+    },
+    {
+      "x": "soybean",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 26.75
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.25
+    }
+  ]
+}

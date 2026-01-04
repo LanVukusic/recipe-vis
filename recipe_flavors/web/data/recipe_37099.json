@@ -1,0 +1,42 @@
+{
+  "id": 37099,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_juice",
+    "rum"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 1.0
+    }
+  ]
+}

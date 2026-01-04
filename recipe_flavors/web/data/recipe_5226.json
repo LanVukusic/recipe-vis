@@ -1,0 +1,162 @@
+{
+  "id": 5226,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "yogurt",
+    "lime_juice",
+    "cilantro",
+    "cayenne",
+    "lime"
+  ],
+  "score_avg": 3.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "cilantro",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "lime",
+      "value": 4
+    },
+    {
+      "x": "lime_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "cilantro",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "lime",
+      "value": 13
+    },
+    {
+      "x": "lime",
+      "y": "yogurt",
+      "value": 4
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "cilantro",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "cayenne",
+      "value": 13
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.75
+    }
+  ]
+}

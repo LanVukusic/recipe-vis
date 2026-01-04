@@ -1,0 +1,112 @@
+{
+  "id": 47272,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "swiss_cheese",
+    "macaroni",
+    "ham"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "swiss_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "macaroni",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 11738,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 5.5
+    }
+  ]
+}

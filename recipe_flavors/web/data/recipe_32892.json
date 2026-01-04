@@ -1,0 +1,112 @@
+{
+  "id": 32892,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "pepper",
+    "rice",
+    "cream"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

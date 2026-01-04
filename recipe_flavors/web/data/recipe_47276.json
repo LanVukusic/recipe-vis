@@ -1,0 +1,112 @@
+{
+  "id": 47276,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken_broth",
+    "carrot",
+    "mushroom",
+    "potato"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "mushroom",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

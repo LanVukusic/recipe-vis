@@ -1,0 +1,292 @@
+{
+  "id": 8003,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "garlic",
+    "bell_pepper",
+    "cauliflower",
+    "bacon",
+    "raisin",
+    "cream"
+  ],
+  "score_avg": 4.142857142857143,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "cauliflower",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cauliflower",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "bell_pepper",
+      "y": "raisin",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cauliflower",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "cauliflower",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "bacon",
+      "value": 12
+    },
+    {
+      "x": "cauliflower",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cauliflower",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "cauliflower",
+      "value": 12
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "raisin",
+      "y": "cauliflower",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "bacon",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cauliflower",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 9.166666666666666
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

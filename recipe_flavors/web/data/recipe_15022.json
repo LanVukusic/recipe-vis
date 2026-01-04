@@ -1,0 +1,222 @@
+{
+  "id": 15022,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "pineapple",
+    "mandarin",
+    "cherry",
+    "orange_juice",
+    "banana"
+  ],
+  "score_avg": 11.2,
+  "pair_coverage": 0.7333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "mandarin",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "mandarin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "mandarin",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "mandarin",
+      "y": "banana",
+      "value": 22
+    },
+    {
+      "x": "cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "mandarin",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "cherry",
+      "y": "banana",
+      "value": 27
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "mandarin",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "banana",
+      "y": "mandarin",
+      "value": 22
+    },
+    {
+      "x": "banana",
+      "y": "cherry",
+      "value": 27
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 18.6
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 16.4
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 12.6
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 11.6
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.8
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2
+    }
+  ]
+}

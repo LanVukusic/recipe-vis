@@ -1,0 +1,72 @@
+{
+  "id": 35111,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "whiskey",
+    "lemon_juice"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "whiskey",
+      "value": 10
+    },
+    {
+      "x": "citrus",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "citrus",
+      "value": 10
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

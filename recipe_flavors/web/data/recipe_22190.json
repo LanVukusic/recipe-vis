@@ -1,0 +1,792 @@
+{
+  "id": 22190,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coriander",
+    "fenugreek",
+    "pepper",
+    "wheat",
+    "onion",
+    "chicken_broth",
+    "cumin",
+    "garlic",
+    "vegetable",
+    "vegetable_oil",
+    "milk",
+    "turmeric"
+  ],
+  "score_avg": 1.9090909090909092,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "coriander",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "milk",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "turmeric",
+      "value": 5
+    },
+    {
+      "x": "fenugreek",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "fenugreek",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "turmeric",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "coriander",
+      "value": 7
+    },
+    {
+      "x": "cumin",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "turmeric",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "fenugreek",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "coriander",
+      "value": 5
+    },
+    {
+      "x": "turmeric",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "turmeric",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "turmeric",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "turmeric",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "turmeric",
+      "mean": 1.4545454545454546
+    },
+    {
+      "ingredient": "fenugreek",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

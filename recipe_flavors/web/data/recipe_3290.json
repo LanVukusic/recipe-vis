@@ -1,0 +1,112 @@
+{
+  "id": 3290,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "chicken",
+    "rice",
+    "lime_juice",
+    "cilantro"
+  ],
+  "score_avg": 10.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cilantro",
+      "value": 10
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cilantro",
+      "value": 6
+    },
+    {
+      "x": "lime_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "chicken",
+      "value": 10
+    },
+    {
+      "x": "cilantro",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 30002,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "fruit",
+    "starch"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

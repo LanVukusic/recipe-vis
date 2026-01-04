@@ -1,0 +1,162 @@
+{
+  "id": 11424,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "quince",
+    "cayenne",
+    "ham",
+    "vegetable_oil"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "quince",
+      "value": 14
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "quince",
+      "y": "cheese",
+      "value": 14
+    },
+    {
+      "x": "quince",
+      "y": "quince",
+      "value": 0
+    },
+    {
+      "x": "quince",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "quince",
+      "y": "ham",
+      "value": 8
+    },
+    {
+      "x": "quince",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "quince",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "quince",
+      "value": 8
+    },
+    {
+      "x": "ham",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "quince",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "quince",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

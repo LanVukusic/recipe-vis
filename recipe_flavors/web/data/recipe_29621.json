@@ -1,0 +1,72 @@
+{
+  "id": 29621,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "gin",
+    "blue_cheese"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "olive",
+      "y": "blue_cheese",
+      "value": 30
+    },
+    {
+      "x": "gin",
+      "y": "olive",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "blue_cheese",
+      "value": 8
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive",
+      "value": 30
+    },
+    {
+      "x": "blue_cheese",
+      "y": "gin",
+      "value": 8
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "olive",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "gin",
+      "mean": 7.0
+    }
+  ]
+}

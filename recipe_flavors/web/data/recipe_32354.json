@@ -1,0 +1,162 @@
+{
+  "id": 32354,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "vinegar",
+    "beet",
+    "cinnamon",
+    "egg"
+  ],
+  "score_avg": 1.3,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "beet",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "beet",
+      "mean": 0.0
+    }
+  ]
+}

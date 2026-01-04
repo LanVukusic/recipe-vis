@@ -1,0 +1,112 @@
+{
+  "id": 11537,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "coconut",
+    "lime_juice",
+    "lime"
+  ],
+  "score_avg": 8.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "coconut",
+      "value": 17
+    },
+    {
+      "x": "melon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "melon",
+      "y": "lime",
+      "value": 22
+    },
+    {
+      "x": "coconut",
+      "y": "melon",
+      "value": 17
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "lime_juice",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "melon",
+      "value": 22
+    },
+    {
+      "x": "lime",
+      "y": "coconut",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "lime",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    }
+  ]
+}

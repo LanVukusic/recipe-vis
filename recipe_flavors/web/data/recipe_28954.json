@@ -1,0 +1,112 @@
+{
+  "id": 28954,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "strawberry",
+    "lemon_juice",
+    "gin"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "strawberry",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "gin",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "gin",
+      "value": 10
+    },
+    {
+      "x": "lemon_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "gin",
+      "y": "strawberry",
+      "value": 10
+    },
+    {
+      "x": "gin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "gin",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "basil",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

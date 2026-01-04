@@ -1,0 +1,112 @@
+{
+  "id": 10051,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chive",
+    "cheddar_cheese",
+    "wheat",
+    "cream"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cheddar_cheese",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "wheat",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

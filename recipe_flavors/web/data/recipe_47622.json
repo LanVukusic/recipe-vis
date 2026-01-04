@@ -1,0 +1,292 @@
+{
+  "id": 47622,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "bell_pepper",
+    "peach",
+    "chive",
+    "bacon",
+    "black_pepper",
+    "egg"
+  ],
+  "score_avg": 7.142857142857143,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "peach",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "peach",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "peach",
+      "y": "bacon",
+      "value": 24
+    },
+    {
+      "x": "peach",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "peach",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "chive",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "peach",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "peach",
+      "value": 24
+    },
+    {
+      "x": "bacon",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "peach",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "bell_pepper",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 11.833333333333334
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "peach",
+      "mean": 10.166666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "chive",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

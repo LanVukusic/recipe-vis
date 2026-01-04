@@ -1,0 +1,112 @@
+{
+  "id": 23290,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "chicken",
+    "white_wine",
+    "cream"
+  ],
+  "score_avg": 21.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "white_wine",
+      "value": 26
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "white_wine",
+      "y": "celery",
+      "value": 26
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "white_wine",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "celery",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.333333333333334
+    }
+  ]
+}

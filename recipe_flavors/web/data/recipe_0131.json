@@ -1,0 +1,42 @@
+{
+  "id": 131,
+  "cuisine": "African",
+  "ingredients": [
+    "brandy",
+    "peppermint_oil"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "peppermint_oil",
+      "value": 2
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "brandy",
+      "value": 2
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "peppermint_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "brandy",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "peppermint_oil",
+      "mean": 2.0
+    }
+  ]
+}

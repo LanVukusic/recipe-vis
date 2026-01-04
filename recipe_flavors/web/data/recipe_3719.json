@@ -1,0 +1,112 @@
+{
+  "id": 3719,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "coriander",
+    "lime_juice",
+    "onion"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "coriander",
+      "y": "tomato",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

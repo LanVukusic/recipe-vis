@@ -1,0 +1,72 @@
+{
+  "id": 7403,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fennel",
+    "garlic",
+    "nut"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.5
+    }
+  ]
+}

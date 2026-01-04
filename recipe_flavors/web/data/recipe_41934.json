@@ -1,0 +1,162 @@
+{
+  "id": 41934,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "pepper",
+    "meat",
+    "pork",
+    "pork_liver"
+  ],
+  "score_avg": 8.6,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "meat",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "pork_liver",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pork_liver",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "pork",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "pork_liver",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork_liver",
+      "value": 7
+    },
+    {
+      "x": "pork_liver",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "pork_liver",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pork_liver",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "pork_liver",
+      "y": "pork",
+      "value": 7
+    },
+    {
+      "x": "pork_liver",
+      "y": "pork_liver",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "meat",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.25
+    },
+    {
+      "ingredient": "pork_liver",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 595,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pepper",
+    "black_pepper"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 36.0
+    }
+  ]
+}

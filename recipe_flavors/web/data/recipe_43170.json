@@ -1,0 +1,292 @@
+{
+  "id": 43170,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "apple",
+    "vegetable_oil",
+    "rye_flour",
+    "raisin",
+    "egg",
+    "cinnamon"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rye_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "rye_flour",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 6.833333333333333
+    },
+    {
+      "ingredient": "egg",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "rye_flour",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

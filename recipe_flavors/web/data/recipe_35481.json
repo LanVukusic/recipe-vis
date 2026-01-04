@@ -1,0 +1,72 @@
+{
+  "id": 35481,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "sassafras",
+    "milk"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "sassafras",
+      "value": 2
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "sassafras",
+      "y": "coffee",
+      "value": 2
+    },
+    {
+      "x": "sassafras",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "sassafras",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "sassafras",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "sassafras",
+      "mean": 1.5
+    }
+  ]
+}

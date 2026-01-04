@@ -1,0 +1,112 @@
+{
+  "id": 42592,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "dill",
+    "pepper",
+    "bell_pepper"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "dill",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "dill",
+      "value": 15
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "dill",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 11.333333333333334
+    }
+  ]
+}

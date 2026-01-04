@@ -1,0 +1,112 @@
+{
+  "id": 18494,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beet",
+    "pea",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "pea",
+      "value": 2
+    },
+    {
+      "x": "beet",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "pea",
+      "y": "beet",
+      "value": 2
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "pea",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "beet",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pea",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "beet",
+      "mean": 1.0
+    }
+  ]
+}

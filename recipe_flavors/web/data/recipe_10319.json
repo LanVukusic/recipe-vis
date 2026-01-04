@@ -1,0 +1,562 @@
+{
+  "id": 10319,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "milk_fat",
+    "cardamom",
+    "vanilla",
+    "strawberry",
+    "lemon",
+    "cream",
+    "egg",
+    "milk",
+    "wine"
+  ],
+  "score_avg": 13.533333333333333,
+  "pair_coverage": 0.7111111111111111,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "strawberry",
+      "value": 2
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cardamom",
+      "y": "strawberry",
+      "value": 24
+    },
+    {
+      "x": "cardamom",
+      "y": "lemon",
+      "value": 31
+    },
+    {
+      "x": "cardamom",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cardamom",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "cardamom",
+      "y": "milk",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "wine",
+      "value": 15
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "cardamom",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "milk_fat",
+      "value": 2
+    },
+    {
+      "x": "strawberry",
+      "y": "cardamom",
+      "value": 24
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "wine",
+      "value": 72
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cardamom",
+      "value": 31
+    },
+    {
+      "x": "lemon",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "wine",
+      "value": 20
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wine",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wine",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "cardamom",
+      "value": 15
+    },
+    {
+      "x": "wine",
+      "y": "vanilla",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "wine",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 29.22222222222222
+    },
+    {
+      "ingredient": "milk",
+      "mean": 23.88888888888889
+    },
+    {
+      "ingredient": "wine",
+      "mean": 22.22222222222222
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.555555555555555
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.777777777777779
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.11111111111111
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2222222222222222
+    }
+  ]
+}

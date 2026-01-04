@@ -1,0 +1,162 @@
+{
+  "id": 34249,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "garlic",
+    "rosemary",
+    "thyme",
+    "roasted_pork"
+  ],
+  "score_avg": 3.9,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_pork",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "roasted_pork",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "roasted_pork",
+      "value": 6
+    },
+    {
+      "x": "roasted_pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "roasted_pork",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "roasted_pork",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "roasted_pork",
+      "y": "roasted_pork",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rosemary",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "roasted_pork",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    }
+  ]
+}

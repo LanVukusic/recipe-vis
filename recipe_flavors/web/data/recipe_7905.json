@@ -1,0 +1,112 @@
+{
+  "id": 7905,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "vanilla",
+    "lemon_peel",
+    "cream"
+  ],
+  "score_avg": 4.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "lemon_peel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

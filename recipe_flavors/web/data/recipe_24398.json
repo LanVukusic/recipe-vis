@@ -1,0 +1,72 @@
+{
+  "id": 24398,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "pecan",
+    "milk"
+  ],
+  "score_avg": 39.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "pecan",
+      "y": "cocoa",
+      "value": 33
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 33.0
+    }
+  ]
+}

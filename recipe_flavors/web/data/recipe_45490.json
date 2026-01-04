@@ -1,0 +1,72 @@
+{
+  "id": 45490,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "banana",
+    "rum"
+  ],
+  "score_avg": 26.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "rum",
+      "value": 19
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "rum",
+      "value": 47
+    },
+    {
+      "x": "rum",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "rum",
+      "y": "banana",
+      "value": 47
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 15.5
+    }
+  ]
+}

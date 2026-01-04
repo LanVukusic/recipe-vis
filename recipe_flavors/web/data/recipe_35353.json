@@ -1,0 +1,72 @@
+{
+  "id": 35353,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "bean",
+    "coffee"
+  ],
+  "score_avg": 32.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "bean",
+      "value": 22
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "bean",
+      "y": "vanilla",
+      "value": 22
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "coffee",
+      "value": 43
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 26.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 28144,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "olive_oil",
+    "bean"
+  ],
+  "score_avg": 9.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "bean",
+      "value": 25
+    },
+    {
+      "x": "olive_oil",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "bean",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

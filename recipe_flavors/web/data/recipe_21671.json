@@ -1,0 +1,72 @@
+{
+  "id": 21671,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "cheddar_cheese",
+    "potato"
+  ],
+  "score_avg": 45.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "corn",
+      "y": "potato",
+      "value": 37
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "corn",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "corn",
+      "value": 37
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 42.0
+    }
+  ]
+}

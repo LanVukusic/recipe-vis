@@ -1,0 +1,112 @@
+{
+  "id": 21618,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "garlic",
+    "roasted_beef",
+    "starch"
+  ],
+  "score_avg": 20.333333333333332,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "coffee",
+      "y": "roasted_beef",
+      "value": 105
+    },
+    {
+      "x": "coffee",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "coffee",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_beef",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "coffee",
+      "value": 105
+    },
+    {
+      "x": "roasted_beef",
+      "y": "garlic",
+      "value": 11
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

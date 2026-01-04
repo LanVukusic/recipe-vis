@@ -1,0 +1,792 @@
+{
+  "id": 5744,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "orange_juice",
+    "lime_juice",
+    "prickly_pear",
+    "vegetable",
+    "fruit",
+    "lard",
+    "orange",
+    "lime",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 5.53030303030303,
+  "pair_coverage": 0.5303030303030303,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "prickly_pear",
+      "value": 10
+    },
+    {
+      "x": "butter",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "orange",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "prickly_pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "prickly_pear",
+      "value": 5
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange",
+      "value": 54
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "lime_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "prickly_pear",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "prickly_pear",
+      "y": "butter",
+      "value": 10
+    },
+    {
+      "x": "prickly_pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "prickly_pear",
+      "y": "orange_juice",
+      "value": 5
+    },
+    {
+      "x": "prickly_pear",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "prickly_pear",
+      "y": "prickly_pear",
+      "value": 0
+    },
+    {
+      "x": "prickly_pear",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "prickly_pear",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "prickly_pear",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "prickly_pear",
+      "y": "orange",
+      "value": 15
+    },
+    {
+      "x": "prickly_pear",
+      "y": "lime",
+      "value": 8
+    },
+    {
+      "x": "prickly_pear",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "prickly_pear",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "prickly_pear",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "prickly_pear",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "orange",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "prickly_pear",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "orange",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "orange_juice",
+      "value": 54
+    },
+    {
+      "x": "orange",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "prickly_pear",
+      "value": 15
+    },
+    {
+      "x": "orange",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "orange",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "lime",
+      "value": 56
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "lime",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "prickly_pear",
+      "value": 8
+    },
+    {
+      "x": "lime",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "orange",
+      "value": 56
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lime",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "prickly_pear",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "lime",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "prickly_pear",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "orange",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "lime",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 17.818181818181817
+    },
+    {
+      "ingredient": "butter",
+      "mean": 12.545454545454545
+    },
+    {
+      "ingredient": "lime",
+      "mean": 10.181818181818182
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.272727272727273
+    },
+    {
+      "ingredient": "egg",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.454545454545454
+    },
+    {
+      "ingredient": "prickly_pear",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 42080,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gin",
+    "lemon"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "gin",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 6.0
+    }
+  ]
+}

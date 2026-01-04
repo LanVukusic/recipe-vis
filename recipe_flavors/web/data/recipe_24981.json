@@ -1,0 +1,72 @@
+{
+  "id": 24981,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "orange_juice",
+    "zucchini"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.0
+    }
+  ]
+}

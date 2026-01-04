@@ -1,0 +1,72 @@
+{
+  "id": 6435,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "chicken_broth",
+    "leek",
+    "cauliflower"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "cauliflower",
+      "value": 8
+    },
+    {
+      "x": "cauliflower",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "leek",
+      "value": 8
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "leek",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

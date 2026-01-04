@@ -1,0 +1,112 @@
+{
+  "id": 33384,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "wheat",
+    "raisin",
+    "roasted_peanut"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "roasted_peanut",
+      "value": 77
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "roasted_peanut",
+      "value": 13
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

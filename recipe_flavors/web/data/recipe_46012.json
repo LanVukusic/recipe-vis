@@ -1,0 +1,42 @@
+{
+  "id": 46012,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "lemon"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "whiskey",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whiskey",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.0
+    }
+  ]
+}

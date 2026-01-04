@@ -1,0 +1,72 @@
+{
+  "id": 31184,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "meat",
+    "beef"
+  ],
+  "score_avg": 27.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "meat",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "meat",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "beef",
+      "value": 44
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "meat",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 19.5
+    }
+  ]
+}

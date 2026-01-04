@@ -1,0 +1,162 @@
+{
+  "id": 882,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "soy_sauce",
+    "garlic",
+    "sesame_oil",
+    "mushroom",
+    "ginger"
+  ],
+  "score_avg": 3.6,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 46109,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chive",
+    "pepper",
+    "carrot"
+  ],
+  "score_avg": 5.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "chive",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

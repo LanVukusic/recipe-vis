@@ -1,0 +1,112 @@
+{
+  "id": 6688,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "butter",
+    "pistachio",
+    "egg",
+    "rose"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pistachio",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "rose",
+      "value": 7
+    },
+    {
+      "x": "pistachio",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pistachio",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "pistachio",
+      "y": "rose",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "pistachio",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rose",
+      "value": 4
+    },
+    {
+      "x": "rose",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "rose",
+      "y": "pistachio",
+      "value": 1
+    },
+    {
+      "x": "rose",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "rose",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "pistachio",
+      "mean": 3.0
+    }
+  ]
+}

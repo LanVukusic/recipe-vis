@@ -1,0 +1,42 @@
+{
+  "id": 31732,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "peppermint_oil"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "peppermint_oil",
+      "value": 8
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "corn",
+      "value": 8
+    },
+    {
+      "x": "peppermint_oil",
+      "y": "peppermint_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "peppermint_oil",
+      "mean": 8.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 44956,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "pepper",
+    "cream"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    }
+  ]
+}

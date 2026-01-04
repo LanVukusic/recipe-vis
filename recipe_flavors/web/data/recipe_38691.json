@@ -1,0 +1,72 @@
+{
+  "id": 38691,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "butter",
+    "popcorn"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "peanut_oil",
+      "y": "popcorn",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "peanut_oil",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "peanut_oil",
+      "value": 2
+    },
+    {
+      "x": "popcorn",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 8.0
+    }
+  ]
+}

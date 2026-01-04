@@ -1,0 +1,162 @@
+{
+  "id": 21065,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "bean",
+    "black_pepper",
+    "sesame_seed",
+    "chicken_broth"
+  ],
+  "score_avg": 1.6,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "bean",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

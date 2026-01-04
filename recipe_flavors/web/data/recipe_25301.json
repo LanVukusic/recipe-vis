@@ -1,0 +1,112 @@
+{
+  "id": 25301,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "rice",
+    "cayenne",
+    "pea"
+  ],
+  "score_avg": 20.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "pea",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "pea",
+      "value": 23
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "tomato",
+      "value": 38
+    },
+    {
+      "x": "pea",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "pea",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "pea",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 6.666666666666667
+    }
+  ]
+}

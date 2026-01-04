@@ -1,0 +1,72 @@
+{
+  "id": 1722,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "soybean",
+    "red_bean"
+  ],
+  "score_avg": 29.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "red_bean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "red_bean",
+      "value": 86
+    },
+    {
+      "x": "red_bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "soybean",
+      "value": 86
+    },
+    {
+      "x": "red_bean",
+      "y": "red_bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 43.5
+    },
+    {
+      "ingredient": "red_bean",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

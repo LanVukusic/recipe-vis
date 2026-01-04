@@ -1,0 +1,112 @@
+{
+  "id": 46232,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "nut",
+    "nutmeg",
+    "cinnamon"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 20824,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 26.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.5
+    }
+  ]
+}

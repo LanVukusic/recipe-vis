@@ -1,0 +1,792 @@
+{
+  "id": 29622,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "mushroom",
+    "bacon",
+    "black_pepper",
+    "shrimp",
+    "swiss_cheese",
+    "nutmeg",
+    "crab",
+    "lard",
+    "cream",
+    "egg"
+  ],
+  "score_avg": 13.984848484848484,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "crab",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "shrimp",
+      "value": 35
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "mushroom",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "bacon",
+      "y": "swiss_cheese",
+      "value": 62
+    },
+    {
+      "x": "bacon",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "crab",
+      "value": 21
+    },
+    {
+      "x": "bacon",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "swiss_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "nutmeg",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "mushroom",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "bacon",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "swiss_cheese",
+      "value": 36
+    },
+    {
+      "x": "shrimp",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "shrimp",
+      "y": "crab",
+      "value": 20
+    },
+    {
+      "x": "shrimp",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bacon",
+      "value": 62
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "shrimp",
+      "value": 36
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cream",
+      "value": 27
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "mushroom",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "nutmeg",
+      "y": "shrimp",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "swiss_cheese",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "crab",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "crab",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "crab",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "mushroom",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "bacon",
+      "value": 21
+    },
+    {
+      "x": "crab",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "shrimp",
+      "value": 20
+    },
+    {
+      "x": "crab",
+      "y": "swiss_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "crab",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "swiss_cheese",
+      "value": 27
+    },
+    {
+      "x": "cream",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "crab",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "swiss_cheese",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "crab",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.454545454545453
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 25.272727272727273
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 18.181818181818183
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.454545454545455
+    },
+    {
+      "ingredient": "crab",
+      "mean": 11.909090909090908
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.6363636363636362
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

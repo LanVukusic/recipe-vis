@@ -1,0 +1,42 @@
+{
+  "id": 48234,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "butter",
+    "potato"
+  ],
+  "score_avg": 40.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 40.0
+    }
+  ]
+}

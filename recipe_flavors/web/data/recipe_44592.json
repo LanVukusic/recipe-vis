@@ -1,0 +1,112 @@
+{
+  "id": 44592,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "flower",
+    "lemon",
+    "yeast"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "flower",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "lemon",
+      "value": 69
+    },
+    {
+      "x": "orange",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "flower",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "flower",
+      "y": "flower",
+      "value": 0
+    },
+    {
+      "x": "flower",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "flower",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "lemon",
+      "y": "flower",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "flower",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "flower",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

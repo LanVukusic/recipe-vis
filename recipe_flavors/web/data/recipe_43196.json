@@ -1,0 +1,792 @@
+{
+  "id": 43196,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "wheat",
+    "chicken_broth",
+    "mushroom",
+    "starch",
+    "soy_sauce",
+    "ginger",
+    "celery",
+    "garlic",
+    "bell_pepper",
+    "sherry",
+    "vegetable_oil"
+  ],
+  "score_avg": 6.121212121212121,
+  "pair_coverage": 0.4090909090909091,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "pork",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "sherry",
+      "value": 43
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "celery",
+      "value": 17
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "mushroom",
+      "y": "sherry",
+      "value": 48
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sherry",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "pork",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "bell_pepper",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "sherry",
+      "value": 26
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "pork",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "mushroom",
+      "value": 17
+    },
+    {
+      "x": "celery",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "ginger",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "celery",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "sherry",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "celery",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "sherry",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "bell_pepper",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "sherry",
+      "value": 19
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "pork",
+      "value": 43
+    },
+    {
+      "x": "sherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "mushroom",
+      "value": 48
+    },
+    {
+      "x": "sherry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "sherry",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "sherry",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "sherry",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "sherry",
+      "y": "bell_pepper",
+      "value": 19
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sherry",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 14.727272727272727
+    },
+    {
+      "ingredient": "pork",
+      "mean": 13.545454545454545
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 10.909090909090908
+    },
+    {
+      "ingredient": "celery",
+      "mean": 8.454545454545455
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 8.181818181818182
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

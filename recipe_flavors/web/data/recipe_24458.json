@@ -1,0 +1,112 @@
+{
+  "id": 24458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg_noodle",
+    "tomato_juice",
+    "wheat"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "tomato_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "butter",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "tomato_juice",
+      "mean": 0.0
+    }
+  ]
+}

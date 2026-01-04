@@ -1,0 +1,112 @@
+{
+  "id": 36169,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "soy_sauce",
+    "bacon",
+    "oyster"
+  ],
+  "score_avg": 3.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "oyster",
+      "value": 4
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "oyster",
+      "value": 14
+    },
+    {
+      "x": "oyster",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "oyster",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "bacon",
+      "value": 14
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

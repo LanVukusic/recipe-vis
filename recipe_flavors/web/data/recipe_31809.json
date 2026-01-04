@@ -1,0 +1,162 @@
+{
+  "id": 31809,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_peel",
+    "orange_juice",
+    "lemon_juice",
+    "lemon_peel",
+    "lemon"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon_peel",
+      "value": 5
+    },
+    {
+      "x": "orange_peel",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_peel",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_peel",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "orange_peel",
+      "value": 5
+    },
+    {
+      "x": "lemon_peel",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "orange_peel",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

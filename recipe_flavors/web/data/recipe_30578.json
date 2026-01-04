@@ -1,0 +1,112 @@
+{
+  "id": 30578,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "corn_flake",
+    "cream"
+  ],
+  "score_avg": 17.833333333333332,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "corn_flake",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "corn_flake",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 43448,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cherry",
+    "raspberry",
+    "wheat"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "raspberry",
+      "value": 52
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cherry",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "raspberry",
+      "value": 23
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "butter",
+      "value": 52
+    },
+    {
+      "x": "raspberry",
+      "y": "cherry",
+      "value": 23
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

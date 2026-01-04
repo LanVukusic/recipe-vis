@@ -1,0 +1,162 @@
+{
+  "id": 18678,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "fruit",
+    "pecan",
+    "cream_cheese",
+    "cheddar_cheese"
+  ],
+  "score_avg": 26.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "pecan",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "cream_cheese",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "cheddar_cheese",
+      "value": 31
+    },
+    {
+      "x": "fruit",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "pecan",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cream_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "cream_cheese",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheddar_cheese",
+      "value": 130
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "honey",
+      "value": 31
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pecan",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 48.5
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 46.75
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 1.0
+    }
+  ]
+}

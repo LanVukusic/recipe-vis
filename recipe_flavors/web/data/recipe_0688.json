@@ -1,0 +1,292 @@
+{
+  "id": 688,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "lime_juice",
+    "roasted_peanut",
+    "bacon",
+    "fish",
+    "cayenne",
+    "litchi",
+    "scallion"
+  ],
+  "score_avg": 8.095238095238095,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "roasted_peanut",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "bacon",
+      "value": 72
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "fish",
+      "value": 35
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "litchi",
+      "value": 6
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "roasted_peanut",
+      "value": 72
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "litchi",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "roasted_peanut",
+      "value": 35
+    },
+    {
+      "x": "fish",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "litchi",
+      "value": 6
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "litchi",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "roasted_peanut",
+      "value": 6
+    },
+    {
+      "x": "litchi",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "litchi",
+      "y": "fish",
+      "value": 6
+    },
+    {
+      "x": "litchi",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "litchi",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "roasted_peanut",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "fish",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "litchi",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 1.8333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 27132,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "rice",
+    "banana"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "banana",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

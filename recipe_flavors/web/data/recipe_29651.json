@@ -1,0 +1,42 @@
+{
+  "id": 29651,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "wine"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wine",
+      "value": 3
+    },
+    {
+      "x": "wine",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 3.0
+    }
+  ]
+}

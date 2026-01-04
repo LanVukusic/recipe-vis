@@ -1,0 +1,72 @@
+{
+  "id": 21264,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cardamom",
+    "olive_oil",
+    "star_anise"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "star_anise",
+      "value": 4
+    },
+    {
+      "x": "olive_oil",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "cardamom",
+      "value": 4
+    },
+    {
+      "x": "star_anise",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "star_anise",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cardamom",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "star_anise",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

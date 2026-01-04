@@ -1,0 +1,112 @@
+{
+  "id": 30202,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "mango",
+    "raisin",
+    "cream"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "mango",
+      "value": 41
+    },
+    {
+      "x": "chicken",
+      "y": "raisin",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "mango",
+      "y": "chicken",
+      "value": 41
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "mango",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "raisin",
+      "y": "mango",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "mango",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "mango",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 9.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 927,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "fish",
+    "soy_sauce",
+    "ginger",
+    "wine"
+  ],
+  "score_avg": 11.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "wine",
+      "value": 26
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "fish",
+      "value": 26
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "fish",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

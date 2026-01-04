@@ -1,0 +1,72 @@
+{
+  "id": 2367,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "gelatin",
+    "milk",
+    "red_bean"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "red_bean",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "red_bean",
+      "value": 40
+    },
+    {
+      "x": "red_bean",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "milk",
+      "value": 40
+    },
+    {
+      "x": "red_bean",
+      "y": "red_bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "red_bean",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

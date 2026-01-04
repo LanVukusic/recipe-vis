@@ -1,0 +1,112 @@
+{
+  "id": 18378,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rice",
+    "egg",
+    "beef",
+    "starch"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "rice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

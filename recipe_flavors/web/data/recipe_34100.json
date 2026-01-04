@@ -1,0 +1,112 @@
+{
+  "id": 34100,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "cheddar_cheese",
+    "wheat",
+    "lard"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "buttermilk",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

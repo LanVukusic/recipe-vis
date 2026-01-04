@@ -1,0 +1,162 @@
+{
+  "id": 9795,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "tomato",
+    "cane_molasses",
+    "tabasco_pepper",
+    "bread"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "tabasco_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "tabasco_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

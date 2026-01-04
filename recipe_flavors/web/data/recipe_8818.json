@@ -1,0 +1,42 @@
+{
+  "id": 8818,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "beer"
+  ],
+  "score_avg": 69.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "beer",
+      "value": 69
+    },
+    {
+      "x": "beer",
+      "y": "chicken",
+      "value": 69
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 69.0
+    },
+    {
+      "ingredient": "beer",
+      "mean": 69.0
+    }
+  ]
+}

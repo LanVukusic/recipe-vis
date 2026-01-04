@@ -1,0 +1,162 @@
+{
+  "id": 37866,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "roasted_sesame_seed",
+    "chickpea",
+    "lemon_juice",
+    "garlic",
+    "bell_pepper"
+  ],
+  "score_avg": 0.7,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "chickpea",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "roasted_sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "roasted_sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "chickpea",
+      "mean": 0.0
+    }
+  ]
+}

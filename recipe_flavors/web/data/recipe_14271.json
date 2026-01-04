@@ -1,0 +1,162 @@
+{
+  "id": 14271,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "fennel",
+    "rye_bread",
+    "pork_sausage",
+    "beef"
+  ],
+  "score_avg": 36.9,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "rye_bread",
+      "value": 46
+    },
+    {
+      "x": "cheese",
+      "y": "pork_sausage",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "fennel",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "rye_bread",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "rye_bread",
+      "y": "cheese",
+      "value": 46
+    },
+    {
+      "x": "rye_bread",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "rye_bread",
+      "y": "rye_bread",
+      "value": 0
+    },
+    {
+      "x": "rye_bread",
+      "y": "pork_sausage",
+      "value": 37
+    },
+    {
+      "x": "rye_bread",
+      "y": "beef",
+      "value": 50
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "pork_sausage",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "rye_bread",
+      "value": 37
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "beef",
+      "value": 101
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "rye_bread",
+      "value": 50
+    },
+    {
+      "x": "beef",
+      "y": "pork_sausage",
+      "value": 101
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 56.5
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 49.25
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "rye_bread",
+      "mean": 33.25
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.0
+    }
+  ]
+}

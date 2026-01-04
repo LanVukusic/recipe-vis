@@ -1,0 +1,112 @@
+{
+  "id": 37312,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "nutmeg",
+    "apple",
+    "starch"
+  ],
+  "score_avg": 1.5,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

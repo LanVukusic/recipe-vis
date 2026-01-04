@@ -1,0 +1,112 @@
+{
+  "id": 8658,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "lemon_juice",
+    "pear",
+    "apple"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "pear",
+      "value": 21
+    },
+    {
+      "x": "lemon",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "lemon",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "apple",
+      "value": 44
+    },
+    {
+      "x": "apple",
+      "y": "lemon",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pear",
+      "value": 44
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "pear",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

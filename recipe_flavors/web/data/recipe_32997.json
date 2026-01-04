@@ -1,0 +1,42 @@
+{
+  "id": 32997,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cayenne",
+    "peanut_butter"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cayenne",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 3.0
+    }
+  ]
+}

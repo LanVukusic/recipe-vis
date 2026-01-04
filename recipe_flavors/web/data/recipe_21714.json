@@ -1,0 +1,42 @@
+{
+  "id": 21714,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "watermelon",
+    "rum"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "rum",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "watermelon",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "watermelon",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 2.0
+    }
+  ]
+}

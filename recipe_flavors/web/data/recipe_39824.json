@@ -1,0 +1,72 @@
+{
+  "id": 39824,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "orange_juice",
+    "pear"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "cocoa",
+      "y": "pear",
+      "value": 13
+    },
+    {
+      "x": "orange_juice",
+      "y": "cocoa",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "pear",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "pear",
+      "mean": 8.5
+    }
+  ]
+}

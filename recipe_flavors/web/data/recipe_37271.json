@@ -1,0 +1,112 @@
+{
+  "id": 37271,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "lemon",
+    "ginger",
+    "green_tea"
+  ],
+  "score_avg": 25.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "orange_juice",
+      "y": "green_tea",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "green_tea",
+      "value": 32
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "green_tea",
+      "value": 47
+    },
+    {
+      "x": "green_tea",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "green_tea",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "green_tea",
+      "y": "ginger",
+      "value": 47
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_tea",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 13.666666666666666
+    }
+  ]
+}

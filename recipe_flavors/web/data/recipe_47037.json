@@ -1,0 +1,112 @@
+{
+  "id": 47037,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "egg_noodle",
+    "pepper",
+    "mushroom"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "mushroom",
+      "value": 28
+    },
+    {
+      "x": "egg_noodle",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "turkey",
+      "value": 28
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 11935,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "chive",
+    "chicken_broth",
+    "goat_cheese"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "goat_cheese",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "goat_cheese",
+      "value": 4
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "corn_grit",
+      "value": 1
+    },
+    {
+      "x": "goat_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "goat_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "goat_cheese",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "chive",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 13180,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "orange",
+    "seed",
+    "lemon"
+  ],
+  "score_avg": 31.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "orange",
+      "value": 51
+    },
+    {
+      "x": "citrus",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "citrus",
+      "y": "lemon",
+      "value": 51
+    },
+    {
+      "x": "orange",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "seed",
+      "value": 7
+    },
+    {
+      "x": "orange",
+      "y": "lemon",
+      "value": 69
+    },
+    {
+      "x": "seed",
+      "y": "citrus",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "orange",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "lemon",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "lemon",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 41.666666666666664
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "seed",
+      "mean": 5.333333333333333
+    }
+  ]
+}

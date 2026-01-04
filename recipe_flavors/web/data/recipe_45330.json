@@ -1,0 +1,112 @@
+{
+  "id": 45330,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "dill",
+    "cucumber",
+    "scallion"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

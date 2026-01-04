@@ -1,0 +1,42 @@
+{
+  "id": 35562,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "mushroom"
+  ],
+  "score_avg": 47.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 47.0
+    }
+  ]
+}

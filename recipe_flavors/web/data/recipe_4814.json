@@ -1,0 +1,162 @@
+{
+  "id": 4814,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "popcorn",
+    "cheddar_cheese",
+    "bell_pepper",
+    "cumin"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "popcorn",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "cheddar_cheese",
+      "value": 11
+    },
+    {
+      "x": "popcorn",
+      "y": "bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "popcorn",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "popcorn",
+      "value": 11
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "popcorn",
+      "value": 4
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.0
+    }
+  ]
+}

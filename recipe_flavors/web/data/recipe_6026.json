@@ -1,0 +1,42 @@
+{
+  "id": 6026,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "beef",
+    "lime"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "lime",
+      "value": 19
+    },
+    {
+      "x": "lime",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 19.0
+    }
+  ]
+}

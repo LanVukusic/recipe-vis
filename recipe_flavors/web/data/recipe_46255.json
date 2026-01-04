@@ -1,0 +1,112 @@
+{
+  "id": 46255,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bean",
+    "marjoram",
+    "pepper"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "marjoram",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "marjoram",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "bean",
+      "value": 7
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "marjoram",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 6.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 14746,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cherry",
+    "corn",
+    "cocoa"
+  ],
+  "score_avg": 28.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "cherry",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "corn",
+      "value": 8
+    },
+    {
+      "x": "cherry",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "cherry",
+      "value": 8
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cocoa",
+      "value": 43
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cocoa",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "corn",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 13.0
+    }
+  ]
+}

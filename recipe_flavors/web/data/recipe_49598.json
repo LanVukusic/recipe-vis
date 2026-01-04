@@ -1,0 +1,42 @@
+{
+  "id": 49598,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "pea",
+    "onion"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.0
+    }
+  ]
+}

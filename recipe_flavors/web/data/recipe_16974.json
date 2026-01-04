@@ -1,0 +1,112 @@
+{
+  "id": 16974,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "popcorn",
+    "lemon_peel",
+    "corn",
+    "lemon"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "popcorn",
+      "y": "corn",
+      "value": 14
+    },
+    {
+      "x": "popcorn",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "popcorn",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "corn",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "popcorn",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "corn",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.0
+    }
+  ]
+}

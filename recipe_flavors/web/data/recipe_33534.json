@@ -1,0 +1,72 @@
+{
+  "id": 33534,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "coffee",
+    "cream"
+  ],
+  "score_avg": 29.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "coffee",
+      "value": 54
+    },
+    {
+      "x": "whiskey",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "coffee",
+      "y": "whiskey",
+      "value": 54
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "whiskey",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 17.0
+    }
+  ]
+}

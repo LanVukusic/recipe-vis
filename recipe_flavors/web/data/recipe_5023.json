@@ -1,0 +1,222 @@
+{
+  "id": 5023,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "rum",
+    "starch",
+    "egg",
+    "milk",
+    "mango"
+  ],
+  "score_avg": 16.133333333333333,
+  "pair_coverage": 0.5333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "mango",
+      "value": 62
+    },
+    {
+      "x": "starch",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "rum",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "mango",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "rum",
+      "value": 62
+    },
+    {
+      "x": "mango",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 29.2
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.8
+    },
+    {
+      "ingredient": "mango",
+      "mean": 24.8
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.6
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

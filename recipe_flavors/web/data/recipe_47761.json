@@ -1,0 +1,72 @@
+{
+  "id": 47761,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "grape_juice",
+    "wine"
+  ],
+  "score_avg": 21.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "grape_juice",
+      "y": "cocoa",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 1.0
+    }
+  ]
+}

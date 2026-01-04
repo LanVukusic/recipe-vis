@@ -1,0 +1,112 @@
+{
+  "id": 48686,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "olive_oil",
+    "cayenne",
+    "okra",
+    "mustard"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "okra",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "okra",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "okra",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "okra",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "okra",
+      "y": "okra",
+      "value": 0
+    },
+    {
+      "x": "okra",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "okra",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cayenne",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "okra",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

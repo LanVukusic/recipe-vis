@@ -1,0 +1,112 @@
+{
+  "id": 46543,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "orange",
+    "almond",
+    "fig"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "orange",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "fig",
+      "value": 18
+    },
+    {
+      "x": "orange",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "fig",
+      "value": 23
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "fig",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "fig",
+      "y": "orange",
+      "value": 23
+    },
+    {
+      "x": "fig",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "fig",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "fig",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 18970,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "corn",
+    "peanut_butter",
+    "milk"
+  ],
+  "score_avg": 52.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "corn",
+      "y": "cocoa",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "peanut_butter",
+      "value": 41
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 59.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 57.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 42.0
+    }
+  ]
+}

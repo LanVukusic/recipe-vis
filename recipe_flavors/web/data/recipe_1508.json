@@ -1,0 +1,112 @@
+{
+  "id": 1508,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "sake",
+    "vegetable_oil",
+    "soy_sauce",
+    "sesame_seed"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "sesame_seed",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sake",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

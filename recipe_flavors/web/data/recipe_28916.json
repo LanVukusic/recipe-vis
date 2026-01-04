@@ -1,0 +1,162 @@
+{
+  "id": 28916,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "tomato_juice",
+    "vanilla",
+    "peach",
+    "cranberry"
+  ],
+  "score_avg": 16.7,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "tomato_juice",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "peach",
+      "value": 26
+    },
+    {
+      "x": "coffee",
+      "y": "cranberry",
+      "value": 35
+    },
+    {
+      "x": "tomato_juice",
+      "y": "coffee",
+      "value": 1
+    },
+    {
+      "x": "tomato_juice",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "vanilla",
+      "y": "cranberry",
+      "value": 24
+    },
+    {
+      "x": "peach",
+      "y": "coffee",
+      "value": 26
+    },
+    {
+      "x": "peach",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cranberry",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "coffee",
+      "value": 35
+    },
+    {
+      "x": "cranberry",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "vanilla",
+      "value": 24
+    },
+    {
+      "x": "cranberry",
+      "y": "peach",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "peach",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "tomato_juice",
+      "mean": 0.25
+    }
+  ]
+}

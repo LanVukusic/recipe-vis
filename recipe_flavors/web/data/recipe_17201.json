@@ -1,0 +1,72 @@
+{
+  "id": 17201,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rice",
+    "fruit",
+    "cream"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "fruit",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.5
+    }
+  ]
+}

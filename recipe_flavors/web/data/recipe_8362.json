@@ -1,0 +1,792 @@
+{
+  "id": 8362,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pork",
+    "grape_juice",
+    "apple",
+    "beef",
+    "potato",
+    "shallot",
+    "chicken_broth",
+    "red_wine",
+    "raisin",
+    "garlic",
+    "blue_cheese"
+  ],
+  "score_avg": 16.454545454545453,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "beef",
+      "value": 97
+    },
+    {
+      "x": "pork",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "pork",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "red_wine",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "blue_cheese",
+      "value": 61
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "beef",
+      "value": 60
+    },
+    {
+      "x": "apple",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "red_wine",
+      "value": 86
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "blue_cheese",
+      "value": 86
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "beef",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "apple",
+      "value": 60
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "shallot",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "raisin",
+      "value": 19
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "blue_cheese",
+      "value": 84
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "pork",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "red_wine",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "blue_cheese",
+      "value": 50
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "shallot",
+      "y": "potato",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "red_wine",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "blue_cheese",
+      "value": 5
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "red_wine",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "apple",
+      "value": 86
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "potato",
+      "value": 33
+    },
+    {
+      "x": "red_wine",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "blue_cheese",
+      "value": 76
+    },
+    {
+      "x": "raisin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pork",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "raisin",
+      "y": "potato",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "red_wine",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "blue_cheese",
+      "value": 12
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "blue_cheese",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "blue_cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "apple",
+      "value": 86
+    },
+    {
+      "x": "blue_cheese",
+      "y": "beef",
+      "value": 84
+    },
+    {
+      "x": "blue_cheese",
+      "y": "potato",
+      "value": 50
+    },
+    {
+      "x": "blue_cheese",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "blue_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "red_wine",
+      "value": 76
+    },
+    {
+      "x": "blue_cheese",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "blue_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 36.90909090909091
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 34.81818181818182
+    },
+    {
+      "ingredient": "apple",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 28.90909090909091
+    },
+    {
+      "ingredient": "pork",
+      "mean": 28.09090909090909
+    },
+    {
+      "ingredient": "potato",
+      "mean": 23.181818181818183
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 7.818181818181818
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 2.8181818181818183
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.9090909090909091
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

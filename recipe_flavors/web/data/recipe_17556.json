@@ -1,0 +1,112 @@
+{
+  "id": 17556,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bourbon_whiskey",
+    "beef",
+    "whiskey"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "beef",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bourbon_whiskey",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "whiskey",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

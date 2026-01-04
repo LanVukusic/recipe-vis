@@ -1,0 +1,72 @@
+{
+  "id": 5776,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "coconut",
+    "lime_juice",
+    "pineapple"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "lime_juice",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 42569,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cassava"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cassava",
+      "value": 2
+    },
+    {
+      "x": "cassava",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "cassava",
+      "y": "cassava",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cassava",
+      "mean": 2.0
+    }
+  ]
+}

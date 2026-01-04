@@ -1,0 +1,112 @@
+{
+  "id": 40681,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apple",
+    "wheat",
+    "cinnamon",
+    "rhubarb"
+  ],
+  "score_avg": 3.1666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "rhubarb",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "rhubarb",
+      "value": 2
+    },
+    {
+      "x": "rhubarb",
+      "y": "apple",
+      "value": 4
+    },
+    {
+      "x": "rhubarb",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

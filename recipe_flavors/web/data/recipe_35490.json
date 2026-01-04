@@ -1,0 +1,72 @@
+{
+  "id": 35490,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "strawberry",
+    "milk"
+  ],
+  "score_avg": 55.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "strawberry",
+      "value": 61
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "cocoa",
+      "value": 61
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 56.5
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 56.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 52.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 29780,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "avocado",
+    "milk"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "avocado",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "avocado",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 16.0
+    }
+  ]
+}

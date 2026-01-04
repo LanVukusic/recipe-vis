@@ -1,0 +1,792 @@
+{
+  "id": 181,
+  "cuisine": "African",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "red_wine",
+    "gelatin",
+    "garlic",
+    "vegetable_oil",
+    "lamb",
+    "juniper_berry",
+    "currant",
+    "lemon",
+    "onion",
+    "saffron"
+  ],
+  "score_avg": 6.863636363636363,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "red_wine",
+      "value": 58
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lamb",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "juniper_berry",
+      "value": 25
+    },
+    {
+      "x": "butter",
+      "y": "currant",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "saffron",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "juniper_berry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "butter",
+      "value": 58
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "red_wine",
+      "y": "juniper_berry",
+      "value": 24
+    },
+    {
+      "x": "red_wine",
+      "y": "currant",
+      "value": 18
+    },
+    {
+      "x": "red_wine",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "saffron",
+      "value": 2
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "juniper_berry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "juniper_berry",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "currant",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "juniper_berry",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "lamb",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "red_wine",
+      "value": 28
+    },
+    {
+      "x": "lamb",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "juniper_berry",
+      "value": 16
+    },
+    {
+      "x": "lamb",
+      "y": "currant",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "lemon",
+      "value": 13
+    },
+    {
+      "x": "lamb",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "saffron",
+      "value": 1
+    },
+    {
+      "x": "juniper_berry",
+      "y": "butter",
+      "value": 25
+    },
+    {
+      "x": "juniper_berry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "juniper_berry",
+      "y": "red_wine",
+      "value": 24
+    },
+    {
+      "x": "juniper_berry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "juniper_berry",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "juniper_berry",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "juniper_berry",
+      "y": "lamb",
+      "value": 16
+    },
+    {
+      "x": "juniper_berry",
+      "y": "juniper_berry",
+      "value": 0
+    },
+    {
+      "x": "juniper_berry",
+      "y": "currant",
+      "value": 20
+    },
+    {
+      "x": "juniper_berry",
+      "y": "lemon",
+      "value": 27
+    },
+    {
+      "x": "juniper_berry",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "juniper_berry",
+      "y": "saffron",
+      "value": 1
+    },
+    {
+      "x": "currant",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "currant",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "red_wine",
+      "value": 18
+    },
+    {
+      "x": "currant",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "currant",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "currant",
+      "y": "juniper_berry",
+      "value": 20
+    },
+    {
+      "x": "currant",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "currant",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "currant",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "red_wine",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lamb",
+      "value": 13
+    },
+    {
+      "x": "lemon",
+      "y": "juniper_berry",
+      "value": 27
+    },
+    {
+      "x": "lemon",
+      "y": "currant",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "saffron",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "juniper_berry",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "currant",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "saffron",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "saffron",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "saffron",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "saffron",
+      "y": "juniper_berry",
+      "value": 1
+    },
+    {
+      "x": "saffron",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "saffron",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "saffron",
+      "y": "saffron",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.181818181818183
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 15.727272727272727
+    },
+    {
+      "ingredient": "juniper_berry",
+      "mean": 11.090909090909092
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 10.727272727272727
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "currant",
+      "mean": 7.636363636363637
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "saffron",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

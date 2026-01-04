@@ -1,0 +1,112 @@
+{
+  "id": 9552,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "fish",
+    "lemon",
+    "rosemary"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "lemon",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "fish",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "fish",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "lemon",
+      "y": "bacon",
+      "value": 19
+    },
+    {
+      "x": "lemon",
+      "y": "fish",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "fish",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "fish",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 5.666666666666667
+    }
+  ]
+}

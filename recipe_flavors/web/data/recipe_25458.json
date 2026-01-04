@@ -1,0 +1,42 @@
+{
+  "id": 25458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tamarind",
+    "lime"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tamarind",
+      "y": "tamarind",
+      "value": 0
+    },
+    {
+      "x": "tamarind",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "tamarind",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tamarind",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 12.0
+    }
+  ]
+}

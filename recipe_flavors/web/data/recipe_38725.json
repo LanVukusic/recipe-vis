@@ -1,0 +1,112 @@
+{
+  "id": 38725,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "sage",
+    "marjoram",
+    "garlic",
+    "roasted_pork"
+  ],
+  "score_avg": 2.1666666666666665,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "marjoram",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "roasted_pork",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_pork",
+      "value": 5
+    },
+    {
+      "x": "roasted_pork",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "marjoram",
+      "value": 3
+    },
+    {
+      "x": "roasted_pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "roasted_pork",
+      "y": "roasted_pork",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_pork",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

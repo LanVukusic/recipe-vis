@@ -1,0 +1,112 @@
+{
+  "id": 22111,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gin",
+    "tequila",
+    "lime",
+    "rum"
+  ],
+  "score_avg": 5.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "rum",
+      "value": 9
+    },
+    {
+      "x": "tequila",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "rum",
+      "value": 18
+    },
+    {
+      "x": "rum",
+      "y": "gin",
+      "value": 9
+    },
+    {
+      "x": "rum",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "lime",
+      "value": 18
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "gin",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

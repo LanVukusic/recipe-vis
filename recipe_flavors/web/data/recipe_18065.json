@@ -1,0 +1,112 @@
+{
+  "id": 18065,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "rice",
+    "garlic",
+    "bell_pepper"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "rice",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

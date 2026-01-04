@@ -1,0 +1,42 @@
+{
+  "id": 19680,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "mango"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "mango",
+      "mean": 0.0
+    }
+  ]
+}

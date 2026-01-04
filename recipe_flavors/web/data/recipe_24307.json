@@ -1,0 +1,162 @@
+{
+  "id": 24307,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "wheat",
+    "milk",
+    "liver",
+    "yeast"
+  ],
+  "score_avg": 3.4,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "liver",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "liver",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "liver",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "liver",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "liver",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "liver",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

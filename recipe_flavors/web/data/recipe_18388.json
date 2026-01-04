@@ -1,0 +1,112 @@
+{
+  "id": 18388,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "onion",
+    "mushroom",
+    "blue_cheese"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "blue_cheese",
+      "value": 20
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "blue_cheese",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "blue_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

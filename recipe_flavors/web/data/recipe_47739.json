@@ -1,0 +1,292 @@
+{
+  "id": 47739,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "swiss_cheese",
+    "wheat",
+    "yeast",
+    "nutmeg",
+    "egg",
+    "milk",
+    "port_wine"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.5714285714285714,
+  "heatmap": [
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "milk",
+      "value": 73
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "port_wine",
+      "value": 64
+    },
+    {
+      "x": "wheat",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "port_wine",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "port_wine",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "swiss_cheese",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "port_wine",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "swiss_cheese",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "port_wine",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "swiss_cheese",
+      "value": 73
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "port_wine",
+      "value": 43
+    },
+    {
+      "x": "port_wine",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "port_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "nutmeg",
+      "value": 8
+    },
+    {
+      "x": "port_wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "port_wine",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "port_wine",
+      "y": "port_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "port_wine",
+      "mean": 21.833333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

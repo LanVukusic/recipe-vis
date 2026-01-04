@@ -1,0 +1,42 @@
+{
+  "id": 31945,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "potato"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 4.0
+    }
+  ]
+}

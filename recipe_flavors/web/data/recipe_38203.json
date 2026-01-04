@@ -1,0 +1,72 @@
+{
+  "id": 38203,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "gelatin",
+    "peanut_butter"
+  ],
+  "score_avg": 25.666666666666668,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "gelatin",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

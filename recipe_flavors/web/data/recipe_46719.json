@@ -1,0 +1,42 @@
+{
+  "id": 46719,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef_broth",
+    "mushroom"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef_broth",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 1.0
+    }
+  ]
+}

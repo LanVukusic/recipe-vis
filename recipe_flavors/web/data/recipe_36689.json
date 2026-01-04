@@ -1,0 +1,372 @@
+{
+  "id": 36689,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "ham",
+    "onion",
+    "vinegar",
+    "red_wine",
+    "honey",
+    "bean",
+    "mustard"
+  ],
+  "score_avg": 10.321428571428571,
+  "pair_coverage": 0.9285714285714286,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "honey",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "red_wine",
+      "value": 22
+    },
+    {
+      "x": "ham",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "ham",
+      "y": "bean",
+      "value": 24
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "ham",
+      "value": 22
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "honey",
+      "value": 32
+    },
+    {
+      "x": "red_wine",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "red_wine",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "honey",
+      "y": "ham",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "red_wine",
+      "value": 32
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "bean",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "bean",
+      "y": "red_wine",
+      "value": 42
+    },
+    {
+      "x": "bean",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "bean",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 20.428571428571427
+    },
+    {
+      "ingredient": "bean",
+      "mean": 15.571428571428571
+    },
+    {
+      "ingredient": "honey",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 10.571428571428571
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.428571428571429
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.428571428571429
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.1428571428571428
+    }
+  ]
+}

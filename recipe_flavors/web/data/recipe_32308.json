@@ -1,0 +1,112 @@
+{
+  "id": 32308,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tuna",
+    "egg",
+    "wheat_bread",
+    "mushroom"
+  ],
+  "score_avg": 32.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tuna",
+      "y": "wheat_bread",
+      "value": 42
+    },
+    {
+      "x": "tuna",
+      "y": "mushroom",
+      "value": 38
+    },
+    {
+      "x": "egg",
+      "y": "tuna",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat_bread",
+      "value": 26
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "wheat_bread",
+      "y": "tuna",
+      "value": 42
+    },
+    {
+      "x": "wheat_bread",
+      "y": "egg",
+      "value": 26
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "mushroom",
+      "value": 39
+    },
+    {
+      "x": "mushroom",
+      "y": "tuna",
+      "value": 38
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat_bread",
+      "value": 39
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat_bread",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 24.666666666666668
+    }
+  ]
+}

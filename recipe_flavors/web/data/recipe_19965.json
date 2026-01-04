@@ -1,0 +1,112 @@
+{
+  "id": 19965,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "soy_sauce",
+    "mustard",
+    "ginger",
+    "sesame_oil"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "ginger",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mustard",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

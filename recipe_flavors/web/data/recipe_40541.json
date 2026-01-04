@@ -1,0 +1,162 @@
+{
+  "id": 40541,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "corn",
+    "rice",
+    "mushroom",
+    "beef"
+  ],
+  "score_avg": 48.7,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "rice",
+      "value": 38
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "beef",
+      "value": 74
+    },
+    {
+      "x": "corn",
+      "y": "mozzarella_cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "rice",
+      "value": 34
+    },
+    {
+      "x": "corn",
+      "y": "mushroom",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "beef",
+      "value": 51
+    },
+    {
+      "x": "rice",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "corn",
+      "value": 34
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "mozzarella_cheese",
+      "value": 74
+    },
+    {
+      "x": "beef",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 60.75
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 51.75
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 48.25
+    },
+    {
+      "ingredient": "rice",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 40.25
+    }
+  ]
+}

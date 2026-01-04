@@ -1,0 +1,42 @@
+{
+  "id": 25780,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apple",
+    "cream"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.0
+    }
+  ]
+}

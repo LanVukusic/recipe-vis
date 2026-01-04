@@ -1,0 +1,42 @@
+{
+  "id": 36332,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "ginger"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 11.0
+    }
+  ]
+}

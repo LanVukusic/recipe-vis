@@ -1,0 +1,72 @@
+{
+  "id": 34118,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "banana",
+    "cottage_cheese"
+  ],
+  "score_avg": 33.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "banana",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "cottage_cheese",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cottage_cheese",
+      "value": 48
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "banana",
+      "value": 48
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 26.0
+    }
+  ]
+}

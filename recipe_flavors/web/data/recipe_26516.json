@@ -1,0 +1,72 @@
+{
+  "id": 26516,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "swiss_cheese",
+    "sauerkraut"
+  ],
+  "score_avg": 27.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "chicken",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 9.0
+    }
+  ]
+}

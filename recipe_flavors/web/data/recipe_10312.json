@@ -1,0 +1,42 @@
+{
+  "id": 10312,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "peach"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 14.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 2153,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "rice",
+    "clam",
+    "garlic",
+    "soybean"
+  ],
+  "score_avg": 14.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "clam",
+      "value": 32
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "clam",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "rice",
+      "value": 32
+    },
+    {
+      "x": "clam",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "clam",
+      "y": "soybean",
+      "value": 41
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "clam",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "clam",
+      "value": 41
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "clam",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.25
+    }
+  ]
+}

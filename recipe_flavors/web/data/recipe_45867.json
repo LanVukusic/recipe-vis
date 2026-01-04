@@ -1,0 +1,112 @@
+{
+  "id": 45867,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "potato_chip",
+    "chicken",
+    "garlic"
+  ],
+  "score_avg": 18.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato_chip",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "potato_chip",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "potato_chip",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "potato_chip",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "potato_chip",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.333333333333333
+    }
+  ]
+}

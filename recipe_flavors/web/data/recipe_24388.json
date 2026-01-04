@@ -1,0 +1,42 @@
+{
+  "id": 24388,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rose",
+    "clove"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "clove",
+      "value": 2
+    },
+    {
+      "x": "clove",
+      "y": "rose",
+      "value": 2
+    },
+    {
+      "x": "clove",
+      "y": "clove",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rose",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "clove",
+      "mean": 2.0
+    }
+  ]
+}

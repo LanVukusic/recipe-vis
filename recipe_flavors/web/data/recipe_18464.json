@@ -1,0 +1,162 @@
+{
+  "id": 18464,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "goat_cheese",
+    "grape_juice",
+    "bacon",
+    "pecan"
+  ],
+  "score_avg": 12.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "date",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "goat_cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "goat_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "grape_juice",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "goat_cheese",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "pecan",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "goat_cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pecan",
+      "value": 37
+    },
+    {
+      "x": "pecan",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "goat_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "goat_cheese",
+      "mean": 22.25
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "date",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.5
+    }
+  ]
+}

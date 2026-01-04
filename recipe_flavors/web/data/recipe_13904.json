@@ -1,0 +1,112 @@
+{
+  "id": 13904,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kiwi",
+    "orange_juice",
+    "banana",
+    "pineapple"
+  ],
+  "score_avg": 20.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "kiwi",
+      "y": "kiwi",
+      "value": 0
+    },
+    {
+      "x": "kiwi",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "kiwi",
+      "y": "banana",
+      "value": 25
+    },
+    {
+      "x": "kiwi",
+      "y": "pineapple",
+      "value": 25
+    },
+    {
+      "x": "orange_juice",
+      "y": "kiwi",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "banana",
+      "y": "kiwi",
+      "value": 25
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "kiwi",
+      "value": 25
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "kiwi",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 13.333333333333334
+    }
+  ]
+}

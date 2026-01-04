@@ -1,0 +1,112 @@
+{
+  "id": 41563,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken_broth",
+    "red_wine",
+    "mustard"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "red_wine",
+      "value": 58
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "butter",
+      "value": 58
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

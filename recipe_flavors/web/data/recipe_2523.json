@@ -1,0 +1,162 @@
+{
+  "id": 2523,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "roasted_sesame_seed",
+    "rice",
+    "egg",
+    "ham",
+    "scallion"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "roasted_sesame_seed",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "ham",
+      "value": 25
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "roasted_sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "roasted_sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "rice",
+      "value": 25
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 14.75
+    },
+    {
+      "ingredient": "ham",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

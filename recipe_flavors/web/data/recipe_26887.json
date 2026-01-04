@@ -1,0 +1,112 @@
+{
+  "id": 26887,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "raspberry",
+    "wine",
+    "lime"
+  ],
+  "score_avg": 36.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "raspberry",
+      "value": 42
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "cocoa",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "raspberry",
+      "y": "cocoa",
+      "value": 42
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "raspberry",
+      "y": "lime",
+      "value": 36
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "cocoa",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "raspberry",
+      "value": 36
+    },
+    {
+      "x": "lime",
+      "y": "wine",
+      "value": 17
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 41.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 21.666666666666668
+    }
+  ]
+}

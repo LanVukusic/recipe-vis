@@ -1,0 +1,72 @@
+{
+  "id": 42344,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "corn_flake",
+    "peanut_butter"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "corn_flake",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "peanut_butter",
+      "value": 2
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn_flake",
+      "value": 2
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 1.0
+    }
+  ]
+}

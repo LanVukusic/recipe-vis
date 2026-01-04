@@ -1,0 +1,72 @@
+{
+  "id": 9541,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rose",
+    "sour_cherry",
+    "starch"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "sour_cherry",
+      "value": 1
+    },
+    {
+      "x": "rose",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "rose",
+      "value": 1
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rose",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

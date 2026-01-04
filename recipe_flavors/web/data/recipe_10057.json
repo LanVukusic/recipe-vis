@@ -1,0 +1,112 @@
+{
+  "id": 10057,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "watermelon",
+    "lime_juice",
+    "star_anise",
+    "lime"
+  ],
+  "score_avg": 2.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "lime_juice",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "star_anise",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "lime",
+      "value": 4
+    },
+    {
+      "x": "lime",
+      "y": "watermelon",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "star_anise",
+      "value": 4
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "watermelon",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "star_anise",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

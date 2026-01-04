@@ -1,0 +1,162 @@
+{
+  "id": 16699,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "pepper",
+    "wheat",
+    "chicken_liver",
+    "garlic"
+  ],
+  "score_avg": 1.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_liver",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_liver",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "chicken_liver",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "chicken_liver",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "chicken_liver",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_liver",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "chicken_liver",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    }
+  ]
+}

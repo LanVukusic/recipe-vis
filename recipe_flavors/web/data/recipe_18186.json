@@ -1,0 +1,112 @@
+{
+  "id": 18186,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "fruit",
+    "almond",
+    "cream_cheese"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "fruit",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

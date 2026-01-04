@@ -1,0 +1,72 @@
+{
+  "id": 11397,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "butter",
+    "peanut"
+  ],
+  "score_avg": 55.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut",
+      "value": 56
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "peanut",
+      "value": 57
+    },
+    {
+      "x": "peanut",
+      "y": "cocoa",
+      "value": 56
+    },
+    {
+      "x": "peanut",
+      "y": "butter",
+      "value": 57
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut",
+      "mean": 56.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 55.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 54.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 10770,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "apple",
+    "ginger"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.5
+    }
+  ]
+}

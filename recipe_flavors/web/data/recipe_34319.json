@@ -1,0 +1,72 @@
+{
+  "id": 34319,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "milk",
+    "rum"
+  ],
+  "score_avg": 66.33333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "rum",
+      "value": 77
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "coffee",
+      "value": 77
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 70.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 68.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 61.0
+    }
+  ]
+}

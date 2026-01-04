@@ -1,0 +1,42 @@
+{
+  "id": 4891,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "avocado",
+    "cream"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "avocado",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 1.0
+    }
+  ]
+}

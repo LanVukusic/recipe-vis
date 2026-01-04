@@ -1,0 +1,162 @@
+{
+  "id": 1262,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "roasted_sesame_seed",
+    "vinegar",
+    "garlic",
+    "sesame_oil",
+    "scallion"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "roasted_sesame_seed",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.25
+    }
+  ]
+}

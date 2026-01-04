@@ -1,0 +1,162 @@
+{
+  "id": 35643,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream",
+    "macaroni",
+    "pea",
+    "parmesan_cheese",
+    "ham"
+  ],
+  "score_avg": 14.1,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pea",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pea",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "pea",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "pea",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "pea",
+      "y": "ham",
+      "value": 16
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pea",
+      "value": 40
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "macaroni",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "pea",
+      "value": 16
+    },
+    {
+      "x": "ham",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "pea",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "ham",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.75
+    }
+  ]
+}

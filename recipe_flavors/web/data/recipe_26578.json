@@ -1,0 +1,72 @@
+{
+  "id": 26578,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bread",
+    "cottage_cheese"
+  ],
+  "score_avg": 43.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "cottage_cheese",
+      "value": 62
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cottage_cheese",
+      "value": 39
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 50.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 46.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 34.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 911,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "honey",
+    "sake",
+    "soy_sauce",
+    "garlic"
+  ],
+  "score_avg": 1.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "sake",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sake",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sake",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "honey",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

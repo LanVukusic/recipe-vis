@@ -1,0 +1,42 @@
+{
+  "id": 36863,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "raspberry"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 14.0
+    }
+  ]
+}
