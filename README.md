@@ -1,4 +1,4 @@
-# Recipe Compatibility Explorer (Flavor Network)
+# Recipe Compatibility Explorer
 
 This branch contains an **interactive web visualization** based on the paper  
 **“Flavor Network and the Principles of Food Pairing”** (Ahn et al.).
@@ -6,8 +6,6 @@ This branch contains an **interactive web visualization** based on the paper
 The goal of this project is to explore **how well ingredients in a recipe fit together**
 based on shared flavor compounds, and to make this understandable through
 interactive visualizations.
-
-This implementation is **separate from the main branch** and does not overwrite existing work.
 
 ---
 
