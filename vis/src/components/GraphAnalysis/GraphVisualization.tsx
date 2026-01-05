@@ -1,11 +1,13 @@
 import { GraphCanvas, lightTheme } from "reagraph";
-import type { GraphNode, GraphEdge } from "./graphHelpers";
+import type { GraphNode, GraphEdge, Recipe } from "./graphHelpers";
 
 interface GraphVisualizationProps {
   nodes?: GraphNode[];
   edges?: GraphEdge[];
+  visitCounts?: Map<string, number> | null;
   onNodeClick?: (node: GraphNode) => void;
   disabled?: boolean;
+  selectedNodes: Recipe[];
 }
 
 function GraphVisualization({
@@ -13,18 +15,34 @@ function GraphVisualization({
   edges = [],
   onNodeClick,
   disabled = false,
+  selectedNodes,
 }: GraphVisualizationProps) {
-  const reagraphNodes = nodes.map((node) => ({
-    id: node.id,
-    label: node.label,
-    ...node.recipe, // Include recipe data for potential use
-  }));
+  const reagraphNodes = nodes.map((node) => {
+    // Get visit count for this node if available
+    // const visitCount = visitCounts?.get(node.id) || 0;
+    const selectedIds = selectedNodes.map((n) => n.index.toString());
+
+    return {
+      id: node.id,
+      ...node.recipe, // Include recipe data for potential use
+      size: node.visitedCount,
+      // size: Math.max(120, Math.min(120, node.visitedCount * 2)),
+      fill: selectedIds.includes(node.recipe.index.toString())
+        ? "#9f9fa9"
+        : "#fcc800",
+      // fill:
+      //   node.visitedCount > 0
+      //     ? `hsl(${120 - Math.min(120, node.visitedCount * 10)}, 100%, 50%)`
+      //     : "#fcc800", // Green to red based on visit count
+      label: node.recipe.title,
+    };
+  });
 
   const reagraphEdges = edges.map((edge) => ({
     id: edge.id,
     source: edge.source,
     target: edge.target,
-    label: `Weight: ${edge.weight}`,
+    arrowPlacement: "none" as const,
   }));
 
   return (
@@ -58,4 +76,4 @@ function GraphVisualization({
   );
 }
 
-export default GraphVisualization;
+export { GraphVisualization };

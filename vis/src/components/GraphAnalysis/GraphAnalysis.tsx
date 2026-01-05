@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
 import GraphStatsCards from "./GraphStatsCards";
-import GraphVisualization from "./GraphVisualization";
+import { GraphVisualization } from "./GraphVisualization";
 import { RecipeSelector } from "./RecipeSelector";
 import { ValueSlider } from "./ValueSlider";
 import { useNeighborhoodExploration } from "./useNeighborhoodExploration";
+import type { FreqMap } from "../../App";
 
 export interface Recipe {
   index: number;
@@ -50,17 +51,18 @@ const graphAnalysisStats: graphAnalysisData[] = [
   },
 ];
 
-export const GraphAnalysis = () => {
+export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
   const [data, setData] = useState<Recipe[]>();
   const [selected, setSelected] = useState<Recipe[]>([]);
 
   const [numIterations, setNumIterations] = useState(12);
   const [restartChance, setRestartChance] = useState(0.3);
-  const [maxNodes, setMaxNodes] = useState(15);
   const [minVisits, setMinVisits] = useState(3);
 
+  // console.log("GA", { freqMap });
+
   const { explorationState, startExploration, resetExploration } =
-    useNeighborhoodExploration();
+    useNeighborhoodExploration(freqMap);
 
   useEffect(() => {
     fetch("/recipes.json").then(async (data) => {
@@ -71,8 +73,7 @@ export const GraphAnalysis = () => {
 
   const handleAnalyzeNeighbors = () => {
     if (selected.length > 0 && data) {
-      const startRecipe = selected[0]; // Use the first selected recipe as start point
-      startExploration(data, startRecipe.index, restartChance, numIterations);
+      startExploration(data, selected, restartChance, numIterations, minVisits);
     }
   };
 
@@ -114,7 +115,6 @@ export const GraphAnalysis = () => {
             <RecipeSelector
               recipes={data}
               onRecipeSelect={(recipe) => {
-                console.log(recipe);
                 setSelected([recipe, ...selected]);
               }}
             />
@@ -153,7 +153,7 @@ export const GraphAnalysis = () => {
               label="Num iterations"
               initialValue={numIterations}
               min={0}
-              max={100}
+              max={400}
               step={1}
               onChange={setNumIterations}
             />
@@ -165,25 +165,18 @@ export const GraphAnalysis = () => {
               step={0.1}
               onChange={setRestartChance}
             />
-            <ValueSlider
-              label="Max nodes"
-              initialValue={maxNodes}
-              min={5}
-              max={35}
-              step={1}
-              onChange={setMaxNodes}
-            />
+
             <ValueSlider
               label="Min visits filter"
               initialValue={minVisits}
               min={1}
-              max={numIterations}
+              max={20}
               step={1}
               onChange={setMinVisits}
             />
             <div className="flex gap-2 w-full">
               <button
-                className="flex-1 mt-8 px-6 py-2 bg-zinc-700 text-yellow-400  font-bold cursor-pointer disabled:opacity-50"
+                className="flex-1 mt-8 px-6 py-2 bg-zinc-70 text-yellow-400  font-bold cursor-pointer disabled:opacity-50"
                 onClick={handleAnalyzeNeighbors}
                 disabled={selected.length === 0 || explorationState.isExploring}
               >
@@ -200,10 +193,12 @@ export const GraphAnalysis = () => {
             </div>
           </div>
         </div>
-        <div className="h-120 relative">
+        <div className="h-150 relative col-span-2">
           <GraphVisualization
+            selectedNodes={selected}
             nodes={explorationState.finalSubgraph?.nodes || []}
             edges={explorationState.finalSubgraph?.edges || []}
+            visitCounts={explorationState.visitCounts}
           />
         </div>
 
