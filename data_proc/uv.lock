@@ -279,6 +279,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "ipywidgets" },
     { name = "matplotlib" },
+    { name = "networkx" },
     { name = "pandas" },
     { name = "sentence-transformers" },
 ]
@@ -288,6 +289,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "ipywidgets", specifier = ">=8.1.8" },
     { name = "matplotlib", specifier = ">=3.10.7" },
+    { name = "networkx", specifier = ">=3.6" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "sentence-transformers", specifier = ">=5.1.2" },
 ]
