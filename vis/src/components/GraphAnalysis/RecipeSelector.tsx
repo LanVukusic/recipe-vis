@@ -1,4 +1,5 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useCallback } from "react";
+import { memo } from "react";
 import type { Recipe } from "./GraphAnalysis";
 
 interface RecipeSelectorProps {
@@ -6,7 +7,7 @@ interface RecipeSelectorProps {
   onRecipeSelect: (selectedRecipe: Recipe) => void;
 }
 
-export const RecipeSelector: React.FC<RecipeSelectorProps> = ({
+const RecipeSelectorComponent: React.FC<RecipeSelectorProps> = ({
   recipes = [],
   onRecipeSelect,
 }) => {
@@ -20,9 +21,19 @@ export const RecipeSelector: React.FC<RecipeSelectorProps> = ({
     );
   }, [searchTerm, recipes]);
 
-  const handleRecipeClick = (recipe: Recipe) => {
-    onRecipeSelect(recipe); // Return the selected recipe
-  };
+  const handleRecipeClick = useCallback(
+    (recipe: Recipe) => {
+      onRecipeSelect(recipe); // Return the selected recipe
+    },
+    [onRecipeSelect]
+  );
+
+  const handleSearchChange = useCallback(
+    (e: React.ChangeEvent<HTMLInputElement>) => {
+      setSearchTerm(e.target.value);
+    },
+    []
+  );
 
   return (
     <div className="flex flex-col gap-2">
@@ -31,7 +42,7 @@ export const RecipeSelector: React.FC<RecipeSelectorProps> = ({
         type="text"
         placeholder="start typing..."
         value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
+        onChange={handleSearchChange}
         className="border-b border-yellow-300 focus:outline-none text-zinc-400"
       />
 
@@ -50,3 +61,5 @@ export const RecipeSelector: React.FC<RecipeSelectorProps> = ({
     </div>
   );
 };
+
+export const RecipeSelector = memo(RecipeSelectorComponent);

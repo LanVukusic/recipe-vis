@@ -70,7 +70,6 @@ export function constructRecipeGraph(
 ): CustomGraph {
   const ingredientRecipeMap = new Map<string, GraphNode[]>();
   const nodeMap = new Map<string, GraphNode>(); // Map to store unique nodes
-  // const nodeEdgeMap = new Map<GraphNode, GraphEdge[]>();
 
   // Create nodes first and store in map
   for (const recipe of recipes) {
@@ -92,6 +91,11 @@ export function constructRecipeGraph(
         continue;
       }
 
+      // // If startRecipes is provided, only add ingredients that are in startRecipeIngredients
+      // if (startRecipeIngredients && !startRecipeIngredients.has(ing)) {
+      //   continue;
+      // }
+
       const graphNode = nodeMap.get(recipe.index.toString())!; // Get the existing node
       if (ingredientRecipeMap.has(ing)) {
         ingredientRecipeMap.get(ing)?.push(graphNode);
@@ -103,7 +107,7 @@ export function constructRecipeGraph(
 
   // create graph
   const nodes: GraphNode[] = Array.from(nodeMap.values()); // Convert map values to array
-  const edges: GraphEdge[] = [];
+  const edgeMap: Map<string, GraphEdge> = new Map();
 
   console.log({ ingredientRecipeMap });
 
@@ -126,13 +130,13 @@ export function constructRecipeGraph(
           target: rNode2.id,
           targetNode: rNode2,
         };
-        edges.push(edge);
+        edgeMap.set(edge.id, edge);
         rNode1.siblings.push(edge);
         rNode2.siblings.push(edge);
       }
     }
   });
-
+  const edges: GraphEdge[] = Array.from(edgeMap.values());
   console.log({ nodes });
 
   for (const n of nodes) {
@@ -154,7 +158,8 @@ export function randomWalkWithRestarts(
   graph: CustomGraph,
   startNodeIds: string[],
   restartProbability: number,
-  maxSteps: number
+  maxSteps: number,
+  useFilteredGraph: boolean
 ) {
   // Validate inputs
   if (restartProbability < 0 || restartProbability > 1) {
@@ -174,6 +179,15 @@ export function randomWalkWithRestarts(
     idToNodeMap.set(id, foundNode);
   }
 
+  const allowedEdgeNames = new Set();
+  if (useFilteredGraph) {
+    startNodeIds
+      .map((nid) => idToNodeMap.get(nid)!)
+      .forEach((node) => {
+        getIngredientsFromRecipe(node.recipe).map(allowedEdgeNames.add);
+      });
+  }
+
   let iter = 0;
   // let currNode = idToNodeMap.get(randomSample(startNodeIds))!;
   let currNode = randomSample(graph.nodes);
@@ -184,22 +198,25 @@ export function randomWalkWithRestarts(
     // visit the node
     iter++;
     currNode.visitedCount++;
+    // console.log({ iter });
 
     if (Math.random() < restartProbability) {
       // jump to a newly selected jump point
       currNode = idToNodeMap.get(randomSample(startNodeIds))!;
-      // console.log("restarted to:", currNode.recipe.title);
+      // console.log("restarted to:", currNode.recipe.title, { iter });
     } else {
       // select a sibling node, based on the edges, to jump to
       const weightToVal = (weight: number) => 1 - 20132 / weight;
 
       // random weighted choice
-      const siblings = currNode.siblings; // get sibling edges
+      const siblings = useFilteredGraph
+        ? currNode.siblings.filter((sibling) =>
+            allowedEdgeNames.has(sibling.ingredient)
+          ) // filter only allowed siblings
+        : currNode.siblings; // get siblings without filtering
 
       // Handle case when node has no outgoing edges
       if (siblings.length === 0) {
-        // const prev = currNode.recipe.title;
-        // No outgoing edges, so restart the walk
         currNode = idToNodeMap.get(randomSample(startNodeIds))!;
         // console.log(
         //   "no outgoing edges for",
@@ -232,13 +249,9 @@ export function randomWalkWithRestarts(
     }
   }
 
-  // console.log("random walk", graph);
+  console.log("random walk", graph);
 
   return graph;
-}
-
-function onlyUnique<T>(value: T, index: number, array: T[]): boolean {
-  return array.indexOf(value) === index;
 }
 
 /**
@@ -250,7 +263,6 @@ export function sampleConnectedSubgraph(
 ): CustomGraph {
   // Start with all nodes that meet the criteria
   graph.nodes = graph.nodes.filter((node) => node.visitedCount >= minVisits);
-  // graph.edges = graph.edges.filter(onlyUnique);
   // for (const n of graph.nodes) {
   //   console.log("visitedcount", n.visitedCount);
   // }

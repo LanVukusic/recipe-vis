@@ -1,4 +1,4 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useMemo, useEffect } from "react";
 import {
   type Recipe,
   type GraphNode,
@@ -6,36 +6,41 @@ import {
   constructRecipeGraph,
   randomWalkWithRestarts,
   sampleConnectedSubgraph,
+  type CustomGraph,
 } from "./graphHelpers";
-import type { Graph } from "reagraph";
 import type { FreqMap } from "../../App";
 
 export interface ExplorationState {
-  graph: Graph | null;
+  graph: CustomGraph | null;
   finalSubgraph: { nodes: GraphNode[]; edges: GraphEdge[] } | null;
   isExploring: boolean;
-  path: string[];
   error: string | null;
-  visitCounts: Map<string, number> | null;
 }
 
-export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
+export const useNeighborhoodExploration = (
+  ingredientFrequencies: FreqMap,
+  recipes: Recipe[]
+) => {
   const [explorationState, setExplorationState] = useState<ExplorationState>({
     graph: null,
     finalSubgraph: null,
     isExploring: false,
-    path: [],
     error: null,
-    visitCounts: null,
   });
+
+  // Memoize ingredientFrequencies to prevent unnecessary rebuilds
+  const memoizedFrequencies = useMemo(
+    () => ingredientFrequencies,
+    [ingredientFrequencies]
+  );
 
   // Build the graph from recipes
   const buildGraph = useCallback(
     (recipes: Recipe[]) => {
       try {
-        console.log("BG", { ingredientFrequencies });
+        console.log("BG", { ingredientFrequencies: memoizedFrequencies });
 
-        const graph = constructRecipeGraph(recipes, ingredientFrequencies);
+        const graph = constructRecipeGraph(recipes, memoizedFrequencies);
         console.log("created graph: ", graph);
 
         setExplorationState((prev) => ({
@@ -54,8 +59,19 @@ export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
         return null;
       }
     },
-    [ingredientFrequencies]
+    [memoizedFrequencies]
   );
+
+  useEffect(() => {
+    if (recipes.length == 0) {
+      return;
+    }
+
+    setExplorationState({
+      ...explorationState,
+      graph: buildGraph(recipes),
+    });
+  }, [recipes]);
 
   // Start exploration from a specific recipe
   const startExploration = useCallback(
@@ -64,17 +80,23 @@ export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
       startingRecipes: Recipe[],
       restartProbability: number,
       maxSteps: number,
-      minVisits: number
+      minVisits: number,
+      useFilteredGraph: boolean
     ) => {
-      const graph = buildGraph(recipes);
-      if (!graph) return;
+      if (explorationState.graph == null) {
+        console.log("no graph. exiting");
+        return;
+      }
+
+      if (useFilteredGraph) {
+        console.log("using only filtered recipes");
+      }
 
       console.log(`starting with ${recipes.length} recipes`);
 
       setExplorationState((prev) => ({
         ...prev,
         isExploring: true,
-        path: [],
       }));
 
       try {
@@ -82,10 +104,12 @@ export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
 
         // Perform the complete random walk
         const walkResult = randomWalkWithRestarts(
-          graph,
+          structuredClone(explorationState.graph),
+          // JSON.parse(JSON.stringify(explorationState.graph)),
           startingRecipes.map((recipe) => recipe.index.toString()),
           restartProbability,
-          maxSteps
+          maxSteps,
+          useFilteredGraph
         );
 
         console.log({ walkResult });
@@ -97,6 +121,10 @@ export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
           ...prev,
           isExploring: false,
           finalSubgraph,
+          // visitCounts: walkResult.nodes.reduce((map, node) => {
+          //   map.set(node.id, node.visitedCount);
+          //   return map;
+          // }, new Map<string, number>()),
         }));
       } catch (error) {
         setExplorationState((prev) => ({
@@ -106,20 +134,18 @@ export const useNeighborhoodExploration = (ingredientFrequencies: FreqMap) => {
         }));
       }
     },
-    [buildGraph]
+    [explorationState.graph]
   );
 
   // Reset exploration
   const resetExploration = useCallback(() => {
     setExplorationState({
-      graph: null,
+      graph: explorationState.graph,
       finalSubgraph: null,
       isExploring: false,
-      path: [],
       error: null,
-      visitCounts: null,
     });
-  }, []);
+  }, [explorationState.graph]);
 
   return {
     explorationState,

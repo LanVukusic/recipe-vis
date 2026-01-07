@@ -10,45 +10,48 @@ interface GraphVisualizationProps {
   selectedNodes: Recipe[];
 }
 
-function GraphVisualization({
+import { useMemo, memo, useCallback } from "react";
+
+const GraphVisualizationComponent = ({
   nodes = [],
   edges = [],
   onNodeClick,
-  disabled = false,
   selectedNodes,
-}: GraphVisualizationProps) {
-  const reagraphNodes = nodes.map((node) => {
-    // Get visit count for this node if available
-    // const visitCount = visitCounts?.get(node.id) || 0;
-    const selectedIds = selectedNodes.map((n) => n.index.toString());
+}: GraphVisualizationProps) => {
+  const selectedIds = useMemo(
+    () => selectedNodes.map((n) => n.index.toString()),
+    [selectedNodes]
+  );
 
-    return {
-      id: node.id,
-      ...node.recipe, // Include recipe data for potential use
-      size: node.visitedCount,
-      // size: Math.max(120, Math.min(120, node.visitedCount * 2)),
-      fill: selectedIds.includes(node.recipe.index.toString())
-        ? "#9f9fa9"
-        : "#fcc800",
-      // fill:
-      //   node.visitedCount > 0
-      //     ? `hsl(${120 - Math.min(120, node.visitedCount * 10)}, 100%, 50%)`
-      //     : "#fcc800", // Green to red based on visit count
-      label: node.recipe.title,
-    };
-  });
+  const reagraphNodes = useMemo(() => {
+    return nodes.map((node) => {
+      // Get visit count for this node if available
+      // const visitCount = visitCounts?.get(node.id) || 0;
 
-  const reagraphEdges = edges.map((edge) => ({
-    id: edge.id,
-    source: edge.source,
-    target: edge.target,
-    arrowPlacement: "none" as const,
-  }));
+      return {
+        id: node.id,
+        size: node.visitedCount,
+        fill: selectedIds.includes(node.recipe.index.toString())
+          ? "#9f9fa9"
+          : "#fcc800",
+        label: node.recipe.title,
+      };
+    });
+  }, [nodes, selectedIds]);
+
+  const handleNodeClick = useCallback(
+    (nodeId: { id: string }) => {
+      const clickedNode = nodes.find((n) => n.id === nodeId.id);
+      if (clickedNode && onNodeClick) {
+        onNodeClick(clickedNode);
+      }
+    },
+    [nodes, onNodeClick]
+  );
 
   return (
     <div className="w-full h-full">
       <GraphCanvas
-        disabled={disabled}
         theme={{
           ...lightTheme,
           canvas: {
@@ -63,17 +66,13 @@ function GraphVisualization({
             opacity: 0.6,
           },
         }}
+        draggable
         nodes={reagraphNodes}
-        edges={reagraphEdges}
-        onNodeClick={(nodeId) => {
-          const clickedNode = nodes.find((n) => n.id === nodeId.id);
-          if (clickedNode && onNodeClick) {
-            onNodeClick(clickedNode);
-          }
-        }}
+        edges={edges}
+        onNodeClick={handleNodeClick}
       />
     </div>
   );
-}
+};
 
-export { GraphVisualization };
+export const GraphVisualization = memo(GraphVisualizationComponent);

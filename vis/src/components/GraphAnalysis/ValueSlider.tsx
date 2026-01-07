@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
+import { memo } from "react";
 
 interface ValueSliderProps {
   label: string;
@@ -9,7 +10,7 @@ interface ValueSliderProps {
   onChange?: (value: number) => void;
 }
 
-export const ValueSlider = ({
+const ValueSliderComponent = ({
   label,
   initialValue,
   min,
@@ -21,6 +22,31 @@ export const ValueSlider = ({
   const [isDragging, setIsDragging] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
 
+  // Define updateValueFromEvent before it's used in other callbacks
+  const updateValueFromEvent = useCallback(
+    (e: React.MouseEvent) => {
+      if (!containerRef.current) return;
+
+      const container = containerRef.current;
+      const rect = container.getBoundingClientRect();
+      const position = e.clientX - rect.left;
+      const percentage = Math.max(
+        0,
+        Math.min(100, (position / rect.width) * 100)
+      );
+
+      // Calculate value based on percentage
+      const newValue = min + (percentage / 100) * (max - min);
+
+      // Round to nearest step
+      const stepValue = Math.round(newValue / step) * step;
+      const clampedValue = Math.max(min, Math.min(max, stepValue));
+
+      setValue(clampedValue);
+    },
+    [min, max, step]
+  );
+
   // Notify parent when value changes
   useEffect(() => {
     if (onChange) {
@@ -28,42 +54,27 @@ export const ValueSlider = ({
     }
   }, [value, onChange]);
 
-  const handleMouseDown = (e: React.MouseEvent) => {
-    if (!containerRef.current) return;
-    setIsDragging(true);
-    updateValueFromEvent(e);
-  };
+  const handleMouseDown = useCallback(
+    (e: React.MouseEvent) => {
+      if (!containerRef.current) return;
+      setIsDragging(true);
+      updateValueFromEvent(e);
+    },
+    [updateValueFromEvent]
+  );
 
-  const handleMouseMove = (e: MouseEvent) => {
-    if (isDragging) {
-      updateValueFromEvent(e as unknown as React.MouseEvent);
-    }
-  };
+  const handleMouseMove = useCallback(
+    (e: MouseEvent) => {
+      if (isDragging) {
+        updateValueFromEvent(e as unknown as React.MouseEvent);
+      }
+    },
+    [isDragging, updateValueFromEvent]
+  );
 
-  const handleMouseUp = () => {
+  const handleMouseUp = useCallback(() => {
     setIsDragging(false);
-  };
-
-  const updateValueFromEvent = (e: React.MouseEvent) => {
-    if (!containerRef.current) return;
-
-    const container = containerRef.current;
-    const rect = container.getBoundingClientRect();
-    const position = e.clientX - rect.left;
-    const percentage = Math.max(
-      0,
-      Math.min(100, (position / rect.width) * 100)
-    );
-
-    // Calculate value based on percentage
-    const newValue = min + (percentage / 100) * (max - min);
-
-    // Round to nearest step
-    const stepValue = Math.round(newValue / step) * step;
-    const clampedValue = Math.max(min, Math.min(max, stepValue));
-
-    setValue(clampedValue);
-  };
+  }, []);
 
   useEffect(() => {
     if (isDragging) {
@@ -100,3 +111,5 @@ export const ValueSlider = ({
     </div>
   );
 };
+
+export const ValueSlider = memo(ValueSliderComponent);

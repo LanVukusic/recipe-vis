@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback, useMemo } from "react";
+import { memo } from "react";
 import GraphStatsCards from "./GraphStatsCards";
 import { GraphVisualization } from "./GraphVisualization";
 import { RecipeSelector } from "./RecipeSelector";
@@ -51,18 +52,19 @@ const graphAnalysisStats: graphAnalysisData[] = [
   },
 ];
 
-export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
+const GraphAnalysisComponent = ({ freqMap }: { freqMap: FreqMap }) => {
   const [data, setData] = useState<Recipe[]>();
   const [selected, setSelected] = useState<Recipe[]>([]);
 
-  const [numIterations, setNumIterations] = useState(12);
+  const [numIterations, setNumIterations] = useState(100);
   const [restartChance, setRestartChance] = useState(0.3);
-  const [minVisits, setMinVisits] = useState(3);
+  const [minVisits, setMinVisits] = useState(1);
+  const [useFilteredGraph, setUseFilteredGraph] = useState(false);
 
-  // console.log("GA", { freqMap });
+  const [selectedRecipe, setSelectedRecipe] = useState<Recipe>();
 
   const { explorationState, startExploration, resetExploration } =
-    useNeighborhoodExploration(freqMap);
+    useNeighborhoodExploration(freqMap, data || []);
 
   useEffect(() => {
     fetch("/recipes.json").then(async (data) => {
@@ -71,16 +73,49 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
     });
   }, []);
 
-  const handleAnalyzeNeighbors = () => {
-    if (selected.length > 0 && data) {
-      startExploration(data, selected, restartChance, numIterations, minVisits);
-    }
-  };
+  const handleRecipeSelect = useCallback((recipe: Recipe) => {
+    setSelected((prevSelected) => [recipe, ...prevSelected]);
+  }, []);
 
-  const handleReset = () => {
-    setSelected([]);
-    resetExploration();
-  };
+  const handleRemoveRecipe = useCallback((index: number) => {
+    setSelected((prevSelected) =>
+      prevSelected.filter((r) => r.index !== index)
+    );
+  }, []);
+
+  const handleAnalyzeNeighbors = useCallback(() => {
+    if (selected.length > 0 && data) {
+      resetExploration();
+      startExploration(
+        data,
+        selected,
+        restartChance,
+        numIterations,
+        minVisits,
+        useFilteredGraph
+      );
+    } else {
+      console.log("cant analyze. selected.length == 0");
+    }
+  }, [
+    selected,
+    data,
+    resetExploration,
+    startExploration,
+    restartChance,
+    numIterations,
+    minVisits,
+    useFilteredGraph,
+  ]);
+
+  const handleCheckboxChange = useCallback(
+    (e: React.ChangeEvent<HTMLInputElement>) => {
+      setUseFilteredGraph(e.target.checked);
+    },
+    []
+  );
+
+  const memoizedGraphStats = useMemo(() => graphAnalysisStats, []);
 
   return (
     <div>
@@ -99,7 +134,7 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
         available at his github.
       </div>
 
-      <GraphStatsCards stats={graphAnalysisStats} />
+      <GraphStatsCards stats={memoizedGraphStats} />
 
       <div className="p-4 mt-8  bg-yellow-400 w-fit font-bold">
         Interactive graph exploration
@@ -114,9 +149,7 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
           {data && (
             <RecipeSelector
               recipes={data}
-              onRecipeSelect={(recipe) => {
-                setSelected([recipe, ...selected]);
-              }}
+              onRecipeSelect={handleRecipeSelect}
             />
           )}
         </div>
@@ -124,7 +157,7 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
           <span className="">Selected jump points</span>
 
           <div className="bg-zinc-800 p-4 h-full ">
-            {selected.length == 0 && (
+            {selected.length === 0 && (
               <div className="w-full h-full flex justify-center items-center text-zinc-500">
                 Select recipes ...
               </div>
@@ -136,11 +169,7 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
                 <div
                   key={recipe.index}
                   className="border-b border-zinc-700 pt-2"
-                  onClick={() => {
-                    setSelected(
-                      selected.filter((r) => r.index != recipe.index)
-                    );
-                  }}
+                  onClick={() => handleRemoveRecipe(recipe.index)}
                 >
                   {recipe.title}
                 </div>
@@ -170,47 +199,94 @@ export const GraphAnalysis = ({ freqMap }: { freqMap: FreqMap }) => {
               label="Min visits filter"
               initialValue={minVisits}
               min={1}
-              max={20}
+              max={10}
               step={1}
               onChange={setMinVisits}
             />
-            <div className="flex gap-2 w-full">
-              <button
-                className="flex-1 mt-8 px-6 py-2 bg-zinc-70 text-yellow-400  font-bold cursor-pointer disabled:opacity-50"
-                onClick={handleAnalyzeNeighbors}
-                disabled={selected.length === 0 || explorationState.isExploring}
-              >
-                {explorationState.isExploring
-                  ? "Exploring..."
-                  : "Analyze neighbours"}
-              </button>
-              <button
-                className="mt-8 px-6 py-2 bg-zinc-70 text-yellow-400 font-bold cursor-pointer"
-                onClick={handleReset}
-              >
-                Reset
-              </button>
+            <div className="flex flex-col gap-4 w-full">
+              <div className="flex gap-2">
+                <button
+                  className="flex-1 mt-8 px-6 py-2 bg-zinc-70 text-yellow-400  font-bold cursor-pointer disabled:opacity-50"
+                  onClick={handleAnalyzeNeighbors}
+                  disabled={
+                    selected.length === 0 || explorationState.isExploring
+                  }
+                >
+                  {explorationState.isExploring
+                    ? "Exploring..."
+                    : "Analyze neighbours"}
+                </button>
+                {/* <button
+                  className="mt-8 px-6 py-2 bg-zinc-70 text-yellow-400 font-bold cursor-pointer"
+                  onClick={handleReset}
+                >
+                  Reset
+                </button> */}
+              </div>
+
+              <div className="flex items-center gap-3 mt-2 p-3 bg-zinc-800 rounded">
+                <label className="text-gray-300 text-sm">
+                  <input
+                    type="checkbox"
+                    checked={useFilteredGraph}
+                    onChange={handleCheckboxChange}
+                    className="mr-2 w-4 h-4 text-yellow-400 bg-gray-700 border-gray-600 rounded focus:ring-yellow-400"
+                  />
+                  Filter graph by selected recipes' ingredients
+                </label>
+              </div>
             </div>
           </div>
         </div>
         <div className="h-150 relative col-span-2">
-          <GraphVisualization
-            selectedNodes={selected}
-            nodes={explorationState.finalSubgraph?.nodes || []}
-            edges={explorationState.finalSubgraph?.edges || []}
-            visitCounts={explorationState.visitCounts}
-          />
+          {explorationState.isExploring == false &&
+          explorationState.finalSubgraph == null ? (
+            <div className="bg-zinc-800 w-full h-full flex justify-center items-center">
+              <div className="opacity-40">
+                Analyze recipe to render output graph ..
+              </div>
+            </div>
+          ) : (
+            <GraphVisualization
+              selectedNodes={selected}
+              nodes={explorationState.finalSubgraph?.nodes || []}
+              edges={explorationState.finalSubgraph?.edges || []}
+              onNodeClick={(node) => {
+                setSelectedRecipe(node.recipe);
+              }}
+            />
+          )}
         </div>
 
-        <div className="border-l-2 border-yellow-40 p-4 text-yellow-400 bg-zinc-800 flex flex-col gap-2">
+        <div className="border-l-2 border-yellow-40 p-4 text-yellow-400 bg-zinc-800 flex flex-col gap-2 ">
           {/* Recipe details panel would go here */}
-          <div className="w-full h-full flex justify-center items-center text-zinc-500">
-            {explorationState.finalSubgraph?.nodes.length
-              ? `Explored ${explorationState.finalSubgraph.nodes.length} recipes`
-              : "Select node to view"}
-          </div>
+          {selectedRecipe == undefined && (
+            <div className="w-full h-full flex justify-center items-center text-zinc-500">
+              <div className="">Click a recipe to view details</div>
+            </div>
+          )}
+          {selectedRecipe && (
+            <div className="flex flex-col gap-4">
+              <h3 className="text-2xl">{selectedRecipe.title}</h3>
+
+              <div className="flex flex-col gap-2 text-zinc-300">
+                {selectedRecipe.ingredients
+                  .slice(1, -1)
+                  .replaceAll('"', "")
+                  .split(",")
+                  .map((ingredient) => (
+                    <div className="">{ingredient}</div>
+                  ))}
+              </div>
+
+              <div className="">{selectedRecipe.directions}</div>
+            </div>
+          )}
         </div>
       </div>
+      <div className="mt-48">a</div>
     </div>
   );
 };
+
+export const GraphAnalysis = memo(GraphAnalysisComponent);
