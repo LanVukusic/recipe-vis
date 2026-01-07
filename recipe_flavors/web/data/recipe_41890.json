@@ -1,0 +1,112 @@
+{
+  "id": 41890,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "orange_juice",
+    "cinnamon",
+    "apple"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "orange_juice",
+      "value": 30
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

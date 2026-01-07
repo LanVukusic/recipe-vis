@@ -1,0 +1,72 @@
+{
+  "id": 39107,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tea",
+    "lemon_juice",
+    "pineapple"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "tea",
+      "y": "pineapple",
+      "value": 39
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tea",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "tea",
+      "value": 39
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tea",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

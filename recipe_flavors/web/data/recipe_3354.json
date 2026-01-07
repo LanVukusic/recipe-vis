@@ -1,0 +1,162 @@
+{
+  "id": 3354,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "rice",
+    "garlic",
+    "parsley",
+    "onion"
+  ],
+  "score_avg": 5.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

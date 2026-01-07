@@ -1,0 +1,792 @@
+{
+  "id": 29744,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "pepper",
+    "wheat",
+    "roasted_peanut",
+    "gelatin",
+    "vanilla",
+    "cocoa",
+    "buttermilk",
+    "peanut_butter",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 16.484848484848484,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "roasted_peanut",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "cocoa",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_peanut",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "peanut_butter",
+      "value": 144
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "roasted_peanut",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "roasted_peanut",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "buttermilk",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "roasted_peanut",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "cocoa",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "peanut_butter",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "roasted_peanut",
+      "value": 144
+    },
+    {
+      "x": "peanut_butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "roasted_peanut",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "roasted_peanut",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 37.36363636363637
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 37.36363636363637
+    },
+    {
+      "ingredient": "butter",
+      "mean": 30.545454545454547
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 29.727272727272727
+    },
+    {
+      "ingredient": "milk",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.454545454545455
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.636363636363637
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

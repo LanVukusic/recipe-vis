@@ -1,0 +1,42 @@
+{
+  "id": 37238,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "starch"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

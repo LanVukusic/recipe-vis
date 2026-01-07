@@ -1,0 +1,72 @@
+{
+  "id": 27624,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kumquat",
+    "pecan",
+    "cranberry"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "kumquat",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "kumquat",
+      "y": "cranberry",
+      "value": 9
+    },
+    {
+      "x": "pecan",
+      "y": "kumquat",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cranberry",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "kumquat",
+      "value": 9
+    },
+    {
+      "x": "cranberry",
+      "y": "pecan",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "kumquat",
+      "mean": 5.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 383,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "corn",
+    "watercress",
+    "garlic",
+    "chicken_broth"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "corn",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "watercress",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 47961,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "potato_chip",
+    "tuna",
+    "pea",
+    "mushroom",
+    "cheese"
+  ],
+  "score_avg": 26.7,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "tuna",
+      "value": 15
+    },
+    {
+      "x": "potato_chip",
+      "y": "pea",
+      "value": 9
+    },
+    {
+      "x": "potato_chip",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "potato_chip",
+      "y": "cheese",
+      "value": 10
+    },
+    {
+      "x": "tuna",
+      "y": "potato_chip",
+      "value": 15
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "pea",
+      "value": 31
+    },
+    {
+      "x": "tuna",
+      "y": "mushroom",
+      "value": 38
+    },
+    {
+      "x": "tuna",
+      "y": "cheese",
+      "value": 42
+    },
+    {
+      "x": "pea",
+      "y": "potato_chip",
+      "value": 9
+    },
+    {
+      "x": "pea",
+      "y": "tuna",
+      "value": 31
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "mushroom",
+      "value": 29
+    },
+    {
+      "x": "pea",
+      "y": "cheese",
+      "value": 30
+    },
+    {
+      "x": "mushroom",
+      "y": "potato_chip",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "tuna",
+      "value": 38
+    },
+    {
+      "x": "mushroom",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "potato_chip",
+      "value": 10
+    },
+    {
+      "x": "cheese",
+      "y": "tuna",
+      "value": 42
+    },
+    {
+      "x": "cheese",
+      "y": "pea",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "pea",
+      "mean": 24.75
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 11.25
+    }
+  ]
+}

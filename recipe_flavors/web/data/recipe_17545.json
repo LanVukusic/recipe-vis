@@ -1,0 +1,292 @@
+{
+  "id": 17545,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "vinegar",
+    "cucumber",
+    "celery",
+    "olive",
+    "red_wine",
+    "blue_cheese"
+  ],
+  "score_avg": 22.714285714285715,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "celery",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "tomato",
+      "y": "red_wine",
+      "value": 62
+    },
+    {
+      "x": "tomato",
+      "y": "blue_cheese",
+      "value": 56
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "celery",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "olive",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "blue_cheese",
+      "value": 21
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "celery",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "olive",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "cucumber",
+      "y": "blue_cheese",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "celery",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "celery",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "celery",
+      "y": "blue_cheese",
+      "value": 22
+    },
+    {
+      "x": "olive",
+      "y": "tomato",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "olive",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "olive",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "red_wine",
+      "value": 31
+    },
+    {
+      "x": "olive",
+      "y": "blue_cheese",
+      "value": 30
+    },
+    {
+      "x": "red_wine",
+      "y": "tomato",
+      "value": 62
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "cucumber",
+      "value": 7
+    },
+    {
+      "x": "red_wine",
+      "y": "celery",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "olive",
+      "value": 31
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "blue_cheese",
+      "value": 76
+    },
+    {
+      "x": "blue_cheese",
+      "y": "tomato",
+      "value": 56
+    },
+    {
+      "x": "blue_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cucumber",
+      "value": 7
+    },
+    {
+      "x": "blue_cheese",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive",
+      "value": 30
+    },
+    {
+      "x": "blue_cheese",
+      "y": "red_wine",
+      "value": 76
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "olive",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "celery",
+      "mean": 16.166666666666668
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 6.5
+    }
+  ]
+}

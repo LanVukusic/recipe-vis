@@ -1,0 +1,112 @@
+{
+  "id": 38827,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "egg",
+    "dill"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "dill",
+      "value": 4
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "dill",
+      "value": 7
+    },
+    {
+      "x": "dill",
+      "y": "honey",
+      "value": 4
+    },
+    {
+      "x": "dill",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "honey",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "dill",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

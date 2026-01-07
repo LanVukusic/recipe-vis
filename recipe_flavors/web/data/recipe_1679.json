@@ -1,0 +1,72 @@
+{
+  "id": 1679,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "orange",
+    "mung_bean",
+    "starch"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "mung_bean",
+      "value": 25
+    },
+    {
+      "x": "orange",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mung_bean",
+      "y": "orange",
+      "value": 25
+    },
+    {
+      "x": "mung_bean",
+      "y": "mung_bean",
+      "value": 0
+    },
+    {
+      "x": "mung_bean",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mung_bean",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "mung_bean",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

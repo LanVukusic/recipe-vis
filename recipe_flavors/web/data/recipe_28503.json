@@ -1,0 +1,112 @@
+{
+  "id": 28503,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "scallion",
+    "pork_sausage",
+    "potato"
+  ],
+  "score_avg": 25.166666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pork_sausage",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "pork_sausage",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

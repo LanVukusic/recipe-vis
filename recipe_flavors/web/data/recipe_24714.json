@@ -1,0 +1,72 @@
+{
+  "id": 24714,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "egg",
+    "starch"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 38944,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "mushroom",
+    "barley",
+    "beef",
+    "scallion"
+  ],
+  "score_avg": 8.2,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "barley",
+      "value": 5
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "mushroom",
+      "value": 5
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "barley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "barley",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "barley",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

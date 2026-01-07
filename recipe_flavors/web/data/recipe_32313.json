@@ -1,0 +1,162 @@
+{
+  "id": 32313,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "orange_juice",
+    "wheat",
+    "berry",
+    "soybean"
+  ],
+  "score_avg": 10.2,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "berry",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "orange_juice",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "berry",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "soybean",
+      "value": 15
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "berry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "berry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "soybean",
+      "value": 28
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "berry",
+      "value": 28
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "berry",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

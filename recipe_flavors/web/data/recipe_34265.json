@@ -1,0 +1,112 @@
+{
+  "id": 34265,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "cheddar_cheese",
+    "bacon"
+  ],
+  "score_avg": 47.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 56.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 53.333333333333336
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 29.0
+    }
+  ]
+}

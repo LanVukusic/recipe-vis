@@ -1,0 +1,112 @@
+{
+  "id": 22153,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "chicken",
+    "onion",
+    "cranberry"
+  ],
+  "score_avg": 17.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "cranberry",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cranberry",
+      "value": 13
+    },
+    {
+      "x": "cranberry",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "cranberry",
+      "y": "chicken",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 10.666666666666666
+    }
+  ]
+}

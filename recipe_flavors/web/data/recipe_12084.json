@@ -1,0 +1,292 @@
+{
+  "id": 12084,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "sesame_oil",
+    "garlic",
+    "cream",
+    "egg",
+    "sesame_seed",
+    "scallion"
+  ],
+  "score_avg": 1.5238095238095237,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "sesame_seed",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "sesame_seed",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "cream",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 2.1666666666666665
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

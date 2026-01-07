@@ -1,0 +1,292 @@
+{
+  "id": 33325,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "asparagus",
+    "egg",
+    "black_pepper",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 14.285714285714286,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "asparagus",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "asparagus",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "asparagus",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "asparagus",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "asparagus",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "asparagus",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "asparagus",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.833333333333334
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

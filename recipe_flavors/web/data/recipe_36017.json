@@ -1,0 +1,162 @@
+{
+  "id": 36017,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "pecan",
+    "fruit",
+    "egg",
+    "wheat"
+  ],
+  "score_avg": 2.1,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

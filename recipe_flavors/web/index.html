@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Recipe Compatibility Explorer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 20px; }
+    .card { padding: 12px; border: 1px solid #ddd; border-radius: 10px; }
+    .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: flex-end; }
+    label { font-weight: 600; }
+    select, input, button { padding: 8px; border-radius: 8px; border: 1px solid #ccc; }
+    select, input { min-width: 240px; }
+    button { cursor: pointer; background: #fff; }
+    .small { font-size: 0.9rem; color: #555; }
+    .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; align-items: start; }
+    .meta { margin-top: 12px; }
+    .delta { margin-top: 12px; font-size: 1.05rem; }
+    .hidden { display: none; }
+
+    .chip { display:inline-flex; gap:8px; align-items:center; padding:6px 10px; border:1px solid #ccc; border-radius:999px; }
+    .chip button { border:none; background:transparent; cursor:pointer; font-weight:800; line-height:1; }
+
+    .suggest-wrap { display:flex; flex-wrap:wrap; gap:8px; margin:8px 0; }
+    .suggest-btn {
+      border: 1px solid #ccc;
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: #fff;
+      cursor: pointer;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 1100px) {
+      .charts { grid-template-columns: 1fr; }
+      select, input { min-width: 200px; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Recipe Compatibility Explorer</h1>
+
+  <!-- Controls A -->
+  <div class="card">
+    <div class="controls">
+      <div>
+        <label for="cuisineSelectA">Cuisine (A)</label><br/>
+        <select id="cuisineSelectA"></select>
+      </div>
+
+      <div>
+        <label for="searchInputA">Search (A)</label><br/>
+        <input id="searchInputA" placeholder="e.g., chicken garlic" />
+        <div class="small">Matches recipe preview text (first ingredients).</div>
+      </div>
+
+      <div style="flex: 1;">
+        <label for="recipeSelectA">Recipe (A)</label><br/>
+        <select id="recipeSelectA" style="width: 100%; min-width: 320px;"></select>
+      </div>
+
+      <div style="display:flex; gap:8px;">
+        <button id="compareBtn">Compare</button>
+        <button id="closeCompareBtn" class="hidden">Close comparison</button>
+      </div>
+    </div>
+
+    <div id="delta" class="delta hidden"></div>
+  </div>
+
+  <!-- Recipe A -->
+  <div class="card" style="margin-top: 16px;">
+    <h2>Recipe A</h2>
+    <div id="metaA" class="meta"></div>
+
+    <hr style="margin:12px 0;"/>
+
+    <!-- What-if editor (A) -->
+    <div class="card" style="border:1px dashed #ccc;">
+      <h3>Edit ingredients (what-if)</h3>
+      <div id="editInfoA" class="small"></div>
+
+      <div id="chipsA" style="display:flex; flex-wrap:wrap; gap:8px; margin:10px 0;"></div>
+
+      <div class="controls" style="align-items:center;">
+        <div style="flex:1;">
+          <label for="addIngA">Add ingredient</label><br/>
+          <input id="addIngA" placeholder="e.g., black_pepper (spaces become _ )" style="width:100%;" />
+          <div class="small">Tip: use tokens like <code>lemon_juice</code>, <code>black_pepper</code>.</div>
+        </div>
+
+        <div style="display:flex; gap:8px;">
+          <button id="addBtnA">Add</button>
+          <button id="resetBtnA">Reset</button>
+        </div>
+      </div>
+
+      <!--
+        Suggested additions section disabled for now.
+        Automatic ingredient recommendations (e.g. chicken → beef)
+        can be misleading without semantic ingredient categories.
+        -->
+
+      <!--
+        <div class="small" style="margin-top:10px;">
+        <b>Suggested additions</b> (most compatible → less compatible)
+        </div>
+        <div id="suggestA" class="suggest-wrap"></div>
+        -->
+
+    </div>
+
+    <div class="charts" style="margin-top: 14px;">
+      <div>
+        <h3>Heatmap</h3>
+        <div id="heatmapA"></div>
+      </div>
+      <div>
+        <h3>Contributions</h3>
+        <div id="barsA"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Recipe B -->
+  <div id="compareSection" class="card hidden" style="margin-top: 16px;">
+    <h2>Recipe B (comparison)</h2>
+
+    <div class="controls" style="margin-bottom: 10px;">
+      <div>
+        <label for="cuisineSelectB">Cuisine (B)</label><br/>
+        <select id="cuisineSelectB"></select>
+      </div>
+
+      <div>
+        <label for="searchInputB">Search (B)</label><br/>
+        <input id="searchInputB" placeholder="e.g., beef onion" />
+        <div class="small">Matches recipe preview text (first ingredients).</div>
+      </div>
+
+      <div style="flex: 1;">
+        <label for="recipeSelectB">Recipe (B)</label><br/>
+        <select id="recipeSelectB" style="width: 100%; min-width: 320px;"></select>
+      </div>
+    </div>
+
+    <div id="metaB" class="meta"></div>
+
+    <div class="charts" style="margin-top: 14px;">
+      <div>
+        <h3>Heatmap</h3>
+        <div id="heatmapB"></div>
+      </div>
+      <div>
+        <h3>Contributions</h3>
+        <div id="barsB"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Vega stack -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+  <!-- module -->
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

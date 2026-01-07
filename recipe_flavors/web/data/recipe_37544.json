@@ -1,0 +1,72 @@
+{
+  "id": 37544,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk",
+    "peanut_butter",
+    "banana"
+  ],
+  "score_avg": 39.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 29.5
+    }
+  ]
+}

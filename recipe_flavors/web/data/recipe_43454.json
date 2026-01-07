@@ -1,0 +1,112 @@
+{
+  "id": 43454,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "wheat",
+    "cranberry"
+  ],
+  "score_avg": 25.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cranberry",
+      "value": 44
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cranberry",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "butter",
+      "value": 44
+    },
+    {
+      "x": "cranberry",
+      "y": "chicken",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "butter",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 6455,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "red_wine",
+    "egg",
+    "almond",
+    "raspberry",
+    "blackberry"
+  ],
+  "score_avg": 21.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "red_wine",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "raspberry",
+      "value": 54
+    },
+    {
+      "x": "red_wine",
+      "y": "blackberry",
+      "value": 38
+    },
+    {
+      "x": "egg",
+      "y": "red_wine",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "blackberry",
+      "value": 14
+    },
+    {
+      "x": "almond",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "raspberry",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "blackberry",
+      "value": 3
+    },
+    {
+      "x": "raspberry",
+      "y": "red_wine",
+      "value": 54
+    },
+    {
+      "x": "raspberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "red_wine",
+      "value": 38
+    },
+    {
+      "x": "blackberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "blackberry",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "blackberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 31.75
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    }
+  ]
+}

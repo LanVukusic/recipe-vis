@@ -1,0 +1,42 @@
+{
+  "id": 8275,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "lemon"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 10.0
+    }
+  ]
+}

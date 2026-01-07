@@ -1,0 +1,792 @@
+{
+  "id": 44304,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "onion",
+    "thyme",
+    "corn",
+    "parsley",
+    "fennel",
+    "carrot",
+    "oregano",
+    "basil",
+    "rosemary",
+    "chicken_broth",
+    "pork_sausage"
+  ],
+  "score_avg": 5.5606060606060606,
+  "pair_coverage": 0.6818181818181818,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "bean",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "bean",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "carrot",
+      "value": 17
+    },
+    {
+      "x": "bean",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "pork_sausage",
+      "value": 42
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "thyme",
+      "y": "bean",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "fennel",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "thyme",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "pork_sausage",
+      "value": 6
+    },
+    {
+      "x": "corn",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "corn",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "corn",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "parsley",
+      "y": "bean",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "parsley",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "fennel",
+      "y": "bean",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "thyme",
+      "value": 4
+    },
+    {
+      "x": "fennel",
+      "y": "corn",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "fennel",
+      "y": "rosemary",
+      "value": 8
+    },
+    {
+      "x": "fennel",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "bean",
+      "value": 17
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "corn",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "parsley",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "rosemary",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "pork_sausage",
+      "value": 12
+    },
+    {
+      "x": "oregano",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bean",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "fennel",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "rosemary",
+      "value": 10
+    },
+    {
+      "x": "basil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "bean",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "fennel",
+      "value": 8
+    },
+    {
+      "x": "rosemary",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "rosemary",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "basil",
+      "value": 10
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "pork_sausage",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "pork_sausage",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 11.818181818181818
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 11.727272727272727
+    },
+    {
+      "ingredient": "corn",
+      "mean": 10.727272727272727
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.090909090909091
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

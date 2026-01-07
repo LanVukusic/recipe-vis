@@ -1,0 +1,792 @@
+{
+  "id": 49962,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "grape_juice",
+    "mushroom",
+    "olive_oil",
+    "shallot",
+    "chicken_broth",
+    "milk",
+    "parsley",
+    "bay",
+    "milk_fat",
+    "shiitake"
+  ],
+  "score_avg": 10.409090909090908,
+  "pair_coverage": 0.5454545454545454,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "shiitake",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "shiitake",
+      "value": 52
+    },
+    {
+      "x": "grape_juice",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "shiitake",
+      "value": 48
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "shiitake",
+      "value": 6
+    },
+    {
+      "x": "bay",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "shiitake",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "shiitake",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "shiitake",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "shiitake",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shiitake",
+      "mean": 25.545454545454547
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 25.454545454545453
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.90909090909091
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 22.454545454545453
+    },
+    {
+      "ingredient": "milk",
+      "mean": 22.363636363636363
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 2.6363636363636362
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.0
+    }
+  ]
+}

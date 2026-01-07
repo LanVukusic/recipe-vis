@@ -1,0 +1,112 @@
+{
+  "id": 33184,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peppermint",
+    "milk",
+    "ginger",
+    "cream"
+  ],
+  "score_avg": 14.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    },
+    {
+      "x": "peppermint",
+      "y": "milk",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "peppermint",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "peppermint",
+      "value": 14
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "peppermint",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "peppermint",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.666666666666666
+    }
+  ]
+}

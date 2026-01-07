@@ -1,0 +1,162 @@
+{
+  "id": 3564,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "lime_juice",
+    "lime_peel_oil",
+    "cinnamon",
+    "papaya",
+    "cream"
+  ],
+  "score_avg": 2.7,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "papaya",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "papaya",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "lime_peel_oil",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "papaya",
+      "value": 12
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "papaya",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "papaya",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "papaya",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "papaya",
+      "y": "papaya",
+      "value": 0
+    },
+    {
+      "x": "papaya",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "papaya",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "papaya",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 0.75
+    }
+  ]
+}

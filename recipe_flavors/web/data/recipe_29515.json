@@ -1,0 +1,112 @@
+{
+  "id": 29515,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tuna",
+    "pecan",
+    "onion",
+    "cream_cheese"
+  ],
+  "score_avg": 24.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "tuna",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "tuna",
+      "y": "cream_cheese",
+      "value": 42
+    },
+    {
+      "x": "pecan",
+      "y": "tuna",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "cream_cheese",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "tuna",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tuna",
+      "value": 42
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 29.333333333333332
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.666666666666666
+    }
+  ]
+}

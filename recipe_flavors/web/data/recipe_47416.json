@@ -1,0 +1,72 @@
+{
+  "id": 47416,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "tequila",
+    "lemon"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "tequila",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

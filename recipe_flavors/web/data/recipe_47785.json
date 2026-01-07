@@ -1,0 +1,72 @@
+{
+  "id": 47785,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "carrot",
+    "apple"
+  ],
+  "score_avg": 22.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "carrot",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "apple",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "honey",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "carrot",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 13.0
+    }
+  ]
+}

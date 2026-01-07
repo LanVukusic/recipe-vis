@@ -1,0 +1,112 @@
+{
+  "id": 33332,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "chicken",
+    "macaroni",
+    "cayenne"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

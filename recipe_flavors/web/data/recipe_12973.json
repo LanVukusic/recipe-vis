@@ -1,0 +1,112 @@
+{
+  "id": 12973,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "soy_sauce",
+    "ham",
+    "mustard"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ham",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 8645,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "watercress",
+    "apple",
+    "bread"
+  ],
+  "score_avg": 31.4,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "watercress",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "watercress",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "apple",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "watercress",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "watercress",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "watercress",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "apple",
+      "value": 4
+    },
+    {
+      "x": "watercress",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "apple",
+      "y": "watercress",
+      "value": 4
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "watercress",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 44.75
+    },
+    {
+      "ingredient": "apple",
+      "mean": 42.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 39.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "watercress",
+      "mean": 4.75
+    }
+  ]
+}

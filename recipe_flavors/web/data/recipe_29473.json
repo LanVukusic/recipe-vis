@@ -1,0 +1,72 @@
+{
+  "id": 29473,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "ginger"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

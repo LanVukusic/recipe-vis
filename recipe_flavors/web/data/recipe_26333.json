@@ -1,0 +1,562 @@
+{
+  "id": 26333,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "mushroom",
+    "beef",
+    "shallot",
+    "black_pepper",
+    "thyme",
+    "garlic",
+    "beef_broth",
+    "wine"
+  ],
+  "score_avg": 10.155555555555555,
+  "pair_coverage": 0.7111111111111111,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "shallot",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "wine",
+      "value": 53
+    },
+    {
+      "x": "shallot",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "wine",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "beef_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "butter",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "mushroom",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "wine",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 26.444444444444443
+    },
+    {
+      "ingredient": "butter",
+      "mean": 21.88888888888889
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 20.22222222222222
+    },
+    {
+      "ingredient": "wine",
+      "mean": 18.11111111111111
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.7777777777777777
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.111111111111111
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 2.4444444444444446
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7777777777777778
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.7777777777777778
+    }
+  ]
+}

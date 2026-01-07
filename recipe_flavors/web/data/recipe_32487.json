@@ -1,0 +1,72 @@
+{
+  "id": 32487,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "lemon",
+    "cranberry"
+  ],
+  "score_avg": 50.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "cranberry",
+      "value": 72
+    },
+    {
+      "x": "lemon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 56.5
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 54.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 39.0
+    }
+  ]
+}

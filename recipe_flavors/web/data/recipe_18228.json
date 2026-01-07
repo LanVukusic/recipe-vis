@@ -1,0 +1,112 @@
+{
+  "id": 18228,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bacon",
+    "onion",
+    "beef"
+  ],
+  "score_avg": 51.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 70.66666666666667
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 60.333333333333336
+    },
+    {
+      "ingredient": "butter",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 21.0
+    }
+  ]
+}

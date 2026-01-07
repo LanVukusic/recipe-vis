@@ -1,0 +1,792 @@
+{
+  "id": 17115,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coriander",
+    "fenugreek",
+    "pepper",
+    "lemon_juice",
+    "beef",
+    "cumin",
+    "milk",
+    "celery",
+    "garlic",
+    "chicken",
+    "cream",
+    "mint"
+  ],
+  "score_avg": 9.484848484848484,
+  "pair_coverage": 0.8484848484848485,
+  "heatmap": [
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "beef",
+      "value": 20
+    },
+    {
+      "x": "coriander",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "coriander",
+      "y": "milk",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "celery",
+      "value": 14
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "coriander",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "coriander",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "fenugreek",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "fenugreek",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "fenugreek",
+      "y": "celery",
+      "value": 4
+    },
+    {
+      "x": "fenugreek",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "fenugreek",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "lemon_juice",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "coriander",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "fenugreek",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "chicken",
+      "value": 98
+    },
+    {
+      "x": "beef",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "beef",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "cumin",
+      "y": "coriander",
+      "value": 7
+    },
+    {
+      "x": "cumin",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "celery",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "fenugreek",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "coriander",
+      "value": 14
+    },
+    {
+      "x": "celery",
+      "y": "fenugreek",
+      "value": 4
+    },
+    {
+      "x": "celery",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "celery",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "coriander",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "fenugreek",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "beef",
+      "value": 98
+    },
+    {
+      "x": "chicken",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "coriander",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "beef",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "chicken",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 21.454545454545453
+    },
+    {
+      "ingredient": "milk",
+      "mean": 19.90909090909091
+    },
+    {
+      "ingredient": "celery",
+      "mean": 10.545454545454545
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 9.272727272727273
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.454545454545454
+    },
+    {
+      "ingredient": "mint",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "fenugreek",
+      "mean": 3.1818181818181817
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.727272727272727
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.36363636363636365
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 24101,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "green_bell_pepper",
+    "onion",
+    "corn",
+    "bacon",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 15.952380952380953,
+  "pair_coverage": 0.9523809523809523,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "green_bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "corn",
+      "value": 19
+    },
+    {
+      "x": "celery",
+      "y": "bacon",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "celery",
+      "value": 19
+    },
+    {
+      "x": "corn",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "bacon",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "bacon",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 21.166666666666668
+    },
+    {
+      "ingredient": "celery",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 2.5
+    }
+  ]
+}

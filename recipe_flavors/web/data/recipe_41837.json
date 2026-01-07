@@ -1,0 +1,792 @@
+{
+  "id": 41837,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "pepper",
+    "meat",
+    "soy_sauce",
+    "parsley",
+    "ginger",
+    "scallion",
+    "honey",
+    "nutmeg",
+    "cinnamon",
+    "orange",
+    "plum"
+  ],
+  "score_avg": 7.878787878787879,
+  "pair_coverage": 0.6818181818181818,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "meat",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "orange",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "plum",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "nutmeg",
+      "value": 17
+    },
+    {
+      "x": "pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "pepper",
+      "y": "orange",
+      "value": 17
+    },
+    {
+      "x": "pepper",
+      "y": "plum",
+      "value": 6
+    },
+    {
+      "x": "meat",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "meat",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "meat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "meat",
+      "y": "nutmeg",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "orange",
+      "value": 12
+    },
+    {
+      "x": "meat",
+      "y": "plum",
+      "value": 10
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "meat",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "parsley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "plum",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "meat",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "parsley",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "ginger",
+      "y": "nutmeg",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "plum",
+      "value": 20
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "orange",
+      "value": 18
+    },
+    {
+      "x": "honey",
+      "y": "plum",
+      "value": 14
+    },
+    {
+      "x": "nutmeg",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "pepper",
+      "value": 17
+    },
+    {
+      "x": "nutmeg",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "nutmeg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "nutmeg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange",
+      "value": 19
+    },
+    {
+      "x": "nutmeg",
+      "y": "plum",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange",
+      "value": 21
+    },
+    {
+      "x": "cinnamon",
+      "y": "plum",
+      "value": 9
+    },
+    {
+      "x": "orange",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "orange",
+      "y": "pepper",
+      "value": 17
+    },
+    {
+      "x": "orange",
+      "y": "meat",
+      "value": 12
+    },
+    {
+      "x": "orange",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "honey",
+      "value": 18
+    },
+    {
+      "x": "orange",
+      "y": "nutmeg",
+      "value": 19
+    },
+    {
+      "x": "orange",
+      "y": "cinnamon",
+      "value": 21
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "plum",
+      "value": 33
+    },
+    {
+      "x": "plum",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "plum",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "plum",
+      "y": "meat",
+      "value": 10
+    },
+    {
+      "x": "plum",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "plum",
+      "y": "ginger",
+      "value": 20
+    },
+    {
+      "x": "plum",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "honey",
+      "value": 14
+    },
+    {
+      "x": "plum",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "plum",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "plum",
+      "y": "orange",
+      "value": 33
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 16.90909090909091
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 15.818181818181818
+    },
+    {
+      "ingredient": "plum",
+      "mean": 10.636363636363637
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 9.545454545454545
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "meat",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.090909090909091
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

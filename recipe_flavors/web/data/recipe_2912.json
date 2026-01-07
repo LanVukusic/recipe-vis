@@ -1,0 +1,42 @@
+{
+  "id": 2912,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "cherry",
+    "apple"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "cherry",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 31.0
+    }
+  ]
+}

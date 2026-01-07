@@ -1,0 +1,112 @@
+{
+  "id": 22348,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "dill",
+    "pepper",
+    "cottage_cheese"
+  ],
+  "score_avg": 4.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "dill",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "cottage_cheese",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "dill",
+      "value": 9
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

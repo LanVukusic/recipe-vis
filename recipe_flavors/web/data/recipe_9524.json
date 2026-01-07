@@ -1,0 +1,162 @@
+{
+  "id": 9524,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "provolone_cheese",
+    "olive_oil",
+    "lemon",
+    "ham",
+    "beef"
+  ],
+  "score_avg": 21.8,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "provolone_cheese",
+      "y": "provolone_cheese",
+      "value": 0
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "olive_oil",
+      "y": "provolone_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "provolone_cheese",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ham",
+      "value": 10
+    },
+    {
+      "x": "lemon",
+      "y": "beef",
+      "value": 25
+    },
+    {
+      "x": "ham",
+      "y": "provolone_cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "beef",
+      "value": 47
+    },
+    {
+      "x": "beef",
+      "y": "provolone_cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "beef",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "provolone_cheese",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "ham",
+      "mean": 22.75
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.75
+    }
+  ]
+}

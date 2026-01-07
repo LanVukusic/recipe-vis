@@ -1,0 +1,42 @@
+{
+  "id": 24805,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "peach"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 14.0
+    }
+  ]
+}

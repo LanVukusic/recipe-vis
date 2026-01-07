@@ -1,0 +1,112 @@
+{
+  "id": 10127,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "grape_juice",
+    "black_pepper",
+    "bell_pepper"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "grape_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "basil",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "basil",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

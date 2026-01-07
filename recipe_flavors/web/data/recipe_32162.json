@@ -1,0 +1,162 @@
+{
+  "id": 32162,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "pepper",
+    "asparagus",
+    "parmesan_cheese"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "parmesan_cheese",
+      "value": 30
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 29.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

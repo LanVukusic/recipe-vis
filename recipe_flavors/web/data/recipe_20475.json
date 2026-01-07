@@ -1,0 +1,72 @@
+{
+  "id": 20475,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "feta_cheese",
+    "black_pepper"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "feta_cheese",
+      "value": 27
+    },
+    {
+      "x": "honey",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "feta_cheese",
+      "y": "honey",
+      "value": 27
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.5
+    }
+  ]
+}

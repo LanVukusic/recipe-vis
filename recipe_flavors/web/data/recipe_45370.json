@@ -1,0 +1,162 @@
+{
+  "id": 45370,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "apple",
+    "egg",
+    "blueberry",
+    "cream"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "blueberry",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "blueberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "blueberry",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "blueberry",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 18768,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "sauerkraut",
+    "onion",
+    "pork_sausage"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "pork_sausage",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

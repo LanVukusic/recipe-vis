@@ -1,0 +1,72 @@
+{
+  "id": 14690,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "raisin",
+    "peanut_butter"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "raisin",
+      "y": "celery",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "peanut_butter",
+      "value": 13
+    },
+    {
+      "x": "peanut_butter",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "celery",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 9.5
+    }
+  ]
+}

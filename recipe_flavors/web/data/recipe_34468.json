@@ -1,0 +1,162 @@
+{
+  "id": 34468,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "soy_sauce",
+    "wine",
+    "sesame_seed",
+    "vinegar"
+  ],
+  "score_avg": 3.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "sesame_seed",
+      "value": 6
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "sesame_seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wine",
+      "value": 6
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "sesame_seed",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.75
+    }
+  ]
+}

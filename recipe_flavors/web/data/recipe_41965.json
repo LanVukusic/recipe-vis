@@ -1,0 +1,72 @@
+{
+  "id": 41965,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "pecan",
+    "lard"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "cocoa",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cocoa",
+      "value": 33
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "pecan",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.5
+    }
+  ]
+}

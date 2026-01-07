@@ -1,0 +1,72 @@
+{
+  "id": 12255,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "potato",
+    "garlic",
+    "cream"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "cream",
+      "value": 14
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 11267,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chive",
+    "potato"
+  ],
+  "score_avg": 15.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "potato",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "chive",
+      "mean": 3.5
+    }
+  ]
+}

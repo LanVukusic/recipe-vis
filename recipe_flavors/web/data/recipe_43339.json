@@ -1,0 +1,72 @@
+{
+  "id": 43339,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "egg",
+    "hazelnut"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "hazelnut",
+      "value": 3
+    },
+    {
+      "x": "hazelnut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

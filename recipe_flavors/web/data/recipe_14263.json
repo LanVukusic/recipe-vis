@@ -1,0 +1,42 @@
+{
+  "id": 14263,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "mango"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "mango",
+      "value": 19
+    },
+    {
+      "x": "mango",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "mango",
+      "mean": 19.0
+    }
+  ]
+}

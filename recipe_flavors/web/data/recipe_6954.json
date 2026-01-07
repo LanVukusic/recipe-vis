@@ -1,0 +1,562 @@
+{
+  "id": 6954,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "lemon_juice",
+    "mustard",
+    "vinegar",
+    "nut",
+    "chicory",
+    "goat_cheese",
+    "bread",
+    "wine"
+  ],
+  "score_avg": 8.688888888888888,
+  "pair_coverage": 0.6222222222222222,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "tomato",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "goat_cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "tomato",
+      "y": "wine",
+      "value": 54
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "goat_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "goat_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "goat_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "wine",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "goat_cheese",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "nut",
+      "y": "tomato",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "goat_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "chicory",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicory",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "goat_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "goat_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "goat_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "goat_cheese",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "goat_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "goat_cheese",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "goat_cheese",
+      "y": "wine",
+      "value": 60
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "goat_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "wine",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "chicory",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "goat_cheese",
+      "value": 60
+    },
+    {
+      "x": "wine",
+      "y": "bread",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "goat_cheese",
+      "mean": 20.444444444444443
+    },
+    {
+      "ingredient": "wine",
+      "mean": 19.22222222222222
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.222222222222221
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7777777777777778
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2222222222222222
+    },
+    {
+      "ingredient": "chicory",
+      "mean": 0.0
+    }
+  ]
+}

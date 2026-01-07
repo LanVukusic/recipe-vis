@@ -1,0 +1,42 @@
+{
+  "id": 36686,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "palm"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "palm",
+      "value": 4
+    },
+    {
+      "x": "palm",
+      "y": "coconut",
+      "value": 4
+    },
+    {
+      "x": "palm",
+      "y": "palm",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "palm",
+      "mean": 4.0
+    }
+  ]
+}

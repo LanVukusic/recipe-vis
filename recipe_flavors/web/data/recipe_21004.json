@@ -1,0 +1,162 @@
+{
+  "id": 21004,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "orange_juice",
+    "lemon",
+    "vegetable_oil"
+  ],
+  "score_avg": 9.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

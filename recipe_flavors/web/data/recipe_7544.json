@@ -1,0 +1,792 @@
+{
+  "id": 7544,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "cherry",
+    "vanilla",
+    "almond",
+    "raisin",
+    "cocoa",
+    "cinnamon",
+    "cranberry",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 13.075757575757576,
+  "pair_coverage": 0.8787878787878788,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "cranberry",
+      "value": 44
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cranberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cherry",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "cherry",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cinnamon",
+      "value": 5
+    },
+    {
+      "x": "cherry",
+      "y": "cranberry",
+      "value": 20
+    },
+    {
+      "x": "cherry",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "cranberry",
+      "value": 24
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "cranberry",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cherry",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "cranberry",
+      "value": 16
+    },
+    {
+      "x": "raisin",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "cranberry",
+      "value": 40
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cherry",
+      "value": 5
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cranberry",
+      "value": 19
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cranberry",
+      "y": "butter",
+      "value": 44
+    },
+    {
+      "x": "cranberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "cherry",
+      "value": 20
+    },
+    {
+      "x": "cranberry",
+      "y": "vanilla",
+      "value": 24
+    },
+    {
+      "x": "cranberry",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "cranberry",
+      "y": "raisin",
+      "value": 16
+    },
+    {
+      "x": "cranberry",
+      "y": "cocoa",
+      "value": 40
+    },
+    {
+      "x": "cranberry",
+      "y": "cinnamon",
+      "value": 19
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "egg",
+      "value": 17
+    },
+    {
+      "x": "cranberry",
+      "y": "milk",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cherry",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cranberry",
+      "value": 17
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cranberry",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.90909090909091
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 24.272727272727273
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 20.727272727272727
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 14.454545454545455
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.090909090909092
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.727272727272727
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 7.454545454545454
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.818181818181818
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

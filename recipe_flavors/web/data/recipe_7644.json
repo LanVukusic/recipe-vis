@@ -1,0 +1,162 @@
+{
+  "id": 7644,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "vegetable_oil",
+    "corn",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

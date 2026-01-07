@@ -1,0 +1,162 @@
+{
+  "id": 42841,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "lemon_juice",
+    "wheat",
+    "lemon",
+    "milk"
+  ],
+  "score_avg": 6.8,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

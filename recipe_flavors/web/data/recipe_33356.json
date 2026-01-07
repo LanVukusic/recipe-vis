@@ -1,0 +1,112 @@
+{
+  "id": 33356,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "whole_grain_wheat_flour",
+    "wheat",
+    "yeast"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

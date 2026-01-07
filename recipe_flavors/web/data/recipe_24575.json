@@ -1,0 +1,792 @@
+{
+  "id": 24575,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vinegar",
+    "wheat",
+    "soy_sauce",
+    "almond",
+    "cider",
+    "scallion",
+    "seed",
+    "vegetable_oil",
+    "cabbage",
+    "broccoli",
+    "chicken"
+  ],
+  "score_avg": 3.742424242424242,
+  "pair_coverage": 0.45454545454545453,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "cider",
+      "value": 26
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cabbage",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "vinegar",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cider",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "soy_sauce",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cider",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "cider",
+      "y": "butter",
+      "value": 26
+    },
+    {
+      "x": "cider",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cider",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cider",
+      "y": "cabbage",
+      "value": 6
+    },
+    {
+      "x": "cider",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "cider",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cider",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "cabbage",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cider",
+      "value": 6
+    },
+    {
+      "x": "cabbage",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "cabbage",
+      "y": "chicken",
+      "value": 16
+    },
+    {
+      "x": "broccoli",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cider",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cabbage",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "cider",
+      "value": 17
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cabbage",
+      "value": 16
+    },
+    {
+      "x": "chicken",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 11.545454545454545
+    },
+    {
+      "ingredient": "cider",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.9090909090909091
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

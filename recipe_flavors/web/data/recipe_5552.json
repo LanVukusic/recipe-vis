@@ -1,0 +1,162 @@
+{
+  "id": 5552,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "bean",
+    "cayenne",
+    "beef"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "bean",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 50.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 42.25
+    },
+    {
+      "ingredient": "bean",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.75
+    }
+  ]
+}

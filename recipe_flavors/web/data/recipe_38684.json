@@ -1,0 +1,112 @@
+{
+  "id": 38684,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "apricot",
+    "wheat",
+    "cream_cheese"
+  ],
+  "score_avg": 22.833333333333332,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "apricot",
+      "value": 36
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "apricot",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "apricot",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "butter",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

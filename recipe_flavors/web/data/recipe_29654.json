@@ -1,0 +1,112 @@
+{
+  "id": 29654,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_peel_oil",
+    "lime_juice",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

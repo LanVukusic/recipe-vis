@@ -1,0 +1,162 @@
+{
+  "id": 9422,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "fish",
+    "salmon",
+    "mustard",
+    "rum"
+  ],
+  "score_avg": 14.7,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "maple_syrup",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "salmon",
+      "value": 64
+    },
+    {
+      "x": "fish",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "rum",
+      "value": 25
+    },
+    {
+      "x": "salmon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "fish",
+      "value": 64
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "salmon",
+      "y": "rum",
+      "value": 36
+    },
+    {
+      "x": "mustard",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "fish",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "salmon",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "rum",
+      "value": 9
+    },
+    {
+      "x": "rum",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "fish",
+      "value": 25
+    },
+    {
+      "x": "rum",
+      "y": "salmon",
+      "value": 36
+    },
+    {
+      "x": "rum",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "salmon",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "fish",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "rum",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.5
+    }
+  ]
+}

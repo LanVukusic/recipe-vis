@@ -1,0 +1,72 @@
+{
+  "id": 13640,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "red_wine",
+    "cream_cheese"
+  ],
+  "score_avg": 69.66666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "red_wine",
+      "value": 73
+    },
+    {
+      "x": "cocoa",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "red_wine",
+      "y": "cocoa",
+      "value": 73
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "cream_cheese",
+      "value": 70
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "red_wine",
+      "value": 70
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 71.5
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 69.5
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 68.0
+    }
+  ]
+}

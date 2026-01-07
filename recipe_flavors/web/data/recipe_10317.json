@@ -1,0 +1,72 @@
+{
+  "id": 10317,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "horseradish",
+    "black_pepper",
+    "cream"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

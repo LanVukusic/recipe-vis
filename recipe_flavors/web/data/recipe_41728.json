@@ -1,0 +1,72 @@
+{
+  "id": 41728,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "blueberry",
+    "pineapple"
+  ],
+  "score_avg": 50.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "strawberry",
+      "y": "pineapple",
+      "value": 67
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "pineapple",
+      "value": 25
+    },
+    {
+      "x": "pineapple",
+      "y": "strawberry",
+      "value": 67
+    },
+    {
+      "x": "pineapple",
+      "y": "blueberry",
+      "value": 25
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 62.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 46.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 41.5
+    }
+  ]
+}

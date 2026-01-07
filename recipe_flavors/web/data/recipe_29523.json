@@ -1,0 +1,42 @@
+{
+  "id": 29523,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "chicken"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg_noodle",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 4.0
+    }
+  ]
+}

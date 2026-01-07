@@ -1,0 +1,112 @@
+{
+  "id": 21112,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whole_grain_wheat_flour",
+    "bread",
+    "wheat",
+    "yeast"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "whole_grain_wheat_flour",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "bread",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

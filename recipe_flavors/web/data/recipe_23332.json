@@ -1,0 +1,292 @@
+{
+  "id": 23332,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "beef",
+    "white_bread",
+    "parsley",
+    "pork_sausage",
+    "milk"
+  ],
+  "score_avg": 29.761904761904763,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "white_bread",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "beef",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "pork_sausage",
+      "value": 101
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "white_bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "white_bread",
+      "y": "beef",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "white_bread",
+      "y": "pork_sausage",
+      "value": 36
+    },
+    {
+      "x": "white_bread",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "white_bread",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "beef",
+      "value": 101
+    },
+    {
+      "x": "pork_sausage",
+      "y": "white_bread",
+      "value": 36
+    },
+    {
+      "x": "pork_sausage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 52.166666666666664
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 43.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 39.5
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

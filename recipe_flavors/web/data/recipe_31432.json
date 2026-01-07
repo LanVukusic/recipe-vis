@@ -1,0 +1,162 @@
+{
+  "id": 31432,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "garlic",
+    "chicken",
+    "lemon",
+    "onion"
+  ],
+  "score_avg": 8.7,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.5
+    }
+  ]
+}

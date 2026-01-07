@@ -1,0 +1,112 @@
+{
+  "id": 39675,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "chicken",
+    "milk",
+    "mushroom"
+  ],
+  "score_avg": 57.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 59.666666666666664
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 58.333333333333336
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 51.333333333333336
+    }
+  ]
+}

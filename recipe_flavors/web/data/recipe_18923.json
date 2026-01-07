@@ -1,0 +1,112 @@
+{
+  "id": 18923,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "almond",
+    "garlic",
+    "milk"
+  ],
+  "score_avg": 13.833333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "almond",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "milk",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

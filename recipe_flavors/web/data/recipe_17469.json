@@ -1,0 +1,72 @@
+{
+  "id": 17469,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_peel_oil",
+    "lime_juice",
+    "pineapple"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "pineapple",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 0.5
+    }
+  ]
+}

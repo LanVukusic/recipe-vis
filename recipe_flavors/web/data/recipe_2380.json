@@ -1,0 +1,112 @@
+{
+  "id": 2380,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "sake",
+    "fish",
+    "garlic",
+    "soy_sauce"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "fish",
+      "value": 13
+    },
+    {
+      "x": "sake",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "sake",
+      "value": 13
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sake",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

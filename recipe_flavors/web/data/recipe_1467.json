@@ -1,0 +1,792 @@
+{
+  "id": 1467,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "mushroom",
+    "starch",
+    "squid",
+    "ginger",
+    "carrot",
+    "shrimp",
+    "onion",
+    "sake",
+    "cayenne",
+    "chinese_cabbage",
+    "scallion"
+  ],
+  "score_avg": 4.045454545454546,
+  "pair_coverage": 0.42424242424242425,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "squid",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "shrimp",
+      "value": 35
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "sake",
+      "value": 14
+    },
+    {
+      "x": "mushroom",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "chinese_cabbage",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "squid",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "squid",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "shrimp",
+      "value": 14
+    },
+    {
+      "x": "squid",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "squid",
+      "y": "sake",
+      "value": 3
+    },
+    {
+      "x": "squid",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "squid",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "sake",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "cayenne",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "cayenne",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "mushroom",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "squid",
+      "value": 14
+    },
+    {
+      "x": "shrimp",
+      "y": "ginger",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "sake",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "chinese_cabbage",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "squid",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sake",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chinese_cabbage",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "sake",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "mushroom",
+      "value": 14
+    },
+    {
+      "x": "sake",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "squid",
+      "value": 3
+    },
+    {
+      "x": "sake",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "sake",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "sake",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "cayenne",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "cayenne",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "chinese_cabbage",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chinese_cabbage",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 8.272727272727273
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 8.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.454545454545454
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.818181818181818
+    },
+    {
+      "ingredient": "sake",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "squid",
+      "mean": 3.272727272727273
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "chinese_cabbage",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

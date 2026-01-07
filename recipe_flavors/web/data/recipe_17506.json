@@ -1,0 +1,112 @@
+{
+  "id": 17506,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "chicken",
+    "rice",
+    "soy_sauce"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "orange",
+      "y": "rice",
+      "value": 24
+    },
+    {
+      "x": "orange",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "orange",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "orange",
+      "value": 24
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "orange",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

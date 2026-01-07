@@ -1,0 +1,162 @@
+{
+  "id": 14807,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "white_bread",
+    "egg",
+    "beef",
+    "cheese"
+  ],
+  "score_avg": 24.3,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "white_bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "beef",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "cheese",
+      "value": 40
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "white_bread",
+      "value": 40
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 35.25
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

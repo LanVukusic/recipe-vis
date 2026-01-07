@@ -1,0 +1,112 @@
+{
+  "id": 697,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "beer",
+    "wheat",
+    "pea"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beer",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "beer",
+      "value": 29
+    },
+    {
+      "x": "pea",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "beer",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

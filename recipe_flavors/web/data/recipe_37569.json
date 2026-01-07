@@ -1,0 +1,72 @@
+{
+  "id": 37569,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "pepper",
+    "bacon"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    }
+  ]
+}

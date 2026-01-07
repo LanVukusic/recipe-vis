@@ -1,0 +1,72 @@
+{
+  "id": 26282,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "roasted_peanut"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "roasted_peanut",
+      "value": 20
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

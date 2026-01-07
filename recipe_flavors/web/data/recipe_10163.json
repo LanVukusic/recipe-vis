@@ -1,0 +1,162 @@
+{
+  "id": 10163,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turnip",
+    "pepper",
+    "brassica",
+    "ham",
+    "vinegar"
+  ],
+  "score_avg": 0.7,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ham",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.0
+    }
+  ]
+}

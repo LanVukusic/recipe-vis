@@ -1,0 +1,292 @@
+{
+  "id": 35318,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "onion",
+    "vegetable_oil",
+    "fish",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "fish",
+      "value": 34
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "cheese",
+      "value": 34
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "bread",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "fish",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "fish",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 14961,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream",
+    "watermelon",
+    "milk",
+    "passion_fruit"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "watermelon",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "passion_fruit",
+      "value": 5
+    },
+    {
+      "x": "watermelon",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "watermelon",
+      "y": "passion_fruit",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "watermelon",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "passion_fruit",
+      "value": 38
+    },
+    {
+      "x": "passion_fruit",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "passion_fruit",
+      "y": "watermelon",
+      "value": 9
+    },
+    {
+      "x": "passion_fruit",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "passion_fruit",
+      "y": "passion_fruit",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "passion_fruit",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "watermelon",
+      "mean": 3.6666666666666665
+    }
+  ]
+}

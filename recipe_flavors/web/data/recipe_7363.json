@@ -1,0 +1,112 @@
+{
+  "id": 7363,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_peel",
+    "lemon_juice",
+    "grape",
+    "cranberry"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "grape",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cranberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "grape",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "grape",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "cranberry",
+      "value": 56
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "grape",
+      "value": 56
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

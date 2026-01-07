@@ -1,0 +1,112 @@
+{
+  "id": 13290,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grapefruit",
+    "lemon_juice",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "milk",
+      "value": 17
+    },
+    {
+      "x": "grapefruit",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "lemon_juice",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "grapefruit",
+      "value": 17
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "grapefruit",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

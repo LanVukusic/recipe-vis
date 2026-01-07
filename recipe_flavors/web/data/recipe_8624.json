@@ -1,0 +1,162 @@
+{
+  "id": 8624,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "cheddar_cheese",
+    "egg",
+    "mustard"
+  ],
+  "score_avg": 15.7,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

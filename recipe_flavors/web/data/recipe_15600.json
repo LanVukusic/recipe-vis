@@ -1,0 +1,112 @@
+{
+  "id": 15600,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "honey",
+    "cane_molasses",
+    "carrot"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

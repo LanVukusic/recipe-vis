@@ -1,0 +1,112 @@
+{
+  "id": 22421,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef",
+    "cheddar_cheese",
+    "onion",
+    "mushroom"
+  ],
+  "score_avg": 45.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 59.666666666666664
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "onion",
+      "mean": 21.666666666666668
+    }
+  ]
+}

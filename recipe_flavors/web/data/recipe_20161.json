@@ -1,0 +1,162 @@
+{
+  "id": 20161,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "swiss_cheese",
+    "wheat",
+    "milk",
+    "cauliflower"
+  ],
+  "score_avg": 25.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "cauliflower",
+      "value": 11
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "milk",
+      "value": 73
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "swiss_cheese",
+      "value": 73
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "cauliflower",
+      "y": "swiss_cheese",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 39.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 39.5
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

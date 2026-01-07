@@ -1,0 +1,72 @@
+{
+  "id": 45932,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "milk",
+    "peppermint"
+  ],
+  "score_avg": 29.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "peppermint",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peppermint",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "cocoa",
+      "value": 21
+    },
+    {
+      "x": "peppermint",
+      "y": "milk",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 17.5
+    }
+  ]
+}

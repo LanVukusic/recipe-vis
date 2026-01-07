@@ -1,0 +1,162 @@
+{
+  "id": 39738,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "butter",
+    "egg",
+    "tabasco_pepper",
+    "cheese"
+  ],
+  "score_avg": 12.7,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "tabasco_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "egg",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "corn_grit",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "tabasco_pepper",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 0.25
+    }
+  ]
+}

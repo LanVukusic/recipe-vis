@@ -1,0 +1,72 @@
+{
+  "id": 25129,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "coconut",
+    "rum"
+  ],
+  "score_avg": 44.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "coconut",
+      "value": 24
+    },
+    {
+      "x": "champagne_wine",
+      "y": "rum",
+      "value": 76
+    },
+    {
+      "x": "coconut",
+      "y": "champagne_wine",
+      "value": 24
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "rum",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "champagne_wine",
+      "value": 76
+    },
+    {
+      "x": "rum",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 55.0
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 29.0
+    }
+  ]
+}

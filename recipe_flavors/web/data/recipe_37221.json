@@ -1,0 +1,162 @@
+{
+  "id": 37221,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "cayenne",
+    "pork",
+    "sage",
+    "pepper"
+  ],
+  "score_avg": 5.1,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "pork",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cayenne",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "sage",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "pork",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

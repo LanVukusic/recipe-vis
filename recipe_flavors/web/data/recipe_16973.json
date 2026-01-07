@@ -1,0 +1,112 @@
+{
+  "id": 16973,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "white_bread",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 29.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "white_bread",
+      "y": "strawberry",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 22.0
+    }
+  ]
+}

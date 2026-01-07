@@ -1,0 +1,112 @@
+{
+  "id": 19266,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_juice",
+    "lime",
+    "tangerine",
+    "cranberry"
+  ],
+  "score_avg": 20.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime_juice",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "tangerine",
+      "value": 53
+    },
+    {
+      "x": "lime",
+      "y": "cranberry",
+      "value": 32
+    },
+    {
+      "x": "tangerine",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "lime",
+      "value": 53
+    },
+    {
+      "x": "tangerine",
+      "y": "tangerine",
+      "value": 0
+    },
+    {
+      "x": "tangerine",
+      "y": "cranberry",
+      "value": 33
+    },
+    {
+      "x": "cranberry",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "lime",
+      "value": 32
+    },
+    {
+      "x": "cranberry",
+      "y": "tangerine",
+      "value": 33
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "tangerine",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

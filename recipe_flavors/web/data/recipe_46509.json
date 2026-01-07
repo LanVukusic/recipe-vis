@@ -1,0 +1,162 @@
+{
+  "id": 46509,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "lemon_juice",
+    "garlic",
+    "bread"
+  ],
+  "score_avg": 3.9,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

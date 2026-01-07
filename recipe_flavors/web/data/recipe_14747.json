@@ -1,0 +1,112 @@
+{
+  "id": 14747,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "anise",
+    "milk"
+  ],
+  "score_avg": 26.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "anise",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "anise",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "anise",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "anise",
+      "mean": 2.0
+    }
+  ]
+}

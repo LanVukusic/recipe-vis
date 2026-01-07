@@ -1,0 +1,112 @@
+{
+  "id": 45804,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cocoa",
+    "wheat",
+    "walnut"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "walnut",
+      "value": 10
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "walnut",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "butter",
+      "value": 10
+    },
+    {
+      "x": "walnut",
+      "y": "cocoa",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

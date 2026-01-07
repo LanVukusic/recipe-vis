@@ -1,0 +1,72 @@
+{
+  "id": 33856,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "lemon",
+    "rum"
+  ],
+  "score_avg": 39.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "champagne_wine",
+      "y": "rum",
+      "value": 76
+    },
+    {
+      "x": "lemon",
+      "y": "champagne_wine",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "rum",
+      "value": 22
+    },
+    {
+      "x": "rum",
+      "y": "champagne_wine",
+      "value": 76
+    },
+    {
+      "x": "rum",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 49.0
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 21.0
+    }
+  ]
+}

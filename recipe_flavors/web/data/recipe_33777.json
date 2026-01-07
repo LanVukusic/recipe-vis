@@ -1,0 +1,72 @@
+{
+  "id": 33777,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "sherry",
+    "mint"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "sherry",
+      "value": 42
+    },
+    {
+      "x": "melon",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "sherry",
+      "y": "melon",
+      "value": 42
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "sherry",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sherry",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "melon",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 10.5
+    }
+  ]
+}

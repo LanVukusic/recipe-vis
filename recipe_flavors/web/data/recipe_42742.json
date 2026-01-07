@@ -1,0 +1,162 @@
+{
+  "id": 42742,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "seed",
+    "egg",
+    "cream_cheese",
+    "pork_sausage",
+    "bread"
+  ],
+  "score_avg": 20.3,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "pork_sausage",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "cream_cheese",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "pork_sausage",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "pork_sausage",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.75
+    }
+  ]
+}

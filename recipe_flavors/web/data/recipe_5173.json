@@ -1,0 +1,112 @@
+{
+  "id": 5173,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "pineapple",
+    "wheat",
+    "starch"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "peanut_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "peanut_oil",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_oil",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

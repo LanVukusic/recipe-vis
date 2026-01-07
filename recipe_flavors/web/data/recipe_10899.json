@@ -1,0 +1,72 @@
+{
+  "id": 10899,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kumquat",
+    "ginger",
+    "cranberry"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "kumquat",
+      "y": "kumquat",
+      "value": 0
+    },
+    {
+      "x": "kumquat",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "kumquat",
+      "y": "cranberry",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "kumquat",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "kumquat",
+      "value": 9
+    },
+    {
+      "x": "cranberry",
+      "y": "ginger",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "kumquat",
+      "mean": 6.0
+    }
+  ]
+}

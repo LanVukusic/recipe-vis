@@ -1,0 +1,162 @@
+{
+  "id": 49228,
+  "cuisine": "SoutheastAsian",
+  "ingredients": [
+    "chicken_broth",
+    "egg",
+    "shiitake",
+    "chicken",
+    "scallion"
+  ],
+  "score_avg": 10.9,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "shiitake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "shiitake",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 21.25
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.25
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

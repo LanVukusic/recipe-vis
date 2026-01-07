@@ -1,0 +1,72 @@
+{
+  "id": 21278,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gin",
+    "lemon",
+    "tea"
+  ],
+  "score_avg": 15.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "tea",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "tea",
+      "value": 32
+    },
+    {
+      "x": "tea",
+      "y": "gin",
+      "value": 9
+    },
+    {
+      "x": "tea",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tea",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "gin",
+      "mean": 7.5
+    }
+  ]
+}

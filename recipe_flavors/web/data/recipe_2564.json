@@ -1,0 +1,72 @@
+{
+  "id": 2564,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "rice",
+    "wheat",
+    "red_bean"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "red_bean",
+      "value": 36
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_bean",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "rice",
+      "value": 36
+    },
+    {
+      "x": "red_bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "red_bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "red_bean",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

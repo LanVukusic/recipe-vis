@@ -1,0 +1,72 @@
+{
+  "id": 1604,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "butter",
+    "basil",
+    "fish"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.0
+    }
+  ]
+}

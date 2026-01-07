@@ -1,0 +1,792 @@
+{
+  "id": 21547,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "green_bell_pepper",
+    "veal",
+    "pork",
+    "garlic",
+    "oregano",
+    "milk",
+    "bread",
+    "tomato",
+    "beef",
+    "meat"
+  ],
+  "score_avg": 15.348484848484848,
+  "pair_coverage": 0.7878787878787878,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "veal",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "veal",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "veal",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "veal",
+      "y": "veal",
+      "value": 0
+    },
+    {
+      "x": "veal",
+      "y": "pork",
+      "value": 44
+    },
+    {
+      "x": "veal",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "veal",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "veal",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "veal",
+      "y": "bread",
+      "value": 21
+    },
+    {
+      "x": "veal",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "veal",
+      "y": "beef",
+      "value": 49
+    },
+    {
+      "x": "veal",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "veal",
+      "value": 44
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "beef",
+      "value": 97
+    },
+    {
+      "x": "pork",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "veal",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "veal",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "veal",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "pork",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "milk",
+      "y": "tomato",
+      "value": 43
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "meat",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "veal",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "pork",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "meat",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "veal",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "meat",
+      "value": 23
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "green_bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "veal",
+      "value": 49
+    },
+    {
+      "x": "beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "veal",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "pork",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "meat",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "meat",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "meat",
+      "y": "beef",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "pork",
+      "mean": 29.727272727272727
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.272727272727273
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "veal",
+      "mean": 19.818181818181817
+    },
+    {
+      "ingredient": "meat",
+      "mean": 19.181818181818183
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.818181818181818
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

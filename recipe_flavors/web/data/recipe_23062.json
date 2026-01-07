@@ -1,0 +1,72 @@
+{
+  "id": 23062,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cod",
+    "bell_pepper"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cod",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "cod",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "cod",
+      "y": "cod",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cod",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "cod",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.0
+    }
+  ]
+}

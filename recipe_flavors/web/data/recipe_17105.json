@@ -1,0 +1,372 @@
+{
+  "id": 17105,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_juice",
+    "wheat",
+    "mushroom",
+    "onion",
+    "cheddar_cheese",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 21.214285714285715,
+  "pair_coverage": 0.7857142857142857,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 38.57142857142857
+    },
+    {
+      "ingredient": "milk",
+      "mean": 35.42857142857143
+    },
+    {
+      "ingredient": "butter",
+      "mean": 34.57142857142857
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.428571428571427
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.571428571428573
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.714285714285714
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.42857142857142855
+    }
+  ]
+}

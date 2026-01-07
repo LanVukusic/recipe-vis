@@ -1,0 +1,72 @@
+{
+  "id": 13888,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 30.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 25.0
+    }
+  ]
+}

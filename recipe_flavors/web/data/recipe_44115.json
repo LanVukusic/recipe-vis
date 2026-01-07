@@ -1,0 +1,72 @@
+{
+  "id": 44115,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "lemon",
+    "bell_pepper"
+  ],
+  "score_avg": 16.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "bell_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 15.5
+    }
+  ]
+}

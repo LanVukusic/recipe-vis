@@ -1,0 +1,292 @@
+{
+  "id": 23937,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "gelatin",
+    "wheat",
+    "peanut_butter",
+    "blackberry",
+    "milk",
+    "banana"
+  ],
+  "score_avg": 14.619047619047619,
+  "pair_coverage": 0.5238095238095238,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "blackberry",
+      "value": 18
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "banana",
+      "value": 26
+    },
+    {
+      "x": "gelatin",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "blackberry",
+      "value": 30
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "blackberry",
+      "y": "honey",
+      "value": 18
+    },
+    {
+      "x": "blackberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "peanut_butter",
+      "value": 30
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "milk",
+      "value": 37
+    },
+    {
+      "x": "blackberry",
+      "y": "banana",
+      "value": 35
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "blackberry",
+      "value": 37
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

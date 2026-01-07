@@ -1,0 +1,42 @@
+{
+  "id": 6929,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "butter"
+  ],
+  "score_avg": 54.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 54.0
+    }
+  ]
+}

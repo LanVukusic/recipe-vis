@@ -1,0 +1,222 @@
+{
+  "id": 9667,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "grape_juice",
+    "vinegar",
+    "red_wine",
+    "black_pepper",
+    "wine"
+  ],
+  "score_avg": 12.733333333333333,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 31.8
+    },
+    {
+      "ingredient": "wine",
+      "mean": 31.4
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.2
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.4
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.6
+    }
+  ]
+}

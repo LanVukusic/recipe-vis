@@ -1,0 +1,112 @@
+{
+  "id": 45135,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "scallop",
+    "lemon_juice",
+    "garlic"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "scallop",
+      "value": 23
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "scallop",
+      "y": "butter",
+      "value": 23
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "scallop",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

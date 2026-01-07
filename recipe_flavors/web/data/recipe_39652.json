@@ -1,0 +1,162 @@
+{
+  "id": 39652,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "wheat",
+    "onion",
+    "potato"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 14.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

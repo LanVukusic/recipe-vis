@@ -1,0 +1,292 @@
+{
+  "id": 28636,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "pecan",
+    "cream",
+    "raisin",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 7.619047619047619,
+  "pair_coverage": 0.5714285714285714,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "pecan",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pecan",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pecan",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.833333333333333
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 5.166666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 26125,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "rice",
+    "cheddar_cheese",
+    "pineapple"
+  ],
+  "score_avg": 26.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "pineapple",
+      "value": 36
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "pineapple",
+      "value": 21
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pineapple",
+      "value": 47
+    },
+    {
+      "x": "pineapple",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "pineapple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "pineapple",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 40.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "rice",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

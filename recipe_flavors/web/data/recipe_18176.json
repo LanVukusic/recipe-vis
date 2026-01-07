@@ -1,0 +1,72 @@
+{
+  "id": 18176,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "blueberry",
+    "lime"
+  ],
+  "score_avg": 40.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "blueberry",
+      "value": 55
+    },
+    {
+      "x": "raspberry",
+      "y": "lime",
+      "value": 36
+    },
+    {
+      "x": "blueberry",
+      "y": "raspberry",
+      "value": 55
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "lime",
+      "value": 30
+    },
+    {
+      "x": "lime",
+      "y": "raspberry",
+      "value": 36
+    },
+    {
+      "x": "lime",
+      "y": "blueberry",
+      "value": 30
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 45.5
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 33.0
+    }
+  ]
+}

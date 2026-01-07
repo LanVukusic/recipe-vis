@@ -1,0 +1,72 @@
+{
+  "id": 32886,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "rosemary"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

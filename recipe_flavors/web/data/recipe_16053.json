@@ -1,0 +1,42 @@
+{
+  "id": 16053,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "lime"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 12.0
+    }
+  ]
+}

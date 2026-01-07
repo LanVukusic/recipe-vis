@@ -1,0 +1,112 @@
+{
+  "id": 7242,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "vegetable_oil",
+    "pepper",
+    "potato"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "olive",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "potato",
+      "value": 20
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "olive",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "olive",
+      "value": 20
+    },
+    {
+      "x": "potato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "potato",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

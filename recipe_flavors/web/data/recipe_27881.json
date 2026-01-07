@@ -1,0 +1,112 @@
+{
+  "id": 27881,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "egg",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 47.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 67.33333333333333
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 64.33333333333333
+    },
+    {
+      "ingredient": "bread",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 26.0
+    }
+  ]
+}

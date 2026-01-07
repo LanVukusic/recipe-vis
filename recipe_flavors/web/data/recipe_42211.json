@@ -1,0 +1,42 @@
+{
+  "id": 42211,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mint",
+    "lime"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mint",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 12.0
+    }
+  ]
+}

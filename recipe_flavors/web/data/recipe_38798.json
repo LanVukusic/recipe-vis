@@ -1,0 +1,112 @@
+{
+  "id": 38798,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chive",
+    "parsley",
+    "bread"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "chive",
+      "mean": 3.0
+    }
+  ]
+}

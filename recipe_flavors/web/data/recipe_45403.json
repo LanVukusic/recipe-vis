@@ -1,0 +1,112 @@
+{
+  "id": 45403,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "egg",
+    "pineapple"
+  ],
+  "score_avg": 13.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "pineapple",
+      "value": 41
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

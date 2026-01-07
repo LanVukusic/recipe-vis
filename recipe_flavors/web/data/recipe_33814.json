@@ -1,0 +1,72 @@
+{
+  "id": 33814,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "coconut",
+    "cream"
+  ],
+  "score_avg": 16.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "coconut",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.5
+    }
+  ]
+}

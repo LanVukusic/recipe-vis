@@ -1,0 +1,162 @@
+{
+  "id": 24267,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "rice",
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 25.2,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "peanut_butter",
+      "value": 53
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "rice",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 35.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

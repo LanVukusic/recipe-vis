@@ -1,0 +1,162 @@
+{
+  "id": 42090,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "red_kidney_bean",
+    "grape",
+    "apple",
+    "cream"
+  ],
+  "score_avg": 27.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "red_kidney_bean",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "grape",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "apple",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "red_kidney_bean",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "red_kidney_bean",
+      "y": "red_kidney_bean",
+      "value": 0
+    },
+    {
+      "x": "red_kidney_bean",
+      "y": "grape",
+      "value": 40
+    },
+    {
+      "x": "red_kidney_bean",
+      "y": "apple",
+      "value": 44
+    },
+    {
+      "x": "red_kidney_bean",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "grape",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "grape",
+      "y": "red_kidney_bean",
+      "value": 40
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "apple",
+      "value": 79
+    },
+    {
+      "x": "grape",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "apple",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "red_kidney_bean",
+      "value": 44
+    },
+    {
+      "x": "apple",
+      "y": "grape",
+      "value": 79
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "red_kidney_bean",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "grape",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "grape",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "red_kidney_bean",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "celery",
+      "mean": 19.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.75
+    }
+  ]
+}

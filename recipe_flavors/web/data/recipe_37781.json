@@ -1,0 +1,112 @@
+{
+  "id": 37781,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "chicken",
+    "wheat",
+    "cream_cheese"
+  ],
+  "score_avg": 12.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "cream_cheese",
+      "value": 63
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 48724,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "olive_oil",
+    "carrot",
+    "grape",
+    "cumin",
+    "onion"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "grape",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "cumin",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "grape",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "grape",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "cumin",
+      "value": 4
+    },
+    {
+      "x": "grape",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "cumin",
+      "y": "grape",
+      "value": 4
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "grape",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 24824,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "bacon",
+    "potato"
+  ],
+  "score_avg": 55.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 59.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 57.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 51.0
+    }
+  ]
+}

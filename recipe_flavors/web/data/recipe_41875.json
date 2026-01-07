@@ -1,0 +1,112 @@
+{
+  "id": 41875,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "orange",
+    "milk",
+    "cream_cheese"
+  ],
+  "score_avg": 48.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "orange",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "orange",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "orange",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "orange",
+      "value": 39
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 57.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 51.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 49.333333333333336
+    },
+    {
+      "ingredient": "orange",
+      "mean": 35.0
+    }
+  ]
+}

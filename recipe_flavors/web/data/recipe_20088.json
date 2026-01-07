@@ -1,0 +1,112 @@
+{
+  "id": 20088,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "seed",
+    "sesame_seed",
+    "peanut_butter"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "peanut_butter",
+      "value": 16
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "sesame_seed",
+      "value": 16
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

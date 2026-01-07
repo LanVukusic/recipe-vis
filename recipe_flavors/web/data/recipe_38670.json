@@ -1,0 +1,112 @@
+{
+  "id": 38670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "wheat",
+    "vinegar"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

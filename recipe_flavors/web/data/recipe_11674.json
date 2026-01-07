@@ -1,0 +1,112 @@
+{
+  "id": 11674,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "anise_seed",
+    "seed",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "anise_seed",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "anise_seed",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "anise_seed",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "anise_seed",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.0
+    }
+  ]
+}

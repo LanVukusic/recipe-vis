@@ -1,0 +1,42 @@
+{
+  "id": 34992,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "peach"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "orange",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 28.0
+    }
+  ]
+}

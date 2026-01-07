@@ -1,0 +1,72 @@
+{
+  "id": 11545,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "truffle",
+    "potato"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "truffle",
+      "value": 2
+    },
+    {
+      "x": "peanut_oil",
+      "y": "potato",
+      "value": 9
+    },
+    {
+      "x": "truffle",
+      "y": "peanut_oil",
+      "value": 2
+    },
+    {
+      "x": "truffle",
+      "y": "truffle",
+      "value": 0
+    },
+    {
+      "x": "truffle",
+      "y": "potato",
+      "value": 10
+    },
+    {
+      "x": "potato",
+      "y": "peanut_oil",
+      "value": 9
+    },
+    {
+      "x": "potato",
+      "y": "truffle",
+      "value": 10
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "truffle",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 5.5
+    }
+  ]
+}

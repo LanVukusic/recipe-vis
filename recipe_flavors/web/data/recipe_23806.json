@@ -1,0 +1,72 @@
+{
+  "id": 23806,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "white_bread",
+    "cinnamon"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "white_bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "cinnamon",
+      "value": 5
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "white_bread",
+      "value": 5
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.5
+    }
+  ]
+}

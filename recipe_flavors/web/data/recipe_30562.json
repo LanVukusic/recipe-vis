@@ -1,0 +1,72 @@
+{
+  "id": 30562,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cayenne",
+    "beef",
+    "cranberry"
+  ],
+  "score_avg": 21.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "cranberry",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cranberry",
+      "value": 49
+    },
+    {
+      "x": "cranberry",
+      "y": "cayenne",
+      "value": 12
+    },
+    {
+      "x": "cranberry",
+      "y": "beef",
+      "value": 49
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "beef",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 8.0
+    }
+  ]
+}

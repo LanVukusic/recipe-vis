@@ -1,0 +1,162 @@
+{
+  "id": 3098,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "butter",
+    "apricot",
+    "fruit",
+    "wheat",
+    "cream_cheese"
+  ],
+  "score_avg": 14.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "apricot",
+      "value": 36
+    },
+    {
+      "x": "butter",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "apricot",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "apricot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "fruit",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "apricot",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "apricot",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 25.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

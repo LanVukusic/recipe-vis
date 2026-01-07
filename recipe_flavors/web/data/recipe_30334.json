@@ -1,0 +1,112 @@
+{
+  "id": 30334,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "pea",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 17.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pea",
+      "value": 34
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "pea",
+      "y": "cheddar_cheese",
+      "value": 34
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "pea",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "pea",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "pea",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.0
+    }
+  ]
+}

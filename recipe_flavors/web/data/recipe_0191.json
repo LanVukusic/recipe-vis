@@ -1,0 +1,42 @@
+{
+  "id": 191,
+  "cuisine": "African",
+  "ingredients": [
+    "rose",
+    "roasted_peanut"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "roasted_peanut",
+      "value": 6
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "rose",
+      "value": 6
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rose",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 6.0
+    }
+  ]
+}

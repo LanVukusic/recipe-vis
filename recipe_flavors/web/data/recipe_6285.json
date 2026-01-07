@@ -1,0 +1,112 @@
+{
+  "id": 6285,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "butter",
+    "fennel",
+    "leek",
+    "chicken_broth"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "butter",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "leek",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 49590,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "strawberry",
+    "lemon_juice",
+    "berry"
+  ],
+  "score_avg": 17.333333333333332,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "berry",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

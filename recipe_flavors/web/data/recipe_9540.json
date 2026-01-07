@@ -1,0 +1,72 @@
+{
+  "id": 9540,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "lemon_juice",
+    "nectarine"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "nectarine",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "nectarine",
+      "value": 0
+    },
+    {
+      "x": "nectarine",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "nectarine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "nectarine",
+      "y": "nectarine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "basil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "nectarine",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

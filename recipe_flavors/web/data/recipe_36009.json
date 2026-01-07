@@ -1,0 +1,112 @@
+{
+  "id": 36009,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken_broth",
+    "rice",
+    "sage"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "rice",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "sage",
+      "mean": 0.0
+    }
+  ]
+}

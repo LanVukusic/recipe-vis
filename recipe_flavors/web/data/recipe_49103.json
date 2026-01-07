@@ -1,0 +1,72 @@
+{
+  "id": 49103,
+  "cuisine": "SoutheastAsian",
+  "ingredients": [
+    "coconut",
+    "rice",
+    "palm"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "palm",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "palm",
+      "value": 3
+    },
+    {
+      "x": "palm",
+      "y": "coconut",
+      "value": 4
+    },
+    {
+      "x": "palm",
+      "y": "rice",
+      "value": 3
+    },
+    {
+      "x": "palm",
+      "y": "palm",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "palm",
+      "mean": 3.5
+    }
+  ]
+}

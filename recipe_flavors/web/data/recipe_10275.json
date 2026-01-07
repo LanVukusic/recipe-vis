@@ -1,0 +1,112 @@
+{
+  "id": 10275,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vanilla",
+    "grape_juice",
+    "nectarine"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "nectarine",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "nectarine",
+      "value": 7
+    },
+    {
+      "x": "grape_juice",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "nectarine",
+      "value": 0
+    },
+    {
+      "x": "nectarine",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "nectarine",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "nectarine",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "nectarine",
+      "y": "nectarine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "nectarine",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

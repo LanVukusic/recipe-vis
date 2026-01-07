@@ -1,0 +1,112 @@
+{
+  "id": 38417,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lima_bean",
+    "corn",
+    "cayenne"
+  ],
+  "score_avg": 21.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lima_bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "lima_bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "lima_bean",
+      "y": "lima_bean",
+      "value": 0
+    },
+    {
+      "x": "lima_bean",
+      "y": "corn",
+      "value": 38
+    },
+    {
+      "x": "lima_bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "lima_bean",
+      "value": 38
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "lima_bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lima_bean",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.333333333333333
+    }
+  ]
+}

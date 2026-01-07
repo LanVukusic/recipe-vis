@@ -1,0 +1,72 @@
+{
+  "id": 37574,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mushroom",
+    "brown_rice",
+    "pork_sausage"
+  ],
+  "score_avg": 46.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "brown_rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "brown_rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "brown_rice",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 45.5
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 45.5
+    }
+  ]
+}

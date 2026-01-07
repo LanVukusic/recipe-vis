@@ -1,0 +1,112 @@
+{
+  "id": 13707,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "bean",
+    "bacon"
+  ],
+  "score_avg": 24.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "bean",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

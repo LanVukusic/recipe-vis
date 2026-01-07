@@ -1,0 +1,792 @@
+{
+  "id": 27557,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "onion",
+    "parsley",
+    "parmesan_cheese",
+    "cottage_cheese",
+    "garlic",
+    "crab",
+    "basil",
+    "macaroni",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 11.166666666666666,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "cottage_cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "crab",
+      "value": 12
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "cottage_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "cottage_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "cottage_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cottage_cheese",
+      "value": 130
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "crab",
+      "value": 24
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "parmesan_cheese",
+      "value": 130
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cottage_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "tomato",
+      "value": 12
+    },
+    {
+      "x": "crab",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "crab",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "crab",
+      "y": "cottage_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "crab",
+      "y": "bread",
+      "value": 8
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "cottage_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "crab",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "cottage_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "bread",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 30.818181818181817
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 27.818181818181817
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 19.90909090909091
+    },
+    {
+      "ingredient": "bread",
+      "mean": 13.636363636363637
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.636363636363637
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.272727272727273
+    },
+    {
+      "ingredient": "crab",
+      "mean": 8.818181818181818
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.8181818181818183
+    },
+    {
+      "ingredient": "basil",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    }
+  ]
+}

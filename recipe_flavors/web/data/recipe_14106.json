@@ -1,0 +1,112 @@
+{
+  "id": 14106,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "cayenne",
+    "yeast"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

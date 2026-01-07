@@ -1,0 +1,112 @@
+{
+  "id": 35873,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "cocoa",
+    "oat",
+    "banana"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "oat",
+      "value": 23
+    },
+    {
+      "x": "cocoa",
+      "y": "banana",
+      "value": 38
+    },
+    {
+      "x": "oat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "cocoa",
+      "value": 23
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "banana",
+      "value": 15
+    },
+    {
+      "x": "banana",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cocoa",
+      "value": 38
+    },
+    {
+      "x": "banana",
+      "y": "oat",
+      "value": 15
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "banana",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "oat",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

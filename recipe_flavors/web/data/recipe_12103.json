@@ -1,0 +1,112 @@
+{
+  "id": 12103,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "corn",
+    "wheat"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

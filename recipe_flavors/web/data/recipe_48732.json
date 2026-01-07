@@ -1,0 +1,162 @@
+{
+  "id": 48732,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "egg",
+    "wheat",
+    "banana",
+    "cream_cheese",
+    "tea"
+  ],
+  "score_avg": 21.6,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "tea",
+      "value": 29
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream_cheese",
+      "value": 48
+    },
+    {
+      "x": "banana",
+      "y": "tea",
+      "value": 39
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "banana",
+      "value": 48
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tea",
+      "value": 58
+    },
+    {
+      "x": "tea",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "tea",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "banana",
+      "value": 39
+    },
+    {
+      "x": "tea",
+      "y": "cream_cheese",
+      "value": 58
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 34.25
+    },
+    {
+      "ingredient": "tea",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

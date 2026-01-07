@@ -1,0 +1,792 @@
+{
+  "id": 20268,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "pepper",
+    "mushroom",
+    "chicken_broth",
+    "parsley",
+    "parmesan_cheese",
+    "macaroni",
+    "bell_pepper",
+    "garlic",
+    "chicken",
+    "broccoli"
+  ],
+  "score_avg": 9.651515151515152,
+  "pair_coverage": 0.6515151515151515,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "broccoli",
+      "value": 7
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken",
+      "value": 72
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "broccoli",
+      "value": 7
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "bell_pepper",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "parmesan_cheese",
+      "value": 72
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "bell_pepper",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "broccoli",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "parmesan_cheese",
+      "value": 7
+    },
+    {
+      "x": "broccoli",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 23.90909090909091
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 20.09090909090909
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 19.727272727272727
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 19.545454545454547
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 12.909090909090908
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 7.090909090909091
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.454545454545454
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 3.272727272727273
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 30624,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "chicken_broth",
+    "black_pepper",
+    "sour_cherry"
+  ],
+  "score_avg": 1.8,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "sour_cherry",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sour_cherry",
+      "value": 2
+    },
+    {
+      "x": "sour_cherry",
+      "y": "butter",
+      "value": 9
+    },
+    {
+      "x": "sour_cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

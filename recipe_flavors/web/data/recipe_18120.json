@@ -1,0 +1,292 @@
+{
+  "id": 18120,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "potato",
+    "goat_cheese",
+    "bacon",
+    "leek",
+    "parmesan_cheese",
+    "milk"
+  ],
+  "score_avg": 35.523809523809526,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "goat_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "goat_cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "leek",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "parmesan_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "goat_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "goat_cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "goat_cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "goat_cheese",
+      "y": "parmesan_cheese",
+      "value": 128
+    },
+    {
+      "x": "goat_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "goat_cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "leek",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "leek",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "leek",
+      "y": "goat_cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "bacon",
+      "value": 19
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "leek",
+      "y": "milk",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "goat_cheese",
+      "value": 128
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "leek",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "milk",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "goat_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "leek",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "goat_cheese",
+      "mean": 53.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 43.333333333333336
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "leek",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.1666666666666665
+    }
+  ]
+}

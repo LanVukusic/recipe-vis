@@ -1,0 +1,112 @@
+{
+  "id": 41162,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "bean",
+    "ham",
+    "onion"
+  ],
+  "score_avg": 22.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "ham",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "ham",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "ham",
+      "y": "bean",
+      "value": 24
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.0
+    }
+  ]
+}

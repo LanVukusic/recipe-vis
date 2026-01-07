@@ -1,0 +1,162 @@
+{
+  "id": 30283,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "egg",
+    "vanilla",
+    "wheat",
+    "pecan"
+  ],
+  "score_avg": 3.8,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

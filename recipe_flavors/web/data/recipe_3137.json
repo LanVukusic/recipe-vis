@@ -1,0 +1,222 @@
+{
+  "id": 3137,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "buckwheat",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 7.6,
+  "pair_coverage": 0.5333333333333333,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "buckwheat",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "buckwheat",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "buckwheat",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "buckwheat",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "buckwheat",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.6
+    },
+    {
+      "ingredient": "buckwheat",
+      "mean": 9.6
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.2
+    }
+  ]
+}

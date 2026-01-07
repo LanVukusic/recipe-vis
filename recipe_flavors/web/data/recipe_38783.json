@@ -1,0 +1,292 @@
+{
+  "id": 38783,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "yeast",
+    "egg",
+    "bacon",
+    "buttermilk",
+    "milk"
+  ],
+  "score_avg": 14.285714285714286,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "bacon",
+      "value": 7
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 26.833333333333332
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 25.166666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.166666666666666
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

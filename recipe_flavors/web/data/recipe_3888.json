@@ -1,0 +1,162 @@
+{
+  "id": 3888,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "pepper",
+    "rice",
+    "chicken_broth",
+    "chicken",
+    "sesame_seed"
+  ],
+  "score_avg": 7.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "sesame_seed",
+      "value": 11
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "sesame_seed",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "chicken",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

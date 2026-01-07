@@ -1,0 +1,72 @@
+{
+  "id": 33488,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "ham",
+    "pineapple"
+  ],
+  "score_avg": 33.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "ham",
+      "value": 32
+    },
+    {
+      "x": "beer",
+      "y": "pineapple",
+      "value": 54
+    },
+    {
+      "x": "ham",
+      "y": "beer",
+      "value": 32
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "beer",
+      "value": 54
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "ham",
+      "mean": 23.5
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 2505,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "nut",
+    "rice",
+    "soybean",
+    "fruit",
+    "pumpkin"
+  ],
+  "score_avg": 8.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "soybean",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "rice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "pumpkin",
+      "value": 10
+    },
+    {
+      "x": "fruit",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "soybean",
+      "value": 10
+    },
+    {
+      "x": "pumpkin",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "rice",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.5
+    }
+  ]
+}

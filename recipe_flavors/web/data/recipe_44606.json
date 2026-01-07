@@ -1,0 +1,112 @@
+{
+  "id": 44606,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "olive_oil",
+    "red_wine",
+    "oregano"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

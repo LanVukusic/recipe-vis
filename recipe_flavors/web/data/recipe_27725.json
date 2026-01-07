@@ -1,0 +1,792 @@
+{
+  "id": 27725,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "coriander",
+    "pepper",
+    "chicken_broth",
+    "mushroom",
+    "beef",
+    "fenugreek",
+    "soy_sauce",
+    "onion",
+    "bay",
+    "cumin",
+    "cheddar_cheese"
+  ],
+  "score_avg": 9.924242424242424,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "coriander",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "fenugreek",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "coriander",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "beef",
+      "value": 20
+    },
+    {
+      "x": "coriander",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "coriander",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "cumin",
+      "value": 7
+    },
+    {
+      "x": "coriander",
+      "y": "cheddar_cheese",
+      "value": 14
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "fenugreek",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "coriander",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "fenugreek",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "fenugreek",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "fenugreek",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "fenugreek",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "fenugreek",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "fenugreek",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "fenugreek",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "fenugreek",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "soy_sauce",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "coriander",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "fenugreek",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bay",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "fenugreek",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "coriander",
+      "value": 7
+    },
+    {
+      "x": "cumin",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "cumin",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "cumin",
+      "y": "fenugreek",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "coriander",
+      "value": 14
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "fenugreek",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 23.818181818181817
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.545454545454547
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 20.363636363636363
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.545454545454546
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "fenugreek",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

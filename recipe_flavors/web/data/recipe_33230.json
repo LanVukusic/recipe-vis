@@ -1,0 +1,162 @@
+{
+  "id": 33230,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "wheat",
+    "cocoa",
+    "cherry"
+  ],
+  "score_avg": 8.6,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

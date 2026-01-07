@@ -1,0 +1,372 @@
+{
+  "id": 211,
+  "cuisine": "African",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "wheat",
+    "vinegar",
+    "feta_cheese",
+    "white_wine",
+    "garlic",
+    "mint"
+  ],
+  "score_avg": 11.5,
+  "pair_coverage": 0.75,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "feta_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "white_wine",
+      "value": 80
+    },
+    {
+      "x": "feta_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "feta_cheese",
+      "value": 80
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "white_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "tomato",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "feta_cheese",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "white_wine",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 26.714285714285715
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 24.428571428571427
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 22.571428571428573
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 5.714285714285714
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4285714285714284
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8571428571428571
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

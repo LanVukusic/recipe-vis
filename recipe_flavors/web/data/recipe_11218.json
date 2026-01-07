@@ -1,0 +1,72 @@
+{
+  "id": 11218,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "ginger",
+    "cream"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 41413,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "soy_sauce",
+    "black_pepper",
+    "mushroom",
+    "blue_cheese"
+  ],
+  "score_avg": 12.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "blue_cheese",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "blue_cheese",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 1.0
+    }
+  ]
+}

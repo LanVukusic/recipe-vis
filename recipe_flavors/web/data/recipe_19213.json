@@ -1,0 +1,112 @@
+{
+  "id": 19213,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "cheddar_cheese",
+    "bell_pepper",
+    "brown_rice"
+  ],
+  "score_avg": 20.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "brown_rice",
+      "value": 16
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "brown_rice",
+      "value": 47
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "brown_rice",
+      "value": 15
+    },
+    {
+      "x": "brown_rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "brown_rice",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "brown_rice",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.666666666666666
+    }
+  ]
+}

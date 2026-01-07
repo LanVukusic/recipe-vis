@@ -1,0 +1,292 @@
+{
+  "id": 19208,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "wheat",
+    "cream_cheese",
+    "vanilla",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 22.142857142857142,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cream_cheese",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "egg",
+      "value": 37
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "wheat",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "coffee",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 35.833333333333336
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 35.166666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.833333333333332
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.833333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

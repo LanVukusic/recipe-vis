@@ -1,0 +1,112 @@
+{
+  "id": 31437,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "vanilla",
+    "wheat",
+    "potato_chip"
+  ],
+  "score_avg": 1.1666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "potato_chip",
+      "value": 6
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato_chip",
+      "value": 1
+    },
+    {
+      "x": "potato_chip",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "potato_chip",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato_chip",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

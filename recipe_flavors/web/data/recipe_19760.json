@@ -1,0 +1,112 @@
+{
+  "id": 19760,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cabbage",
+    "onion",
+    "beef"
+  ],
+  "score_avg": 29.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cabbage",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "cabbage",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cabbage",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "cabbage",
+      "value": 19
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 40.333333333333336
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "onion",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 18.0
+    }
+  ]
+}

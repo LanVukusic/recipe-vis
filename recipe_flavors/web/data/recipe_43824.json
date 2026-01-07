@@ -1,0 +1,72 @@
+{
+  "id": 43824,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "banana",
+    "peanut_butter"
+  ],
+  "score_avg": 48.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "banana",
+      "value": 38
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "banana",
+      "y": "cocoa",
+      "value": 38
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 57.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 53.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 33.5
+    }
+  ]
+}

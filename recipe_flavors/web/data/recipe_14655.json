@@ -1,0 +1,72 @@
+{
+  "id": 14655,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "blueberry",
+    "green_tea"
+  ],
+  "score_avg": 62.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "strawberry",
+      "y": "green_tea",
+      "value": 89
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "green_tea",
+      "value": 39
+    },
+    {
+      "x": "green_tea",
+      "y": "strawberry",
+      "value": 89
+    },
+    {
+      "x": "green_tea",
+      "y": "blueberry",
+      "value": 39
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 73.5
+    },
+    {
+      "ingredient": "green_tea",
+      "mean": 64.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 48.5
+    }
+  ]
+}

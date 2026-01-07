@@ -1,0 +1,112 @@
+{
+  "id": 1718,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "garlic",
+    "soy_sauce",
+    "egg",
+    "onion"
+  ],
+  "score_avg": 5.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

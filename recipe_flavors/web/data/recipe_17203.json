@@ -1,0 +1,162 @@
+{
+  "id": 17203,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive",
+    "cheddar_cheese",
+    "macaroni",
+    "pork_sausage"
+  ],
+  "score_avg": 25.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "olive",
+      "y": "tomato",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "cheddar_cheese",
+      "value": 27
+    },
+    {
+      "x": "olive",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "olive",
+      "value": 27
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "olive",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "olive",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    }
+  ]
+}

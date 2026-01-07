@@ -1,0 +1,112 @@
+{
+  "id": 27167,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "bread",
+    "potato"
+  ],
+  "score_avg": 16.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

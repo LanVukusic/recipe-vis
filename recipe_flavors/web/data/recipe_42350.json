@@ -1,0 +1,372 @@
+{
+  "id": 42350,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "lemon",
+    "mustard",
+    "black_pepper",
+    "white_wine",
+    "garlic",
+    "chicken",
+    "rosemary"
+  ],
+  "score_avg": 7.321428571428571,
+  "pair_coverage": 0.7857142857142857,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "white_wine",
+      "value": 30
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "chicken",
+      "value": 9
+    },
+    {
+      "x": "mustard",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon",
+      "value": 30
+    },
+    {
+      "x": "white_wine",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "white_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "white_wine",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 13.285714285714286
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 11.571428571428571
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.571428571428571
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.714285714285714
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.428571428571429
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4285714285714284
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5714285714285714
+    }
+  ]
+}

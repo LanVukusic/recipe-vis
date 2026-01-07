@@ -1,0 +1,112 @@
+{
+  "id": 35876,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bourbon_whiskey",
+    "wood",
+    "beef",
+    "whiskey"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "wood",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "wood",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "wood",
+      "y": "wood",
+      "value": 0
+    },
+    {
+      "x": "wood",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "wood",
+      "y": "whiskey",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "bourbon_whiskey",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "wood",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "whiskey",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "wood",
+      "value": 1
+    },
+    {
+      "x": "whiskey",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "wood",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 37029,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "grape_juice",
+    "onion"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.0
+    }
+  ]
+}

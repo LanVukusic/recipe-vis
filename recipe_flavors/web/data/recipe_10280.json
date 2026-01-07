@@ -1,0 +1,42 @@
+{
+  "id": 10280,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "rum"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "rum",
+      "value": 19
+    },
+    {
+      "x": "rum",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange_juice",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 19.0
+    }
+  ]
+}

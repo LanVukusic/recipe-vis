@@ -1,0 +1,112 @@
+{
+  "id": 26339,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "cream",
+    "milk",
+    "banana"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "banana",
+      "value": 38
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "cocoa",
+      "value": 38
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 16.0
+    }
+  ]
+}

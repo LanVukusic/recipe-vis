@@ -1,0 +1,112 @@
+{
+  "id": 41008,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "bean",
+    "cayenne",
+    "cream_cheese"
+  ],
+  "score_avg": 26.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "cream_cheese",
+      "value": 51
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "cream_cheese",
+      "value": 41
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 6.333333333333333
+    }
+  ]
+}

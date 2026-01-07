@@ -1,0 +1,42 @@
+{
+  "id": 386,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "peanut"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 0.0
+    }
+  ]
+}

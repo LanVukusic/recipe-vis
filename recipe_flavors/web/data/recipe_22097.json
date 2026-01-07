@@ -1,0 +1,72 @@
+{
+  "id": 22097,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "apple",
+    "milk"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "milk",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "apple",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

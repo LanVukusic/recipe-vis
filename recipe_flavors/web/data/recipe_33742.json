@@ -1,0 +1,42 @@
+{
+  "id": 33742,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "banana"
+  ],
+  "score_avg": 32.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "banana",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 32.0
+    }
+  ]
+}

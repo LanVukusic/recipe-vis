@@ -1,0 +1,792 @@
+{
+  "id": 35878,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apple",
+    "onion",
+    "cherry",
+    "chicken_broth",
+    "bacon",
+    "parsley",
+    "apricot",
+    "celery",
+    "currant",
+    "cranberry",
+    "rice",
+    "brown_rice"
+  ],
+  "score_avg": 18.075757575757574,
+  "pair_coverage": 0.8636363636363636,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "cherry",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "bacon",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "apricot",
+      "value": 74
+    },
+    {
+      "x": "apple",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "currant",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "cranberry",
+      "value": 59
+    },
+    {
+      "x": "apple",
+      "y": "rice",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "brown_rice",
+      "value": 35
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cherry",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "currant",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "cranberry",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "brown_rice",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "cherry",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "bacon",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "cherry",
+      "y": "apricot",
+      "value": 26
+    },
+    {
+      "x": "cherry",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "cherry",
+      "y": "currant",
+      "value": 13
+    },
+    {
+      "x": "cherry",
+      "y": "cranberry",
+      "value": 20
+    },
+    {
+      "x": "cherry",
+      "y": "rice",
+      "value": 7
+    },
+    {
+      "x": "cherry",
+      "y": "brown_rice",
+      "value": 7
+    },
+    {
+      "x": "chicken_broth",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cranberry",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "apricot",
+      "value": 25
+    },
+    {
+      "x": "bacon",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "bacon",
+      "y": "currant",
+      "value": 12
+    },
+    {
+      "x": "bacon",
+      "y": "cranberry",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "brown_rice",
+      "value": 47
+    },
+    {
+      "x": "parsley",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "cherry",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "apricot",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "currant",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "cranberry",
+      "value": 15
+    },
+    {
+      "x": "parsley",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "brown_rice",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "apple",
+      "value": 74
+    },
+    {
+      "x": "apricot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "cherry",
+      "value": 26
+    },
+    {
+      "x": "apricot",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "bacon",
+      "value": 25
+    },
+    {
+      "x": "apricot",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "celery",
+      "value": 19
+    },
+    {
+      "x": "apricot",
+      "y": "currant",
+      "value": 18
+    },
+    {
+      "x": "apricot",
+      "y": "cranberry",
+      "value": 44
+    },
+    {
+      "x": "apricot",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "apricot",
+      "y": "brown_rice",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "apple",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "cherry",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "bacon",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "apricot",
+      "value": 19
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "currant",
+      "value": 9
+    },
+    {
+      "x": "celery",
+      "y": "cranberry",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "brown_rice",
+      "value": 20
+    },
+    {
+      "x": "currant",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "currant",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "currant",
+      "y": "cherry",
+      "value": 13
+    },
+    {
+      "x": "currant",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "bacon",
+      "value": 12
+    },
+    {
+      "x": "currant",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "currant",
+      "y": "apricot",
+      "value": 18
+    },
+    {
+      "x": "currant",
+      "y": "celery",
+      "value": 9
+    },
+    {
+      "x": "currant",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "cranberry",
+      "value": 26
+    },
+    {
+      "x": "currant",
+      "y": "rice",
+      "value": 12
+    },
+    {
+      "x": "currant",
+      "y": "brown_rice",
+      "value": 12
+    },
+    {
+      "x": "cranberry",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "cranberry",
+      "y": "cherry",
+      "value": 20
+    },
+    {
+      "x": "cranberry",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "cranberry",
+      "y": "parsley",
+      "value": 15
+    },
+    {
+      "x": "cranberry",
+      "y": "apricot",
+      "value": 44
+    },
+    {
+      "x": "cranberry",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "cranberry",
+      "y": "currant",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "rice",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "brown_rice",
+      "value": 37
+    },
+    {
+      "x": "rice",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "cherry",
+      "value": 7
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "apricot",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "currant",
+      "value": 12
+    },
+    {
+      "x": "rice",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "brown_rice",
+      "value": 74
+    },
+    {
+      "x": "brown_rice",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "brown_rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "brown_rice",
+      "y": "cherry",
+      "value": 7
+    },
+    {
+      "x": "brown_rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "brown_rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "brown_rice",
+      "y": "apricot",
+      "value": 20
+    },
+    {
+      "x": "brown_rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "brown_rice",
+      "y": "currant",
+      "value": 12
+    },
+    {
+      "x": "brown_rice",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "brown_rice",
+      "y": "rice",
+      "value": 74
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 32.09090909090909
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 29.09090909090909
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 24.90909090909091
+    },
+    {
+      "ingredient": "rice",
+      "mean": 24.545454545454547
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 23.818181818181817
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 23.727272727272727
+    },
+    {
+      "ingredient": "celery",
+      "mean": 16.454545454545453
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 12.454545454545455
+    },
+    {
+      "ingredient": "currant",
+      "mean": 12.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.818181818181818
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

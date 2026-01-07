@@ -1,0 +1,42 @@
+{
+  "id": 1442,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "red_bean"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_bean",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_bean",
+      "y": "red_bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "red_bean",
+      "mean": 0.0
+    }
+  ]
+}

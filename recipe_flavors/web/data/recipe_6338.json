@@ -1,0 +1,112 @@
+{
+  "id": 6338,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "egg",
+    "wheat",
+    "blackberry",
+    "wine"
+  ],
+  "score_avg": 10.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blackberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "blackberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "wine",
+      "value": 35
+    },
+    {
+      "x": "wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

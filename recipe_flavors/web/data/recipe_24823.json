@@ -1,0 +1,42 @@
+{
+  "id": 24823,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape_juice",
+    "fruit"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.0
+    }
+  ]
+}

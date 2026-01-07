@@ -1,0 +1,112 @@
+{
+  "id": 16320,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "celery",
+    "apple",
+    "cranberry"
+  ],
+  "score_avg": 44.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "orange",
+      "y": "apple",
+      "value": 67
+    },
+    {
+      "x": "orange",
+      "y": "cranberry",
+      "value": 55
+    },
+    {
+      "x": "celery",
+      "y": "orange",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "apple",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "cranberry",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "orange",
+      "value": 67
+    },
+    {
+      "x": "apple",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cranberry",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "orange",
+      "value": 55
+    },
+    {
+      "x": "cranberry",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "cranberry",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 51.333333333333336
+    },
+    {
+      "ingredient": "orange",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 47.333333333333336
+    },
+    {
+      "ingredient": "celery",
+      "mean": 28.0
+    }
+  ]
+}

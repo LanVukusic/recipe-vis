@@ -1,0 +1,162 @@
+{
+  "id": 13879,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "chicken_broth",
+    "rice",
+    "black_pepper",
+    "onion"
+  ],
+  "score_avg": 2.2,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

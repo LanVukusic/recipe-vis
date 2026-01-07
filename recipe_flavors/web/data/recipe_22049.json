@@ -1,0 +1,112 @@
+{
+  "id": 22049,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cayenne",
+    "cream_cheese",
+    "pork_sausage"
+  ],
+  "score_avg": 29.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "cream_cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.0
+    }
+  ]
+}

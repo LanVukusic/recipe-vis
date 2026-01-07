@@ -1,0 +1,162 @@
+{
+  "id": 11183,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "basil",
+    "fennel",
+    "grape_juice",
+    "olive_oil"
+  ],
+  "score_avg": 1.3,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "fennel",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fennel",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "basil",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 37423,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "vegetable",
+    "wheat",
+    "yeast"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

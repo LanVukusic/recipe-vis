@@ -1,0 +1,162 @@
+{
+  "id": 29948,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "bean",
+    "bacon",
+    "soy_sauce",
+    "mushroom"
+  ],
+  "score_avg": 15.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "bean",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    }
+  ]
+}

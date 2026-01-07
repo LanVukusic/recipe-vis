@@ -1,0 +1,792 @@
+{
+  "id": 8297,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "oatmeal",
+    "cocoa",
+    "milk_fat",
+    "mango",
+    "orange",
+    "lemongrass",
+    "cream",
+    "egg",
+    "milk",
+    "wine"
+  ],
+  "score_avg": 16.03030303030303,
+  "pair_coverage": 0.7575757575757576,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "oatmeal",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "mango",
+      "value": 52
+    },
+    {
+      "x": "butter",
+      "y": "orange",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "lemongrass",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oatmeal",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemongrass",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "oatmeal",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "oatmeal",
+      "y": "oatmeal",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "cocoa",
+      "value": 10
+    },
+    {
+      "x": "oatmeal",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "mango",
+      "value": 2
+    },
+    {
+      "x": "oatmeal",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "oatmeal",
+      "y": "lemongrass",
+      "value": 0
+    },
+    {
+      "x": "oatmeal",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "oatmeal",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "oatmeal",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "oatmeal",
+      "y": "wine",
+      "value": 3
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "oatmeal",
+      "value": 10
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "mango",
+      "value": 51
+    },
+    {
+      "x": "cocoa",
+      "y": "orange",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "lemongrass",
+      "value": 7
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "oatmeal",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "mango",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemongrass",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "butter",
+      "value": 52
+    },
+    {
+      "x": "mango",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "oatmeal",
+      "value": 2
+    },
+    {
+      "x": "mango",
+      "y": "cocoa",
+      "value": 51
+    },
+    {
+      "x": "mango",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "orange",
+      "value": 59
+    },
+    {
+      "x": "mango",
+      "y": "lemongrass",
+      "value": 6
+    },
+    {
+      "x": "mango",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "mango",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "wine",
+      "value": 53
+    },
+    {
+      "x": "orange",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "orange",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "oatmeal",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "orange",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "mango",
+      "value": 59
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "lemongrass",
+      "value": 12
+    },
+    {
+      "x": "orange",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "orange",
+      "y": "wine",
+      "value": 36
+    },
+    {
+      "x": "lemongrass",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "lemongrass",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemongrass",
+      "y": "oatmeal",
+      "value": 0
+    },
+    {
+      "x": "lemongrass",
+      "y": "cocoa",
+      "value": 7
+    },
+    {
+      "x": "lemongrass",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemongrass",
+      "y": "mango",
+      "value": 6
+    },
+    {
+      "x": "lemongrass",
+      "y": "orange",
+      "value": 12
+    },
+    {
+      "x": "lemongrass",
+      "y": "lemongrass",
+      "value": 0
+    },
+    {
+      "x": "lemongrass",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "lemongrass",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "lemongrass",
+      "y": "milk",
+      "value": 5
+    },
+    {
+      "x": "lemongrass",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "oatmeal",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mango",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "orange",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "lemongrass",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wine",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "oatmeal",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mango",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "lemongrass",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "oatmeal",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "lemongrass",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wine",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "butter",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "oatmeal",
+      "value": 3
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "mango",
+      "value": 53
+    },
+    {
+      "x": "wine",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "wine",
+      "y": "lemongrass",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 30.09090909090909
+    },
+    {
+      "ingredient": "milk",
+      "mean": 28.545454545454547
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 28.272727272727273
+    },
+    {
+      "ingredient": "mango",
+      "mean": 27.272727272727273
+    },
+    {
+      "ingredient": "wine",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 21.363636363636363
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.545454545454545
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.636363636363637
+    },
+    {
+      "ingredient": "lemongrass",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "oatmeal",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.5454545454545454
+    }
+  ]
+}

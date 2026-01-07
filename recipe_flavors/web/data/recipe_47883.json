@@ -1,0 +1,112 @@
+{
+  "id": 47883,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "papaya",
+    "banana",
+    "milk"
+  ],
+  "score_avg": 52.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "papaya",
+      "value": 71
+    },
+    {
+      "x": "strawberry",
+      "y": "banana",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "papaya",
+      "y": "strawberry",
+      "value": 71
+    },
+    {
+      "x": "papaya",
+      "y": "papaya",
+      "value": 0
+    },
+    {
+      "x": "papaya",
+      "y": "banana",
+      "value": 49
+    },
+    {
+      "x": "papaya",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "banana",
+      "y": "papaya",
+      "value": 49
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "papaya",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 64.0
+    },
+    {
+      "ingredient": "papaya",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 49.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 41.333333333333336
+    }
+  ]
+}

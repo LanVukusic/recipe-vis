@@ -1,0 +1,112 @@
+{
+  "id": 20838,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "black_pepper",
+    "chicken_broth",
+    "ham"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "black_pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "bean",
+      "value": 24
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

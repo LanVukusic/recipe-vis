@@ -1,0 +1,162 @@
+{
+  "id": 11802,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "cheddar_cheese",
+    "wheat",
+    "dill"
+  ],
+  "score_avg": 16.5,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "dill",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "dill",
+      "value": 10
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "dill",
+      "y": "cheddar_cheese",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "dill",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

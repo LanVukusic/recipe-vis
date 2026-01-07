@@ -1,0 +1,72 @@
+{
+  "id": 10244,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "rutabaga",
+    "sweet_potato"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "rutabaga",
+      "value": 6
+    },
+    {
+      "x": "bacon",
+      "y": "sweet_potato",
+      "value": 6
+    },
+    {
+      "x": "rutabaga",
+      "y": "bacon",
+      "value": 6
+    },
+    {
+      "x": "rutabaga",
+      "y": "rutabaga",
+      "value": 0
+    },
+    {
+      "x": "rutabaga",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "bacon",
+      "value": 6
+    },
+    {
+      "x": "sweet_potato",
+      "y": "rutabaga",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "rutabaga",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 3.0
+    }
+  ]
+}

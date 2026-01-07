@@ -1,0 +1,162 @@
+{
+  "id": 15033,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "macaroni",
+    "onion",
+    "beef",
+    "mushroom"
+  ],
+  "score_avg": 25.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 32.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.0
+    }
+  ]
+}

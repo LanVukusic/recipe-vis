@@ -1,0 +1,72 @@
+{
+  "id": 15410,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "egg"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.0
+    }
+  ]
+}

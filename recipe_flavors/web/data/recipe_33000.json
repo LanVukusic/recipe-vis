@@ -1,0 +1,292 @@
+{
+  "id": 33000,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "apple",
+    "yeast",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "peanut_butter"
+  ],
+  "score_avg": 23.523809523809526,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cheddar_cheese",
+      "value": 79
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "milk",
+      "value": 53
+    },
+    {
+      "x": "apple",
+      "y": "peanut_butter",
+      "value": 46
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "apple",
+      "value": 79
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "peanut_butter",
+      "value": 64
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "apple",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "apple",
+      "value": 46
+    },
+    {
+      "x": "peanut_butter",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cheddar_cheese",
+      "value": 64
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 36.833333333333336
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "apple",
+      "mean": 32.166666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.1666666666666667
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

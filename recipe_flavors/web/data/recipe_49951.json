@@ -1,0 +1,292 @@
+{
+  "id": 49951,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "olive_oil",
+    "orange",
+    "orange_juice",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 14.714285714285714,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "orange",
+      "value": 39
+    },
+    {
+      "x": "cheese",
+      "y": "orange_juice",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "cheese",
+      "value": 39
+    },
+    {
+      "x": "orange",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "orange_juice",
+      "value": 54
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "milk",
+      "value": 36
+    },
+    {
+      "x": "orange_juice",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange",
+      "value": 54
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "milk",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "milk",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "orange",
+      "mean": 24.166666666666668
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

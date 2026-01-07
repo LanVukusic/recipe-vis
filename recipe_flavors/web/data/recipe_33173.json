@@ -1,0 +1,72 @@
+{
+  "id": 33173,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "fruit",
+    "cranberry"
+  ],
+  "score_avg": 24.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "orange",
+      "y": "cranberry",
+      "value": 55
+    },
+    {
+      "x": "fruit",
+      "y": "orange",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cranberry",
+      "value": 9
+    },
+    {
+      "x": "cranberry",
+      "y": "orange",
+      "value": 55
+    },
+    {
+      "x": "cranberry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 9.0
+    }
+  ]
+}

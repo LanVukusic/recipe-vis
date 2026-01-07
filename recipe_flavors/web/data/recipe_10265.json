@@ -1,0 +1,292 @@
+{
+  "id": 10265,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "potato",
+    "bacon",
+    "black_pepper",
+    "milk",
+    "milk_fat",
+    "cream"
+  ],
+  "score_avg": 19.285714285714285,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "potato",
+      "y": "cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "potato",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "cream",
+      "value": 14
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk_fat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 29.833333333333332
+    },
+    {
+      "ingredient": "potato",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.8333333333333335
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

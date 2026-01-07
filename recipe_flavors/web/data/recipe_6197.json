@@ -1,0 +1,112 @@
+{
+  "id": 6197,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "lime_juice",
+    "black_pepper",
+    "onion",
+    "beef"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    }
+  ]
+}

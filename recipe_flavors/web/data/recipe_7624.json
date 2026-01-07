@@ -1,0 +1,112 @@
+{
+  "id": 7624,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "cherry",
+    "cardamom",
+    "cranberry"
+  ],
+  "score_avg": 9.166666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cardamom",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "cranberry",
+      "value": 20
+    },
+    {
+      "x": "cardamom",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "cranberry",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "cherry",
+      "value": 20
+    },
+    {
+      "x": "cranberry",
+      "y": "cardamom",
+      "value": 26
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

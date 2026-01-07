@@ -1,0 +1,162 @@
+{
+  "id": 9676,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "cheese",
+    "artichoke",
+    "mushroom",
+    "bread"
+  ],
+  "score_avg": 12.8,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "artichoke",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "mushroom",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "artichoke",
+      "value": 3
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 20.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

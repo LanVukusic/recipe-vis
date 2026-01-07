@@ -1,0 +1,162 @@
+{
+  "id": 41874,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pork",
+    "wheat",
+    "bean",
+    "potato"
+  ],
+  "score_avg": 27.5,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "potato",
+      "value": 54
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "pork",
+      "value": 42
+    },
+    {
+      "x": "bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "potato",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "potato",
+      "y": "pork",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 37.75
+    },
+    {
+      "ingredient": "pork",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

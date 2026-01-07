@@ -1,0 +1,112 @@
+{
+  "id": 4236,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "avocado",
+    "tequila",
+    "lime_juice",
+    "cilantro"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "tequila",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "avocado",
+      "value": 3
+    },
+    {
+      "x": "cilantro",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "avocado",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

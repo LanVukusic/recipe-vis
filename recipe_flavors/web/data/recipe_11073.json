@@ -1,0 +1,162 @@
+{
+  "id": 11073,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "olive_oil",
+    "bacon",
+    "rosemary",
+    "potato"
+  ],
+  "score_avg": 7.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    }
+  ]
+}

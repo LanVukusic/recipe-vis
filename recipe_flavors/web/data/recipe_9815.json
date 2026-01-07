@@ -1,0 +1,162 @@
+{
+  "id": 9815,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk_fat",
+    "fennel",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 6.7,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.0
+    }
+  ]
+}

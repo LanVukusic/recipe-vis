@@ -1,0 +1,72 @@
+{
+  "id": 40099,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "banana",
+    "cream"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

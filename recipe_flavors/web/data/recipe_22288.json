@@ -1,0 +1,112 @@
+{
+  "id": 22288,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "onion",
+    "cream_cheese",
+    "cottage_cheese"
+  ],
+  "score_avg": 38.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "yogurt",
+      "y": "cream_cheese",
+      "value": 26
+    },
+    {
+      "x": "yogurt",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "onion",
+      "y": "yogurt",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "cottage_cheese",
+      "value": 18
+    },
+    {
+      "x": "cream_cheese",
+      "y": "yogurt",
+      "value": 26
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cottage_cheese",
+      "value": 130
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "yogurt",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 58.333333333333336
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 57.666666666666664
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.0
+    }
+  ]
+}

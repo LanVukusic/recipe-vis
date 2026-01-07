@@ -1,0 +1,72 @@
+{
+  "id": 14052,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "banana",
+    "cream"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "banana",
+      "value": 23
+    },
+    {
+      "x": "coconut",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "banana",
+      "y": "coconut",
+      "value": 23
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "coconut",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.5
+    }
+  ]
+}

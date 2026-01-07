@@ -1,0 +1,112 @@
+{
+  "id": 26866,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "wheat",
+    "egg",
+    "mushroom"
+  ],
+  "score_avg": 5.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

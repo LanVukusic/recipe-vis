@@ -1,0 +1,112 @@
+{
+  "id": 31059,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "orange_juice",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 2.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

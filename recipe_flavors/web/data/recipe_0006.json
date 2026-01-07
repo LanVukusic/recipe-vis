@@ -1,0 +1,42 @@
+{
+  "id": 6,
+  "cuisine": "African",
+  "ingredients": [
+    "wheat",
+    "cassava"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cassava",
+      "value": 0
+    },
+    {
+      "x": "cassava",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cassava",
+      "y": "cassava",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "cassava",
+      "mean": 0.0
+    }
+  ]
+}

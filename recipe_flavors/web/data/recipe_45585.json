@@ -1,0 +1,72 @@
+{
+  "id": 45585,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "orange_juice",
+    "white_wine"
+  ],
+  "score_avg": 47.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "orange_juice",
+      "value": 23
+    },
+    {
+      "x": "strawberry",
+      "y": "white_wine",
+      "value": 99
+    },
+    {
+      "x": "orange_juice",
+      "y": "strawberry",
+      "value": 23
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "white_wine",
+      "value": 20
+    },
+    {
+      "x": "white_wine",
+      "y": "strawberry",
+      "value": 99
+    },
+    {
+      "x": "white_wine",
+      "y": "orange_juice",
+      "value": 20
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 61.0
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 21.5
+    }
+  ]
+}

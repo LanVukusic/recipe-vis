@@ -1,0 +1,162 @@
+{
+  "id": 34589,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "pecan",
+    "apple",
+    "cream_cheese",
+    "egg"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "pecan",
+      "y": "cream_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "apple",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "pecan",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cream_cheese",
+      "value": 73
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "apple",
+      "value": 73
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "apple",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

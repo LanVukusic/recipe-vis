@@ -1,0 +1,112 @@
+{
+  "id": 37864,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "bread",
+    "egg",
+    "potato"
+  ],
+  "score_avg": 11.833333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

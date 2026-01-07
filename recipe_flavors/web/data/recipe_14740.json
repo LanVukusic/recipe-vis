@@ -1,0 +1,112 @@
+{
+  "id": 14740,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "egg",
+    "starch"
+  ],
+  "score_avg": 9.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

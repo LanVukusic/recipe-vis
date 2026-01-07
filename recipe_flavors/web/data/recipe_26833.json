@@ -1,0 +1,162 @@
+{
+  "id": 26833,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "lemon_juice",
+    "milk",
+    "peach",
+    "cream"
+  ],
+  "score_avg": 10.3,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peach",
+      "value": 29
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "peach",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "milk",
+      "value": 29
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "peach",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

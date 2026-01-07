@@ -1,0 +1,162 @@
+{
+  "id": 42518,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "vanilla",
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 19.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

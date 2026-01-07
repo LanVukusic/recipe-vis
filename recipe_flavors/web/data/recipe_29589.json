@@ -1,0 +1,42 @@
+{
+  "id": 29589,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "rum"
+  ],
+  "score_avg": 103.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "rum",
+      "value": 103
+    },
+    {
+      "x": "rum",
+      "y": "beer",
+      "value": 103
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 103.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 103.0
+    }
+  ]
+}

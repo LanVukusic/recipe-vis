@@ -1,0 +1,112 @@
+{
+  "id": 13553,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "apple",
+    "peach",
+    "lime"
+  ],
+  "score_avg": 36.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "lemon",
+      "y": "peach",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "apple",
+      "y": "lemon",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "peach",
+      "value": 47
+    },
+    {
+      "x": "apple",
+      "y": "lime",
+      "value": 34
+    },
+    {
+      "x": "peach",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "peach",
+      "y": "apple",
+      "value": 47
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "lime",
+      "value": 19
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "apple",
+      "value": 34
+    },
+    {
+      "x": "lime",
+      "y": "peach",
+      "value": 19
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 40.333333333333336
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 39.333333333333336
+    },
+    {
+      "ingredient": "lime",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 28.666666666666668
+    }
+  ]
+}

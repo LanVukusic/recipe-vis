@@ -1,0 +1,162 @@
+{
+  "id": 14411,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "corn",
+    "pecan",
+    "cream"
+  ],
+  "score_avg": 13.6,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "pecan",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "corn",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

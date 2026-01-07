@@ -1,0 +1,112 @@
+{
+  "id": 32402,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cane_molasses",
+    "lime_juice",
+    "lime"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "cane_molasses",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "honey",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

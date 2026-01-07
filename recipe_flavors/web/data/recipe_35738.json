@@ -1,0 +1,162 @@
+{
+  "id": 35738,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "soy_sauce",
+    "black_pepper",
+    "roasted_beef",
+    "beef"
+  ],
+  "score_avg": 27.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "roasted_beef",
+      "value": 32
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "roasted_beef",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "roasted_beef",
+      "y": "onion",
+      "value": 32
+    },
+    {
+      "x": "roasted_beef",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "roasted_beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "beef",
+      "value": 199
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "roasted_beef",
+      "value": 199
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "beef",
+      "mean": 58.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.75
+    }
+  ]
+}

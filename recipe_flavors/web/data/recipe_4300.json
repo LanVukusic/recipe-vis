@@ -1,0 +1,162 @@
+{
+  "id": 4300,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "feta_cheese",
+    "lime_juice",
+    "garlic",
+    "avocado"
+  ],
+  "score_avg": 9.9,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "avocado",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "lime_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "avocado",
+      "y": "feta_cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    }
+  ]
+}

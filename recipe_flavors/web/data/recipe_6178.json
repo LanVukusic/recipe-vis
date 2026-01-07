@@ -1,0 +1,112 @@
+{
+  "id": 6178,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "butter",
+    "roasted_sesame_seed",
+    "vanilla",
+    "wheat"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "roasted_sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "roasted_sesame_seed",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

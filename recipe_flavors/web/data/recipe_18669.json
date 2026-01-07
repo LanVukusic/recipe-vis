@@ -1,0 +1,292 @@
+{
+  "id": 18669,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "sesame_oil",
+    "soy_sauce",
+    "vegetable_oil",
+    "nut",
+    "chicken",
+    "scallion"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.23809523809523808,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 2.1666666666666665
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.1666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

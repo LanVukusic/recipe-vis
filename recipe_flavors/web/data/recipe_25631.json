@@ -1,0 +1,162 @@
+{
+  "id": 25631,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "wheat",
+    "cinnamon",
+    "sour_milk",
+    "walnut"
+  ],
+  "score_avg": 0.4,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "sour_milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "sour_milk",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "sour_milk",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "walnut",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "sour_milk",
+      "mean": 0.0
+    }
+  ]
+}

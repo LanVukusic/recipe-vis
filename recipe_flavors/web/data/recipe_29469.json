@@ -1,0 +1,112 @@
+{
+  "id": 29469,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "coffee",
+    "wheat",
+    "egg"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "coffee",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "egg",
+      "value": 37
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "coffee",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

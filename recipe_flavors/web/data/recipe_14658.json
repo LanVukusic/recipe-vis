@@ -1,0 +1,72 @@
+{
+  "id": 14658,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "coconut",
+    "pineapple"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "coconut",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 20080,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "green_bell_pepper",
+    "wheat",
+    "onion",
+    "chicken",
+    "smoked_sausage",
+    "shrimp"
+  ],
+  "score_avg": 14.571428571428571,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "smoked_sausage",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "smoked_sausage",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "smoked_sausage",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "smoked_sausage",
+      "value": 44
+    },
+    {
+      "x": "chicken",
+      "y": "shrimp",
+      "value": 43
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "chicken",
+      "value": 44
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "shrimp",
+      "value": 23
+    },
+    {
+      "x": "shrimp",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "shrimp",
+      "y": "smoked_sausage",
+      "value": 23
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 17.833333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

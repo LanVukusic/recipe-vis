@@ -1,0 +1,72 @@
+{
+  "id": 45118,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "bean",
+    "beef"
+  ],
+  "score_avg": 57.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "bean",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 62.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "bean",
+      "mean": 50.0
+    }
+  ]
+}

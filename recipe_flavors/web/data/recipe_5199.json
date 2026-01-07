@@ -1,0 +1,792 @@
+{
+  "id": 5199,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheese",
+    "pork",
+    "cider",
+    "black_pepper",
+    "garlic",
+    "oregano",
+    "bread",
+    "tomato",
+    "vinegar",
+    "beef",
+    "onion",
+    "avocado"
+  ],
+  "score_avg": 15.742424242424242,
+  "pair_coverage": 0.8181818181818182,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pork",
+      "value": 57
+    },
+    {
+      "x": "cheese",
+      "y": "cider",
+      "value": 37
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "pork",
+      "y": "cheese",
+      "value": 57
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cider",
+      "value": 13
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "beef",
+      "value": 97
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "avocado",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "cheese",
+      "value": 37
+    },
+    {
+      "x": "cider",
+      "y": "pork",
+      "value": 13
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cider",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "bread",
+      "value": 16
+    },
+    {
+      "x": "cider",
+      "y": "tomato",
+      "value": 36
+    },
+    {
+      "x": "cider",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "beef",
+      "value": 23
+    },
+    {
+      "x": "cider",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "cider",
+      "y": "avocado",
+      "value": 11
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cider",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "avocado",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cider",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "oregano",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "pork",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cider",
+      "value": 16
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "avocado",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "cider",
+      "value": 36
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "avocado",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "cheese",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "cider",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "avocado",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "beef",
+      "y": "cider",
+      "value": 23
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "avocado",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cider",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "avocado",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "avocado",
+      "y": "cider",
+      "value": 11
+    },
+    {
+      "x": "avocado",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "avocado",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "avocado",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "avocado",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "avocado",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "avocado",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 28.727272727272727
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 28.272727272727273
+    },
+    {
+      "ingredient": "pork",
+      "mean": 27.09090909090909
+    },
+    {
+      "ingredient": "bread",
+      "mean": 17.181818181818183
+    },
+    {
+      "ingredient": "cider",
+      "mean": 14.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.454545454545455
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 9.818181818181818
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 9.636363636363637
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.727272727272727
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

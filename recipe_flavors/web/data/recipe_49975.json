@@ -1,0 +1,162 @@
+{
+  "id": 49975,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "cabbage",
+    "vinegar",
+    "onion",
+    "wine"
+  ],
+  "score_avg": 8.3,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "cabbage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cabbage",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wine",
+      "value": 15
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "cabbage",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 6644,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "sumac",
+    "sesame_seed",
+    "thyme"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "sumac",
+      "y": "sumac",
+      "value": 0
+    },
+    {
+      "x": "sumac",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sumac",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sumac",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "thyme",
+      "value": 1
+    },
+    {
+      "x": "thyme",
+      "y": "sumac",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sesame_seed",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "sumac",
+      "mean": 0.0
+    }
+  ]
+}

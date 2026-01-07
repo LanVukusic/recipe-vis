@@ -1,0 +1,72 @@
+{
+  "id": 18302,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream_cheese",
+    "crab",
+    "bread"
+  ],
+  "score_avg": 23.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "crab",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "bread",
+      "value": 8
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "crab",
+      "value": 8
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "crab",
+      "mean": 15.5
+    }
+  ]
+}

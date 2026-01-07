@@ -1,0 +1,112 @@
+{
+  "id": 20158,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "provolone_cheese",
+    "butter",
+    "chicken",
+    "white_wine"
+  ],
+  "score_avg": 64.66666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "provolone_cheese",
+      "y": "provolone_cheese",
+      "value": 0
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "white_wine",
+      "value": 83
+    },
+    {
+      "x": "butter",
+      "y": "provolone_cheese",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "white_wine",
+      "value": 69
+    },
+    {
+      "x": "chicken",
+      "y": "provolone_cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "provolone_cheese",
+      "value": 83
+    },
+    {
+      "x": "white_wine",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "provolone_cheese",
+      "mean": 68.66666666666667
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 67.33333333333333
+    },
+    {
+      "ingredient": "butter",
+      "mean": 65.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 57.666666666666664
+    }
+  ]
+}

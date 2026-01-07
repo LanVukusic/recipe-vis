@@ -1,0 +1,72 @@
+{
+  "id": 48774,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "buttermilk",
+    "milk",
+    "vegetable_oil"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 47584,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "apple",
+    "cinnamon",
+    "ginger",
+    "rum"
+  ],
+  "score_avg": 20.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "rum",
+      "value": 86
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "rum",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "rum",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "apple",
+      "value": 86
+    },
+    {
+      "x": "rum",
+      "y": "cinnamon",
+      "value": 11
+    },
+    {
+      "x": "rum",
+      "y": "ginger",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "rum",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.75
+    }
+  ]
+}

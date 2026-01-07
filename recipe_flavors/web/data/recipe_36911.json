@@ -1,0 +1,72 @@
+{
+  "id": 36911,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "apricot",
+    "bean"
+  ],
+  "score_avg": 35.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "apricot",
+      "value": 36
+    },
+    {
+      "x": "butter",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "apricot",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "bean",
+      "value": 27
+    },
+    {
+      "x": "bean",
+      "y": "butter",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "apricot",
+      "value": 27
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 39.5
+    },
+    {
+      "ingredient": "bean",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 31.5
+    }
+  ]
+}

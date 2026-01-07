@@ -1,0 +1,292 @@
+{
+  "id": 40133,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vegetable",
+    "bacon",
+    "black_pepper",
+    "parsley",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 6.904761904761905,
+  "pair_coverage": 0.47619047619047616,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 15.166666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

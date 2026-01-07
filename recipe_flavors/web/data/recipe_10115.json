@@ -1,0 +1,72 @@
+{
+  "id": 10115,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "potato"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

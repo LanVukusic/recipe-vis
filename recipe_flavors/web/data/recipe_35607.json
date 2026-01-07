@@ -1,0 +1,162 @@
+{
+  "id": 35607,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "corn_flake",
+    "wheat_bread",
+    "peanut_butter"
+  ],
+  "score_avg": 9.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "wheat_bread",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "wheat_bread",
+      "value": 1
+    },
+    {
+      "x": "corn_flake",
+      "y": "peanut_butter",
+      "value": 2
+    },
+    {
+      "x": "wheat_bread",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "wheat_bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "corn_flake",
+      "value": 1
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "peanut_butter",
+      "value": 56
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn_flake",
+      "value": 2
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat_bread",
+      "value": 56
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "wheat_bread",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "honey",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

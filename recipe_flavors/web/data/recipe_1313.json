@@ -1,0 +1,222 @@
+{
+  "id": 1313,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "seaweed",
+    "vegetable",
+    "vegetable_oil",
+    "fish",
+    "egg"
+  ],
+  "score_avg": 1.2,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "fish",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fish",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "egg",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "seaweed",
+      "mean": 0.0
+    }
+  ]
+}

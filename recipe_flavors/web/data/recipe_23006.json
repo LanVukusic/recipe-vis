@@ -1,0 +1,112 @@
+{
+  "id": 23006,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "black_pepper",
+    "garlic",
+    "beef"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

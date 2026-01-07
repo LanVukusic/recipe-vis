@@ -1,0 +1,112 @@
+{
+  "id": 21844,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cocoa",
+    "white_bread",
+    "peanut_butter"
+  ],
+  "score_avg": 50.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "white_bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "cocoa",
+      "value": 37
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "peanut_butter",
+      "value": 37
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 61.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 55.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 50.666666666666664
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 34.666666666666664
+    }
+  ]
+}

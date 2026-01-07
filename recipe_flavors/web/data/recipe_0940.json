@@ -1,0 +1,112 @@
+{
+  "id": 940,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vanilla",
+    "rice",
+    "coconut",
+    "starch"
+  ],
+  "score_avg": 8.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "rice",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "vanilla",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "vanilla",
+      "value": 18
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "coconut",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

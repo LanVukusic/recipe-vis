@@ -1,0 +1,162 @@
+{
+  "id": 12191,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "cottage_cheese"
+  ],
+  "score_avg": 51.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "corn",
+      "y": "cottage_cheese",
+      "value": 46
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "corn",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cottage_cheese",
+      "value": 131
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cottage_cheese",
+      "value": 68
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "corn",
+      "value": 46
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cheddar_cheese",
+      "value": 131
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 71.5
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 68.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 54.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 27.25
+    }
+  ]
+}

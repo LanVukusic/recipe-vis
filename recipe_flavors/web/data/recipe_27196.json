@@ -1,0 +1,42 @@
+{
+  "id": 27196,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "potato_chip",
+    "scallop"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "scallop",
+      "value": 6
+    },
+    {
+      "x": "scallop",
+      "y": "potato_chip",
+      "value": 6
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato_chip",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 6.0
+    }
+  ]
+}

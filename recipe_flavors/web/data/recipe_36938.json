@@ -1,0 +1,72 @@
+{
+  "id": 36938,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beef",
+    "mustard",
+    "onion"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mustard",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "mustard",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 8.0
+    }
+  ]
+}

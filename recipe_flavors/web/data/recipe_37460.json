@@ -1,0 +1,162 @@
+{
+  "id": 37460,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "mint",
+    "bell_pepper",
+    "onion",
+    "pea"
+  ],
+  "score_avg": 5.7,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "bell_pepper",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "pea",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pea",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "pea",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "mint",
+      "value": 7
+    },
+    {
+      "x": "pea",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "pea",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "mint",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 41632,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "orange_juice",
+    "carrot"
+  ],
+  "score_avg": 7.166666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "orange_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "orange_juice",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

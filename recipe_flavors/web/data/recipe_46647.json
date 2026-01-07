@@ -1,0 +1,162 @@
+{
+  "id": 46647,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "chicken",
+    "garlic",
+    "scallion"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.25
+    }
+  ]
+}

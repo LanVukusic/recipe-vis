@@ -1,0 +1,72 @@
+{
+  "id": 25654,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "pepper",
+    "bacon"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "asparagus",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    }
+  ]
+}

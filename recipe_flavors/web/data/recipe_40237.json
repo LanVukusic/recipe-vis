@@ -1,0 +1,162 @@
+{
+  "id": 40237,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "bean",
+    "garlic",
+    "bell_pepper",
+    "dill"
+  ],
+  "score_avg": 7.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "bean",
+      "y": "dill",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bean",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "dill",
+      "value": 15
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "bean",
+      "value": 16
+    },
+    {
+      "x": "dill",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "dill",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    }
+  ]
+}

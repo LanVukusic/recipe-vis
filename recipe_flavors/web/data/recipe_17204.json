@@ -1,0 +1,72 @@
+{
+  "id": 17204,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pecan",
+    "apple",
+    "bread"
+  ],
+  "score_avg": 25.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "pecan",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "apple",
+      "y": "pecan",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 22.5
+    }
+  ]
+}

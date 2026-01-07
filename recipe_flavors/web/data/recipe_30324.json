@@ -1,0 +1,292 @@
+{
+  "id": 30324,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pea",
+    "starch",
+    "soy_sauce",
+    "scallion",
+    "chicken",
+    "shrimp"
+  ],
+  "score_avg": 9.904761904761905,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pea",
+      "value": 38
+    },
+    {
+      "x": "tomato",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "pea",
+      "y": "tomato",
+      "value": 38
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "chicken",
+      "value": 32
+    },
+    {
+      "x": "pea",
+      "y": "shrimp",
+      "value": 14
+    },
+    {
+      "x": "starch",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "pea",
+      "value": 32
+    },
+    {
+      "x": "chicken",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "shrimp",
+      "value": 43
+    },
+    {
+      "x": "shrimp",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "pea",
+      "value": 14
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 15.166666666666666
+    },
+    {
+      "ingredient": "pea",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

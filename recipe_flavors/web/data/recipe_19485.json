@@ -1,0 +1,162 @@
+{
+  "id": 19485,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "garlic",
+    "black_pepper",
+    "tomato",
+    "rosemary"
+  ],
+  "score_avg": 6.7,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "lamb",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "tomato",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "lamb",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    }
+  ]
+}

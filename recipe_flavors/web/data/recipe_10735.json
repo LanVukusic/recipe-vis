@@ -1,0 +1,112 @@
+{
+  "id": 10735,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "white_bread",
+    "bacon",
+    "mushroom",
+    "swiss_cheese"
+  ],
+  "score_avg": 45.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "white_bread",
+      "y": "mushroom",
+      "value": 28
+    },
+    {
+      "x": "white_bread",
+      "y": "swiss_cheese",
+      "value": 41
+    },
+    {
+      "x": "bacon",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "swiss_cheese",
+      "value": 62
+    },
+    {
+      "x": "mushroom",
+      "y": "white_bread",
+      "value": 28
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "white_bread",
+      "value": 41
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bacon",
+      "value": 62
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 53.333333333333336
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 48.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 35.333333333333336
+    }
+  ]
+}

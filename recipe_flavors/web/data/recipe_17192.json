@@ -1,0 +1,112 @@
+{
+  "id": 17192,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "wheat",
+    "milk",
+    "cheese"
+  ],
+  "score_avg": 21.166666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

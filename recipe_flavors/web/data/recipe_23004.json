@@ -1,0 +1,562 @@
+{
+  "id": 23004,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "onion",
+    "fish",
+    "black_pepper",
+    "parsley",
+    "parmesan_cheese",
+    "white_wine",
+    "macaroni",
+    "smoked_salmon",
+    "cream"
+  ],
+  "score_avg": 11.688888888888888,
+  "pair_coverage": 0.7111111111111111,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "smoked_salmon",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "smoked_salmon",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "fish",
+      "y": "white_wine",
+      "value": 31
+    },
+    {
+      "x": "fish",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "smoked_salmon",
+      "value": 64
+    },
+    {
+      "x": "fish",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "smoked_salmon",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "fish",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "white_wine",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "smoked_salmon",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "fish",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "white_wine",
+      "value": 98
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "smoked_salmon",
+      "value": 48
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "fish",
+      "value": 31
+    },
+    {
+      "x": "white_wine",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "white_wine",
+      "y": "parmesan_cheese",
+      "value": 98
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "smoked_salmon",
+      "value": 38
+    },
+    {
+      "x": "white_wine",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "smoked_salmon",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "fish",
+      "value": 64
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "parmesan_cheese",
+      "value": 48
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "white_wine",
+      "value": 38
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "smoked_salmon",
+      "value": 0
+    },
+    {
+      "x": "smoked_salmon",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "white_wine",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "smoked_salmon",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 27.88888888888889
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "smoked_salmon",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "fish",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.555555555555555
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.111111111111111
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.7777777777777777
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5555555555555556
+    }
+  ]
+}

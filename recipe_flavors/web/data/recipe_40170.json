@@ -1,0 +1,112 @@
+{
+  "id": 40170,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bread",
+    "mustard",
+    "ham"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "mustard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bread",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "ham",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

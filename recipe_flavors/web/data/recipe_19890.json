@@ -1,0 +1,112 @@
+{
+  "id": 19890,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "rice",
+    "lemon"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 31561,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "vegetable_oil",
+    "soy_sauce",
+    "garlic",
+    "egg"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

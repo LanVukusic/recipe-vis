@@ -1,0 +1,112 @@
+{
+  "id": 16788,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "corn",
+    "bean",
+    "beef"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "beef",
+      "value": 51
+    },
+    {
+      "x": "bean",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "beef",
+      "y": "bean",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

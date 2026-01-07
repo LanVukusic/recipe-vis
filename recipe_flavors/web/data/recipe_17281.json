@@ -1,0 +1,72 @@
+{
+  "id": 17281,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "nutmeg",
+    "cider"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cider",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nutmeg",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cider",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

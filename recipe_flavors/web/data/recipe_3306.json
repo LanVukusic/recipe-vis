@@ -1,0 +1,792 @@
+{
+  "id": 3306,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "lamb",
+    "olive_oil",
+    "cilantro",
+    "smoke",
+    "onion",
+    "black_pepper",
+    "cayenne",
+    "cumin",
+    "seed",
+    "pecan",
+    "oregano",
+    "garlic"
+  ],
+  "score_avg": 2.6363636363636362,
+  "pair_coverage": 0.4090909090909091,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "cayenne",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "lamb",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cilantro",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "cayenne",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "pecan",
+      "value": 4
+    },
+    {
+      "x": "cumin",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cilantro",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "pecan",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "oregano",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "lamb",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "cumin",
+      "value": 4
+    },
+    {
+      "x": "pecan",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "oregano",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "oregano",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pecan",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 4.7272727272727275
+    },
+    {
+      "ingredient": "onion",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.0
+    }
+  ]
+}

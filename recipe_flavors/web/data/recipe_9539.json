@@ -1,0 +1,42 @@
+{
+  "id": 9539,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "sour_cherry"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 0.0
+    }
+  ]
+}

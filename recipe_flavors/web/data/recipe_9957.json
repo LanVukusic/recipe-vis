@@ -1,0 +1,72 @@
+{
+  "id": 9957,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "lime_juice",
+    "tarragon"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "melon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 42296,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "parmesan_cheese",
+    "soybean"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "soybean",
+      "value": 76
+    },
+    {
+      "x": "soybean",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "parmesan_cheese",
+      "value": 76
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

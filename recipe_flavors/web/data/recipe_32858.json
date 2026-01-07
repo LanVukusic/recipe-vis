@@ -1,0 +1,72 @@
+{
+  "id": 32858,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "corn",
+    "almond"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "corn",
+      "y": "cocoa",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "corn",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 5.5
+    }
+  ]
+}

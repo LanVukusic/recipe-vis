@@ -1,0 +1,162 @@
+{
+  "id": 47145,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "raisin",
+    "egg",
+    "cinnamon",
+    "apple"
+  ],
+  "score_avg": 5.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

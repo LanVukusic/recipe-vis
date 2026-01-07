@@ -1,0 +1,112 @@
+{
+  "id": 43954,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "cheese",
+    "chicken",
+    "milk"
+  ],
+  "score_avg": 31.666666666666668,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 42.666666666666664
+    },
+    {
+      "ingredient": "milk",
+      "mean": 42.666666666666664
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

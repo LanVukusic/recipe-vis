@@ -1,0 +1,72 @@
+{
+  "id": 9966,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "garlic",
+    "beef"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

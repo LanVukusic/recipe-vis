@@ -1,0 +1,112 @@
+{
+  "id": 3512,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "cashew",
+    "wheat",
+    "starch"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cashew",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cashew",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "cashew",
+      "y": "cashew",
+      "value": 0
+    },
+    {
+      "x": "cashew",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "cashew",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cashew",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cashew",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cashew",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 40626,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "beef",
+    "yeast",
+    "mozzarella_cheese",
+    "cheddar_cheese",
+    "parmesan_cheese"
+  ],
+  "score_avg": 43.6,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mozzarella_cheese",
+      "value": 74
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "parmesan_cheese",
+      "value": 93
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "beef",
+      "value": 74
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cheddar_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "parmesan_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "beef",
+      "value": 93
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheddar_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 71.6
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 70.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 65.8
+    },
+    {
+      "ingredient": "beef",
+      "mean": 51.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.8
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

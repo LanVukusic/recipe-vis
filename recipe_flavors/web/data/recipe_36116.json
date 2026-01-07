@@ -1,0 +1,112 @@
+{
+  "id": 36116,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "black_pepper",
+    "onion",
+    "dill"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

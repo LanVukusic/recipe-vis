@@ -1,0 +1,72 @@
+{
+  "id": 42827,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cherry",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 3.0
+    }
+  ]
+}

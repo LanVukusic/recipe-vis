@@ -1,0 +1,112 @@
+{
+  "id": 35568,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "squash",
+    "port_wine",
+    "cranberry"
+  ],
+  "score_avg": 6.833333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "port_wine",
+      "value": 2
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "port_wine",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "cane_molasses",
+      "value": 2
+    },
+    {
+      "x": "port_wine",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "port_wine",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "cranberry",
+      "value": 39
+    },
+    {
+      "x": "cranberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "port_wine",
+      "value": 39
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "port_wine",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

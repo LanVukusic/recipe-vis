@@ -1,0 +1,42 @@
+{
+  "id": 7711,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "endive"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "endive",
+      "value": 15
+    },
+    {
+      "x": "endive",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "endive",
+      "y": "endive",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "endive",
+      "mean": 15.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 44060,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "vanilla",
+    "egg",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 11.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "vanilla",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 20.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 13.25
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

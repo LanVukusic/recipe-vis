@@ -1,0 +1,112 @@
+{
+  "id": 38192,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "ham",
+    "ginger",
+    "mustard"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "ham",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "mustard",
+      "value": 11
+    },
+    {
+      "x": "ham",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "ham",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mustard",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "orange",
+      "value": 11
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "ginger",
+      "value": 10
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "ham",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 8.666666666666666
+    }
+  ]
+}

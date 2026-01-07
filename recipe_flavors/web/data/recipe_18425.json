@@ -1,0 +1,112 @@
+{
+  "id": 18425,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "vanilla",
+    "egg",
+    "starch"
+  ],
+  "score_avg": 3.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

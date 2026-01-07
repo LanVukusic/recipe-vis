@@ -1,0 +1,372 @@
+{
+  "id": 10718,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "mint",
+    "plum",
+    "vegetable_oil",
+    "egg",
+    "spearmint",
+    "cream"
+  ],
+  "score_avg": 2.9285714285714284,
+  "pair_coverage": 0.5357142857142857,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "spearmint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "spearmint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "plum",
+      "value": 12
+    },
+    {
+      "x": "mint",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mint",
+      "y": "spearmint",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "plum",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "plum",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "plum",
+      "y": "spearmint",
+      "value": 12
+    },
+    {
+      "x": "plum",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "plum",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "spearmint",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mint",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "plum",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "spearmint",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "spearmint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "spearmint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "spearmint",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "spearmint",
+      "y": "plum",
+      "value": 12
+    },
+    {
+      "x": "spearmint",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "spearmint",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "spearmint",
+      "y": "spearmint",
+      "value": 0
+    },
+    {
+      "x": "spearmint",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "plum",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "spearmint",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "plum",
+      "mean": 5.428571428571429
+    },
+    {
+      "ingredient": "spearmint",
+      "mean": 5.142857142857143
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.857142857142857
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.571428571428571
+    },
+    {
+      "ingredient": "cream",
+      "mean": 2.7142857142857144
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.42857142857142855
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.14285714285714285
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.14285714285714285
+    }
+  ]
+}

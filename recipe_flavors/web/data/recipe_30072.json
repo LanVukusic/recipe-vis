@@ -1,0 +1,72 @@
+{
+  "id": 30072,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 7.5
+    }
+  ]
+}

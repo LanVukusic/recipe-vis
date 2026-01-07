@@ -1,0 +1,292 @@
+{
+  "id": 2585,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "chicken",
+    "sake",
+    "fish",
+    "shiitake",
+    "egg",
+    "soy_sauce",
+    "shrimp"
+  ],
+  "score_avg": 17.904761904761905,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "sake",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "fish",
+      "value": 37
+    },
+    {
+      "x": "chicken",
+      "y": "shiitake",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "shrimp",
+      "value": 43
+    },
+    {
+      "x": "sake",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "fish",
+      "value": 13
+    },
+    {
+      "x": "sake",
+      "y": "shiitake",
+      "value": 14
+    },
+    {
+      "x": "sake",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "fish",
+      "y": "chicken",
+      "value": 37
+    },
+    {
+      "x": "fish",
+      "y": "sake",
+      "value": 13
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "shiitake",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "shrimp",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "shiitake",
+      "y": "sake",
+      "value": 14
+    },
+    {
+      "x": "shiitake",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "shiitake",
+      "y": "shrimp",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "sake",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "fish",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shiitake",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "shrimp",
+      "y": "sake",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "fish",
+      "value": 24
+    },
+    {
+      "x": "shrimp",
+      "y": "shiitake",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 29.166666666666668
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 20.166666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "sake",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    }
+  ]
+}

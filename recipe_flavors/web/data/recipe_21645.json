@@ -1,0 +1,112 @@
+{
+  "id": 21645,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lettuce",
+    "vinegar",
+    "pear",
+    "feta_cheese"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pear",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "feta_cheese",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "pear",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "feta_cheese",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "pear",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

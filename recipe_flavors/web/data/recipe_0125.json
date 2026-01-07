@@ -1,0 +1,792 @@
+{
+  "id": 125,
+  "cuisine": "African",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "wheat",
+    "onion",
+    "beef",
+    "chicken_broth",
+    "red_wine",
+    "pear",
+    "cumin",
+    "ginger",
+    "squash",
+    "honey"
+  ],
+  "score_avg": 8.848484848484848,
+  "pair_coverage": 0.5454545454545454,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "red_wine",
+      "value": 62
+    },
+    {
+      "x": "tomato",
+      "y": "pear",
+      "value": 18
+    },
+    {
+      "x": "tomato",
+      "y": "cumin",
+      "value": 5
+    },
+    {
+      "x": "tomato",
+      "y": "ginger",
+      "value": 31
+    },
+    {
+      "x": "tomato",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "honey",
+      "value": 24
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "honey",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "pear",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "honey",
+      "value": 23
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "tomato",
+      "value": 62
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "pear",
+      "value": 21
+    },
+    {
+      "x": "red_wine",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "red_wine",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "honey",
+      "value": 32
+    },
+    {
+      "x": "pear",
+      "y": "tomato",
+      "value": 18
+    },
+    {
+      "x": "pear",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "beef",
+      "value": 20
+    },
+    {
+      "x": "pear",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "red_wine",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "cumin",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "pear",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "cumin",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "cumin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "cumin",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "tomato",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "ginger",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "red_wine",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "pear",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "cumin",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "squash",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "honey",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "beef",
+      "value": 23
+    },
+    {
+      "x": "honey",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "red_wine",
+      "value": 32
+    },
+    {
+      "x": "honey",
+      "y": "pear",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 21.272727272727273
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 19.90909090909091
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 12.090909090909092
+    },
+    {
+      "ingredient": "honey",
+      "mean": 10.727272727272727
+    },
+    {
+      "ingredient": "pear",
+      "mean": 8.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.1818181818181817
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.9090909090909091
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

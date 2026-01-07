@@ -1,0 +1,162 @@
+{
+  "id": 12613,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "rice",
+    "black_pepper",
+    "onion",
+    "beef"
+  ],
+  "score_avg": 25.4,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 40.25
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 29.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.0
+    }
+  ]
+}

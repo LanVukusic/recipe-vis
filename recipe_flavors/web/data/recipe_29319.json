@@ -1,0 +1,292 @@
+{
+  "id": 29319,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_peel",
+    "vinegar",
+    "cucumber",
+    "olive_oil",
+    "red_wine",
+    "mint",
+    "parsley"
+  ],
+  "score_avg": 3.857142857142857,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "orange_peel",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "cucumber",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "orange_peel",
+      "value": 10
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "cucumber",
+      "value": 7
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 9.166666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    }
+  ]
+}

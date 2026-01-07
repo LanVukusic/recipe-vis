@@ -1,0 +1,42 @@
+{
+  "id": 7259,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "lime_juice"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    }
+  ]
+}

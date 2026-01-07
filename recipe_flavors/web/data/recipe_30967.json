@@ -1,0 +1,112 @@
+{
+  "id": 30967,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "parsley",
+    "beef",
+    "romano_cheese"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "romano_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "romano_cheese",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "romano_cheese",
+      "value": 73
+    },
+    {
+      "x": "romano_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "romano_cheese",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "romano_cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "romano_cheese",
+      "y": "romano_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "romano_cheese",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.0
+    }
+  ]
+}

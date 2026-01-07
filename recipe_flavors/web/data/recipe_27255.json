@@ -1,0 +1,562 @@
+{
+  "id": 27255,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "wheat",
+    "beef",
+    "yeast",
+    "garlic",
+    "basil",
+    "cheddar_cheese",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 13.177777777777777,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "yeast",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cheddar_cheese",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "tomato",
+      "value": 43
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 32.22222222222222
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.444444444444443
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.444444444444443
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.777777777777779
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.1111111111111112
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

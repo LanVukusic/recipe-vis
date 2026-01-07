@@ -1,0 +1,112 @@
+{
+  "id": 35574,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "garlic",
+    "bell_pepper",
+    "starch"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "garlic",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

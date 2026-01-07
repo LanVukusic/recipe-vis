@@ -1,0 +1,112 @@
+{
+  "id": 25093,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "seed",
+    "egg",
+    "cumin"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "cumin",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cumin",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "seed",
+      "mean": 3.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 45443,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "pork",
+    "bacon"
+  ],
+  "score_avg": 76.66666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pork",
+      "value": 57
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "pork",
+      "y": "cheese",
+      "value": 57
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "bacon",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "pork",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 86.5
+    },
+    {
+      "ingredient": "pork",
+      "mean": 86.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 57.5
+    }
+  ]
+}

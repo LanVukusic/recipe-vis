@@ -1,0 +1,42 @@
+{
+  "id": 17298,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "strawberry"
+  ],
+  "score_avg": 64.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "strawberry",
+      "value": 64
+    },
+    {
+      "x": "strawberry",
+      "y": "butter",
+      "value": 64
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 64.0
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 64.0
+    }
+  ]
+}

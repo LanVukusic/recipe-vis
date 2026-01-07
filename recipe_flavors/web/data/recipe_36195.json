@@ -1,0 +1,72 @@
+{
+  "id": 36195,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "chicken",
+    "corn"
+  ],
+  "score_avg": 20.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "chicken",
+      "value": 8
+    },
+    {
+      "x": "buttermilk",
+      "y": "corn",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "buttermilk",
+      "value": 8
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "corn",
+      "value": 45
+    },
+    {
+      "x": "corn",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "corn",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 7.5
+    }
+  ]
+}

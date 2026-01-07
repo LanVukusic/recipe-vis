@@ -1,0 +1,222 @@
+{
+  "id": 10878,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "mint",
+    "raspberry",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 8.133333333333333,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mint",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mint",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "raspberry",
+      "value": 48
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 17.4
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 15.2
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.4
+    },
+    {
+      "ingredient": "mint",
+      "mean": 5.2
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

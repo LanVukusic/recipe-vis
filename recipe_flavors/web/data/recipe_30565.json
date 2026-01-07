@@ -1,0 +1,112 @@
+{
+  "id": 30565,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fruit",
+    "berry",
+    "raspberry",
+    "blueberry"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "berry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "raspberry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "blueberry",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "raspberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "blueberry",
+      "value": 52
+    },
+    {
+      "x": "raspberry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "raspberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "blueberry",
+      "value": 55
+    },
+    {
+      "x": "blueberry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "blueberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "blueberry",
+      "y": "raspberry",
+      "value": 55
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "berry",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 9.0
+    }
+  ]
+}

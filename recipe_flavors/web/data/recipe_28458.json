@@ -1,0 +1,42 @@
+{
+  "id": 28458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "cream"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    }
+  ]
+}

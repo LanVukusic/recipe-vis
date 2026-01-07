@@ -1,0 +1,42 @@
+{
+  "id": 4021,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "apple",
+    "peach"
+  ],
+  "score_avg": 47.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "peach",
+      "value": 47
+    },
+    {
+      "x": "peach",
+      "y": "apple",
+      "value": 47
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 47.0
+    }
+  ]
+}

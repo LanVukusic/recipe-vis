@@ -1,0 +1,112 @@
+{
+  "id": 40520,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "grape_juice",
+    "garlic",
+    "cauliflower"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cauliflower",
+      "value": 4
+    },
+    {
+      "x": "cauliflower",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

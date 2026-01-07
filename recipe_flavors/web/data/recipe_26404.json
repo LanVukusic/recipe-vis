@@ -1,0 +1,72 @@
+{
+  "id": 26404,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_juice",
+    "lemon"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.5
+    }
+  ]
+}

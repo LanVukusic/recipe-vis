@@ -1,0 +1,292 @@
+{
+  "id": 42403,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "wheat",
+    "date",
+    "vegetable_oil",
+    "vanilla",
+    "egg",
+    "walnut"
+  ],
+  "score_avg": 1.0952380952380953,
+  "pair_coverage": 0.2857142857142857,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "date",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "vanilla",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 2.1666666666666665
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "date",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

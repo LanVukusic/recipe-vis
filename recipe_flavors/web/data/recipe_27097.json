@@ -1,0 +1,112 @@
+{
+  "id": 27097,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "hazelnut",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "hazelnut",
+      "value": 5
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "hazelnut",
+      "y": "coffee",
+      "value": 5
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "hazelnut",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "hazelnut",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 3.0
+    }
+  ]
+}

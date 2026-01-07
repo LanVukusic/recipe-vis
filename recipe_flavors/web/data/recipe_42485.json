@@ -1,0 +1,42 @@
+{
+  "id": 42485,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "chicken_broth"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

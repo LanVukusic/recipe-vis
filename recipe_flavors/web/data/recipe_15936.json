@@ -1,0 +1,372 @@
+{
+  "id": 15936,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "soy_sauce",
+    "bacon",
+    "shrimp",
+    "bean",
+    "garlic",
+    "chicken",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 18.928571428571427,
+  "pair_coverage": 0.7857142857142857,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "bacon",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "bean",
+      "value": 27
+    },
+    {
+      "x": "shrimp",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "bread",
+      "value": 21
+    },
+    {
+      "x": "bean",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "shrimp",
+      "value": 27
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "chicken",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "bean",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "bacon",
+      "value": 84
+    },
+    {
+      "x": "chicken",
+      "y": "shrimp",
+      "value": 43
+    },
+    {
+      "x": "chicken",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "shrimp",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "bean",
+      "value": 26
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 33.57142857142857
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 32.714285714285715
+    },
+    {
+      "ingredient": "bean",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 22.714285714285715
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.285714285714285
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.142857142857142
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.857142857142857
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.14285714285714285
+    }
+  ]
+}

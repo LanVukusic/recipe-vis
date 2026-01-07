@@ -1,0 +1,112 @@
+{
+  "id": 34670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "pear",
+    "raspberry",
+    "cream"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "raspberry",
+      "value": 27
+    },
+    {
+      "x": "pear",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "pear",
+      "value": 27
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pear",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "raspberry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "pear",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

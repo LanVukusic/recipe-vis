@@ -1,0 +1,42 @@
+{
+  "id": 6064,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "plum",
+    "bacon"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "plum",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "plum",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 18.0
+    }
+  ]
+}

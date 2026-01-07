@@ -1,0 +1,72 @@
+{
+  "id": 24583,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "milk",
+    "onion"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 11.5
+    }
+  ]
+}

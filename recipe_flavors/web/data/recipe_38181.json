@@ -1,0 +1,72 @@
+{
+  "id": 38181,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "root",
+    "lime"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime",
+      "value": 1
+    },
+    {
+      "x": "root",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lime",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "root",
+      "mean": 0.0
+    }
+  ]
+}

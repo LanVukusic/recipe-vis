@@ -1,0 +1,42 @@
+{
+  "id": 48100,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "vinegar",
+    "cabbage"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.0
+    }
+  ]
+}

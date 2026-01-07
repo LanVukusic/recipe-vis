@@ -1,0 +1,672 @@
+{
+  "id": 11969,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "starch",
+    "citrus",
+    "milk_fat",
+    "nutmeg",
+    "cinnamon",
+    "cream_cheese",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 9.527272727272727,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "nutmeg",
+      "value": 12
+    },
+    {
+      "x": "citrus",
+      "y": "cinnamon",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "cream_cheese",
+      "value": 14
+    },
+    {
+      "x": "citrus",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "citrus",
+      "y": "milk",
+      "value": 15
+    },
+    {
+      "x": "citrus",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "citrus",
+      "value": 12
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream_cheese",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream_cheese",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "citrus",
+      "value": 14
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "citrus",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "citrus",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 22.6
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 20.7
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.6
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 8.1
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.2
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.1
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

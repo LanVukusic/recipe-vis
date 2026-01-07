@@ -1,0 +1,562 @@
+{
+  "id": 16190,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "wheat",
+    "apple",
+    "beef",
+    "potato",
+    "celery",
+    "carrot",
+    "white_bread",
+    "egg",
+    "oat"
+  ],
+  "score_avg": 22.488888888888887,
+  "pair_coverage": 0.8888888888888888,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "apple",
+      "value": 65
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "potato",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "celery",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "white_bread",
+      "value": 30
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "white_bread",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "tomato",
+      "value": 65
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "beef",
+      "value": 60
+    },
+    {
+      "x": "apple",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "carrot",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "white_bread",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "oat",
+      "value": 21
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "apple",
+      "value": 60
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "oat",
+      "value": 28
+    },
+    {
+      "x": "potato",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "celery",
+      "value": 23
+    },
+    {
+      "x": "potato",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "white_bread",
+      "value": 29
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "apple",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "potato",
+      "value": 23
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "carrot",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "celery",
+      "y": "oat",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "apple",
+      "value": 19
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "white_bread",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "oat",
+      "value": 8
+    },
+    {
+      "x": "white_bread",
+      "y": "tomato",
+      "value": 30
+    },
+    {
+      "x": "white_bread",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "white_bread",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "white_bread",
+      "y": "beef",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "potato",
+      "value": 29
+    },
+    {
+      "x": "white_bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "oat",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "oat",
+      "value": 16
+    },
+    {
+      "x": "oat",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "apple",
+      "value": 21
+    },
+    {
+      "x": "oat",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "oat",
+      "y": "potato",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "oat",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "oat",
+      "y": "white_bread",
+      "value": 18
+    },
+    {
+      "x": "oat",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 39.55555555555556
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 35.888888888888886
+    },
+    {
+      "ingredient": "apple",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 30.666666666666668
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 21.555555555555557
+    },
+    {
+      "ingredient": "celery",
+      "mean": 18.444444444444443
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.22222222222222
+    },
+    {
+      "ingredient": "oat",
+      "mean": 16.22222222222222
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 12.777777777777779
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5555555555555556
+    }
+  ]
+}

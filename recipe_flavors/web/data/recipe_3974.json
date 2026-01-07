@@ -1,0 +1,222 @@
+{
+  "id": 3974,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "mushroom",
+    "vegetable_oil",
+    "garlic",
+    "cheddar_cheese"
+  ],
+  "score_avg": 13.4,
+  "pair_coverage": 0.7333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.8
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.4
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 22.8
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.8
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.4
+    }
+  ]
+}

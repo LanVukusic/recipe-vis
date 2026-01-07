@@ -1,0 +1,162 @@
+{
+  "id": 4405,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "bacon",
+    "bean",
+    "garlic",
+    "smoke",
+    "onion"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "smoke",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "bean",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.25
+    }
+  ]
+}

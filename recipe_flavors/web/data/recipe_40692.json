@@ -1,0 +1,112 @@
+{
+  "id": 40692,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "rice",
+    "mushroom",
+    "onion"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "rice",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "rice",
+      "value": 44
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 36.666666666666664
+    },
+    {
+      "ingredient": "rice",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.333333333333334
+    }
+  ]
+}

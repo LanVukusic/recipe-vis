@@ -1,0 +1,792 @@
+{
+  "id": 13279,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "green_bell_pepper",
+    "wheat",
+    "onion",
+    "bay",
+    "cayenne",
+    "parsley",
+    "scallion",
+    "celery",
+    "smoked_sausage",
+    "vegetable_oil",
+    "rice"
+  ],
+  "score_avg": 4.696969696969697,
+  "pair_coverage": 0.48484848484848486,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "turkey",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "turkey",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "turkey",
+      "y": "smoked_sausage",
+      "value": 44
+    },
+    {
+      "x": "turkey",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "rice",
+      "value": 26
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "smoked_sausage",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "smoked_sausage",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "bay",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cayenne",
+      "y": "smoked_sausage",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "turkey",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "green_bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "smoked_sausage",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "rice",
+      "value": 6
+    },
+    {
+      "x": "scallion",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "turkey",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "green_bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "cayenne",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "smoked_sausage",
+      "value": 12
+    },
+    {
+      "x": "celery",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "turkey",
+      "value": 44
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "celery",
+      "value": 12
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "rice",
+      "value": 25
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "turkey",
+      "value": 26
+    },
+    {
+      "x": "rice",
+      "y": "green_bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "smoked_sausage",
+      "value": 25
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 9.272727272727273
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 8.636363636363637
+    },
+    {
+      "ingredient": "celery",
+      "mean": 7.454545454545454
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 5.545454545454546
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 5.545454545454546
+    },
+    {
+      "ingredient": "onion",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

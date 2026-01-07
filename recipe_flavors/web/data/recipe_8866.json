@@ -1,0 +1,112 @@
+{
+  "id": 8866,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk_fat",
+    "almond",
+    "milk",
+    "cream_cheese"
+  ],
+  "score_avg": 12.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

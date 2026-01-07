@@ -1,0 +1,112 @@
+{
+  "id": 6410,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "yogurt",
+    "chive",
+    "horseradish",
+    "salmon"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "salmon",
+      "value": 16
+    },
+    {
+      "x": "chive",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "salmon",
+      "value": 5
+    },
+    {
+      "x": "horseradish",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "yogurt",
+      "value": 16
+    },
+    {
+      "x": "salmon",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "salmon",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "salmon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

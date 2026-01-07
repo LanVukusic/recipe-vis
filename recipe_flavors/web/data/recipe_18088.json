@@ -1,0 +1,162 @@
+{
+  "id": 18088,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bourbon_whiskey",
+    "corn",
+    "apple",
+    "whiskey"
+  ],
+  "score_avg": 14.1,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "corn",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "apple",
+      "value": 5
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "corn",
+      "y": "whiskey",
+      "value": 33
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "bourbon_whiskey",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "whiskey",
+      "value": 58
+    },
+    {
+      "x": "whiskey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "whiskey",
+      "y": "apple",
+      "value": 58
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 18.75
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

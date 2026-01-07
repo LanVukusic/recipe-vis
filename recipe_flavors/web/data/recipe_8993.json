@@ -1,0 +1,792 @@
+{
+  "id": 8993,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "vanilla",
+    "almond",
+    "ginger",
+    "yam",
+    "gelatin",
+    "nutmeg",
+    "cinnamon",
+    "sweet_potato",
+    "pecan",
+    "egg"
+  ],
+  "score_avg": 5.424242424242424,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "butter",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "sweet_potato",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "sweet_potato",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "nutmeg",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "ginger",
+      "y": "pecan",
+      "value": 15
+    },
+    {
+      "x": "ginger",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "yam",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "yam",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "nutmeg",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "pecan",
+      "value": 6
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "sweet_potato",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "pecan",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "sweet_potato",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "pecan",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "ginger",
+      "value": 15
+    },
+    {
+      "x": "pecan",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "nutmeg",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "pecan",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "sweet_potato",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.454545454545455
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 10.818181818181818
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 8.909090909090908
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 8.363636363636363
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 6.909090909090909
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.7272727272727275
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.3636363636363635
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "yam",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

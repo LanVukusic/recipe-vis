@@ -1,0 +1,112 @@
+{
+  "id": 3827,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "milk_fat",
+    "vanilla",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

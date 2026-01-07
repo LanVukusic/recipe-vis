@@ -1,0 +1,162 @@
+{
+  "id": 45811,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "roasted_meat",
+    "starch",
+    "soy_sauce",
+    "apple"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "roasted_meat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "roasted_meat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "roasted_meat",
+      "y": "roasted_meat",
+      "value": 0
+    },
+    {
+      "x": "roasted_meat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "roasted_meat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "roasted_meat",
+      "y": "apple",
+      "value": 19
+    },
+    {
+      "x": "starch",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "roasted_meat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "roasted_meat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "roasted_meat",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "roasted_meat",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

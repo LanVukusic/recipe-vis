@@ -1,0 +1,72 @@
+{
+  "id": 26849,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mussel",
+    "garlic",
+    "onion"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mussel",
+      "y": "mussel",
+      "value": 0
+    },
+    {
+      "x": "mussel",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "mussel",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "mussel",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "mussel",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "mussel",
+      "mean": 2.0
+    }
+  ]
+}

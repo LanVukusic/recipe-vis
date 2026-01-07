@@ -1,0 +1,222 @@
+{
+  "id": 42898,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "wheat",
+    "macaroni",
+    "cheddar_cheese",
+    "milk"
+  ],
+  "score_avg": 32.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cheddar_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 56.4
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 51.6
+    },
+    {
+      "ingredient": "milk",
+      "mean": 43.4
+    },
+    {
+      "ingredient": "butter",
+      "mean": 41.6
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.8
+    }
+  ]
+}

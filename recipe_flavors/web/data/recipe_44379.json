@@ -1,0 +1,112 @@
+{
+  "id": 44379,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "pepper",
+    "bacon",
+    "tabasco_pepper"
+  ],
+  "score_avg": 10.833333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "tabasco_pepper",
+      "value": 36
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.0
+    }
+  ]
+}

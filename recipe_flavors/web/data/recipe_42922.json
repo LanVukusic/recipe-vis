@@ -1,0 +1,372 @@
+{
+  "id": 42922,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "milk",
+    "strawberry",
+    "pineapple",
+    "grape",
+    "egg",
+    "banana",
+    "cream"
+  ],
+  "score_avg": 23.821428571428573,
+  "pair_coverage": 0.8214285714285714,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "grape",
+      "value": 40
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "pineapple",
+      "value": 67
+    },
+    {
+      "x": "strawberry",
+      "y": "grape",
+      "value": 84
+    },
+    {
+      "x": "strawberry",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "banana",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "strawberry",
+      "value": 67
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "grape",
+      "value": 39
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "grape",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "milk",
+      "value": 40
+    },
+    {
+      "x": "grape",
+      "y": "strawberry",
+      "value": 84
+    },
+    {
+      "x": "grape",
+      "y": "pineapple",
+      "value": 39
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "grape",
+      "y": "banana",
+      "value": 58
+    },
+    {
+      "x": "grape",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "grape",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "banana",
+      "y": "grape",
+      "value": 58
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "grape",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 43.857142857142854
+    },
+    {
+      "ingredient": "grape",
+      "mean": 35.714285714285715
+    },
+    {
+      "ingredient": "milk",
+      "mean": 29.714285714285715
+    },
+    {
+      "ingredient": "banana",
+      "mean": 29.571428571428573
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 26.714285714285715
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.571428571428571
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.142857142857142
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

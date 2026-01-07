@@ -1,0 +1,292 @@
+{
+  "id": 23819,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "wheat",
+    "yeast",
+    "almond",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 3.5714285714285716,
+  "pair_coverage": 0.47619047619047616,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 9.833333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

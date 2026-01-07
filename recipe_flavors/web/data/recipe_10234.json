@@ -1,0 +1,292 @@
+{
+  "id": 10234,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "fennel",
+    "potato",
+    "chicken_broth",
+    "leek",
+    "parmesan_cheese",
+    "cream"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "potato",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "leek",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "parmesan_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "cream",
+      "value": 14
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "butter",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "leek",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "leek",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "cream",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "leek",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 29.833333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.166666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.166666666666666
+    },
+    {
+      "ingredient": "leek",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

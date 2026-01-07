@@ -1,0 +1,72 @@
+{
+  "id": 34562,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "strawberry",
+    "cream_cheese"
+  ],
+  "score_avg": 58.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "orange",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "strawberry",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "orange",
+      "value": 39
+    },
+    {
+      "x": "cream_cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 67.5
+    },
+    {
+      "ingredient": "orange",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 52.5
+    }
+  ]
+}

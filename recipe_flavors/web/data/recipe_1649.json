@@ -1,0 +1,162 @@
+{
+  "id": 1649,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "cucumber",
+    "rice",
+    "carrot",
+    "beef"
+  ],
+  "score_avg": 11.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "rice",
+      "value": 9
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "rice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cucumber",
+      "value": 9
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "rice",
+      "y": "beef",
+      "value": 54
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "rice",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cucumber",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "rice",
+      "value": 54
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 18.75
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.5
+    }
+  ]
+}

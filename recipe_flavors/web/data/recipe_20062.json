@@ -1,0 +1,372 @@
+{
+  "id": 20062,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "yeast",
+    "egg",
+    "cinnamon",
+    "lard",
+    "lemon_peel",
+    "milk"
+  ],
+  "score_avg": 1.9285714285714286,
+  "pair_coverage": 0.35714285714285715,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "lard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 6.428571428571429
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.285714285714286
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 2.142857142857143
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.14285714285714285
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.14285714285714285
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

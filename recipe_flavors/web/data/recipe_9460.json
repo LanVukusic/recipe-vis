@@ -1,0 +1,112 @@
+{
+  "id": 9460,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "corn",
+    "cayenne",
+    "cumin"
+  ],
+  "score_avg": 1.8333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "corn",
+      "value": 2
+    },
+    {
+      "x": "cumin",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cayenne",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "corn",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

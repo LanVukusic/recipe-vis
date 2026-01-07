@@ -1,0 +1,112 @@
+{
+  "id": 2304,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "roasted_sesame_seed",
+    "soy_sauce",
+    "sesame_oil",
+    "shrimp"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "shrimp",
+      "value": 8
+    },
+    {
+      "x": "soy_sauce",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "roasted_sesame_seed",
+      "value": 8
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shrimp",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

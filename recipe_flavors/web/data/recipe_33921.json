@@ -1,0 +1,112 @@
+{
+  "id": 33921,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "starch",
+    "raspberry",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 13.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cream_cheese",
+      "value": 48
+    },
+    {
+      "x": "raspberry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "cream_cheese",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "raspberry",
+      "value": 48
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "raspberry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

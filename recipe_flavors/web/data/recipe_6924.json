@@ -1,0 +1,292 @@
+{
+  "id": 6924,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bourbon_whiskey",
+    "wheat",
+    "pecan",
+    "corn",
+    "egg",
+    "vanilla"
+  ],
+  "score_avg": 11.476190476190476,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bourbon_whiskey",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "corn",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "vanilla",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "bourbon_whiskey",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.166666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.833333333333334
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8333333333333334
+    }
+  ]
+}

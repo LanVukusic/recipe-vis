@@ -1,0 +1,112 @@
+{
+  "id": 26048,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn",
+    "rice",
+    "pea",
+    "onion"
+  ],
+  "score_avg": 20.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "rice",
+      "value": 34
+    },
+    {
+      "x": "corn",
+      "y": "pea",
+      "value": 23
+    },
+    {
+      "x": "corn",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "rice",
+      "y": "corn",
+      "value": 34
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pea",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "pea",
+      "y": "corn",
+      "value": 23
+    },
+    {
+      "x": "pea",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "pea",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.333333333333334
+    }
+  ]
+}

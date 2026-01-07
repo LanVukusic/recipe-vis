@@ -1,0 +1,112 @@
+{
+  "id": 6079,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "vegetable_oil",
+    "wheat",
+    "squash"
+  ],
+  "score_avg": 0.16666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

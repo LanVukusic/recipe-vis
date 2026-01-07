@@ -1,0 +1,72 @@
+{
+  "id": 44599,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pork",
+    "cinnamon"
+  ],
+  "score_avg": 24.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "pork",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.0
+    }
+  ]
+}

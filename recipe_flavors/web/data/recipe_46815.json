@@ -1,0 +1,72 @@
+{
+  "id": 46815,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "rice",
+    "carrot"
+  ],
+  "score_avg": 24.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "rice",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 11.5
+    }
+  ]
+}

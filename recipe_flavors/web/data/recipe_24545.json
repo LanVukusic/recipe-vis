@@ -1,0 +1,292 @@
+{
+  "id": 24545,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "seed",
+    "peanut_butter",
+    "banana",
+    "yogurt",
+    "milk",
+    "blueberry"
+  ],
+  "score_avg": 17.61904761904762,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "banana",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "yogurt",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "blueberry",
+      "value": 15
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "banana",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "blueberry",
+      "value": 6
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "yogurt",
+      "value": 26
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "blueberry",
+      "value": 23
+    },
+    {
+      "x": "banana",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "yogurt",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "blueberry",
+      "value": 29
+    },
+    {
+      "x": "yogurt",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "yogurt",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "peanut_butter",
+      "value": 26
+    },
+    {
+      "x": "yogurt",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "yogurt",
+      "y": "blueberry",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "blueberry",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "honey",
+      "value": 15
+    },
+    {
+      "x": "blueberry",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "blueberry",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "blueberry",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "blueberry",
+      "y": "yogurt",
+      "value": 7
+    },
+    {
+      "x": "blueberry",
+      "y": "milk",
+      "value": 26
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "banana",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "honey",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 13.166666666666666
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

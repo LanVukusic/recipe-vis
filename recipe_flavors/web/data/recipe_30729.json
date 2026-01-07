@@ -1,0 +1,112 @@
+{
+  "id": 30729,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "garlic",
+    "cumin",
+    "pineapple"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "cumin",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "vinegar",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "pineapple",
+      "y": "cumin",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

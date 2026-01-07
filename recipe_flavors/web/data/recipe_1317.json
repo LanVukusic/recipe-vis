@@ -1,0 +1,162 @@
+{
+  "id": 1317,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "black_pepper",
+    "nira",
+    "pork",
+    "wheat",
+    "sesame_oil"
+  ],
+  "score_avg": 0.3,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nira",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "nira",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "nira",
+      "y": "nira",
+      "value": 0
+    },
+    {
+      "x": "nira",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "nira",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nira",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "nira",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nira",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "nira",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "pork",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "nira",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1653,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "peanut",
+    "rice"
+  ],
+  "score_avg": 47.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "rice",
+      "value": 47
+    },
+    {
+      "x": "rice",
+      "y": "peanut",
+      "value": 47
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 47.0
+    }
+  ]
+}

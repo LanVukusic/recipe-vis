@@ -1,0 +1,112 @@
+{
+  "id": 36685,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yeast",
+    "potato",
+    "wheat",
+    "lard"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

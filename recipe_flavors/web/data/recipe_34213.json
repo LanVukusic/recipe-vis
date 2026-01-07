@@ -1,0 +1,112 @@
+{
+  "id": 34213,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "garlic",
+    "beef"
+  ],
+  "score_avg": 17.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

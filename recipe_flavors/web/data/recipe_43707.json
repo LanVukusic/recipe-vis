@@ -1,0 +1,42 @@
+{
+  "id": 43707,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "vinegar"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vinegar",
+      "value": 23
+    },
+    {
+      "x": "vinegar",
+      "y": "strawberry",
+      "value": 23
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 23.0
+    }
+  ]
+}

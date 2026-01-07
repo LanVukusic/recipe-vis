@@ -1,0 +1,72 @@
+{
+  "id": 22712,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "seed",
+    "grape",
+    "blue_cheese"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "grape",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "grape",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "blue_cheese",
+      "value": 62
+    },
+    {
+      "x": "blue_cheese",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "grape",
+      "value": 62
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 31.5
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.0
+    }
+  ]
+}

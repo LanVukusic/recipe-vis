@@ -1,0 +1,222 @@
+{
+  "id": 30878,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "honey",
+    "wheat",
+    "corn",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 19.733333333333334,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "corn",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 33.6
+    },
+    {
+      "ingredient": "butter",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 21.8
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.6
+    },
+    {
+      "ingredient": "honey",
+      "mean": 12.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 10702,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "fish",
+    "carrot",
+    "garlic",
+    "sherry",
+    "lentil",
+    "seed",
+    "bread",
+    "tomato",
+    "vinegar",
+    "onion",
+    "chicken_broth"
+  ],
+  "score_avg": 6.590909090909091,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "sherry",
+      "value": 28
+    },
+    {
+      "x": "fish",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "fish",
+      "y": "bread",
+      "value": 22
+    },
+    {
+      "x": "fish",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "fish",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "sherry",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sherry",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "fish",
+      "value": 28
+    },
+    {
+      "x": "sherry",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "sherry",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "sherry",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "sherry",
+      "y": "tomato",
+      "value": 64
+    },
+    {
+      "x": "sherry",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "sherry",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "sherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "lentil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "fish",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "sherry",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "fish",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "sherry",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "sherry",
+      "value": 64
+    },
+    {
+      "x": "tomato",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "sherry",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "sherry",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "lentil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 17.727272727272727
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 10.454545454545455
+    },
+    {
+      "ingredient": "fish",
+      "mean": 10.272727272727273
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.818181818181818
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 6.363636363636363
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 5.7272727272727275
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "lentil",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

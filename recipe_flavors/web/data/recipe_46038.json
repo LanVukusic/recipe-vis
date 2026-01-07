@@ -1,0 +1,72 @@
+{
+  "id": 46038,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "fruit",
+    "berry"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "berry",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fruit",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "berry",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

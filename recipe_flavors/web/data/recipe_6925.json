@@ -1,0 +1,112 @@
+{
+  "id": 6925,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "turkey",
+    "pepper",
+    "garlic"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "turkey",
+      "value": 6
+    },
+    {
+      "x": "peanut_oil",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "peanut_oil",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "turkey",
+      "y": "peanut_oil",
+      "value": 6
+    },
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "peanut_oil",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "peanut_oil",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "turkey",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "peanut_oil",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.0
+    }
+  ]
+}

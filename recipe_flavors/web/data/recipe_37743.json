@@ -1,0 +1,112 @@
+{
+  "id": 37743,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "soybean",
+    "yeast"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

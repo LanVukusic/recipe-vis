@@ -1,0 +1,162 @@
+{
+  "id": 40731,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "soy_sauce",
+    "orange_juice",
+    "garlic",
+    "chicken",
+    "onion"
+  ],
+  "score_avg": 6.1,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "chicken",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

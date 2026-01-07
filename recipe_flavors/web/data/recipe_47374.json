@@ -1,0 +1,112 @@
+{
+  "id": 47374,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "butter",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 44.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "vanilla",
+      "value": 30
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "vanilla",
+      "y": "cocoa",
+      "value": 30
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 53.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 49.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 28.666666666666668
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 10201,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chive",
+    "cherry",
+    "lemon",
+    "black_pepper",
+    "olive_oil"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "cherry",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cherry",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "cherry",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cherry",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cherry",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "chive",
+      "mean": 0.25
+    }
+  ]
+}

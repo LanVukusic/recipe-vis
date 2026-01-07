@@ -1,0 +1,112 @@
+{
+  "id": 34753,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "chicken",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

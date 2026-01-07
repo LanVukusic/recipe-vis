@@ -1,0 +1,72 @@
+{
+  "id": 29670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "potato_chip",
+    "tuna",
+    "mushroom"
+  ],
+  "score_avg": 21.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "tuna",
+      "value": 15
+    },
+    {
+      "x": "potato_chip",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "tuna",
+      "y": "potato_chip",
+      "value": 15
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "mushroom",
+      "value": 38
+    },
+    {
+      "x": "mushroom",
+      "y": "potato_chip",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "tuna",
+      "value": 38
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tuna",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 13.0
+    }
+  ]
+}

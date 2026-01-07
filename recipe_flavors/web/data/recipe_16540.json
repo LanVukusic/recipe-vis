@@ -1,0 +1,162 @@
+{
+  "id": 16540,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cilantro",
+    "grape_juice",
+    "black_pepper",
+    "onion",
+    "nectarine"
+  ],
+  "score_avg": 1.2,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "nectarine",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "nectarine",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nectarine",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "nectarine",
+      "value": 1
+    },
+    {
+      "x": "nectarine",
+      "y": "cilantro",
+      "value": 1
+    },
+    {
+      "x": "nectarine",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "nectarine",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "nectarine",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "nectarine",
+      "y": "nectarine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nectarine",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.25
+    }
+  ]
+}

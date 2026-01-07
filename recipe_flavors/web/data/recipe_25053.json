@@ -1,0 +1,112 @@
+{
+  "id": 25053,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "carrot",
+    "turnip",
+    "milk"
+  ],
+  "score_avg": 17.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "turnip",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "turnip",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

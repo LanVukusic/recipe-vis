@@ -1,0 +1,112 @@
+{
+  "id": 20069,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "whiskey",
+    "lemon",
+    "lime"
+  ],
+  "score_avg": 39.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "whiskey",
+      "value": 29
+    },
+    {
+      "x": "orange",
+      "y": "lemon",
+      "value": 69
+    },
+    {
+      "x": "orange",
+      "y": "lime",
+      "value": 56
+    },
+    {
+      "x": "whiskey",
+      "y": "orange",
+      "value": 29
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "whiskey",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "lemon",
+      "y": "whiskey",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "orange",
+      "value": 56
+    },
+    {
+      "x": "lime",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 51.333333333333336
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 47.333333333333336
+    },
+    {
+      "ingredient": "lime",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 18.666666666666668
+    }
+  ]
+}

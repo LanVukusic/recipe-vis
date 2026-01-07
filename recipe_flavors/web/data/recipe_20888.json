@@ -1,0 +1,162 @@
+{
+  "id": 20888,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "bacon",
+    "tomato_juice",
+    "macaroni"
+  ],
+  "score_avg": 18.6,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "tomato_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 30.75
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 30.75
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "tomato_juice",
+      "mean": 0.0
+    }
+  ]
+}

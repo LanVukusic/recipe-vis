@@ -1,0 +1,162 @@
+{
+  "id": 46376,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "bacon",
+    "beef",
+    "onion",
+    "bread"
+  ],
+  "score_avg": 23.9,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 44.25
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 20.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.75
+    }
+  ]
+}

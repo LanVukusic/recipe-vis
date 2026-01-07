@@ -1,0 +1,792 @@
+{
+  "id": 34701,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "apple",
+    "thyme",
+    "sage",
+    "chicken_broth",
+    "raisin",
+    "onion",
+    "parsley",
+    "celery",
+    "fennel",
+    "garlic",
+    "olive"
+  ],
+  "score_avg": 5.015151515151516,
+  "pair_coverage": 0.7121212121212122,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "apple",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "apple",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "celery",
+      "value": 28
+    },
+    {
+      "x": "apple",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "apple",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "olive",
+      "value": 44
+    },
+    {
+      "x": "thyme",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "apple",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "thyme",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "fennel",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "olive",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "apple",
+      "value": 5
+    },
+    {
+      "x": "sage",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "sage",
+      "y": "celery",
+      "value": 5
+    },
+    {
+      "x": "sage",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "sage",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "olive",
+      "value": 3
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "celery",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "olive",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "sage",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "olive",
+      "value": 4
+    },
+    {
+      "x": "celery",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "apple",
+      "value": 28
+    },
+    {
+      "x": "celery",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "celery",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "celery",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "fennel",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "apple",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "thyme",
+      "value": 4
+    },
+    {
+      "x": "fennel",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "celery",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "olive",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "celery",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive",
+      "value": 2
+    },
+    {
+      "x": "olive",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "apple",
+      "value": 44
+    },
+    {
+      "x": "olive",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "olive",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "olive",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "raisin",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "olive",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "olive",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "olive",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "olive",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 12.454545454545455
+    },
+    {
+      "ingredient": "celery",
+      "mean": 8.636363636363637
+    },
+    {
+      "ingredient": "olive",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.636363636363637
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 3.6363636363636362
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "sage",
+      "mean": 2.727272727272727
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

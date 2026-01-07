@@ -1,0 +1,162 @@
+{
+  "id": 34462,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "egg",
+    "milk",
+    "fig"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fig",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "fig",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "fig",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "fig",
+      "value": 18
+    },
+    {
+      "x": "fig",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "fig",
+      "y": "milk",
+      "value": 18
+    },
+    {
+      "x": "fig",
+      "y": "fig",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "fig",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

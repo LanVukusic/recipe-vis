@@ -1,0 +1,162 @@
+{
+  "id": 47901,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "bean",
+    "milk",
+    "mushroom",
+    "meat"
+  ],
+  "score_avg": 40.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "meat",
+      "value": 32
+    },
+    {
+      "x": "bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "milk",
+      "value": 40
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bean",
+      "y": "meat",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "bean",
+      "value": 40
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "meat",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "meat",
+      "value": 27
+    },
+    {
+      "x": "meat",
+      "y": "cheese",
+      "value": 32
+    },
+    {
+      "x": "meat",
+      "y": "bean",
+      "value": 23
+    },
+    {
+      "x": "meat",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "meat",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 46.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 43.75
+    },
+    {
+      "ingredient": "bean",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "meat",
+      "mean": 28.25
+    }
+  ]
+}

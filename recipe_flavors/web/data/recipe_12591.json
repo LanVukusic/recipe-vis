@@ -1,0 +1,72 @@
+{
+  "id": 12591,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "onion",
+    "zucchini"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.0
+    }
+  ]
+}

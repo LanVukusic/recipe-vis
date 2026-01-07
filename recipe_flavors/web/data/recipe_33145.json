@@ -1,0 +1,112 @@
+{
+  "id": 33145,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "wheat",
+    "milk"
+  ],
+  "score_avg": 13.833333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

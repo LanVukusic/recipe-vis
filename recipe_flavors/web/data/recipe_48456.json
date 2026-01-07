@@ -1,0 +1,72 @@
+{
+  "id": 48456,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "mango",
+    "mint",
+    "ginger"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "mint",
+      "value": 15
+    },
+    {
+      "x": "mango",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "mint",
+      "y": "mango",
+      "value": 15
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "ginger",
+      "value": 18
+    },
+    {
+      "x": "ginger",
+      "y": "mango",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "mint",
+      "value": 18
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "mango",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 16.5
+    }
+  ]
+}

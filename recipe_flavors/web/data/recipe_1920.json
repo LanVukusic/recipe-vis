@@ -1,0 +1,42 @@
+{
+  "id": 1920,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "fish"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 19105,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "bread"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.0
+    }
+  ]
+}

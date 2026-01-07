@@ -1,0 +1,72 @@
+{
+  "id": 8823,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mint",
+    "pear",
+    "wine"
+  ],
+  "score_avg": 11.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "pear",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "wine",
+      "value": 10
+    },
+    {
+      "x": "pear",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "wine",
+      "value": 19
+    },
+    {
+      "x": "wine",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "wine",
+      "y": "pear",
+      "value": 19
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "pear",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "mint",
+      "mean": 8.0
+    }
+  ]
+}

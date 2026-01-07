@@ -1,0 +1,372 @@
+{
+  "id": 2435,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "mushroom",
+    "roasted_sesame_seed",
+    "shiitake",
+    "black_pepper",
+    "carrot",
+    "bell_pepper",
+    "soybean"
+  ],
+  "score_avg": 17.785714285714285,
+  "pair_coverage": 0.8214285714285714,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "roasted_sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "mushroom",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "shiitake",
+      "value": 12
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "soybean",
+      "value": 16
+    },
+    {
+      "x": "shiitake",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "roasted_sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "shiitake",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "shiitake",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "shiitake",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "soybean",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "roasted_sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "shiitake",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "soybean",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "roasted_sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "shiitake",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "soybean",
+      "value": 26
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "mushroom",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "roasted_sesame_seed",
+      "value": 16
+    },
+    {
+      "x": "soybean",
+      "y": "shiitake",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "soybean",
+      "y": "carrot",
+      "value": 20
+    },
+    {
+      "x": "soybean",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 34.142857142857146
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 34.142857142857146
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 29.714285714285715
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 17.571428571428573
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 9.714285714285714
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 6.571428571428571
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.42857142857142855
+    }
+  ]
+}

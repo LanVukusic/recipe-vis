@@ -1,0 +1,72 @@
+{
+  "id": 42672,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "tea",
+    "milk"
+  ],
+  "score_avg": 68.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tea",
+      "value": 67
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "tea",
+      "y": "butter",
+      "value": 67
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "tea",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 70.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 68.5
+    },
+    {
+      "ingredient": "tea",
+      "mean": 65.0
+    }
+  ]
+}

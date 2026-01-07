@@ -1,0 +1,162 @@
+{
+  "id": 33298,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "seed",
+    "cucumber",
+    "onion",
+    "turmeric"
+  ],
+  "score_avg": 1.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "turmeric",
+      "value": 4
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "turmeric",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "turmeric",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "turmeric",
+      "y": "turmeric",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "turmeric",
+      "mean": 1.0
+    }
+  ]
+}

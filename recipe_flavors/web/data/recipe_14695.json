@@ -1,0 +1,72 @@
+{
+  "id": 14695,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "ham",
+    "cream_cheese",
+    "scallion"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ham",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

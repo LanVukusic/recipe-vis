@@ -1,0 +1,72 @@
+{
+  "id": 44804,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "cheddar_cheese",
+    "pork_sausage"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "buttermilk",
+      "y": "pork_sausage",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "buttermilk",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 9.5
+    }
+  ]
+}

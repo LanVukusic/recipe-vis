@@ -1,0 +1,162 @@
+{
+  "id": 24273,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "corn",
+    "wheat",
+    "pecan"
+  ],
+  "score_avg": 9.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 14.75
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

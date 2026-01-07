@@ -1,0 +1,112 @@
+{
+  "id": 34921,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "romano_cheese",
+    "cottage_cheese",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 45.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "romano_cheese",
+      "y": "romano_cheese",
+      "value": 0
+    },
+    {
+      "x": "romano_cheese",
+      "y": "cottage_cheese",
+      "value": 127
+    },
+    {
+      "x": "romano_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "romano_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "romano_cheese",
+      "value": 127
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "egg",
+      "y": "romano_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "romano_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "cottage_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 64.33333333333333
+    },
+    {
+      "ingredient": "romano_cheese",
+      "mean": 64.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 30.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 23.0
+    }
+  ]
+}

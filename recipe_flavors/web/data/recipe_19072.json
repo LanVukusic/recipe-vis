@@ -1,0 +1,792 @@
+{
+  "id": 19072,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "mushroom",
+    "parsley",
+    "scallion",
+    "fennel",
+    "garlic",
+    "mozzarella_cheese",
+    "macaroni",
+    "milk",
+    "pork_sausage",
+    "cream"
+  ],
+  "score_avg": 11.954545454545455,
+  "pair_coverage": 0.7121212121212122,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "mushroom",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "pork_sausage",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "pork_sausage",
+      "value": 59
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "mozzarella_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "pork_sausage",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "pork_sausage",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "mozzarella_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "pork_sausage",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 26.272727272727273
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 25.727272727272727
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.545454545454547
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 22.727272727272727
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 20.818181818181817
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.181818181818182
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.8181818181818183
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

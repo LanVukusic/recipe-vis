@@ -1,0 +1,292 @@
+{
+  "id": 17824,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "cinnamon",
+    "nutmeg",
+    "egg",
+    "milk",
+    "banana"
+  ],
+  "score_avg": 13.523809523809524,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "banana",
+      "value": 42
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "banana",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "butter",
+      "value": 42
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cinnamon",
+      "value": 5
+    },
+    {
+      "x": "banana",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.166666666666668
+    },
+    {
+      "ingredient": "banana",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

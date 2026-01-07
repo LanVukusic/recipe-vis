@@ -1,0 +1,292 @@
+{
+  "id": 49949,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "macaroni",
+    "nut",
+    "lemon",
+    "black_pepper",
+    "parsley"
+  ],
+  "score_avg": 2.0952380952380953,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "nut",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

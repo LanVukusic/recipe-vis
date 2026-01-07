@@ -1,0 +1,792 @@
+{
+  "id": 22550,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "olive_oil",
+    "onion",
+    "romano_cheese",
+    "nut",
+    "black_pepper",
+    "parsley",
+    "garlic",
+    "tomato",
+    "mozzarella_cheese",
+    "macaroni",
+    "egg"
+  ],
+  "score_avg": 9.727272727272727,
+  "pair_coverage": 0.7727272727272727,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "turkey",
+      "y": "romano_cheese",
+      "value": 33
+    },
+    {
+      "x": "turkey",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "turkey",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "turkey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "turkey",
+      "y": "mozzarella_cheese",
+      "value": 33
+    },
+    {
+      "x": "turkey",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "turkey",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "olive_oil",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "romano_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "romano_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "mozzarella_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "romano_cheese",
+      "y": "turkey",
+      "value": 33
+    },
+    {
+      "x": "romano_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "romano_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "romano_cheese",
+      "y": "romano_cheese",
+      "value": 0
+    },
+    {
+      "x": "romano_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "romano_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "romano_cheese",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "romano_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "romano_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "romano_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "romano_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "romano_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "nut",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "romano_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "tomato",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "romano_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "turkey",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "romano_cheese",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "turkey",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "romano_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "turkey",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "romano_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "turkey",
+      "value": 33
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "romano_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "macaroni",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "romano_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "turkey",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "romano_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "romano_cheese",
+      "mean": 25.454545454545453
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 25.454545454545453
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 18.454545454545453
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.181818181818182
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.181818181818182
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5454545454545454
+    }
+  ]
+}

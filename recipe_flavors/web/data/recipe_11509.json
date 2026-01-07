@@ -1,0 +1,42 @@
+{
+  "id": 11509,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "berry"
+  ],
+  "score_avg": 52.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "berry",
+      "mean": 52.0
+    }
+  ]
+}

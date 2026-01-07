@@ -1,0 +1,42 @@
+{
+  "id": 36327,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "cheddar_cheese"
+  ],
+  "score_avg": 97.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cheddar_cheese",
+      "value": 97
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beer",
+      "value": 97
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 97.0
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 97.0
+    }
+  ]
+}

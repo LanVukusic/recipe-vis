@@ -1,0 +1,112 @@
+{
+  "id": 42925,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "savory",
+    "chicken",
+    "wheat",
+    "lard"
+  ],
+  "score_avg": 0.8333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.0
+    }
+  ]
+}

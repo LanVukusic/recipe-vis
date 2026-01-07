@@ -1,0 +1,112 @@
+{
+  "id": 7860,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mint",
+    "artichoke",
+    "cream_cheese"
+  ],
+  "score_avg": 2.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream_cheese",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "artichoke",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "cream_cheese",
+      "value": 10
+    },
+    {
+      "x": "artichoke",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "cream_cheese",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "cream_cheese",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "mint",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

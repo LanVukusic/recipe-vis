@@ -1,0 +1,292 @@
+{
+  "id": 1184,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "mustard",
+    "vegetable_oil",
+    "garlic",
+    "mackerel",
+    "egg"
+  ],
+  "score_avg": 1.7142857142857142,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mackerel",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "mackerel",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mackerel",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "mackerel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mackerel",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mackerel",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mackerel",
+      "y": "mackerel",
+      "value": 0
+    },
+    {
+      "x": "mackerel",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "mackerel",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "mackerel",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 2.1666666666666665
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

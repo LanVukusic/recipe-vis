@@ -1,0 +1,162 @@
+{
+  "id": 1432,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "egg",
+    "milk",
+    "soybean",
+    "shrimp"
+  ],
+  "score_avg": 23.7,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "soybean",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "soybean",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "egg",
+      "value": 31
+    },
+    {
+      "x": "soybean",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "shrimp",
+      "value": 47
+    },
+    {
+      "x": "shrimp",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "soybean",
+      "value": 47
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.25
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.25
+    }
+  ]
+}

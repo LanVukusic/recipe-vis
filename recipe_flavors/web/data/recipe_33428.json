@@ -1,0 +1,112 @@
+{
+  "id": 33428,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive",
+    "roasted_beef",
+    "bread"
+  ],
+  "score_avg": 35.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "tomato",
+      "y": "roasted_beef",
+      "value": 74
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "olive",
+      "y": "tomato",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "roasted_beef",
+      "value": 30
+    },
+    {
+      "x": "olive",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "roasted_beef",
+      "y": "tomato",
+      "value": 74
+    },
+    {
+      "x": "roasted_beef",
+      "y": "olive",
+      "value": 30
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "roasted_beef",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 48.333333333333336
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "olive",
+      "mean": 22.333333333333332
+    }
+  ]
+}

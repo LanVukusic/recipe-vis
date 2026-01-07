@@ -1,0 +1,292 @@
+{
+  "id": 10075,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "garlic",
+    "bell_pepper",
+    "olive_oil",
+    "rosemary",
+    "red_wine",
+    "black_pepper"
+  ],
+  "score_avg": 6.0476190476190474,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "rosemary",
+      "value": 12
+    },
+    {
+      "x": "bell_pepper",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "bell_pepper",
+      "value": 12
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 12.166666666666666
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 9.166666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    }
+  ]
+}

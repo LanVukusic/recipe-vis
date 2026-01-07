@@ -1,0 +1,72 @@
+{
+  "id": 32903,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "pepper",
+    "cream_cheese"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

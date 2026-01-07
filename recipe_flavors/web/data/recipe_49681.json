@@ -1,0 +1,372 @@
+{
+  "id": 49681,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "lemon_juice",
+    "peach",
+    "cheese",
+    "black_pepper",
+    "bacon",
+    "cured_pork",
+    "grape_juice"
+  ],
+  "score_avg": 11.928571428571429,
+  "pair_coverage": 0.6428571428571429,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "peach",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "peach",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cheese",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "peach",
+      "y": "bacon",
+      "value": 24
+    },
+    {
+      "x": "peach",
+      "y": "cured_pork",
+      "value": 25
+    },
+    {
+      "x": "peach",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "cured_pork",
+      "value": 61
+    },
+    {
+      "x": "cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "peach",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cured_pork",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "peach",
+      "value": 24
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cured_pork",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "peach",
+      "value": 25
+    },
+    {
+      "x": "cured_pork",
+      "y": "cheese",
+      "value": 61
+    },
+    {
+      "x": "cured_pork",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "cured_pork",
+      "y": "bacon",
+      "value": 115
+    },
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cured_pork",
+      "mean": 29.285714285714285
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 28.428571428571427
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 22.285714285714285
+    },
+    {
+      "ingredient": "peach",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.142857142857143
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7142857142857143
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

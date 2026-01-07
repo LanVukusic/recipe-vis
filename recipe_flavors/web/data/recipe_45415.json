@@ -1,0 +1,292 @@
+{
+  "id": 45415,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "ham",
+    "mushroom",
+    "potato",
+    "cheddar_cheese",
+    "black_pepper",
+    "onion"
+  ],
+  "score_avg": 17.142857142857142,
+  "pair_coverage": 0.9523809523809523,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "potato",
+      "value": 28
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "ham",
+      "value": 28
+    },
+    {
+      "x": "potato",
+      "y": "mushroom",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 25.166666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.166666666666667
+    }
+  ]
+}

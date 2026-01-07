@@ -1,0 +1,112 @@
+{
+  "id": 48840,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "bacon",
+    "almond",
+    "egg",
+    "vegetable_oil"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "almond",
+      "value": 7
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "bacon",
+      "value": 7
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

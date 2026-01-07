@@ -1,0 +1,112 @@
+{
+  "id": 46015,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cherry",
+    "lemon",
+    "lime"
+  ],
+  "score_avg": 19.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cherry",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "lime",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "cherry",
+      "y": "lime",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "cherry",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lime",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 27.666666666666668
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "honey",
+      "mean": 8.666666666666666
+    }
+  ]
+}

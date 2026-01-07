@@ -1,0 +1,72 @@
+{
+  "id": 9457,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "fennel",
+    "potato"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "potato",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 2.0
+    }
+  ]
+}

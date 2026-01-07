@@ -1,0 +1,292 @@
+{
+  "id": 402,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "orange_peel",
+    "bean",
+    "sour_cherry",
+    "peanut",
+    "apricot",
+    "plum",
+    "walnut"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.9523809523809523,
+  "heatmap": [
+    {
+      "x": "orange_peel",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "orange_peel",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "orange_peel",
+      "y": "sour_cherry",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "peanut",
+      "value": 1
+    },
+    {
+      "x": "orange_peel",
+      "y": "apricot",
+      "value": 8
+    },
+    {
+      "x": "orange_peel",
+      "y": "plum",
+      "value": 2
+    },
+    {
+      "x": "orange_peel",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "orange_peel",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "sour_cherry",
+      "value": 8
+    },
+    {
+      "x": "bean",
+      "y": "peanut",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "apricot",
+      "value": 27
+    },
+    {
+      "x": "bean",
+      "y": "plum",
+      "value": 26
+    },
+    {
+      "x": "bean",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "sour_cherry",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "sour_cherry",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "peanut",
+      "value": 5
+    },
+    {
+      "x": "sour_cherry",
+      "y": "apricot",
+      "value": 15
+    },
+    {
+      "x": "sour_cherry",
+      "y": "plum",
+      "value": 9
+    },
+    {
+      "x": "sour_cherry",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "peanut",
+      "y": "orange_peel",
+      "value": 1
+    },
+    {
+      "x": "peanut",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "peanut",
+      "y": "sour_cherry",
+      "value": 5
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "apricot",
+      "value": 17
+    },
+    {
+      "x": "peanut",
+      "y": "plum",
+      "value": 15
+    },
+    {
+      "x": "peanut",
+      "y": "walnut",
+      "value": 14
+    },
+    {
+      "x": "apricot",
+      "y": "orange_peel",
+      "value": 8
+    },
+    {
+      "x": "apricot",
+      "y": "bean",
+      "value": 27
+    },
+    {
+      "x": "apricot",
+      "y": "sour_cherry",
+      "value": 15
+    },
+    {
+      "x": "apricot",
+      "y": "peanut",
+      "value": 17
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "plum",
+      "value": 46
+    },
+    {
+      "x": "apricot",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "plum",
+      "y": "orange_peel",
+      "value": 2
+    },
+    {
+      "x": "plum",
+      "y": "bean",
+      "value": 26
+    },
+    {
+      "x": "plum",
+      "y": "sour_cherry",
+      "value": 9
+    },
+    {
+      "x": "plum",
+      "y": "peanut",
+      "value": 15
+    },
+    {
+      "x": "plum",
+      "y": "apricot",
+      "value": 46
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "orange_peel",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "sour_cherry",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "peanut",
+      "value": 14
+    },
+    {
+      "x": "walnut",
+      "y": "apricot",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "plum",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "bean",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "plum",
+      "mean": 17.166666666666668
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "orange_peel",
+      "mean": 2.8333333333333335
+    }
+  ]
+}

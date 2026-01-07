@@ -1,0 +1,72 @@
+{
+  "id": 25333,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "cream",
+    "gelatin"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "strawberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 6121,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "vanilla",
+    "mango",
+    "milk"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "mango",
+      "value": 28
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "mango",
+      "y": "vanilla",
+      "value": 28
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 25.5
+    }
+  ]
+}

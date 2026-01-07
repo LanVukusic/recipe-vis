@@ -1,0 +1,112 @@
+{
+  "id": 22899,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "cream",
+    "wheat",
+    "gelatin"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "strawberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "strawberry",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

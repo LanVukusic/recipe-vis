@@ -1,0 +1,112 @@
+{
+  "id": 37002,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "buttermilk",
+    "wheat",
+    "banana",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "banana",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "banana",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "banana",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

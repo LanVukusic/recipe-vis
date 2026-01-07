@@ -1,0 +1,72 @@
+{
+  "id": 39673,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "plum",
+    "carrot",
+    "scallion"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "plum",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "plum",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "plum",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 9490,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "egg",
+    "pecan",
+    "vegetable_oil"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "pecan",
+      "value": 17
+    },
+    {
+      "x": "orange",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "orange",
+      "value": 17
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "orange",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

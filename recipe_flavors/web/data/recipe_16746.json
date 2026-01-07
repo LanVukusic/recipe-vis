@@ -1,0 +1,72 @@
+{
+  "id": 16746,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "peach"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "peach",
+      "value": 39
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "butter",
+      "value": 39
+    },
+    {
+      "x": "peach",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 21363,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "olive_oil",
+    "cream",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 14.7,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "turkey",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "turkey",
+      "y": "bread",
+      "value": 22
+    },
+    {
+      "x": "olive_oil",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "turkey",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "turkey",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 25.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.25
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

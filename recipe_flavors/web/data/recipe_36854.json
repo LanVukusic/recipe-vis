@@ -1,0 +1,112 @@
+{
+  "id": 36854,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "honey",
+    "egg",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "honey",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 0.0
+    }
+  ]
+}

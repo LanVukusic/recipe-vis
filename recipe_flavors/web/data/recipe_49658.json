@@ -1,0 +1,42 @@
+{
+  "id": 49658,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "cured_pork",
+    "olive_oil"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cured_pork",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

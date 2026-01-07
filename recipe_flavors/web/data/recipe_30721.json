@@ -1,0 +1,112 @@
+{
+  "id": 30721,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mustard",
+    "garlic",
+    "ham",
+    "milk"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "milk",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "ham",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    }
+  ]
+}

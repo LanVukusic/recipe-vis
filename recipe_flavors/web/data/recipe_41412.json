@@ -1,0 +1,42 @@
+{
+  "id": 41412,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "onion"
+  ],
+  "score_avg": 13.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.0
+    }
+  ]
+}

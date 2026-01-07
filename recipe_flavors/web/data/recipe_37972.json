@@ -1,0 +1,72 @@
+{
+  "id": 37972,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "cream_cheese"
+  ],
+  "score_avg": 47.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cream_cheese",
+      "value": 46
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "corn",
+      "value": 46
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 48.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 40.5
+    }
+  ]
+}

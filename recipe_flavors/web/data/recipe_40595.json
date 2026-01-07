@@ -1,0 +1,292 @@
+{
+  "id": 40595,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "milk_fat",
+    "corn",
+    "cream",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 13.80952380952381,
+  "pair_coverage": 0.6190476190476191,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "milk_fat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "corn",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.166666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

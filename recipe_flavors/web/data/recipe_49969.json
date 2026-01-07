@@ -1,0 +1,72 @@
+{
+  "id": 49969,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "vegetable",
+    "olive_oil",
+    "garlic"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.0
+    }
+  ]
+}

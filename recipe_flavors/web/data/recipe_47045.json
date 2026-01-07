@@ -1,0 +1,112 @@
+{
+  "id": 47045,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "lemon_juice",
+    "mint",
+    "ginger"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "mint",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "ginger",
+      "value": 18
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "mint",
+      "value": 18
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "mint",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 44303,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bean",
+    "bacon",
+    "onion"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "bean",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

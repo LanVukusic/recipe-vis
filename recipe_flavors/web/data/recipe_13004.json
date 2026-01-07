@@ -1,0 +1,112 @@
+{
+  "id": 13004,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "scallion",
+    "black_pepper",
+    "potato"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "butter",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

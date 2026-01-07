@@ -1,0 +1,112 @@
+{
+  "id": 25305,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "cocoa",
+    "walnut"
+  ],
+  "score_avg": 12.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "walnut",
+      "value": 10
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "walnut",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "butter",
+      "value": 10
+    },
+    {
+      "x": "walnut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "cocoa",
+      "value": 9
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

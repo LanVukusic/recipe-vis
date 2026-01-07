@@ -1,0 +1,72 @@
+{
+  "id": 45121,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cardamom",
+    "tea",
+    "saffron"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "tea",
+      "value": 30
+    },
+    {
+      "x": "cardamom",
+      "y": "saffron",
+      "value": 2
+    },
+    {
+      "x": "tea",
+      "y": "cardamom",
+      "value": 30
+    },
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "saffron",
+      "value": 1
+    },
+    {
+      "x": "saffron",
+      "y": "cardamom",
+      "value": 2
+    },
+    {
+      "x": "saffron",
+      "y": "tea",
+      "value": 1
+    },
+    {
+      "x": "saffron",
+      "y": "saffron",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cardamom",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "tea",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "saffron",
+      "mean": 1.5
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 45435,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vegetable_oil",
+    "lemon",
+    "egg",
+    "banana",
+    "walnut"
+  ],
+  "score_avg": 4.133333333333334,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "banana",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "banana",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "banana",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "banana",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "banana",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "banana",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 8.6
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.4
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2
+    }
+  ]
+}

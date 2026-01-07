@@ -1,0 +1,162 @@
+{
+  "id": 35651,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "chicken",
+    "cheddar_cheese",
+    "bread",
+    "cream"
+  ],
+  "score_avg": 25.8,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "cheddar_cheese",
+      "value": 23
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cheddar_cheese",
+      "value": 68
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "celery",
+      "value": 23
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken",
+      "value": 68
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "celery",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.5
+    }
+  ]
+}

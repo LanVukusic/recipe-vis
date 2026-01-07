@@ -1,0 +1,792 @@
+{
+  "id": 12351,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pork",
+    "wheat",
+    "mushroom",
+    "onion",
+    "almond",
+    "bacon",
+    "parsley",
+    "celery",
+    "pimento",
+    "pepper",
+    "brown_rice"
+  ],
+  "score_avg": 13.530303030303031,
+  "pair_coverage": 0.8181818181818182,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "pimento",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "brown_rice",
+      "value": 45
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "bacon",
+      "value": 115
+    },
+    {
+      "x": "pork",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "pork",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "pork",
+      "y": "pimento",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "brown_rice",
+      "value": 43
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pimento",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "brown_rice",
+      "value": 5
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "celery",
+      "value": 17
+    },
+    {
+      "x": "mushroom",
+      "y": "pimento",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "brown_rice",
+      "value": 44
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "pimento",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "brown_rice",
+      "value": 16
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "bacon",
+      "value": 7
+    },
+    {
+      "x": "almond",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "pimento",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "brown_rice",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "pork",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "almond",
+      "value": 7
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "bacon",
+      "y": "pimento",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "brown_rice",
+      "value": 47
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "celery",
+      "value": 13
+    },
+    {
+      "x": "parsley",
+      "y": "pimento",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "brown_rice",
+      "value": 6
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "pork",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "mushroom",
+      "value": 17
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "bacon",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "parsley",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "pimento",
+      "value": 2
+    },
+    {
+      "x": "celery",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "brown_rice",
+      "value": 20
+    },
+    {
+      "x": "pimento",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "pimento",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pimento",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pimento",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "pimento",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pimento",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "pimento",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pimento",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "pimento",
+      "y": "celery",
+      "value": 2
+    },
+    {
+      "x": "pimento",
+      "y": "pimento",
+      "value": 0
+    },
+    {
+      "x": "pimento",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "pimento",
+      "y": "brown_rice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "pimento",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "brown_rice",
+      "value": 5
+    },
+    {
+      "x": "brown_rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "brown_rice",
+      "y": "pork",
+      "value": 43
+    },
+    {
+      "x": "brown_rice",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "brown_rice",
+      "y": "mushroom",
+      "value": 44
+    },
+    {
+      "x": "brown_rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "brown_rice",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "brown_rice",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "brown_rice",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "brown_rice",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "brown_rice",
+      "y": "pimento",
+      "value": 1
+    },
+    {
+      "x": "brown_rice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 29.636363636363637
+    },
+    {
+      "ingredient": "pork",
+      "mean": 28.727272727272727
+    },
+    {
+      "ingredient": "butter",
+      "mean": 24.727272727272727
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "brown_rice",
+      "mean": 21.454545454545453
+    },
+    {
+      "ingredient": "celery",
+      "mean": 12.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.090909090909092
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "pimento",
+      "mean": 1.6363636363636365
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.1818181818181819
+    }
+  ]
+}

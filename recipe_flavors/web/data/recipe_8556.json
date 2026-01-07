@@ -1,0 +1,112 @@
+{
+  "id": 8556,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "swiss_cheese",
+    "ham",
+    "bread"
+  ],
+  "score_avg": 37.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "ham",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "swiss_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 48.333333333333336
+    },
+    {
+      "ingredient": "butter",
+      "mean": 44.333333333333336
+    },
+    {
+      "ingredient": "bread",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 28.333333333333332
+    }
+  ]
+}

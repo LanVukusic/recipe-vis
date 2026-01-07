@@ -1,0 +1,112 @@
+{
+  "id": 25500,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "tabasco_pepper",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 18.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "tabasco_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "tabasco_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "tabasco_pepper",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

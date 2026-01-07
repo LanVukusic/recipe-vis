@@ -1,0 +1,112 @@
+{
+  "id": 7313,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "tomato",
+    "fish",
+    "olive"
+  ],
+  "score_avg": 31.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "olive",
+      "value": 29
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "fish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "olive",
+      "value": 15
+    },
+    {
+      "x": "olive",
+      "y": "butter",
+      "value": 29
+    },
+    {
+      "x": "olive",
+      "y": "tomato",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "fish",
+      "value": 15
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 38.333333333333336
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "fish",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "olive",
+      "mean": 23.333333333333332
+    }
+  ]
+}

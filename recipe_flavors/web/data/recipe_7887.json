@@ -1,0 +1,72 @@
+{
+  "id": 7887,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "hazelnut"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "hazelnut",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "hazelnut",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "hazelnut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 25325,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk",
+    "rum"
+  ],
+  "score_avg": 59.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 59.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 59.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 12755,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "mozzarella_cheese",
+    "wheat_bread",
+    "cream_cheese"
+  ],
+  "score_avg": 65.16666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "wheat_bread",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "cream_cheese",
+      "value": 51
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat_bread",
+      "value": 55
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "wheat_bread",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "wheat_bread",
+      "y": "mozzarella_cheese",
+      "value": 55
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "cream_cheese",
+      "value": 56
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cream_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat_bread",
+      "value": 56
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 78.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 78.0
+    },
+    {
+      "ingredient": "wheat_bread",
+      "mean": 53.666666666666664
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 51.0
+    }
+  ]
+}

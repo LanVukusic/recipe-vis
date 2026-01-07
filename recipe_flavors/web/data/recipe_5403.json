@@ -1,0 +1,792 @@
+{
+  "id": 5403,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "lime_juice",
+    "fish",
+    "black_pepper",
+    "parsley",
+    "garlic",
+    "coriander",
+    "mint",
+    "oyster",
+    "tomato",
+    "cilantro"
+  ],
+  "score_avg": 6.136363636363637,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "fish",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "mushroom",
+      "y": "oyster",
+      "value": 14
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "cilantro",
+      "value": 7
+    },
+    {
+      "x": "lime_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "mushroom",
+      "value": 31
+    },
+    {
+      "x": "fish",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "coriander",
+      "value": 8
+    },
+    {
+      "x": "fish",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "fish",
+      "y": "oyster",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "fish",
+      "y": "cilantro",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "coriander",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "fish",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "coriander",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "oyster",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "oyster",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "fish",
+      "value": 8
+    },
+    {
+      "x": "coriander",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "coriander",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "coriander",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "coriander",
+      "value": 0
+    },
+    {
+      "x": "coriander",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "coriander",
+      "y": "oyster",
+      "value": 2
+    },
+    {
+      "x": "coriander",
+      "y": "tomato",
+      "value": 15
+    },
+    {
+      "x": "coriander",
+      "y": "cilantro",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mushroom",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "fish",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "mint",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "oyster",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "tomato",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "oyster",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "mushroom",
+      "value": 14
+    },
+    {
+      "x": "oyster",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "oyster",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "oyster",
+      "y": "coriander",
+      "value": 2
+    },
+    {
+      "x": "oyster",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "oyster",
+      "y": "cilantro",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "fish",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "coriander",
+      "value": 15
+    },
+    {
+      "x": "tomato",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "tomato",
+      "y": "oyster",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "mushroom",
+      "value": 7
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "fish",
+      "value": 6
+    },
+    {
+      "x": "cilantro",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "coriander",
+      "value": 11
+    },
+    {
+      "x": "cilantro",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cilantro",
+      "y": "oyster",
+      "value": 3
+    },
+    {
+      "x": "cilantro",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 14.636363636363637
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 13.636363636363637
+    },
+    {
+      "ingredient": "fish",
+      "mean": 9.909090909090908
+    },
+    {
+      "ingredient": "coriander",
+      "mean": 7.636363636363637
+    },
+    {
+      "ingredient": "mint",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 5.909090909090909
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.909090909090909
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 3.1818181818181817
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

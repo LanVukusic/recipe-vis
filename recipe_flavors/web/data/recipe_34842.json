@@ -1,0 +1,72 @@
+{
+  "id": 34842,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "beet",
+    "dill"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "beet",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "dill",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "beet",
+      "mean": 0.0
+    }
+  ]
+}

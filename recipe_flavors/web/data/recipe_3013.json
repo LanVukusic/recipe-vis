@@ -1,0 +1,162 @@
+{
+  "id": 3013,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "anise",
+    "egg",
+    "lard"
+  ],
+  "score_avg": 3.1,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "anise",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "anise",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "anise",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "anise",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "anise",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 19005,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "chicken",
+    "black_pepper",
+    "pea",
+    "parsley"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pea",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "pea",
+      "value": 32
+    },
+    {
+      "x": "chicken",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "pea",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "pea",
+      "y": "chicken",
+      "value": 32
+    },
+    {
+      "x": "pea",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "pea",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 11.25
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 2.0
+    }
+  ]
+}

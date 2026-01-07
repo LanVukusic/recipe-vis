@@ -1,0 +1,112 @@
+{
+  "id": 12771,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "honey",
+    "seed",
+    "mustard"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "yogurt",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "honey",
+      "y": "yogurt",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.0
+    }
+  ]
+}

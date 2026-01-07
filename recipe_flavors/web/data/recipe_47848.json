@@ -1,0 +1,72 @@
+{
+  "id": 47848,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "garlic",
+    "mushroom"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    }
+  ]
+}

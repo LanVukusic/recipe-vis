@@ -1,0 +1,112 @@
+{
+  "id": 11900,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "bell_pepper",
+    "onion",
+    "ham"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ham",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 7.666666666666667
+    }
+  ]
+}

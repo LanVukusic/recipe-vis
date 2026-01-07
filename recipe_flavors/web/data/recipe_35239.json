@@ -1,0 +1,72 @@
+{
+  "id": 35239,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "berry",
+    "peach"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "berry",
+      "value": 11
+    },
+    {
+      "x": "honey",
+      "y": "peach",
+      "value": 14
+    },
+    {
+      "x": "berry",
+      "y": "honey",
+      "value": 11
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "honey",
+      "value": 14
+    },
+    {
+      "x": "peach",
+      "y": "berry",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "berry",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "honey",
+      "mean": 12.5
+    }
+  ]
+}

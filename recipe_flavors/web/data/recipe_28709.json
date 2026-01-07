@@ -1,0 +1,162 @@
+{
+  "id": 28709,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "bacon",
+    "cabbage",
+    "brassica",
+    "onion"
+  ],
+  "score_avg": 5.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "bacon",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "bacon",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "brassica",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "brassica",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.25
+    }
+  ]
+}

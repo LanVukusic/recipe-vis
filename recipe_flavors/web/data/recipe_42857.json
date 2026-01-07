@@ -1,0 +1,112 @@
+{
+  "id": 42857,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grapefruit",
+    "orange_juice",
+    "lime_juice",
+    "ginger"
+  ],
+  "score_avg": 6.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "orange_juice",
+      "value": 14
+    },
+    {
+      "x": "grapefruit",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "grapefruit",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "grapefruit",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "lime_juice",
+      "y": "grapefruit",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "grapefruit",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grapefruit",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

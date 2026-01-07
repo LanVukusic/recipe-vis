@@ -1,0 +1,72 @@
+{
+  "id": 15004,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nut",
+    "almond",
+    "egg"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.0
+    }
+  ]
+}

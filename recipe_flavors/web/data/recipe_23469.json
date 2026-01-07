@@ -1,0 +1,112 @@
+{
+  "id": 23469,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "almond",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 7.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

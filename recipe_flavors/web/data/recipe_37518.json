@@ -1,0 +1,162 @@
+{
+  "id": 37518,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "pork",
+    "cheddar_cheese",
+    "bacon",
+    "potato"
+  ],
+  "score_avg": 38.9,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cheddar_cheese",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "bacon",
+      "value": 115
+    },
+    {
+      "x": "pork",
+      "y": "potato",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "bacon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pork",
+      "value": 115
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "pork",
+      "value": 45
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 57.25
+    },
+    {
+      "ingredient": "pork",
+      "mean": 55.25
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

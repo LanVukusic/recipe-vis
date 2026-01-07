@@ -1,0 +1,112 @@
+{
+  "id": 2790,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "butter",
+    "roasted_sesame_seed",
+    "squid",
+    "cayenne"
+  ],
+  "score_avg": 4.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "roasted_sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "butter",
+      "y": "squid",
+      "value": 9
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "squid",
+      "value": 3
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "butter",
+      "value": 9
+    },
+    {
+      "x": "squid",
+      "y": "roasted_sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "squid",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "squid",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "squid",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "squid",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

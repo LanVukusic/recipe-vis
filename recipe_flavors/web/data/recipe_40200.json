@@ -1,0 +1,162 @@
+{
+  "id": 40200,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "orange_juice",
+    "banana",
+    "ginger",
+    "pineapple"
+  ],
+  "score_avg": 11.9,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "banana",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

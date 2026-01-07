@@ -1,0 +1,112 @@
+{
+  "id": 11174,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "egg",
+    "mustard"
+  ],
+  "score_avg": 3.8333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

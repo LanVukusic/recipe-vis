@@ -1,0 +1,162 @@
+{
+  "id": 11513,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "pepper",
+    "cayenne",
+    "star_anise",
+    "wine"
+  ],
+  "score_avg": 8.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "star_anise",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "star_anise",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "star_anise",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "star_anise",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "star_anise",
+      "y": "star_anise",
+      "value": 0
+    },
+    {
+      "x": "star_anise",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "wine",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "star_anise",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 12.25
+    },
+    {
+      "ingredient": "wine",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "star_anise",
+      "mean": 2.25
+    }
+  ]
+}

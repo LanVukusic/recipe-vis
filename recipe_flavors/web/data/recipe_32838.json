@@ -1,0 +1,72 @@
+{
+  "id": 32838,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheddar_cheese",
+    "macaroni"
+  ],
+  "score_avg": 20.333333333333332,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    }
+  ]
+}

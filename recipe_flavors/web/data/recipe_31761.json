@@ -1,0 +1,162 @@
+{
+  "id": 31761,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "feta_cheese",
+    "cucumber",
+    "vinegar",
+    "wheat",
+    "cranberry"
+  ],
+  "score_avg": 9.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "feta_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "feta_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cucumber",
+      "y": "feta_cheese",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cranberry",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "feta_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cranberry",
+      "value": 12
+    },
+    {
+      "x": "wheat",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cranberry",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "feta_cheese",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "cucumber",
+      "value": 10
+    },
+    {
+      "x": "cranberry",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "cranberry",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "feta_cheese",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

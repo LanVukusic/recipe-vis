@@ -1,0 +1,162 @@
+{
+  "id": 26001,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "tomato",
+    "chicken",
+    "garlic",
+    "soy_sauce"
+  ],
+  "score_avg": 5.8,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

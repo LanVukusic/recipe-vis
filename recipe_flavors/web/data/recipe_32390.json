@@ -1,0 +1,72 @@
+{
+  "id": 32390,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut_oil",
+    "wheat",
+    "egg"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "peanut_oil",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "peanut_oil",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_oil",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_oil",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 13488,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "banana",
+    "soybean",
+    "peanut_butter"
+  ],
+  "score_avg": 39.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "banana",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "soybean",
+      "value": 29
+    },
+    {
+      "x": "honey",
+      "y": "peanut_butter",
+      "value": 20
+    },
+    {
+      "x": "banana",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "soybean",
+      "value": 47
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "soybean",
+      "y": "honey",
+      "value": 29
+    },
+    {
+      "x": "soybean",
+      "y": "banana",
+      "value": 47
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "peanut_butter",
+      "value": 88
+    },
+    {
+      "x": "peanut_butter",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "soybean",
+      "value": 88
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 54.666666666666664
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 45.666666666666664
+    },
+    {
+      "ingredient": "banana",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 25.0
+    }
+  ]
+}

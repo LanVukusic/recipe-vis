@@ -1,0 +1,792 @@
+{
+  "id": 36661,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "lemon_juice",
+    "ham",
+    "mushroom",
+    "olive_oil",
+    "black_pepper",
+    "parmesan_cheese",
+    "scallion",
+    "garlic",
+    "basil",
+    "brussels_sprout",
+    "bread"
+  ],
+  "score_avg": 8.469696969696969,
+  "pair_coverage": 0.6212121212121212,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "brussels_sprout",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "brussels_sprout",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "ham",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "brussels_sprout",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "brussels_sprout",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "brussels_sprout",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "basil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "brussels_sprout",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 26.545454545454547
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 24.454545454545453
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.636363636363637
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "ham",
+      "mean": 10.909090909090908
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "brussels_sprout",
+      "mean": 2.090909090909091
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.3636363636363635
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

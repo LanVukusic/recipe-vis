@@ -1,0 +1,562 @@
+{
+  "id": 32477,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "ham",
+    "onion",
+    "scallion",
+    "buttermilk",
+    "garlic",
+    "cream_cheese",
+    "vegetable_oil",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 5.311111111111111,
+  "pair_coverage": 0.6444444444444445,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "ham",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream_cheese",
+      "value": 9
+    },
+    {
+      "x": "buttermilk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "buttermilk",
+      "value": 9
+    },
+    {
+      "x": "cream_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "ham",
+      "mean": 8.555555555555555
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.444444444444445
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.4444444444444446
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.4444444444444446
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2222222222222223
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.4444444444444444
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2222222222222222
+    }
+  ]
+}

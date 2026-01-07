@@ -1,0 +1,112 @@
+{
+  "id": 32229,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "lime",
+    "milk",
+    "wine"
+  ],
+  "score_avg": 34.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "wine",
+      "value": 63
+    },
+    {
+      "x": "lime",
+      "y": "cocoa",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "milk",
+      "value": 18
+    },
+    {
+      "x": "lime",
+      "y": "wine",
+      "value": 17
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "lime",
+      "value": 18
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wine",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "cocoa",
+      "value": 63
+    },
+    {
+      "x": "wine",
+      "y": "lime",
+      "value": 17
+    },
+    {
+      "x": "wine",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "wine",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "lime",
+      "mean": 15.666666666666666
+    }
+  ]
+}

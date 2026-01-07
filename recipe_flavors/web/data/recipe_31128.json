@@ -1,0 +1,42 @@
+{
+  "id": 31128,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "corn"
+  ],
+  "score_avg": 43.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "cocoa",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 43.0
+    }
+  ]
+}

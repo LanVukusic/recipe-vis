@@ -1,0 +1,162 @@
+{
+  "id": 1792,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "black_bean",
+    "cucumber",
+    "wheat",
+    "tomato",
+    "sesame_seed"
+  ],
+  "score_avg": 8.8,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "cucumber",
+      "value": 9
+    },
+    {
+      "x": "black_bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "black_bean",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "cucumber",
+      "y": "black_bean",
+      "value": 9
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "black_bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "black_bean",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "black_bean",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

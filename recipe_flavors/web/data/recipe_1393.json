@@ -1,0 +1,112 @@
+{
+  "id": 1393,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "cucumber",
+    "wheat",
+    "sesame_seed",
+    "soybean"
+  ],
+  "score_avg": 4.666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "soybean",
+      "value": 13
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "cucumber",
+      "value": 13
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "sesame_seed",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

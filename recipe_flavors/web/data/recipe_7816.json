@@ -1,0 +1,72 @@
+{
+  "id": 7816,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bourbon_whiskey",
+    "mint",
+    "pineapple"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "pineapple",
+      "value": 4
+    },
+    {
+      "x": "mint",
+      "y": "bourbon_whiskey",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "pineapple",
+      "value": 8
+    },
+    {
+      "x": "pineapple",
+      "y": "bourbon_whiskey",
+      "value": 4
+    },
+    {
+      "x": "pineapple",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 2.5
+    }
+  ]
+}

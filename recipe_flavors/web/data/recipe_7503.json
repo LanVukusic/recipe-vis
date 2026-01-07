@@ -1,0 +1,162 @@
+{
+  "id": 7503,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "garlic",
+    "bacon",
+    "rosemary",
+    "beef"
+  ],
+  "score_avg": 14.1,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.75
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 24038,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "bacon",
+    "mushroom",
+    "cream"
+  ],
+  "score_avg": 37.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "bacon",
+      "value": 84
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "bacon",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.333333333333334
+    }
+  ]
+}

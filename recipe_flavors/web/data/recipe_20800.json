@@ -1,0 +1,162 @@
+{
+  "id": 20800,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bread",
+    "cheddar_cheese",
+    "egg",
+    "pineapple"
+  ],
+  "score_avg": 33.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "pineapple",
+      "value": 36
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "pineapple",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pineapple",
+      "value": 47
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "pineapple",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "pineapple",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 47.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 41.25
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 21.75
+    }
+  ]
+}

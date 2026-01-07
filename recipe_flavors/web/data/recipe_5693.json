@@ -1,0 +1,72 @@
+{
+  "id": 5693,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "egg",
+    "onion",
+    "potato"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.5
+    }
+  ]
+}

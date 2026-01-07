@@ -1,0 +1,72 @@
+{
+  "id": 5780,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cayenne",
+    "chicken",
+    "garlic"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "id": 17070,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "tomato",
+    "mustard",
+    "bacon",
+    "avocado",
+    "lettuce",
+    "swiss_cheese",
+    "cream_cheese",
+    "chive",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 0.8666666666666667,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "turkey",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "turkey",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "turkey",
+      "y": "avocado",
+      "value": 13
+    },
+    {
+      "x": "turkey",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "turkey",
+      "y": "swiss_cheese",
+      "value": 35
+    },
+    {
+      "x": "turkey",
+      "y": "cream_cheese",
+      "value": 36
+    },
+    {
+      "x": "turkey",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "turkey",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "turkey",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "avocado",
+      "value": 21
+    },
+    {
+      "x": "tomato",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "swiss_cheese",
+      "value": 56
+    },
+    {
+      "x": "tomato",
+      "y": "cream_cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "turkey",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "avocado",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "swiss_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "cream_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "turkey",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "avocado",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "swiss_cheese",
+      "value": 62
+    },
+    {
+      "x": "bacon",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "turkey",
+      "value": 13
+    },
+    {
+      "x": "avocado",
+      "y": "tomato",
+      "value": 21
+    },
+    {
+      "x": "avocado",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "avocado",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "avocado",
+      "y": "swiss_cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "cream_cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "turkey",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "avocado",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "swiss_cheese",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "turkey",
+      "value": 35
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "tomato",
+      "value": 56
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bacon",
+      "value": 62
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "whole_grain_wheat_flour",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "turkey",
+      "value": 36
+    },
+    {
+      "x": "cream_cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cream_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "swiss_cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "turkey",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "chive",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "swiss_cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "turkey",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 34.333333333333336
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 24.11111111111111
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 18.88888888888889
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.111111111111111
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 1.7777777777777777
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.4444444444444444
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 21609,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "bean",
+    "bacon",
+    "vinegar"
+  ],
+  "score_avg": 19.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "bean",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.333333333333334
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 31103,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pecan",
+    "cream_cheese"
+  ],
+  "score_avg": 30.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "cream_cheese",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 30.0
+    }
+  ]
+}

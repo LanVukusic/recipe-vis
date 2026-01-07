@@ -1,0 +1,162 @@
+{
+  "id": 40083,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "vegetable_oil",
+    "wheat",
+    "egg",
+    "orange"
+  ],
+  "score_avg": 3.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "yogurt",
+      "y": "orange",
+      "value": 9
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "yogurt",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "yogurt",
+      "value": 9
+    },
+    {
+      "x": "orange",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

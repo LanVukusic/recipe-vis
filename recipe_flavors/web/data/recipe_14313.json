@@ -1,0 +1,42 @@
+{
+  "id": 14313,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "butter"
+  ],
+  "score_avg": 30.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "asparagus",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 30.0
+    }
+  ]
+}

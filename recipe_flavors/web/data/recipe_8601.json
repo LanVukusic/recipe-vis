@@ -1,0 +1,112 @@
+{
+  "id": 8601,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "lime_juice",
+    "ham"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "lime_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "ham",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

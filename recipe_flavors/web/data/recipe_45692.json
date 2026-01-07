@@ -1,0 +1,112 @@
+{
+  "id": 45692,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "carrot",
+    "black_pepper"
+  ],
+  "score_avg": 4.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "carrot",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "butter",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

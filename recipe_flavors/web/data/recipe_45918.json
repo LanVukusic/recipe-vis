@@ -1,0 +1,792 @@
+{
+  "id": 45918,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "cheese",
+    "black_pepper",
+    "ginger",
+    "bean",
+    "carrot",
+    "olive",
+    "bread",
+    "cream",
+    "black_bean",
+    "scallion"
+  ],
+  "score_avg": 13.651515151515152,
+  "pair_coverage": 0.7575757575757576,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive",
+      "value": 3
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "olive",
+      "value": 22
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "black_bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "ginger",
+      "value": 29
+    },
+    {
+      "x": "cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "cheese",
+      "y": "olive",
+      "value": 26
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheese",
+      "y": "black_bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_bean",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "cheese",
+      "value": 29
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "bean",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "olive",
+      "value": 15
+    },
+    {
+      "x": "ginger",
+      "y": "bread",
+      "value": 13
+    },
+    {
+      "x": "ginger",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "black_bean",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "carrot",
+      "value": 17
+    },
+    {
+      "x": "bean",
+      "y": "olive",
+      "value": 21
+    },
+    {
+      "x": "bean",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "bean",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "bean",
+      "y": "black_bean",
+      "value": 86
+    },
+    {
+      "x": "bean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "cheese",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "bean",
+      "value": 17
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "olive",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "black_bean",
+      "value": 17
+    },
+    {
+      "x": "carrot",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "olive_oil",
+      "value": 3
+    },
+    {
+      "x": "olive",
+      "y": "mushroom",
+      "value": 22
+    },
+    {
+      "x": "olive",
+      "y": "cheese",
+      "value": 26
+    },
+    {
+      "x": "olive",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "ginger",
+      "value": 15
+    },
+    {
+      "x": "olive",
+      "y": "bean",
+      "value": 21
+    },
+    {
+      "x": "olive",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "olive",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "olive",
+      "y": "black_bean",
+      "value": 21
+    },
+    {
+      "x": "olive",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "bread",
+      "y": "bean",
+      "value": 26
+    },
+    {
+      "x": "bread",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "olive",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "black_bean",
+      "value": 26
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "bean",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "olive",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "black_bean",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "black_bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "black_bean",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "black_bean",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "black_bean",
+      "y": "bean",
+      "value": 86
+    },
+    {
+      "x": "black_bean",
+      "y": "carrot",
+      "value": 17
+    },
+    {
+      "x": "black_bean",
+      "y": "olive",
+      "value": 21
+    },
+    {
+      "x": "black_bean",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "black_bean",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 25.363636363636363
+    },
+    {
+      "ingredient": "black_bean",
+      "mean": 25.363636363636363
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 24.181818181818183
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 23.09090909090909
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 16.181818181818183
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.545454545454545
+    },
+    {
+      "ingredient": "olive",
+      "mean": 12.545454545454545
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 9.363636363636363
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.090909090909091
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

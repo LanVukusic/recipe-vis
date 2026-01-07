@@ -1,0 +1,72 @@
+{
+  "id": 31139,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "garlic",
+    "bread"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5
+    }
+  ]
+}

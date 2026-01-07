@@ -1,0 +1,112 @@
+{
+  "id": 2839,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "starch",
+    "almond",
+    "sour_cherry",
+    "white_wine"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "sour_cherry",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "white_wine",
+      "value": 1
+    },
+    {
+      "x": "sour_cherry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "white_wine",
+      "y": "sour_cherry",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "sour_cherry",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

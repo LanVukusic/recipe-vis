@@ -1,0 +1,292 @@
+{
+  "id": 26205,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "pecan",
+    "gelatin",
+    "corn",
+    "vanilla",
+    "milk"
+  ],
+  "score_avg": 15.380952380952381,
+  "pair_coverage": 0.5238095238095238,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "pecan",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "gelatin",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "corn",
+      "mean": 18.833333333333332
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.833333333333334
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

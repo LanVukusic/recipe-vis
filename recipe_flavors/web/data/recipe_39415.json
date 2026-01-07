@@ -1,0 +1,72 @@
+{
+  "id": 39415,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "vanilla",
+    "rum"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "rum",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "rum",
+      "value": 31
+    },
+    {
+      "x": "rum",
+      "y": "cherry",
+      "value": 18
+    },
+    {
+      "x": "rum",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 13.5
+    }
+  ]
+}

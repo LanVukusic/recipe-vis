@@ -1,0 +1,72 @@
+{
+  "id": 9941,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "grapefruit",
+    "grape"
+  ],
+  "score_avg": 31.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "grapefruit",
+      "value": 30
+    },
+    {
+      "x": "orange",
+      "y": "grape",
+      "value": 47
+    },
+    {
+      "x": "grapefruit",
+      "y": "orange",
+      "value": 30
+    },
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    },
+    {
+      "x": "grapefruit",
+      "y": "grape",
+      "value": 18
+    },
+    {
+      "x": "grape",
+      "y": "orange",
+      "value": 47
+    },
+    {
+      "x": "grape",
+      "y": "grapefruit",
+      "value": 18
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "grape",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 24.0
+    }
+  ]
+}

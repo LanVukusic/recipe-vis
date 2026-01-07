@@ -1,0 +1,112 @@
+{
+  "id": 25391,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "nut",
+    "black_pepper",
+    "garlic"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

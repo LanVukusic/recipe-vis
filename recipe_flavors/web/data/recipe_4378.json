@@ -1,0 +1,112 @@
+{
+  "id": 4378,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "corn",
+    "bell_pepper",
+    "pork_sausage"
+  ],
+  "score_avg": 30.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "pork_sausage",
+      "value": 59
+    },
+    {
+      "x": "corn",
+      "y": "mozzarella_cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "corn",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mozzarella_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "corn",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pork_sausage",
+      "value": 10
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "pork_sausage",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "corn",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.666666666666666
+    }
+  ]
+}

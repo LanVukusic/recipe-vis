@@ -1,0 +1,72 @@
+{
+  "id": 44459,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "chicken",
+    "corn_flake"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 2.0
+    }
+  ]
+}

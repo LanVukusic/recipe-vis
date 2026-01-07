@@ -1,0 +1,72 @@
+{
+  "id": 29337,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "fruit",
+    "cream"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "fruit",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.5
+    }
+  ]
+}

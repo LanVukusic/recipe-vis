@@ -1,0 +1,162 @@
+{
+  "id": 15608,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lettuce",
+    "tuna",
+    "cheddar_cheese",
+    "pea",
+    "scallion"
+  ],
+  "score_avg": 11.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "tuna",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "lettuce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "tuna",
+      "y": "pea",
+      "value": 31
+    },
+    {
+      "x": "tuna",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tuna",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pea",
+      "value": 34
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "lettuce",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "tuna",
+      "value": 31
+    },
+    {
+      "x": "pea",
+      "y": "cheddar_cheese",
+      "value": 34
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "pea",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 7385,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "champagne_wine",
+    "lemon_juice"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "champagne_wine",
+      "value": 40
+    },
+    {
+      "x": "melon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "melon",
+      "value": 40
+    },
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 16590,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "orange_juice",
+    "lime_juice",
+    "cinnamon"
+  ],
+  "score_avg": 3.8333333333333335,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "melon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "melon",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "lime_juice",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "melon",
+      "value": 7
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

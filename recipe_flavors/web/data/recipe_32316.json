@@ -1,0 +1,42 @@
+{
+  "id": 32316,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "champagne_wine",
+    "orange_juice"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "orange_juice",
+      "y": "champagne_wine",
+      "value": 15
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "champagne_wine",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 15.0
+    }
+  ]
+}

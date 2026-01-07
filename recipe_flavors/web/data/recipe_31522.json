@@ -1,0 +1,72 @@
+{
+  "id": 31522,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "rye_flour",
+    "cream"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "rye_flour",
+      "value": 0
+    },
+    {
+      "x": "rye_flour",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "rye_flour",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rye_flour",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

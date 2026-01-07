@@ -1,0 +1,792 @@
+{
+  "id": 10844,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "wheat",
+    "mushroom",
+    "leek",
+    "chicken_broth",
+    "scallion",
+    "chive",
+    "sherry",
+    "cream",
+    "shiitake",
+    "bread"
+  ],
+  "score_avg": 15.106060606060606,
+  "pair_coverage": 0.6818181818181818,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "sherry",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "shiitake",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "sherry",
+      "value": 71
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheese",
+      "y": "shiitake",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "leek",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "sherry",
+      "value": 48
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "leek",
+      "y": "butter",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "leek",
+      "y": "chive",
+      "value": 11
+    },
+    {
+      "x": "leek",
+      "y": "sherry",
+      "value": 19
+    },
+    {
+      "x": "leek",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "leek",
+      "y": "shiitake",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "leek",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chive",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "leek",
+      "value": 11
+    },
+    {
+      "x": "chive",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "sherry",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "chive",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "sherry",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "sherry",
+      "y": "cheese",
+      "value": 71
+    },
+    {
+      "x": "sherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "mushroom",
+      "value": 48
+    },
+    {
+      "x": "sherry",
+      "y": "leek",
+      "value": 19
+    },
+    {
+      "x": "sherry",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "sherry",
+      "y": "sherry",
+      "value": 0
+    },
+    {
+      "x": "sherry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "sherry",
+      "y": "shiitake",
+      "value": 48
+    },
+    {
+      "x": "sherry",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "leek",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "sherry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "shiitake",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "shiitake",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "shiitake",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "shiitake",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "leek",
+      "value": 15
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "chive",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "sherry",
+      "value": 48
+    },
+    {
+      "x": "shiitake",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "leek",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "sherry",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "shiitake",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 29.545454545454547
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 29.545454545454547
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 29.363636363636363
+    },
+    {
+      "ingredient": "butter",
+      "mean": 26.90909090909091
+    },
+    {
+      "ingredient": "sherry",
+      "mean": 25.818181818181817
+    },
+    {
+      "ingredient": "bread",
+      "mean": 16.09090909090909
+    },
+    {
+      "ingredient": "leek",
+      "mean": 10.909090909090908
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.454545454545455
+    },
+    {
+      "ingredient": "chive",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

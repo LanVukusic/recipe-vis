@@ -1,0 +1,792 @@
+{
+  "id": 9740,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apple",
+    "pear",
+    "white_wine",
+    "honey",
+    "melon",
+    "milk",
+    "lemon",
+    "apricot",
+    "plum",
+    "raisin",
+    "milk_fat",
+    "nutmeg"
+  ],
+  "score_avg": 22.37878787878788,
+  "pair_coverage": 0.8787878787878788,
+  "heatmap": [
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pear",
+      "value": 44
+    },
+    {
+      "x": "apple",
+      "y": "white_wine",
+      "value": 105
+    },
+    {
+      "x": "apple",
+      "y": "honey",
+      "value": 41
+    },
+    {
+      "x": "apple",
+      "y": "melon",
+      "value": 71
+    },
+    {
+      "x": "apple",
+      "y": "milk",
+      "value": 53
+    },
+    {
+      "x": "apple",
+      "y": "lemon",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apricot",
+      "value": 74
+    },
+    {
+      "x": "apple",
+      "y": "plum",
+      "value": 64
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "pear",
+      "y": "apple",
+      "value": 44
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "white_wine",
+      "value": 25
+    },
+    {
+      "x": "pear",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "pear",
+      "y": "melon",
+      "value": 30
+    },
+    {
+      "x": "pear",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "pear",
+      "y": "lemon",
+      "value": 21
+    },
+    {
+      "x": "pear",
+      "y": "apricot",
+      "value": 27
+    },
+    {
+      "x": "pear",
+      "y": "plum",
+      "value": 20
+    },
+    {
+      "x": "pear",
+      "y": "raisin",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "white_wine",
+      "y": "apple",
+      "value": 105
+    },
+    {
+      "x": "white_wine",
+      "y": "pear",
+      "value": 25
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "honey",
+      "value": 35
+    },
+    {
+      "x": "white_wine",
+      "y": "melon",
+      "value": 54
+    },
+    {
+      "x": "white_wine",
+      "y": "milk",
+      "value": 60
+    },
+    {
+      "x": "white_wine",
+      "y": "lemon",
+      "value": 30
+    },
+    {
+      "x": "white_wine",
+      "y": "apricot",
+      "value": 52
+    },
+    {
+      "x": "white_wine",
+      "y": "plum",
+      "value": 48
+    },
+    {
+      "x": "white_wine",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "white_wine",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "white_wine",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "honey",
+      "y": "apple",
+      "value": 41
+    },
+    {
+      "x": "honey",
+      "y": "pear",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "white_wine",
+      "value": 35
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "melon",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "apricot",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "plum",
+      "value": 14
+    },
+    {
+      "x": "honey",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "melon",
+      "y": "apple",
+      "value": 71
+    },
+    {
+      "x": "melon",
+      "y": "pear",
+      "value": 30
+    },
+    {
+      "x": "melon",
+      "y": "white_wine",
+      "value": 54
+    },
+    {
+      "x": "melon",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "melon",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "melon",
+      "y": "apricot",
+      "value": 47
+    },
+    {
+      "x": "melon",
+      "y": "plum",
+      "value": 33
+    },
+    {
+      "x": "melon",
+      "y": "raisin",
+      "value": 9
+    },
+    {
+      "x": "melon",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "melon",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "apple",
+      "value": 53
+    },
+    {
+      "x": "milk",
+      "y": "pear",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "white_wine",
+      "value": 60
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "melon",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "apricot",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "plum",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "lemon",
+      "y": "pear",
+      "value": 21
+    },
+    {
+      "x": "lemon",
+      "y": "white_wine",
+      "value": 30
+    },
+    {
+      "x": "lemon",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "melon",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "apricot",
+      "value": 34
+    },
+    {
+      "x": "lemon",
+      "y": "plum",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "nutmeg",
+      "value": 18
+    },
+    {
+      "x": "apricot",
+      "y": "apple",
+      "value": 74
+    },
+    {
+      "x": "apricot",
+      "y": "pear",
+      "value": 27
+    },
+    {
+      "x": "apricot",
+      "y": "white_wine",
+      "value": 52
+    },
+    {
+      "x": "apricot",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "apricot",
+      "y": "melon",
+      "value": 47
+    },
+    {
+      "x": "apricot",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "apricot",
+      "y": "lemon",
+      "value": 34
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "plum",
+      "value": 46
+    },
+    {
+      "x": "apricot",
+      "y": "raisin",
+      "value": 9
+    },
+    {
+      "x": "apricot",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "nutmeg",
+      "value": 13
+    },
+    {
+      "x": "plum",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "plum",
+      "y": "pear",
+      "value": 20
+    },
+    {
+      "x": "plum",
+      "y": "white_wine",
+      "value": 48
+    },
+    {
+      "x": "plum",
+      "y": "honey",
+      "value": 14
+    },
+    {
+      "x": "plum",
+      "y": "melon",
+      "value": 33
+    },
+    {
+      "x": "plum",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "plum",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "plum",
+      "y": "apricot",
+      "value": 46
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "raisin",
+      "value": 6
+    },
+    {
+      "x": "plum",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "plum",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "raisin",
+      "y": "white_wine",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "melon",
+      "value": 9
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "apricot",
+      "value": 9
+    },
+    {
+      "x": "raisin",
+      "y": "plum",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "white_wine",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "plum",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "white_wine",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "melon",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "nutmeg",
+      "y": "apricot",
+      "value": 13
+    },
+    {
+      "x": "nutmeg",
+      "y": "plum",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 46.63636363636363
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 39.81818181818182
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 31.636363636363637
+    },
+    {
+      "ingredient": "melon",
+      "mean": 29.636363636363637
+    },
+    {
+      "ingredient": "plum",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 25.09090909090909
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 20.727272727272727
+    },
+    {
+      "ingredient": "pear",
+      "mean": 18.454545454545453
+    },
+    {
+      "ingredient": "honey",
+      "mean": 15.818181818181818
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 7.181818181818182
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 7.090909090909091
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

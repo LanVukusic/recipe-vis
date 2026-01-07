@@ -1,0 +1,72 @@
+{
+  "id": 36532,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "rosemary",
+    "cream"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "rosemary",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.0
+    }
+  ]
+}

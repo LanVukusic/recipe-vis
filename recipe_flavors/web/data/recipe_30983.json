@@ -1,0 +1,162 @@
+{
+  "id": 30983,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yam",
+    "butter",
+    "cane_molasses",
+    "pecan",
+    "milk"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "yam",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "yam",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "yam",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cane_molasses",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "yam",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "milk",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "yam",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pecan",
+      "value": 33
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "yam",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

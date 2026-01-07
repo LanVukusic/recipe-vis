@@ -1,0 +1,112 @@
+{
+  "id": 12847,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "black_pepper",
+    "onion",
+    "cranberry"
+  ],
+  "score_avg": 15.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cranberry",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cranberry",
+      "value": 13
+    },
+    {
+      "x": "cranberry",
+      "y": "chicken",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "cranberry",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 11563,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "red_wine",
+    "black_pepper",
+    "fennel",
+    "carrot",
+    "garlic",
+    "porcini",
+    "tomato",
+    "onion",
+    "thyme",
+    "parsley"
+  ],
+  "score_avg": 6.848484848484849,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "porcini",
+      "value": 45
+    },
+    {
+      "x": "red_wine",
+      "y": "tomato",
+      "value": 62
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "porcini",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "fennel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "porcini",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "fennel",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "thyme",
+      "value": 4
+    },
+    {
+      "x": "fennel",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "porcini",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "parsley",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "porcini",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "porcini",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "red_wine",
+      "value": 45
+    },
+    {
+      "x": "porcini",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "porcini",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "porcini",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "porcini",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "porcini",
+      "y": "porcini",
+      "value": 0
+    },
+    {
+      "x": "porcini",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "porcini",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "porcini",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "porcini",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "red_wine",
+      "value": 62
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "fennel",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "porcini",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "porcini",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "thyme",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "fennel",
+      "value": 4
+    },
+    {
+      "x": "thyme",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "porcini",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "tomato",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "porcini",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 17.454545454545453
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 14.636363636363637
+    },
+    {
+      "ingredient": "porcini",
+      "mean": 13.909090909090908
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.181818181818182
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.636363636363637
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.2727272727272725
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.363636363636363
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

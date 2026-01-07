@@ -1,0 +1,72 @@
+{
+  "id": 46924,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_flake",
+    "apple",
+    "peanut_butter"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "peanut_butter",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "peanut_butter",
+      "value": 46
+    },
+    {
+      "x": "peanut_butter",
+      "y": "corn_flake",
+      "value": 2
+    },
+    {
+      "x": "peanut_butter",
+      "y": "apple",
+      "value": 46
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 1.0
+    }
+  ]
+}

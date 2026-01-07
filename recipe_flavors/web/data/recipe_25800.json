@@ -1,0 +1,72 @@
+{
+  "id": 25800,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "sassafras",
+    "cream"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "sassafras",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "sassafras",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "sassafras",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "sassafras",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "sassafras",
+      "mean": 0.0
+    }
+  ]
+}

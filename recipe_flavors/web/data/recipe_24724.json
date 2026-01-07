@@ -1,0 +1,112 @@
+{
+  "id": 24724,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "macaroni",
+    "basil"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

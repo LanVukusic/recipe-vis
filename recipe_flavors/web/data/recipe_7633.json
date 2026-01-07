@@ -1,0 +1,162 @@
+{
+  "id": 7633,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "vegetable",
+    "soy_sauce",
+    "black_pepper",
+    "salmon"
+  ],
+  "score_avg": 0.3,
+  "pair_coverage": 0.1,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "salmon",
+      "value": 3
+    },
+    {
+      "x": "salmon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

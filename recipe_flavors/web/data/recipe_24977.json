@@ -1,0 +1,72 @@
+{
+  "id": 24977,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "asparagus",
+    "garlic"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "asparagus",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "asparagus",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    }
+  ]
+}

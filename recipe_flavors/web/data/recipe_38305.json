@@ -1,0 +1,162 @@
+{
+  "id": 38305,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cream",
+    "lemon_juice",
+    "wheat",
+    "milk",
+    "pineapple"
+  ],
+  "score_avg": 6.2,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

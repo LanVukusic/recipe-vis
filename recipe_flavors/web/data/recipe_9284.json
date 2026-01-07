@@ -1,0 +1,112 @@
+{
+  "id": 9284,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "brandy",
+    "fig",
+    "bitter_orange",
+    "cream"
+  ],
+  "score_avg": 4.833333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "fig",
+      "value": 4
+    },
+    {
+      "x": "brandy",
+      "y": "bitter_orange",
+      "value": 1
+    },
+    {
+      "x": "brandy",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "fig",
+      "y": "brandy",
+      "value": 4
+    },
+    {
+      "x": "fig",
+      "y": "fig",
+      "value": 0
+    },
+    {
+      "x": "fig",
+      "y": "bitter_orange",
+      "value": 15
+    },
+    {
+      "x": "fig",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "bitter_orange",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "bitter_orange",
+      "y": "fig",
+      "value": 15
+    },
+    {
+      "x": "bitter_orange",
+      "y": "bitter_orange",
+      "value": 0
+    },
+    {
+      "x": "bitter_orange",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "fig",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "bitter_orange",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fig",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "bitter_orange",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "brandy",
+      "mean": 2.0
+    }
+  ]
+}

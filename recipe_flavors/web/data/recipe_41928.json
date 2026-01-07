@@ -1,0 +1,72 @@
+{
+  "id": 41928,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "grape",
+    "pork_sausage"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "pork_sausage",
+      "value": 33
+    },
+    {
+      "x": "pork_sausage",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "grape",
+      "value": 33
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

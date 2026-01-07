@@ -1,0 +1,42 @@
+{
+  "id": 17653,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "milk"
+  ],
+  "score_avg": 74.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 74.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 74.0
+    }
+  ]
+}

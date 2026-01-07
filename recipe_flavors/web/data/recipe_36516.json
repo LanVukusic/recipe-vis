@@ -1,0 +1,112 @@
+{
+  "id": 36516,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "orange_juice",
+    "banana",
+    "starch"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "mandarin",
+      "y": "banana",
+      "value": 22
+    },
+    {
+      "x": "mandarin",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "mandarin",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "banana",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "mandarin",
+      "value": 22
+    },
+    {
+      "x": "banana",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 24923,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "olive_oil",
+    "soybean",
+    "roasted_peanut"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "honey",
+      "y": "soybean",
+      "value": 29
+    },
+    {
+      "x": "honey",
+      "y": "roasted_peanut",
+      "value": 20
+    },
+    {
+      "x": "olive_oil",
+      "y": "honey",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "roasted_peanut",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "honey",
+      "value": 29
+    },
+    {
+      "x": "soybean",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "roasted_peanut",
+      "value": 88
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "soybean",
+      "value": 88
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 39.666666666666664
+    },
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "honey",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

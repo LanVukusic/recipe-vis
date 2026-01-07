@@ -1,0 +1,112 @@
+{
+  "id": 16377,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "roasted_sesame_seed",
+    "seed",
+    "almond"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "roasted_sesame_seed",
+      "value": 4
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "honey",
+      "value": 4
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "roasted_sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "honey",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "seed",
+      "mean": 0.0
+    }
+  ]
+}

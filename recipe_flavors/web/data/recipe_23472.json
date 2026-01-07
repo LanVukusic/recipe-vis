@@ -1,0 +1,112 @@
+{
+  "id": 23472,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "black_pepper",
+    "rosemary",
+    "garlic"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "lamb",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rosemary",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    }
+  ]
+}

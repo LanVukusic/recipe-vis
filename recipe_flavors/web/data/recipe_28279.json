@@ -1,0 +1,72 @@
+{
+  "id": 28279,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vanilla",
+    "egg"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 19561,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "concord_grape"
+  ],
+  "score_avg": 26.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "concord_grape",
+      "value": 26
+    },
+    {
+      "x": "concord_grape",
+      "y": "citrus",
+      "value": 26
+    },
+    {
+      "x": "concord_grape",
+      "y": "concord_grape",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "concord_grape",
+      "mean": 26.0
+    }
+  ]
+}

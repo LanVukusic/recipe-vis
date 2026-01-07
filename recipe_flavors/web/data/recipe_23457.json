@@ -1,0 +1,162 @@
+{
+  "id": 23457,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "pork",
+    "pecan",
+    "apple"
+  ],
+  "score_avg": 26.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pecan",
+      "value": 37
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pork",
+      "value": 37
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "apple",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "pecan",
+      "value": 25
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 39.75
+    },
+    {
+      "ingredient": "pork",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "apple",
+      "mean": 31.75
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

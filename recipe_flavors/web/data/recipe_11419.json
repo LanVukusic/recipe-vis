@@ -1,0 +1,162 @@
+{
+  "id": 11419,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "lemon_juice",
+    "sage",
+    "parsley"
+  ],
+  "score_avg": 1.1,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "sage",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parsley",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

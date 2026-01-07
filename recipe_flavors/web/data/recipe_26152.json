@@ -1,0 +1,72 @@
+{
+  "id": 26152,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "rice",
+    "onion"
+  ],
+  "score_avg": 28.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 18.0
+    }
+  ]
+}

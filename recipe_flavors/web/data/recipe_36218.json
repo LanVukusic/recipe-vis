@@ -1,0 +1,112 @@
+{
+  "id": 36218,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "onion",
+    "pork_sausage",
+    "potato"
+  ],
+  "score_avg": 34.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "potato",
+      "value": 54
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "pork_sausage",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "pork_sausage",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 39.666666666666664
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "onion",
+      "mean": 18.0
+    }
+  ]
+}

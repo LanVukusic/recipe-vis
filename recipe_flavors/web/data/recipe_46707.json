@@ -1,0 +1,42 @@
+{
+  "id": 46707,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "kale"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "kale",
+      "value": 2
+    },
+    {
+      "x": "kale",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "kale",
+      "y": "kale",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "kale",
+      "mean": 2.0
+    }
+  ]
+}

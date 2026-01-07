@@ -1,0 +1,112 @@
+{
+  "id": 40809,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cane_molasses",
+    "orange_juice",
+    "ham"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "ham",
+      "value": 8
+    },
+    {
+      "x": "cane_molasses",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "ham",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "ham",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

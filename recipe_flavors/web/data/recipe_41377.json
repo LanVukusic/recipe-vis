@@ -1,0 +1,112 @@
+{
+  "id": 41377,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "bean",
+    "chicken",
+    "potato"
+  ],
+  "score_avg": 44.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "chicken",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "potato",
+      "value": 33
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "potato",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 48.333333333333336
+    },
+    {
+      "ingredient": "potato",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "bean",
+      "mean": 38.333333333333336
+    }
+  ]
+}

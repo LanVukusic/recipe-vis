@@ -1,0 +1,72 @@
+{
+  "id": 34654,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "orange",
+    "rum"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "orange",
+      "value": 51
+    },
+    {
+      "x": "citrus",
+      "y": "rum",
+      "value": 15
+    },
+    {
+      "x": "orange",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "rum",
+      "value": 42
+    },
+    {
+      "x": "rum",
+      "y": "citrus",
+      "value": 15
+    },
+    {
+      "x": "rum",
+      "y": "orange",
+      "value": 42
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 46.5
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 28.5
+    }
+  ]
+}

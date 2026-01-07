@@ -1,0 +1,72 @@
+{
+  "id": 30828,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "coffee",
+    "hazelnut"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "coffee",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "hazelnut",
+      "value": 4
+    },
+    {
+      "x": "coffee",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "hazelnut",
+      "value": 5
+    },
+    {
+      "x": "hazelnut",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "hazelnut",
+      "y": "coffee",
+      "value": 5
+    },
+    {
+      "x": "hazelnut",
+      "y": "hazelnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.5
+    },
+    {
+      "ingredient": "hazelnut",
+      "mean": 4.5
+    }
+  ]
+}

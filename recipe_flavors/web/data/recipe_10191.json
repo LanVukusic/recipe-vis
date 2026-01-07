@@ -1,0 +1,162 @@
+{
+  "id": 10191,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "honey",
+    "seed",
+    "garlic",
+    "milk"
+  ],
+  "score_avg": 6.8,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "yogurt",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "honey",
+      "y": "yogurt",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "seed",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.0
+    }
+  ]
+}

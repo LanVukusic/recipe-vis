@@ -1,0 +1,162 @@
+{
+  "id": 31919,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg_noodle",
+    "chicken",
+    "garlic",
+    "black_pepper",
+    "mushroom"
+  ],
+  "score_avg": 8.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "garlic",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 17.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 1.0
+    }
+  ]
+}

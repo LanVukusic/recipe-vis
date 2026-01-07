@@ -1,0 +1,72 @@
+{
+  "id": 37507,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "scallop",
+    "lemon",
+    "bacon"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "scallop",
+      "y": "bacon",
+      "value": 29
+    },
+    {
+      "x": "lemon",
+      "y": "scallop",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "bacon",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "scallop",
+      "value": 29
+    },
+    {
+      "x": "bacon",
+      "y": "lemon",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 14.0
+    }
+  ]
+}

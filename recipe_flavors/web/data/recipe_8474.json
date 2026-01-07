@@ -1,0 +1,162 @@
+{
+  "id": 8474,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "nut",
+    "currant",
+    "endive",
+    "garlic"
+  ],
+  "score_avg": 1.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "endive",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "currant",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "endive",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "currant",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "currant",
+      "y": "currant",
+      "value": 0
+    },
+    {
+      "x": "currant",
+      "y": "endive",
+      "value": 4
+    },
+    {
+      "x": "currant",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "endive",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "endive",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "endive",
+      "y": "currant",
+      "value": 4
+    },
+    {
+      "x": "endive",
+      "y": "endive",
+      "value": 0
+    },
+    {
+      "x": "endive",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "currant",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "endive",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "endive",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "currant",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "nut",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

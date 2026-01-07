@@ -1,0 +1,292 @@
+{
+  "id": 17321,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "brandy",
+    "cinnamon",
+    "orange",
+    "red_wine",
+    "ginger",
+    "white_wine"
+  ],
+  "score_avg": 22.523809523809526,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "brandy",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "brandy",
+      "y": "orange",
+      "value": 4
+    },
+    {
+      "x": "brandy",
+      "y": "red_wine",
+      "value": 18
+    },
+    {
+      "x": "brandy",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "brandy",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange",
+      "value": 21
+    },
+    {
+      "x": "cinnamon",
+      "y": "red_wine",
+      "value": 12
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "white_wine",
+      "value": 14
+    },
+    {
+      "x": "orange",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "brandy",
+      "value": 4
+    },
+    {
+      "x": "orange",
+      "y": "cinnamon",
+      "value": 21
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "red_wine",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "white_wine",
+      "value": 51
+    },
+    {
+      "x": "red_wine",
+      "y": "cane_molasses",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "brandy",
+      "value": 18
+    },
+    {
+      "x": "red_wine",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "red_wine",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "red_wine",
+      "y": "white_wine",
+      "value": 155
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "brandy",
+      "value": 4
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "red_wine",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "white_wine",
+      "value": 34
+    },
+    {
+      "x": "white_wine",
+      "y": "cane_molasses",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "brandy",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "cinnamon",
+      "value": 14
+    },
+    {
+      "x": "white_wine",
+      "y": "orange",
+      "value": 51
+    },
+    {
+      "x": "white_wine",
+      "y": "red_wine",
+      "value": 155
+    },
+    {
+      "x": "white_wine",
+      "y": "ginger",
+      "value": 34
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 45.833333333333336
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 42.833333333333336
+    },
+    {
+      "ingredient": "orange",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 21.833333333333332
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 11.833333333333334
+    },
+    {
+      "ingredient": "brandy",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

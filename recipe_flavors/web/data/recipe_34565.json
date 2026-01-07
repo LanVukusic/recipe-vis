@@ -1,0 +1,42 @@
+{
+  "id": 34565,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "onion"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 18.0
+    }
+  ]
+}

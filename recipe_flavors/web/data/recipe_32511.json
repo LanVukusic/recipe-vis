@@ -1,0 +1,112 @@
+{
+  "id": 32511,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peanut",
+    "milk",
+    "peanut_butter",
+    "cream"
+  ],
+  "score_avg": 43.833333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "peanut",
+      "y": "peanut_butter",
+      "value": 97
+    },
+    {
+      "x": "peanut",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "milk",
+      "y": "peanut",
+      "value": 48
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut_butter",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut",
+      "value": 97
+    },
+    {
+      "x": "peanut_butter",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cream",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "peanut",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "peanut_butter",
+      "value": 19
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 58.333333333333336
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 54.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 43.333333333333336
+    },
+    {
+      "ingredient": "cream",
+      "mean": 19.666666666666668
+    }
+  ]
+}

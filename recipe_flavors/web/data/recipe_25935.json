@@ -1,0 +1,162 @@
+{
+  "id": 25935,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "cheddar_cheese",
+    "wheat",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 15.4,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheddar_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.75
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

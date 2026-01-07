@@ -1,0 +1,112 @@
+{
+  "id": 17161,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_peel_oil",
+    "lemon",
+    "peach",
+    "cranberry"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "peach",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cranberry",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "peach",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "peach",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "peach",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cranberry",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "lime_peel_oil",
+      "value": 2
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "peach",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 1.0
+    }
+  ]
+}

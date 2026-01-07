@@ -1,0 +1,112 @@
+{
+  "id": 34944,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "lemon_juice",
+    "mustard"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

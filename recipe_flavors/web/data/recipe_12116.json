@@ -1,0 +1,292 @@
+{
+  "id": 12116,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pork",
+    "wheat",
+    "smoke",
+    "corn_grit",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 9.476190476190476,
+  "pair_coverage": 0.5238095238095238,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn_grit",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn_grit",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "pork",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "pork",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "corn_grit",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "pork",
+      "mean": 19.833333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 12.833333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 17487,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "orange_juice",
+    "salmon"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "salmon",
+      "value": 11
+    },
+    {
+      "x": "orange_juice",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "salmon",
+      "value": 10
+    },
+    {
+      "x": "salmon",
+      "y": "dill",
+      "value": 11
+    },
+    {
+      "x": "salmon",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "salmon",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "dill",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 6.5
+    }
+  ]
+}

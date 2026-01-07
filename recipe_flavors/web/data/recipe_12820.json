@@ -1,0 +1,792 @@
+{
+  "id": 12820,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "onion",
+    "mushroom",
+    "yeast",
+    "black_pepper",
+    "thyme",
+    "vegetable",
+    "beer",
+    "nutmeg",
+    "savory",
+    "egg"
+  ],
+  "score_avg": 6.924242424242424,
+  "pair_coverage": 0.45454545454545453,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "beer",
+      "value": 77
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "beer",
+      "value": 28
+    },
+    {
+      "x": "onion",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "beer",
+      "value": 62
+    },
+    {
+      "x": "mushroom",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beer",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "nutmeg",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "beer",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "nutmeg",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beer",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "butter",
+      "value": 77
+    },
+    {
+      "x": "beer",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "onion",
+      "value": 28
+    },
+    {
+      "x": "beer",
+      "y": "mushroom",
+      "value": 62
+    },
+    {
+      "x": "beer",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "beer",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "beer",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "nutmeg",
+      "value": 12
+    },
+    {
+      "x": "beer",
+      "y": "savory",
+      "value": 1
+    },
+    {
+      "x": "beer",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "mushroom",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "nutmeg",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "nutmeg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "beer",
+      "value": 12
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "savory",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "beer",
+      "value": 1
+    },
+    {
+      "x": "savory",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "thyme",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beer",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 20.90909090909091
+    },
+    {
+      "ingredient": "butter",
+      "mean": 17.272727272727273
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 16.181818181818183
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.818181818181818
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.090909090909091
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 3.6363636363636362
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.0
+    }
+  ]
+}

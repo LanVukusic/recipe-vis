@@ -1,0 +1,112 @@
+{
+  "id": 11005,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "lemon",
+    "brussels_sprout",
+    "root"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "lemon",
+      "value": 19
+    },
+    {
+      "x": "bacon",
+      "y": "brussels_sprout",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "bacon",
+      "value": 19
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "brussels_sprout",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "brussels_sprout",
+      "y": "root",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "brussels_sprout",
+      "value": 0
+    },
+    {
+      "x": "root",
+      "y": "root",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "brussels_sprout",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "root",
+      "mean": 0.0
+    }
+  ]
+}

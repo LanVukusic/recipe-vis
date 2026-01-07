@@ -1,0 +1,222 @@
+{
+  "id": 9091,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "onion",
+    "chicken_broth",
+    "sage",
+    "squash",
+    "parmesan_cheese"
+  ],
+  "score_avg": 7.933333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "parmesan_cheese",
+      "value": 3
+    },
+    {
+      "x": "squash",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 20.6
+    },
+    {
+      "ingredient": "butter",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.2
+    },
+    {
+      "ingredient": "sage",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

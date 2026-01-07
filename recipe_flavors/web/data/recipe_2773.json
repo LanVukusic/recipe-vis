@@ -1,0 +1,792 @@
+{
+  "id": 2773,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "beef",
+    "mushroom",
+    "starch",
+    "soy_sauce",
+    "onion",
+    "sesame_oil",
+    "carrot",
+    "sesame_seed",
+    "vegetable",
+    "vegetable_oil",
+    "mustard"
+  ],
+  "score_avg": 3.4242424242424243,
+  "pair_coverage": 0.4393939393939394,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "sesame_oil",
+      "value": 3
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "sesame_seed",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "mustard",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "sesame_seed",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "beef",
+      "value": 3
+    },
+    {
+      "x": "sesame_oil",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "sesame_seed",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "sesame_seed",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "mustard",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "sesame_seed",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 13.636363636363637
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 10.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.545454545454546
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

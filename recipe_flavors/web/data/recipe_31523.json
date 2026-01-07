@@ -1,0 +1,42 @@
+{
+  "id": 31523,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "shrimp"
+  ],
+  "score_avg": 38.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "bacon",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 38.0
+    }
+  ]
+}

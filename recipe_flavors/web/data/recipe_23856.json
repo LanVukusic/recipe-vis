@@ -1,0 +1,72 @@
+{
+  "id": 23856,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "whiskey",
+    "apple",
+    "cranberry"
+  ],
+  "score_avg": 48.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "apple",
+      "value": 58
+    },
+    {
+      "x": "whiskey",
+      "y": "cranberry",
+      "value": 29
+    },
+    {
+      "x": "apple",
+      "y": "whiskey",
+      "value": 58
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cranberry",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "whiskey",
+      "value": 29
+    },
+    {
+      "x": "cranberry",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 58.5
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 43.5
+    }
+  ]
+}

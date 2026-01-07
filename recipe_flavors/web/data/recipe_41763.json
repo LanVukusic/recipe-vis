@@ -1,0 +1,112 @@
+{
+  "id": 41763,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "corn",
+    "garlic",
+    "beef"
+  ],
+  "score_avg": 15.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "corn",
+      "value": 17
+    },
+    {
+      "x": "dill",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "corn",
+      "y": "dill",
+      "value": 17
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "beef",
+      "value": 51
+    },
+    {
+      "x": "garlic",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "dill",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "beef",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "dill",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    }
+  ]
+}

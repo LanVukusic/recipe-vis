@@ -1,0 +1,112 @@
+{
+  "id": 41076,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "swiss_cheese",
+    "crab",
+    "cream_cheese",
+    "scallion"
+  ],
+  "score_avg": 28.833333333333332,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "swiss_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "crab",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "swiss_cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "crab",
+      "value": 23
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "crab",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

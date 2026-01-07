@@ -1,0 +1,72 @@
+{
+  "id": 30328,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "almond",
+    "cream_cheese",
+    "blue_cheese"
+  ],
+  "score_avg": 46.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "blue_cheese",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "blue_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "blue_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 67.0
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 67.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 4.0
+    }
+  ]
+}

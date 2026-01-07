@@ -1,0 +1,42 @@
+{
+  "id": 920,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "soy_sauce",
+    "wine"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soy_sauce",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 2.0
+    }
+  ]
+}

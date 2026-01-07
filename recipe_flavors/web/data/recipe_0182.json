@@ -1,0 +1,162 @@
+{
+  "id": 182,
+  "cuisine": "African",
+  "ingredients": [
+    "pistachio",
+    "mint",
+    "lemon_juice",
+    "wheat",
+    "olive_oil"
+  ],
+  "score_avg": 0.4,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "pistachio",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "pistachio",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "pistachio",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mint",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "pistachio",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 27965,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "soy_sauce",
+    "mushroom"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "soy_sauce",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 1.5
+    }
+  ]
+}

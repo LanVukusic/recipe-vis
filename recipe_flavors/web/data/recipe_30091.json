@@ -1,0 +1,72 @@
+{
+  "id": 30091,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "feta_cheese",
+    "fish",
+    "mushroom"
+  ],
+  "score_avg": 39.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "fish",
+      "value": 34
+    },
+    {
+      "x": "feta_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "fish",
+      "y": "feta_cheese",
+      "value": 34
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "mushroom",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "fish",
+      "value": 31
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "feta_cheese",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 41.5
+    },
+    {
+      "ingredient": "fish",
+      "mean": 32.5
+    }
+  ]
+}

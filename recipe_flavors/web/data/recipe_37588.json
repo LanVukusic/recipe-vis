@@ -1,0 +1,72 @@
+{
+  "id": 37588,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "basil",
+    "cream"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.5
+    }
+  ]
+}

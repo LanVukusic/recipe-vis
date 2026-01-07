@@ -1,0 +1,562 @@
+{
+  "id": 27631,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "mushroom",
+    "soy_sauce",
+    "mozzarella_cheese",
+    "garlic",
+    "vegetable_oil",
+    "basil",
+    "macaroni",
+    "milk"
+  ],
+  "score_avg": 8.933333333333334,
+  "pair_coverage": 0.5333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "soy_sauce",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "butter",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mozzarella_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 22.11111111111111
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 21.77777777777778
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.2222222222222223
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.2222222222222223
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7777777777777778
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5555555555555556
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.4444444444444444
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2222222222222222
+    }
+  ]
+}

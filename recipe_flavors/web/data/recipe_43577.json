@@ -1,0 +1,162 @@
+{
+  "id": 43577,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "chicken_broth",
+    "macaroni",
+    "bell_pepper",
+    "onion"
+  ],
+  "score_avg": 3.9,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bacon",
+      "value": 10
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 8.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

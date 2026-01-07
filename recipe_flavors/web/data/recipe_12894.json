@@ -1,0 +1,72 @@
+{
+  "id": 12894,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "carrot",
+    "raisin",
+    "cream"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "raisin",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "carrot",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 3.5
+    }
+  ]
+}

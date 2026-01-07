@@ -1,0 +1,162 @@
+{
+  "id": 41939,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "fruit",
+    "milk",
+    "cream_cheese",
+    "banana"
+  ],
+  "score_avg": 21.7,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "cream_cheese",
+      "value": 14
+    },
+    {
+      "x": "cherry",
+      "y": "banana",
+      "value": 27
+    },
+    {
+      "x": "fruit",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "banana",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cherry",
+      "value": 14
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "banana",
+      "value": 48
+    },
+    {
+      "x": "banana",
+      "y": "cherry",
+      "value": 27
+    },
+    {
+      "x": "banana",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "cream_cheese",
+      "value": 48
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 5.0
+    }
+  ]
+}

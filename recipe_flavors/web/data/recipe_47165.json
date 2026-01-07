@@ -1,0 +1,72 @@
+{
+  "id": 47165,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "pea",
+    "mushroom"
+  ],
+  "score_avg": 38.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pea",
+      "value": 32
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "pea",
+      "y": "chicken",
+      "value": 32
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "mushroom",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "pea",
+      "value": 29
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 43.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "pea",
+      "mean": 30.5
+    }
+  ]
+}

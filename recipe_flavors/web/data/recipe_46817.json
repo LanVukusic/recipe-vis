@@ -1,0 +1,72 @@
+{
+  "id": 46817,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "raisin",
+    "sweet_potato"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "sweet_potato",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "sweet_potato",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "sweet_potato",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raisin",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 2.5
+    }
+  ]
+}

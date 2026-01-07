@@ -1,0 +1,292 @@
+{
+  "id": 27988,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "cinnamon",
+    "vegetable_oil",
+    "nutmeg",
+    "orange_juice",
+    "raisin",
+    "milk"
+  ],
+  "score_avg": 3.5714285714285716,
+  "pair_coverage": 0.5238095238095238,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "raisin",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "milk",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 5.833333333333333
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

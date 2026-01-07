@@ -1,0 +1,372 @@
+{
+  "id": 43296,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "apple",
+    "carrot",
+    "mozzarella_cheese",
+    "vegetable_oil",
+    "tuna",
+    "egg",
+    "blueberry"
+  ],
+  "score_avg": 13.607142857142858,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tuna",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "carrot",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "mozzarella_cheese",
+      "value": 73
+    },
+    {
+      "x": "apple",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "tuna",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "apple",
+      "y": "blueberry",
+      "value": 40
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "apple",
+      "value": 19
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mozzarella_cheese",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "tuna",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "apple",
+      "value": 73
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tuna",
+      "value": 43
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "blueberry",
+      "value": 28
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "blueberry",
+      "value": 1
+    },
+    {
+      "x": "tuna",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tuna",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "tuna",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "tuna",
+      "y": "mozzarella_cheese",
+      "value": 43
+    },
+    {
+      "x": "tuna",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tuna",
+      "y": "blueberry",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "apple",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "tuna",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "blueberry",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "blueberry",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "blueberry",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "blueberry",
+      "y": "tuna",
+      "value": 20
+    },
+    {
+      "x": "blueberry",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 26.142857142857142
+    },
+    {
+      "ingredient": "apple",
+      "mean": 25.571428571428573
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 18.714285714285715
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 16.428571428571427
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.571428571428571
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.714285714285714
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.42857142857142855
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

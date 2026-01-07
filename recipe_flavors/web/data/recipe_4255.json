@@ -1,0 +1,162 @@
+{
+  "id": 4255,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "garlic",
+    "scallion",
+    "cheddar_cheese",
+    "cayenne",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 1.8,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.25
+    }
+  ]
+}

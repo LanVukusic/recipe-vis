@@ -1,0 +1,162 @@
+{
+  "id": 7509,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "garlic",
+    "oat",
+    "black_pepper",
+    "parmesan_cheese"
+  ],
+  "score_avg": 4.7,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oat",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oat",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "oat",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "oat",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oat",
+      "y": "parmesan_cheese",
+      "value": 25
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "oat",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "oat",
+      "value": 25
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "oat",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

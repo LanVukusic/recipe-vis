@@ -1,0 +1,42 @@
+{
+  "id": 10007,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "black_pepper"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.0
+    }
+  ]
+}

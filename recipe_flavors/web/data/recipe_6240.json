@@ -1,0 +1,162 @@
+{
+  "id": 6240,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "olive_oil",
+    "rosemary",
+    "rose",
+    "garlic",
+    "potato"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rose",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "rose",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "rose",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rose",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rose",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "rose",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "rose",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    }
+  ]
+}

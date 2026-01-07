@@ -1,0 +1,72 @@
+{
+  "id": 3342,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "olive_oil",
+    "lime_juice",
+    "nutmeg"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

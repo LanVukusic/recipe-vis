@@ -1,0 +1,162 @@
+{
+  "id": 35000,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cocoa",
+    "peanut_butter",
+    "cereal",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 20.2,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "peanut_butter",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "cocoa",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "whole_grain_wheat_flour",
+      "value": 2
+    },
+    {
+      "x": "cereal",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "peanut_butter",
+      "value": 2
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 37.25
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.25
+    }
+  ]
+}

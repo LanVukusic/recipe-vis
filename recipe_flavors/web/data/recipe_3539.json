@@ -1,0 +1,222 @@
+{
+  "id": 3539,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "mozzarella_cheese",
+    "vegetable_oil",
+    "corn",
+    "milk"
+  ],
+  "score_avg": 22.266666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "mozzarella_cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mozzarella_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 36.8
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 35.6
+    },
+    {
+      "ingredient": "butter",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "corn",
+      "mean": 24.8
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2
+    }
+  ]
+}

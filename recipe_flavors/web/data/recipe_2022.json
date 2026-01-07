@@ -1,0 +1,222 @@
+{
+  "id": 2022,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "bone_oil",
+    "wheat",
+    "beef",
+    "garlic",
+    "black_pepper",
+    "scallion"
+  ],
+  "score_avg": 1.4666666666666666,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "bone_oil",
+      "y": "bone_oil",
+      "value": 0
+    },
+    {
+      "x": "bone_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bone_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "bone_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "bone_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "bone_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bone_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bone_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bone_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bone_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bone_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.2
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.2
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "bone_oil",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.2
+    }
+  ]
+}

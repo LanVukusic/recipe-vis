@@ -1,0 +1,162 @@
+{
+  "id": 15021,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "vegetable_oil",
+    "pepper",
+    "lemon",
+    "corn"
+  ],
+  "score_avg": 10.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "tomato",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "corn",
+      "value": 17
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 14.25
+    },
+    {
+      "ingredient": "corn",
+      "mean": 13.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 6.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

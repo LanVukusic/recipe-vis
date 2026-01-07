@@ -1,0 +1,162 @@
+{
+  "id": 45376,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "mango",
+    "salmon",
+    "cheese"
+  ],
+  "score_avg": 28.2,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mango",
+      "value": 52
+    },
+    {
+      "x": "butter",
+      "y": "salmon",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mango",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "mango",
+      "y": "butter",
+      "value": 52
+    },
+    {
+      "x": "mango",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "salmon",
+      "value": 32
+    },
+    {
+      "x": "mango",
+      "y": "cheese",
+      "value": 45
+    },
+    {
+      "x": "salmon",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "salmon",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "mango",
+      "value": 32
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "cheese",
+      "value": 42
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "mango",
+      "value": 45
+    },
+    {
+      "x": "cheese",
+      "y": "salmon",
+      "value": 42
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 37.75
+    },
+    {
+      "ingredient": "mango",
+      "mean": 32.5
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 29.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

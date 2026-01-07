@@ -1,0 +1,162 @@
+{
+  "id": 39723,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pepper",
+    "meat",
+    "soy_sauce",
+    "cabbage"
+  ],
+  "score_avg": 6.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "meat",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "cabbage",
+      "value": 20
+    },
+    {
+      "x": "pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "meat",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "cabbage",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "meat",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "meat",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.75
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 33222,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "bread"
+  ],
+  "score_avg": 41.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 46.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 30.5
+    }
+  ]
+}

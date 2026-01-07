@@ -1,0 +1,112 @@
+{
+  "id": 27205,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "chicken",
+    "macaroni",
+    "egg"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

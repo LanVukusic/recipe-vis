@@ -1,0 +1,112 @@
+{
+  "id": 35482,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "honey",
+    "red_wine",
+    "wine"
+  ],
+  "score_avg": 42.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lamb",
+      "y": "red_wine",
+      "value": 28
+    },
+    {
+      "x": "lamb",
+      "y": "wine",
+      "value": 28
+    },
+    {
+      "x": "honey",
+      "y": "lamb",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "red_wine",
+      "value": 32
+    },
+    {
+      "x": "honey",
+      "y": "wine",
+      "value": 29
+    },
+    {
+      "x": "red_wine",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "red_wine",
+      "y": "honey",
+      "value": 32
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "lamb",
+      "value": 28
+    },
+    {
+      "x": "wine",
+      "y": "honey",
+      "value": 29
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 62.666666666666664
+    },
+    {
+      "ingredient": "wine",
+      "mean": 61.666666666666664
+    },
+    {
+      "ingredient": "honey",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 21.666666666666668
+    }
+  ]
+}

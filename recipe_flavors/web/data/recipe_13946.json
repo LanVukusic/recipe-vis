@@ -1,0 +1,792 @@
+{
+  "id": 13946,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "marjoram",
+    "sage",
+    "nut",
+    "bacon",
+    "fennel",
+    "garlic",
+    "mozzarella_cheese",
+    "pork_sausage",
+    "bread",
+    "butter",
+    "celery"
+  ],
+  "score_avg": 11.651515151515152,
+  "pair_coverage": 0.8181818181818182,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "marjoram",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "bacon",
+      "value": 3
+    },
+    {
+      "x": "marjoram",
+      "y": "fennel",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "pork_sausage",
+      "value": 3
+    },
+    {
+      "x": "marjoram",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "marjoram",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "sage",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "marjoram",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "sage",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "celery",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "celery",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "marjoram",
+      "value": 3
+    },
+    {
+      "x": "bacon",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "bacon",
+      "y": "pork_sausage",
+      "value": 119
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "fennel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "fennel",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "fennel",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "celery",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "pork_sausage",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "celery",
+      "value": 3
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bacon",
+      "value": 59
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "pork_sausage",
+      "value": 59
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "marjoram",
+      "value": 3
+    },
+    {
+      "x": "pork_sausage",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bacon",
+      "value": 119
+    },
+    {
+      "x": "pork_sausage",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "pork_sausage",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "mozzarella_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "pork_sausage",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "marjoram",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "sage",
+      "value": 5
+    },
+    {
+      "x": "celery",
+      "y": "nut",
+      "value": 2
+    },
+    {
+      "x": "celery",
+      "y": "bacon",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "fennel",
+      "value": 5
+    },
+    {
+      "x": "celery",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "celery",
+      "y": "mozzarella_cheese",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "pork_sausage",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 27.90909090909091
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 27.818181818181817
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 23.454545454545453
+    },
+    {
+      "ingredient": "butter",
+      "mean": 23.09090909090909
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.363636363636363
+    },
+    {
+      "ingredient": "celery",
+      "mean": 11.090909090909092
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.7272727272727273
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.5454545454545454
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5454545454545454
+    }
+  ]
+}

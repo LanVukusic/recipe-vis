@@ -1,0 +1,112 @@
+{
+  "id": 40284,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nutmeg",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 12.166666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.0
+    }
+  ]
+}

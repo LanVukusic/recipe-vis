@@ -1,0 +1,72 @@
+{
+  "id": 49976,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "olive_oil",
+    "red_wine",
+    "thyme"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

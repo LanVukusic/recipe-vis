@@ -1,0 +1,112 @@
+{
+  "id": 38450,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "artichoke",
+    "mushroom",
+    "wine"
+  ],
+  "score_avg": 23.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "artichoke",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "artichoke",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "artichoke",
+      "value": 0
+    },
+    {
+      "x": "artichoke",
+      "y": "mushroom",
+      "value": 3
+    },
+    {
+      "x": "artichoke",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "artichoke",
+      "value": 3
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "chicken",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "artichoke",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "mushroom",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "wine",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "artichoke",
+      "mean": 2.6666666666666665
+    }
+  ]
+}

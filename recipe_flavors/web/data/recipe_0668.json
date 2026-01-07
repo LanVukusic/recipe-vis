@@ -1,0 +1,72 @@
+{
+  "id": 668,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "soy_sauce",
+    "wine"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

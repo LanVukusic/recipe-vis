@@ -1,0 +1,72 @@
+{
+  "id": 19286,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tuna",
+    "garlic",
+    "onion"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tuna",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "tuna",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "tuna",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 10.0
+    }
+  ]
+}

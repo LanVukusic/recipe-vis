@@ -1,0 +1,562 @@
+{
+  "id": 30003,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "coconut",
+    "wheat",
+    "macadamia_nut",
+    "rum",
+    "cocoa",
+    "pineapple",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 19.8,
+  "pair_coverage": 0.7333333333333333,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "macadamia_nut",
+      "value": 13
+    },
+    {
+      "x": "butter",
+      "y": "rum",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "butter",
+      "y": "pineapple",
+      "value": 36
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "coconut",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "macadamia_nut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "butter",
+      "value": 34
+    },
+    {
+      "x": "coconut",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "macadamia_nut",
+      "value": 6
+    },
+    {
+      "x": "coconut",
+      "y": "rum",
+      "value": 34
+    },
+    {
+      "x": "coconut",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "coconut",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "coconut",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "coconut",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "macadamia_nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "butter",
+      "value": 13
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "coconut",
+      "value": 6
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "macadamia_nut",
+      "value": 0
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "rum",
+      "value": 13
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "macadamia_nut",
+      "y": "milk",
+      "value": 12
+    },
+    {
+      "x": "rum",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "rum",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "rum",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "macadamia_nut",
+      "value": 13
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "cocoa",
+      "value": 74
+    },
+    {
+      "x": "rum",
+      "y": "pineapple",
+      "value": 51
+    },
+    {
+      "x": "rum",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "coconut",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "macadamia_nut",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "rum",
+      "value": 74
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "pineapple",
+      "value": 47
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "pineapple",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "pineapple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "macadamia_nut",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "rum",
+      "value": 51
+    },
+    {
+      "x": "pineapple",
+      "y": "cocoa",
+      "value": 47
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "egg",
+      "value": 12
+    },
+    {
+      "x": "pineapple",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "coconut",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "macadamia_nut",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "rum",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "pineapple",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coconut",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "macadamia_nut",
+      "value": 12
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 35.44444444444444
+    },
+    {
+      "ingredient": "butter",
+      "mean": 33.55555555555556
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 32.55555555555556
+    },
+    {
+      "ingredient": "milk",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.88888888888889
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.11111111111111
+    },
+    {
+      "ingredient": "macadamia_nut",
+      "mean": 8.222222222222221
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.4444444444444444
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

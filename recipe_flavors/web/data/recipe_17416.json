@@ -1,0 +1,112 @@
+{
+  "id": 17416,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "egg",
+    "coffee",
+    "wheat"
+  ],
+  "score_avg": 26.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "coffee",
+      "value": 95
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "coffee",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cocoa",
+      "value": 95
+    },
+    {
+      "x": "coffee",
+      "y": "egg",
+      "value": 37
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

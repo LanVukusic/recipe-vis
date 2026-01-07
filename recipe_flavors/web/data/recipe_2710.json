@@ -1,0 +1,112 @@
+{
+  "id": 2710,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "rice",
+    "raisin",
+    "almond",
+    "green_tea"
+  ],
+  "score_avg": 13.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "green_tea",
+      "value": 48
+    },
+    {
+      "x": "raisin",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "raisin",
+      "y": "green_tea",
+      "value": 17
+    },
+    {
+      "x": "almond",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "raisin",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "green_tea",
+      "value": 4
+    },
+    {
+      "x": "green_tea",
+      "y": "rice",
+      "value": 48
+    },
+    {
+      "x": "green_tea",
+      "y": "raisin",
+      "value": 17
+    },
+    {
+      "x": "green_tea",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_tea",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

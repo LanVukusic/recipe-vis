@@ -1,0 +1,222 @@
+{
+  "id": 12569,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "garlic",
+    "onion",
+    "bread",
+    "pork",
+    "milk"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 0.9333333333333333,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "pork",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "milk",
+      "y": "pork",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "pork",
+      "mean": 21.8
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.4
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.2
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.4
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.2
+    }
+  ]
+}

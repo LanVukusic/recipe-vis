@@ -1,0 +1,162 @@
+{
+  "id": 23654,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tea",
+    "lemon_juice",
+    "blueberry",
+    "banana",
+    "apple"
+  ],
+  "score_avg": 30.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "tea",
+      "y": "blueberry",
+      "value": 39
+    },
+    {
+      "x": "tea",
+      "y": "banana",
+      "value": 39
+    },
+    {
+      "x": "tea",
+      "y": "apple",
+      "value": 68
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tea",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "tea",
+      "value": 39
+    },
+    {
+      "x": "blueberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "blueberry",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "banana",
+      "y": "tea",
+      "value": 39
+    },
+    {
+      "x": "banana",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "blueberry",
+      "value": 29
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "apple",
+      "value": 85
+    },
+    {
+      "x": "apple",
+      "y": "tea",
+      "value": 68
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "blueberry",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "banana",
+      "value": 85
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 48.25
+    },
+    {
+      "ingredient": "banana",
+      "mean": 38.25
+    },
+    {
+      "ingredient": "tea",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

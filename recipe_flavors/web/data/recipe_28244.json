@@ -1,0 +1,42 @@
+{
+  "id": 28244,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

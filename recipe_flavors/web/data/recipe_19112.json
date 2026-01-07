@@ -1,0 +1,162 @@
+{
+  "id": 19112,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "vegetable_oil",
+    "vanilla",
+    "oat",
+    "banana"
+  ],
+  "score_avg": 4.8,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "banana",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "oat",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "banana",
+      "value": 21
+    },
+    {
+      "x": "oat",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "banana",
+      "value": 15
+    },
+    {
+      "x": "banana",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "banana",
+      "y": "vanilla",
+      "value": 21
+    },
+    {
+      "x": "banana",
+      "y": "oat",
+      "value": 15
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "oat",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "date",
+      "mean": 0.0
+    }
+  ]
+}

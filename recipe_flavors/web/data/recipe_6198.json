@@ -1,0 +1,112 @@
+{
+  "id": 6198,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "yogurt",
+    "mint",
+    "beef",
+    "onion"
+  ],
+  "score_avg": 13.166666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "yogurt",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "yogurt",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "yogurt",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "mint",
+      "mean": 3.6666666666666665
+    }
+  ]
+}

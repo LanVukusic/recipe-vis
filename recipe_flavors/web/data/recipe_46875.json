@@ -1,0 +1,112 @@
+{
+  "id": 46875,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "red_wine",
+    "lime",
+    "pineapple"
+  ],
+  "score_avg": 37.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "red_wine",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "lime",
+      "value": 56
+    },
+    {
+      "x": "orange",
+      "y": "pineapple",
+      "value": 37
+    },
+    {
+      "x": "red_wine",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "lime",
+      "value": 19
+    },
+    {
+      "x": "red_wine",
+      "y": "pineapple",
+      "value": 55
+    },
+    {
+      "x": "lime",
+      "y": "orange",
+      "value": 56
+    },
+    {
+      "x": "lime",
+      "y": "red_wine",
+      "value": 19
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "orange",
+      "value": 37
+    },
+    {
+      "x": "pineapple",
+      "y": "red_wine",
+      "value": 55
+    },
+    {
+      "x": "pineapple",
+      "y": "lime",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 30.333333333333332
+    }
+  ]
+}

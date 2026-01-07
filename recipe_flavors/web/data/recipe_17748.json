@@ -1,0 +1,162 @@
+{
+  "id": 17748,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "ham",
+    "swiss_cheese",
+    "mustard",
+    "onion",
+    "bread"
+  ],
+  "score_avg": 15.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "swiss_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "swiss_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "swiss_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 24.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "ham",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.5
+    }
+  ]
+}

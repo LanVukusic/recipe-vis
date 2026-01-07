@@ -1,0 +1,42 @@
+{
+  "id": 21265,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "rosemary"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 1.0
+    }
+  ]
+}

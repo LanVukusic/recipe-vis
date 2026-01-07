@@ -1,0 +1,72 @@
+{
+  "id": 5269,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheese",
+    "wheat",
+    "cayenne"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

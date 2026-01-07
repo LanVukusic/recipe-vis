@@ -1,0 +1,42 @@
+{
+  "id": 7112,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "nut"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 0.0
+    }
+  ]
+}

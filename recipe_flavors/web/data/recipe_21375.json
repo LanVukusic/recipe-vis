@@ -1,0 +1,112 @@
+{
+  "id": 21375,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "pepper",
+    "red_wine",
+    "onion"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "turkey",
+      "y": "red_wine",
+      "value": 23
+    },
+    {
+      "x": "turkey",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "pepper",
+      "y": "turkey",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "turkey",
+      "value": 23
+    },
+    {
+      "x": "red_wine",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "turkey",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "turkey",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    }
+  ]
+}

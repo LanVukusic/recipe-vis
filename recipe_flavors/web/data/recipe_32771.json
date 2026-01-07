@@ -1,0 +1,372 @@
+{
+  "id": 32771,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "wheat",
+    "cherry",
+    "walnut",
+    "pineapple",
+    "mint",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 4.857142857142857,
+  "pair_coverage": 0.6785714285714286,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cherry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "cherry",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "cherry",
+      "y": "mint",
+      "value": 7
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "walnut",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "cherry",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "walnut",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "pineapple",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "cherry",
+      "value": 7
+    },
+    {
+      "x": "mint",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "mint",
+      "y": "pineapple",
+      "value": 8
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "walnut",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "pineapple",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 11.285714285714286
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 9.142857142857142
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 5.857142857142857
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.428571428571429
+    },
+    {
+      "ingredient": "mint",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 2.5714285714285716
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2857142857142857
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2857142857142857
+    }
+  ]
+}

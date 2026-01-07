@@ -1,0 +1,112 @@
+{
+  "id": 34706,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "yogurt",
+    "wheat",
+    "milk"
+  ],
+  "score_avg": 21.833333333333332,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "yogurt",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "yogurt",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "milk",
+      "value": 25
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "yogurt",
+      "value": 25
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 35.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

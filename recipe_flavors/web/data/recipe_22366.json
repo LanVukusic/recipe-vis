@@ -1,0 +1,292 @@
+{
+  "id": 22366,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "garlic",
+    "apple",
+    "onion",
+    "soy_sauce",
+    "orange_juice",
+    "chicken"
+  ],
+  "score_avg": 8.142857142857142,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "orange_juice",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "apple",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "apple",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "orange_juice",
+      "value": 30
+    },
+    {
+      "x": "apple",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "apple",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "orange_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "orange_juice",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "chicken",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "apple",
+      "value": 43
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 16.833333333333332
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 14.166666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.833333333333334
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

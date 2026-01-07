@@ -1,0 +1,162 @@
+{
+  "id": 30251,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "soy_sauce",
+    "garlic",
+    "black_pepper",
+    "beef"
+  ],
+  "score_avg": 1.8,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    }
+  ]
+}

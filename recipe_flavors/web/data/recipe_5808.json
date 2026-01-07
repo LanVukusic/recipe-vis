@@ -1,0 +1,72 @@
+{
+  "id": 5808,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "rum",
+    "mint",
+    "lime"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "rum",
+      "y": "lime",
+      "value": 18
+    },
+    {
+      "x": "mint",
+      "y": "rum",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "rum",
+      "value": 18
+    },
+    {
+      "x": "lime",
+      "y": "mint",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 13.0
+    }
+  ]
+}

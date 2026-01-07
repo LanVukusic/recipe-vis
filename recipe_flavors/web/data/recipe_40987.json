@@ -1,0 +1,162 @@
+{
+  "id": 40987,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "wheat",
+    "milk",
+    "peanut"
+  ],
+  "score_avg": 26.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "peanut",
+      "value": 57
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "peanut",
+      "value": 21
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "peanut",
+      "value": 48
+    },
+    {
+      "x": "peanut",
+      "y": "butter",
+      "value": 57
+    },
+    {
+      "x": "peanut",
+      "y": "egg",
+      "value": 21
+    },
+    {
+      "x": "peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 32.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

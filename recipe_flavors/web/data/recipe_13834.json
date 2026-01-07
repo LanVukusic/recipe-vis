@@ -1,0 +1,162 @@
+{
+  "id": 13834,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "scallop",
+    "bacon",
+    "mustard",
+    "cream"
+  ],
+  "score_avg": 6.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "scallop",
+      "value": 0
+    },
+    {
+      "x": "scallop",
+      "y": "bacon",
+      "value": 29
+    },
+    {
+      "x": "scallop",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "scallop",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "scallop",
+      "value": 29
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "mustard",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "scallop",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "scallop",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "scallop",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.25
+    }
+  ]
+}

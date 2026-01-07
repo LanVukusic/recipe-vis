@@ -1,0 +1,112 @@
+{
+  "id": 45583,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "tabasco_pepper",
+    "chickpea",
+    "chicken"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "tabasco_pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "chicken",
+      "value": 41
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "chickpea",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "chicken",
+      "y": "tabasco_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "chickpea",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "chickpea",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

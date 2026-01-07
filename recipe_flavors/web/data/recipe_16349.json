@@ -1,0 +1,162 @@
+{
+  "id": 16349,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vanilla",
+    "wheat",
+    "cream_cheese",
+    "soybean"
+  ],
+  "score_avg": 29.8,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "soybean",
+      "value": 73
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "soybean",
+      "value": 63
+    },
+    {
+      "x": "soybean",
+      "y": "butter",
+      "value": 73
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "cream_cheese",
+      "value": 63
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 42.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 42.25
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    }
+  ]
+}

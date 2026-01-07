@@ -1,0 +1,112 @@
+{
+  "id": 4985,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "lime_juice",
+    "cucumber",
+    "avocado",
+    "scallion"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "avocado",
+      "value": 4
+    },
+    {
+      "x": "cucumber",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cucumber",
+      "value": 4
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cucumber",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

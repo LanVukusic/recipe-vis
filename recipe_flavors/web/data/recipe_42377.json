@@ -1,0 +1,672 @@
+{
+  "id": 42377,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "mushroom",
+    "onion",
+    "egg",
+    "parsley",
+    "mozzarella_cheese",
+    "garlic",
+    "basil",
+    "white_bread",
+    "rosemary",
+    "pork_sausage"
+  ],
+  "score_avg": 10.10909090909091,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "white_bread",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "white_bread",
+      "value": 28
+    },
+    {
+      "x": "mushroom",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "mozzarella_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "white_bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "white_bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "rosemary",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "pork_sausage",
+      "value": 27
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "white_bread",
+      "value": 4
+    },
+    {
+      "x": "parsley",
+      "y": "rosemary",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "white_bread",
+      "value": 41
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "pork_sausage",
+      "value": 59
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "white_bread",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork_sausage",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "mozzarella_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "rosemary",
+      "value": 10
+    },
+    {
+      "x": "basil",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "white_bread",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "white_bread",
+      "y": "mushroom",
+      "value": 28
+    },
+    {
+      "x": "white_bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "white_bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "white_bread",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "white_bread",
+      "y": "mozzarella_cheese",
+      "value": 41
+    },
+    {
+      "x": "white_bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "white_bread",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "white_bread",
+      "y": "pork_sausage",
+      "value": 36
+    },
+    {
+      "x": "rosemary",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "rosemary",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "rosemary",
+      "y": "mozzarella_cheese",
+      "value": 6
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "basil",
+      "value": 10
+    },
+    {
+      "x": "rosemary",
+      "y": "white_bread",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork_sausage",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "pork_sausage",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork_sausage",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "white_bread",
+      "value": 36
+    },
+    {
+      "x": "pork_sausage",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 21.6
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 14.2
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.8
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.9
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.9
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.8
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

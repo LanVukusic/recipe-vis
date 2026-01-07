@@ -1,0 +1,112 @@
+{
+  "id": 13003,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "mushroom",
+    "beef",
+    "sesame_oil"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "sesame_oil",
+      "value": 3
+    },
+    {
+      "x": "sesame_oil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "mushroom",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "beef",
+      "value": 3
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 32.333333333333336
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

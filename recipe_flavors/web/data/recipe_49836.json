@@ -1,0 +1,792 @@
+{
+  "id": 49836,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "wheat",
+    "ham",
+    "cheese",
+    "chicken_broth",
+    "black_pepper",
+    "parmesan_cheese",
+    "white_wine",
+    "tomato",
+    "lentil",
+    "chicken"
+  ],
+  "score_avg": 19.818181818181817,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "white_wine",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "ham",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "white_wine",
+      "value": 24
+    },
+    {
+      "x": "ham",
+      "y": "tomato",
+      "value": 23
+    },
+    {
+      "x": "ham",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "white_wine",
+      "value": 79
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "white_wine",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "white_wine",
+      "value": 98
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "lentil",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken",
+      "value": 72
+    },
+    {
+      "x": "white_wine",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "white_wine",
+      "y": "cheese",
+      "value": 79
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "white_wine",
+      "y": "parmesan_cheese",
+      "value": 98
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "lentil",
+      "value": 1
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "ham",
+      "value": 23
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "lentil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "lentil",
+      "y": "white_wine",
+      "value": 1
+    },
+    {
+      "x": "lentil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "parmesan_cheese",
+      "value": 72
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 44.81818181818182
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 38.18181818181818
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 36.45454545454545
+    },
+    {
+      "ingredient": "butter",
+      "mean": 33.27272727272727
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 31.545454545454547
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "ham",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.909090909090909
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.1818181818181819
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "lentil",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

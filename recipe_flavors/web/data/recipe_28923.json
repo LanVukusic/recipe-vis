@@ -1,0 +1,162 @@
+{
+  "id": 28923,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "bacon",
+    "egg",
+    "cream_cheese",
+    "bread"
+  ],
+  "score_avg": 45.1,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "bacon",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 63.5
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 62.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 24.0
+    }
+  ]
+}

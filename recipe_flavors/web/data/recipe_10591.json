@@ -1,0 +1,112 @@
+{
+  "id": 10591,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "macaroni",
+    "sage",
+    "butter"
+  ],
+  "score_avg": 9.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "sage",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.0
+    }
+  ]
+}

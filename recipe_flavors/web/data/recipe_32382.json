@@ -1,0 +1,112 @@
+{
+  "id": 32382,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "lemon_juice",
+    "lemon",
+    "egg"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "cheese",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

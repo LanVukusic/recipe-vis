@@ -1,0 +1,162 @@
+{
+  "id": 42846,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "chicken",
+    "rice",
+    "black_pepper",
+    "lemon"
+  ],
+  "score_avg": 16.5,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "rice",
+      "value": 49
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "chicken",
+      "value": 49
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "lemon",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "lemon",
+      "y": "black_pepper",
+      "value": 14
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 24.75
+    },
+    {
+      "ingredient": "rice",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.5
+    }
+  ]
+}

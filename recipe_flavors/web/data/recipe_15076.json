@@ -1,0 +1,72 @@
+{
+  "id": 15076,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "milk",
+    "cottage_cheese"
+  ],
+  "score_avg": 23.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cottage_cheese",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cottage_cheese",
+      "value": 68
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

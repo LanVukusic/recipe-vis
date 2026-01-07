@@ -1,0 +1,222 @@
+{
+  "id": 48084,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "smoke",
+    "pepper",
+    "ham",
+    "onion",
+    "chicken_broth",
+    "pea"
+  ],
+  "score_avg": 2.933333333333333,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pea",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "pea",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pea",
+      "value": 12
+    },
+    {
+      "x": "chicken_broth",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "pea",
+      "y": "ham",
+      "value": 16
+    },
+    {
+      "x": "pea",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "pea",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pea",
+      "mean": 6.6
+    },
+    {
+      "ingredient": "ham",
+      "mean": 5.4
+    },
+    {
+      "ingredient": "onion",
+      "mean": 4.2
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.2
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.0
+    }
+  ]
+}

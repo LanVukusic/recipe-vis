@@ -1,0 +1,72 @@
+{
+  "id": 30929,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "whiskey",
+    "bourbon_whiskey"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "cherry",
+      "y": "bourbon_whiskey",
+      "value": 1
+    },
+    {
+      "x": "whiskey",
+      "y": "cherry",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "cherry",
+      "value": 1
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "whiskey",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 2.0
+    }
+  ]
+}

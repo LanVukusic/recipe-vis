@@ -1,0 +1,72 @@
+{
+  "id": 37142,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mango",
+    "fruit",
+    "rum"
+  ],
+  "score_avg": 24.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "mango",
+      "y": "rum",
+      "value": 62
+    },
+    {
+      "x": "fruit",
+      "y": "mango",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "rum",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "mango",
+      "value": 62
+    },
+    {
+      "x": "rum",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "rum",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 5.5
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 46791,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "seed"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 3.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 23272,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "champagne_wine",
+    "lemon"
+  ],
+  "score_avg": 41.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "champagne_wine",
+      "value": 36
+    },
+    {
+      "x": "orange",
+      "y": "lemon",
+      "value": 69
+    },
+    {
+      "x": "champagne_wine",
+      "y": "orange",
+      "value": 36
+    },
+    {
+      "x": "champagne_wine",
+      "y": "champagne_wine",
+      "value": 0
+    },
+    {
+      "x": "champagne_wine",
+      "y": "lemon",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "orange",
+      "value": 69
+    },
+    {
+      "x": "lemon",
+      "y": "champagne_wine",
+      "value": 20
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 52.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "champagne_wine",
+      "mean": 28.0
+    }
+  ]
+}

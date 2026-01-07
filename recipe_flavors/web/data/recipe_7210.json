@@ -1,0 +1,112 @@
+{
+  "id": 7210,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "coconut",
+    "wheat",
+    "vanilla"
+  ],
+  "score_avg": 13.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "coconut",
+      "value": 34
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "coconut",
+      "y": "butter",
+      "value": 34
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 2161,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "sesame_oil",
+    "fish",
+    "black_pepper",
+    "ginger",
+    "garlic",
+    "soybean",
+    "scallion",
+    "beef",
+    "roasted_sesame_seed",
+    "shiitake",
+    "cayenne"
+  ],
+  "score_avg": 10.121212121212121,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "beef",
+      "value": 3
+    },
+    {
+      "x": "sesame_oil",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "shiitake",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "fish",
+      "y": "soybean",
+      "value": 41
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "beef",
+      "value": 48
+    },
+    {
+      "x": "fish",
+      "y": "roasted_sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "fish",
+      "y": "shiitake",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "soybean",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "ginger",
+      "y": "roasted_sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "cayenne",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "fish",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "fish",
+      "value": 41
+    },
+    {
+      "x": "soybean",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "beef",
+      "value": 96
+    },
+    {
+      "x": "soybean",
+      "y": "roasted_sesame_seed",
+      "value": 16
+    },
+    {
+      "x": "soybean",
+      "y": "shiitake",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "sesame_oil",
+      "value": 3
+    },
+    {
+      "x": "beef",
+      "y": "fish",
+      "value": 48
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "soybean",
+      "value": 96
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "roasted_sesame_seed",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "shiitake",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "fish",
+      "value": 9
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "soybean",
+      "value": 16
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "shiitake",
+      "value": 12
+    },
+    {
+      "x": "roasted_sesame_seed",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "shiitake",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "shiitake",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "shiitake",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "shiitake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "shiitake",
+      "y": "roasted_sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "roasted_sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 25.454545454545453
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 25.363636363636363
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 20.545454545454547
+    },
+    {
+      "ingredient": "fish",
+      "mean": 13.909090909090908
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 12.909090909090908
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 6.818181818181818
+    },
+    {
+      "ingredient": "roasted_sesame_seed",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.9090909090909091
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

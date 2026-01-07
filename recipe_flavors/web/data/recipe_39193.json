@@ -1,0 +1,112 @@
+{
+  "id": 39193,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "carrot",
+    "parsley",
+    "ginger"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "ginger",
+      "value": 27
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "parsley",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "ginger",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "parsley",
+      "value": 14
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 10.333333333333334
+    }
+  ]
+}

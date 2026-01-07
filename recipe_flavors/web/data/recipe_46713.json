@@ -1,0 +1,112 @@
+{
+  "id": 46713,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "kiwi",
+    "lemon_juice",
+    "apple",
+    "pineapple"
+  ],
+  "score_avg": 20.833333333333332,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "kiwi",
+      "y": "kiwi",
+      "value": 0
+    },
+    {
+      "x": "kiwi",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "kiwi",
+      "y": "apple",
+      "value": 36
+    },
+    {
+      "x": "kiwi",
+      "y": "pineapple",
+      "value": 25
+    },
+    {
+      "x": "lemon_juice",
+      "y": "kiwi",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "kiwi",
+      "value": 36
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "kiwi",
+      "value": 25
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "kiwi",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

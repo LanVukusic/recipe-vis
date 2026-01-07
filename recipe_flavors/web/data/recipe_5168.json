@@ -1,0 +1,162 @@
+{
+  "id": 5168,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "wheat",
+    "avocado",
+    "lime_juice",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "cream_cheese",
+      "value": 14
+    },
+    {
+      "x": "avocado",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "avocado",
+      "value": 14
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 23996,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken_broth",
+    "rice",
+    "bean"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "bean",
+      "value": 36
+    },
+    {
+      "x": "bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "rice",
+      "value": 36
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "rice",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.5
+    }
+  ]
+}

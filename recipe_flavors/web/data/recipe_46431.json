@@ -1,0 +1,292 @@
+{
+  "id": 46431,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "wheat",
+    "onion",
+    "beef",
+    "vinegar",
+    "cheddar_cheese",
+    "bread"
+  ],
+  "score_avg": 15.238095238095237,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "beef",
+      "value": 11
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "cheddar_cheese",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "dill",
+      "value": 11
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cheddar_cheese",
+      "value": 21
+    },
+    {
+      "x": "vinegar",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "dill",
+      "value": 10
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "dill",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 31.333333333333332
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 30.166666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "dill",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

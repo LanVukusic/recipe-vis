@@ -1,0 +1,42 @@
+{
+  "id": 26199,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lobster"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "lobster",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lobster",
+      "mean": 1.0
+    }
+  ]
+}

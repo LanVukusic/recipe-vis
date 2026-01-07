@@ -1,0 +1,42 @@
+{
+  "id": 26943,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "rice"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.0
+    }
+  ]
+}

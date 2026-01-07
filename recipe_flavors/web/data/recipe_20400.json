@@ -1,0 +1,562 @@
+{
+  "id": 20400,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mushroom",
+    "cheese",
+    "shiitake",
+    "parsley",
+    "garlic",
+    "cream_cheese",
+    "basil",
+    "macaroni",
+    "milk"
+  ],
+  "score_avg": 16.933333333333334,
+  "pair_coverage": 0.7555555555555555,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "cream_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "shiitake",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "cream_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "shiitake",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "shiitake",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "cream_cheese",
+      "value": 52
+    },
+    {
+      "x": "shiitake",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "shiitake",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "cream_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "cream_cheese",
+      "y": "shiitake",
+      "value": 52
+    },
+    {
+      "x": "cream_cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "cream_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "basil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cream_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "shiitake",
+      "value": 48
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "basil",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 35.111111111111114
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 34.77777777777778
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 31.555555555555557
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 31.444444444444443
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.11111111111111
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.2222222222222223
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.7777777777777777
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7777777777777778
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.5555555555555556
+    }
+  ]
+}

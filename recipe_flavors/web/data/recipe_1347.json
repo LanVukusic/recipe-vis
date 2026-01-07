@@ -1,0 +1,72 @@
+{
+  "id": 1347,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "vegetable_oil",
+    "japanese_plum"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "japanese_plum",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "japanese_plum",
+      "y": "japanese_plum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "japanese_plum",
+      "mean": 0.0
+    }
+  ]
+}

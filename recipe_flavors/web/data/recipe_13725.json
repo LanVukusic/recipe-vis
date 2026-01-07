@@ -1,0 +1,292 @@
+{
+  "id": 13725,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "seed",
+    "cucumber",
+    "bell_pepper",
+    "onion",
+    "dill",
+    "white_wine"
+  ],
+  "score_avg": 7.571428571428571,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "dill",
+      "value": 9
+    },
+    {
+      "x": "seed",
+      "y": "white_wine",
+      "value": 4
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "white_wine",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "seed",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "dill",
+      "value": 15
+    },
+    {
+      "x": "bell_pepper",
+      "y": "white_wine",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "seed",
+      "value": 9
+    },
+    {
+      "x": "dill",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "dill",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "white_wine",
+      "y": "cucumber",
+      "value": 9
+    },
+    {
+      "x": "white_wine",
+      "y": "bell_pepper",
+      "value": 25
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "dill",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "dill",
+      "mean": 8.166666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "seed",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

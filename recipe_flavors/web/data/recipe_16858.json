@@ -1,0 +1,112 @@
+{
+  "id": 16858,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "almond",
+    "berry",
+    "milk"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "berry",
+      "value": 11
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "almond",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "berry",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "berry",
+      "y": "honey",
+      "value": 11
+    },
+    {
+      "x": "berry",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "milk",
+      "value": 24
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "berry",
+      "value": 24
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "berry",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

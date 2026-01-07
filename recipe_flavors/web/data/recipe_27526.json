@@ -1,0 +1,162 @@
+{
+  "id": 27526,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "horseradish",
+    "ham",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "horseradish",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "cream_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "horseradish",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cream_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cream_cheese",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "ham",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.25
+    }
+  ]
+}

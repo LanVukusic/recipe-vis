@@ -1,0 +1,72 @@
+{
+  "id": 24919,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "garlic",
+    "shrimp"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "beer",
+      "y": "shrimp",
+      "value": 47
+    },
+    {
+      "x": "garlic",
+      "y": "beer",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "beer",
+      "value": 47
+    },
+    {
+      "x": "shrimp",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 5.5
+    }
+  ]
+}

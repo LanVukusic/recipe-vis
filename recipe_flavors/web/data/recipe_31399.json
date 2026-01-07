@@ -1,0 +1,222 @@
+{
+  "id": 31399,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "wheat",
+    "wheat_bread",
+    "sesame_seed",
+    "egg",
+    "shrimp"
+  ],
+  "score_avg": 7.466666666666667,
+  "pair_coverage": 0.5333333333333333,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat_bread",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat_bread",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "wheat_bread",
+      "y": "egg",
+      "value": 26
+    },
+    {
+      "x": "wheat_bread",
+      "y": "shrimp",
+      "value": 33
+    },
+    {
+      "x": "sesame_seed",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat_bread",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "shrimp",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat_bread",
+      "value": 26
+    },
+    {
+      "x": "egg",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "wheat_bread",
+      "value": 33
+    },
+    {
+      "x": "shrimp",
+      "y": "sesame_seed",
+      "value": 7
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat_bread",
+      "mean": 14.2
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.2
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.2
+    }
+  ]
+}

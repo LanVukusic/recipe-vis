@@ -1,0 +1,162 @@
+{
+  "id": 40931,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tea",
+    "bourbon_whiskey",
+    "orange_juice",
+    "lemon",
+    "whiskey"
+  ],
+  "score_avg": 14.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "bourbon_whiskey",
+      "value": 5
+    },
+    {
+      "x": "tea",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "tea",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "tea",
+      "y": "whiskey",
+      "value": 47
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "tea",
+      "value": 5
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "tea",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "tea",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "whiskey",
+      "value": 15
+    },
+    {
+      "x": "whiskey",
+      "y": "tea",
+      "value": 47
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tea",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 19.25
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 11.25
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.25
+    }
+  ]
+}

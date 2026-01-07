@@ -1,0 +1,162 @@
+{
+  "id": 44595,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tea",
+    "lemon_juice",
+    "lemon",
+    "bergamot",
+    "gin"
+  ],
+  "score_avg": 6.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "tea",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "tea",
+      "y": "bergamot",
+      "value": 5
+    },
+    {
+      "x": "tea",
+      "y": "gin",
+      "value": 9
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tea",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bergamot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "tea",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "bergamot",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "gin",
+      "value": 6
+    },
+    {
+      "x": "bergamot",
+      "y": "tea",
+      "value": 5
+    },
+    {
+      "x": "bergamot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bergamot",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "bergamot",
+      "y": "bergamot",
+      "value": 0
+    },
+    {
+      "x": "bergamot",
+      "y": "gin",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "tea",
+      "value": 9
+    },
+    {
+      "x": "gin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "gin",
+      "y": "bergamot",
+      "value": 0
+    },
+    {
+      "x": "gin",
+      "y": "gin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "tea",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "gin",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "bergamot",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

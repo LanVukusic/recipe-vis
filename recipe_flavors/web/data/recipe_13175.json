@@ -1,0 +1,112 @@
+{
+  "id": 13175,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "mustard",
+    "soybean"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "soybean",
+      "value": 29
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "honey",
+      "value": 29
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "honey",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

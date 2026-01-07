@@ -1,0 +1,792 @@
+{
+  "id": 3559,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "vinegar",
+    "onion",
+    "cheese",
+    "black_bean",
+    "cayenne",
+    "cumin",
+    "scallion",
+    "macaroni",
+    "vegetable_oil",
+    "garlic",
+    "cream"
+  ],
+  "score_avg": 5.606060606060606,
+  "pair_coverage": 0.5606060606060606,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "black_bean",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "cumin",
+      "value": 5
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "cheese",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "black_bean",
+      "value": 8
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "black_bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_bean",
+      "value": 41
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "black_bean",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "black_bean",
+      "y": "vinegar",
+      "value": 8
+    },
+    {
+      "x": "black_bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "black_bean",
+      "y": "cheese",
+      "value": 41
+    },
+    {
+      "x": "black_bean",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "black_bean",
+      "y": "cumin",
+      "value": 3
+    },
+    {
+      "x": "black_bean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "black_bean",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "black_bean",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "tomato",
+      "value": 5
+    },
+    {
+      "x": "cumin",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "black_bean",
+      "value": 3
+    },
+    {
+      "x": "cumin",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_bean",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "black_bean",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 14.818181818181818
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 14.727272727272727
+    },
+    {
+      "ingredient": "black_bean",
+      "mean": 11.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.545454545454546
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.454545454545454
+    },
+    {
+      "ingredient": "cream",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.3636363636363635
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

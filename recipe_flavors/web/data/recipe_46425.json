@@ -1,0 +1,162 @@
+{
+  "id": 46425,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "bean",
+    "milk",
+    "mushroom",
+    "cream"
+  ],
+  "score_avg": 23.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "milk",
+      "value": 40
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bean",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "bean",
+      "value": 40
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "bean",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 30.25
+    },
+    {
+      "ingredient": "bean",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 14.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.25
+    }
+  ]
+}

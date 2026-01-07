@@ -1,0 +1,112 @@
+{
+  "id": 23088,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "lemon_juice",
+    "orange_juice",
+    "lemon"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "lemon_juice",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "honey",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

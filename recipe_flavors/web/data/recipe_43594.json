@@ -1,0 +1,42 @@
+{
+  "id": 43594,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "cereal"
+  ],
+  "score_avg": 0.0,
+  "pair_coverage": 0.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 8969,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "honey",
+    "blueberry"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "honey",
+      "value": 9
+    },
+    {
+      "x": "yogurt",
+      "y": "blueberry",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "yogurt",
+      "value": 9
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "blueberry",
+      "value": 15
+    },
+    {
+      "x": "blueberry",
+      "y": "yogurt",
+      "value": 7
+    },
+    {
+      "x": "blueberry",
+      "y": "honey",
+      "value": 15
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 8.0
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 14791,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vanilla",
+    "ginger",
+    "walnut",
+    "honey",
+    "buttermilk",
+    "carrot",
+    "nutmeg",
+    "cinnamon",
+    "cream_cheese",
+    "pineapple",
+    "vegetable_oil"
+  ],
+  "score_avg": 7.363636363636363,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "vanilla",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "vanilla",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "vanilla",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "vanilla",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "walnut",
+      "value": 6
+    },
+    {
+      "x": "ginger",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "ginger",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "nutmeg",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "cinnamon",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "cream_cheese",
+      "value": 29
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "vanilla",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "ginger",
+      "value": 6
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "honey",
+      "value": 4
+    },
+    {
+      "x": "walnut",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "walnut",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "walnut",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "cinnamon",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "cream_cheese",
+      "value": 8
+    },
+    {
+      "x": "walnut",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "walnut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "walnut",
+      "value": 4
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "cream_cheese",
+      "value": 26
+    },
+    {
+      "x": "honey",
+      "y": "pineapple",
+      "value": 28
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream_cheese",
+      "value": 9
+    },
+    {
+      "x": "buttermilk",
+      "y": "pineapple",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "walnut",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "carrot",
+      "y": "cream_cheese",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "nutmeg",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cinnamon",
+      "value": 20
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream_cheese",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "pineapple",
+      "value": 4
+    },
+    {
+      "x": "nutmeg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "vanilla",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "cinnamon",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "cinnamon",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "nutmeg",
+      "value": 20
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cream_cheese",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "pineapple",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vanilla",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "ginger",
+      "value": 29
+    },
+    {
+      "x": "cream_cheese",
+      "y": "walnut",
+      "value": 8
+    },
+    {
+      "x": "cream_cheese",
+      "y": "honey",
+      "value": 26
+    },
+    {
+      "x": "cream_cheese",
+      "y": "buttermilk",
+      "value": 9
+    },
+    {
+      "x": "cream_cheese",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "cream_cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "pineapple",
+      "value": 41
+    },
+    {
+      "x": "cream_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "vanilla",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "walnut",
+      "value": 3
+    },
+    {
+      "x": "pineapple",
+      "y": "honey",
+      "value": 28
+    },
+    {
+      "x": "pineapple",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "nutmeg",
+      "value": 4
+    },
+    {
+      "x": "pineapple",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "pineapple",
+      "y": "cream_cheese",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "walnut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 14.818181818181818
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 13.545454545454545
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.272727272727273
+    },
+    {
+      "ingredient": "honey",
+      "mean": 9.545454545454545
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 8.454545454545455
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.181818181818182
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 1.8181818181818181
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

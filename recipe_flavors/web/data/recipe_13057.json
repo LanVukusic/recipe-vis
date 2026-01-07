@@ -1,0 +1,372 @@
+{
+  "id": 13057,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "corn",
+    "bell_pepper",
+    "lard",
+    "egg",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 7.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bell_pepper",
+      "value": 13
+    },
+    {
+      "x": "corn",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "corn",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "corn",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "corn",
+      "value": 13
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "bell_pepper",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "bell_pepper",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "corn",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 17.142857142857142
+    },
+    {
+      "ingredient": "corn",
+      "mean": 13.857142857142858
+    },
+    {
+      "ingredient": "bread",
+      "mean": 10.714285714285714
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.428571428571429
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 6.857142857142857
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.7142857142857143
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.14285714285714285
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.14285714285714285
+    }
+  ]
+}

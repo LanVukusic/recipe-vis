@@ -1,0 +1,112 @@
+{
+  "id": 26486,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "vanilla",
+    "wheat",
+    "cream"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cream",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "wheat",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "cream",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

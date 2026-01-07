@@ -1,0 +1,162 @@
+{
+  "id": 28390,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "mango",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 13.9,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mango",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mango",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mango",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "mango",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.25
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 1400,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "tomato",
+    "wheat",
+    "radish",
+    "lettuce",
+    "carrot",
+    "cucumber",
+    "bell_pepper",
+    "crab",
+    "buckwheat",
+    "vegetable_oil",
+    "cabbage",
+    "lemon"
+  ],
+  "score_avg": 5.787878787878788,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "radish",
+      "value": 7
+    },
+    {
+      "x": "tomato",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "crab",
+      "value": 12
+    },
+    {
+      "x": "tomato",
+      "y": "buckwheat",
+      "value": 36
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cabbage",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "radish",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "radish",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "radish",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "radish",
+      "y": "bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "radish",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "radish",
+      "y": "buckwheat",
+      "value": 4
+    },
+    {
+      "x": "radish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "cabbage",
+      "value": 9
+    },
+    {
+      "x": "radish",
+      "y": "lemon",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "radish",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "lettuce",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "cabbage",
+      "value": 5
+    },
+    {
+      "x": "lettuce",
+      "y": "lemon",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "radish",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "carrot",
+      "y": "buckwheat",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cabbage",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "radish",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "lettuce",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "bell_pepper",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "buckwheat",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "radish",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "crab",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "buckwheat",
+      "value": 11
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cabbage",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "lemon",
+      "value": 17
+    },
+    {
+      "x": "crab",
+      "y": "tomato",
+      "value": 12
+    },
+    {
+      "x": "crab",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "radish",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "crab",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "buckwheat",
+      "value": 13
+    },
+    {
+      "x": "crab",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "crab",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "crab",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "buckwheat",
+      "y": "tomato",
+      "value": 36
+    },
+    {
+      "x": "buckwheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "radish",
+      "value": 4
+    },
+    {
+      "x": "buckwheat",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "buckwheat",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "buckwheat",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "buckwheat",
+      "y": "crab",
+      "value": 13
+    },
+    {
+      "x": "buckwheat",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "buckwheat",
+      "y": "cabbage",
+      "value": 4
+    },
+    {
+      "x": "buckwheat",
+      "y": "lemon",
+      "value": 11
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "crab",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "buckwheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "cabbage",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "radish",
+      "value": 9
+    },
+    {
+      "x": "cabbage",
+      "y": "lettuce",
+      "value": 5
+    },
+    {
+      "x": "cabbage",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cabbage",
+      "y": "cucumber",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "cabbage",
+      "y": "crab",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "buckwheat",
+      "value": 4
+    },
+    {
+      "x": "cabbage",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "tomato",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "radish",
+      "value": 4
+    },
+    {
+      "x": "lemon",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "lemon",
+      "y": "carrot",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "lemon",
+      "y": "crab",
+      "value": 6
+    },
+    {
+      "x": "lemon",
+      "y": "buckwheat",
+      "value": 11
+    },
+    {
+      "x": "lemon",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 15.090909090909092
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 8.909090909090908
+    },
+    {
+      "ingredient": "buckwheat",
+      "mean": 8.636363636363637
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 7.909090909090909
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.545454545454546
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 6.2727272727272725
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.818181818181818
+    },
+    {
+      "ingredient": "crab",
+      "mean": 4.545454545454546
+    },
+    {
+      "ingredient": "radish",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.3636363636363638
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 43121,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "vanilla",
+    "egg",
+    "lard"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "egg",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

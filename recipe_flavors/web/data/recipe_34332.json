@@ -1,0 +1,162 @@
+{
+  "id": 34332,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "wheat",
+    "corn_flake",
+    "raisin",
+    "milk"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "raisin",
+      "value": 13
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "cocoa",
+      "value": 13
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 16.25
+    },
+    {
+      "ingredient": "milk",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 1.0
+    }
+  ]
+}

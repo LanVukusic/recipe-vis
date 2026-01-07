@@ -1,0 +1,112 @@
+{
+  "id": 13019,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "pecan",
+    "vanilla"
+  ],
+  "score_avg": 25.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "pecan",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 34.333333333333336
+    },
+    {
+      "ingredient": "corn",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 20.0
+    }
+  ]
+}

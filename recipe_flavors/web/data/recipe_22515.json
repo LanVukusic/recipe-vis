@@ -1,0 +1,162 @@
+{
+  "id": 22515,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "corn",
+    "blueberry",
+    "soybean",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 11.1,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "blueberry",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "blueberry",
+      "value": 24
+    },
+    {
+      "x": "corn",
+      "y": "soybean",
+      "value": 49
+    },
+    {
+      "x": "corn",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "blueberry",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "blueberry",
+      "y": "corn",
+      "value": 24
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "soybean",
+      "value": 32
+    },
+    {
+      "x": "blueberry",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "corn",
+      "value": 49
+    },
+    {
+      "x": "soybean",
+      "y": "blueberry",
+      "value": 32
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "corn",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 19.25
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 14.25
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

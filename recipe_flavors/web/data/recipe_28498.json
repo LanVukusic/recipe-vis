@@ -1,0 +1,162 @@
+{
+  "id": 28498,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "bean",
+    "mushroom",
+    "beef",
+    "pork_sausage"
+  ],
+  "score_avg": 43.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "mushroom",
+      "value": 49
+    },
+    {
+      "x": "bean",
+      "y": "beef",
+      "value": 53
+    },
+    {
+      "x": "bean",
+      "y": "pork_sausage",
+      "value": 42
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "bean",
+      "value": 49
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "bean",
+      "value": 53
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "pork_sausage",
+      "value": 101
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "beef",
+      "value": 101
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 62.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 43.75
+    },
+    {
+      "ingredient": "bean",
+      "mean": 39.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 19.0
+    }
+  ]
+}

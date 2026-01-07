@@ -1,0 +1,792 @@
+{
+  "id": 3643,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "pork",
+    "lemon_juice",
+    "corn",
+    "orange_juice",
+    "black_pepper",
+    "honey",
+    "seed",
+    "garlic",
+    "oregano",
+    "vegetable_oil",
+    "tomato",
+    "vinegar"
+  ],
+  "score_avg": 4.924242424242424,
+  "pair_coverage": 0.5606060606060606,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "corn",
+      "value": 36
+    },
+    {
+      "x": "pork",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "pork",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "vinegar",
+      "value": 10
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "pork",
+      "value": 36
+    },
+    {
+      "x": "corn",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "corn",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "pork",
+      "value": 13
+    },
+    {
+      "x": "honey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "corn",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "honey",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "honey",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "seed",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "oregano",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "tomato",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "oregano",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "oregano",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "honey",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "corn",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 14.636363636363637
+    },
+    {
+      "ingredient": "pork",
+      "mean": 11.181818181818182
+    },
+    {
+      "ingredient": "corn",
+      "mean": 9.090909090909092
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.454545454545454
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.090909090909091
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.3636363636363635
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

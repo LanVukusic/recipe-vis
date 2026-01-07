@@ -1,0 +1,72 @@
+{
+  "id": 17185,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "mushroom",
+    "cream"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "pork",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.0
+    }
+  ]
+}

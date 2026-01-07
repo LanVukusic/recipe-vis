@@ -1,0 +1,72 @@
+{
+  "id": 35611,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "apricot",
+    "pecan"
+  ],
+  "score_avg": 28.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "apricot",
+      "value": 36
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "apricot",
+      "y": "butter",
+      "value": 36
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "pecan",
+      "value": 14
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "apricot",
+      "value": 14
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 24.5
+    }
+  ]
+}

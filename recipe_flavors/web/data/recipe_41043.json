@@ -1,0 +1,72 @@
+{
+  "id": 41043,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "garlic",
+    "chicken",
+    "black_pepper"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    }
+  ]
+}

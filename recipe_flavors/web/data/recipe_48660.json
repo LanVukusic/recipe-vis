@@ -1,0 +1,42 @@
+{
+  "id": 48660,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "onion"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 1.0
+    }
+  ]
+}

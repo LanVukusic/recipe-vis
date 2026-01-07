@@ -1,0 +1,112 @@
+{
+  "id": 8402,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg",
+    "tarragon",
+    "bread"
+  ],
+  "score_avg": 12.166666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "tarragon",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.0
+    }
+  ]
+}

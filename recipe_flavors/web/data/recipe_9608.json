@@ -1,0 +1,72 @@
+{
+  "id": 9608,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turkey",
+    "lentil",
+    "carrot"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "turkey",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "turkey",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "lentil",
+      "y": "turkey",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "lentil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "turkey",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "lentil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "turkey",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "lentil",
+      "mean": 0.0
+    }
+  ]
+}

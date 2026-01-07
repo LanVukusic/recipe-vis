@@ -1,0 +1,42 @@
+{
+  "id": 12625,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "almond",
+    "egg"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 2.0
+    }
+  ]
+}

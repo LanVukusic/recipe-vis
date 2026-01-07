@@ -1,0 +1,112 @@
+{
+  "id": 26267,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "cucumber",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "onion",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

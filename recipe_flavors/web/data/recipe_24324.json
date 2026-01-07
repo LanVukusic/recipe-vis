@@ -1,0 +1,672 @@
+{
+  "id": 24324,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "starch",
+    "peanut",
+    "soy_sauce",
+    "ginger",
+    "shrimp",
+    "garlic",
+    "bell_pepper",
+    "vegetable",
+    "scallion",
+    "broccoli"
+  ],
+  "score_avg": 2.618181818181818,
+  "pair_coverage": 0.36363636363636365,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "peanut",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "ginger",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "peanut",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "ginger",
+      "value": 20
+    },
+    {
+      "x": "peanut",
+      "y": "shrimp",
+      "value": 31
+    },
+    {
+      "x": "peanut",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "peanut",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "peanut",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "soy_sauce",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "peanut",
+      "value": 20
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "bell_pepper",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "broccoli",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "peanut",
+      "value": 31
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "ginger",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shrimp",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "shrimp",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "broccoli",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "peanut",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "peanut",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "bell_pepper",
+      "y": "shrimp",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "peanut",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "broccoli",
+      "y": "shrimp",
+      "value": 4
+    },
+    {
+      "x": "broccoli",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut",
+      "mean": 7.6
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 6.4
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 5.9
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 5.2
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.6
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.1
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.1
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.1
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

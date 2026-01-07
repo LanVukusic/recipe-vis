@@ -1,0 +1,112 @@
+{
+  "id": 41185,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "coffee",
+    "almond",
+    "wheat"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "coffee",
+      "value": 60
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "butter",
+      "value": 60
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "coffee",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "coffee",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    }
+  ]
+}

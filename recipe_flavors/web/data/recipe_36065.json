@@ -1,0 +1,112 @@
+{
+  "id": 36065,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "mandarin",
+    "grape",
+    "pineapple"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "mandarin",
+      "value": 22
+    },
+    {
+      "x": "melon",
+      "y": "grape",
+      "value": 52
+    },
+    {
+      "x": "melon",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "mandarin",
+      "y": "melon",
+      "value": 22
+    },
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "grape",
+      "value": 31
+    },
+    {
+      "x": "mandarin",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "grape",
+      "y": "melon",
+      "value": 52
+    },
+    {
+      "x": "grape",
+      "y": "mandarin",
+      "value": 31
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "pineapple",
+      "value": 39
+    },
+    {
+      "x": "pineapple",
+      "y": "melon",
+      "value": 38
+    },
+    {
+      "x": "pineapple",
+      "y": "mandarin",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "grape",
+      "value": 39
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "melon",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 23.0
+    }
+  ]
+}

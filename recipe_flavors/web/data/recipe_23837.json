@@ -1,0 +1,112 @@
+{
+  "id": 23837,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "butter",
+    "cider",
+    "nutmeg"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cider",
+      "value": 26
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "cider",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "butter",
+      "value": 26
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cider",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cider",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

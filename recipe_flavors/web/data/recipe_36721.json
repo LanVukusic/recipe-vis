@@ -1,0 +1,72 @@
+{
+  "id": 36721,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cardamom",
+    "carrot",
+    "milk"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "cardamom",
+      "y": "milk",
+      "value": 19
+    },
+    {
+      "x": "carrot",
+      "y": "cardamom",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "milk",
+      "y": "carrot",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cardamom",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 13.5
+    }
+  ]
+}

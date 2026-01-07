@@ -1,0 +1,42 @@
+{
+  "id": 7609,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "concord_grape"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "concord_grape",
+      "value": 1
+    },
+    {
+      "x": "concord_grape",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "concord_grape",
+      "y": "concord_grape",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "concord_grape",
+      "mean": 1.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 20156,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "gelatin",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "bread",
+      "value": 34
+    },
+    {
+      "x": "gelatin",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "cocoa",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

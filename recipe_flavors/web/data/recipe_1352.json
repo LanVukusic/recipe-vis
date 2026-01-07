@@ -1,0 +1,372 @@
+{
+  "id": 1352,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "lemon_juice",
+    "shiitake",
+    "black_pepper",
+    "ginger",
+    "shrimp",
+    "carrot",
+    "cucumber",
+    "egg"
+  ],
+  "score_avg": 8.607142857142858,
+  "pair_coverage": 0.7857142857142857,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ginger",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "shiitake",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "shrimp",
+      "value": 35
+    },
+    {
+      "x": "shiitake",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "shiitake",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "shiitake",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "ginger",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "shrimp",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shiitake",
+      "value": 35
+    },
+    {
+      "x": "shrimp",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "ginger",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "carrot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "shiitake",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "shiitake",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shiitake",
+      "mean": 15.714285714285714
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 13.428571428571429
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 11.714285714285714
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.428571428571429
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.714285714285714
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.8571428571428571
+    }
+  ]
+}

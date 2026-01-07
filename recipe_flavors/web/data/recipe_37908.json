@@ -1,0 +1,112 @@
+{
+  "id": 37908,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fennel",
+    "bread",
+    "chicken_broth",
+    "blue_cheese"
+  ],
+  "score_avg": 7.166666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "blue_cheese",
+      "value": 42
+    },
+    {
+      "x": "chicken_broth",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "bread",
+      "value": 42
+    },
+    {
+      "x": "blue_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 12018,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "butter",
+    "pork",
+    "egg",
+    "smoke"
+  ],
+  "score_avg": 11.7,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "pork",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 22.25
+    },
+    {
+      "ingredient": "pork",
+      "mean": 22.25
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "corn_grit",
+      "mean": 0.0
+    }
+  ]
+}

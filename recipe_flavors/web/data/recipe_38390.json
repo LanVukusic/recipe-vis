@@ -1,0 +1,112 @@
+{
+  "id": 38390,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "oat",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 8.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "oat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "oat",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

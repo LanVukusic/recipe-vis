@@ -1,0 +1,162 @@
+{
+  "id": 45050,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lettuce",
+    "vinegar",
+    "pecan",
+    "blackberry",
+    "blue_cheese"
+  ],
+  "score_avg": 14.4,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "blackberry",
+      "value": 4
+    },
+    {
+      "x": "lettuce",
+      "y": "blue_cheese",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "blackberry",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "blue_cheese",
+      "value": 21
+    },
+    {
+      "x": "pecan",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "blackberry",
+      "value": 25
+    },
+    {
+      "x": "pecan",
+      "y": "blue_cheese",
+      "value": 31
+    },
+    {
+      "x": "blackberry",
+      "y": "lettuce",
+      "value": 4
+    },
+    {
+      "x": "blackberry",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "blackberry",
+      "y": "pecan",
+      "value": 25
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "blue_cheese",
+      "value": 41
+    },
+    {
+      "x": "blue_cheese",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "vinegar",
+      "value": 21
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pecan",
+      "value": 31
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blackberry",
+      "value": 41
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 1.75
+    }
+  ]
+}

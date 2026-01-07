@@ -1,0 +1,72 @@
+{
+  "id": 4597,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cilantro",
+    "lime_juice",
+    "pepper"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 0.0
+    }
+  ]
+}

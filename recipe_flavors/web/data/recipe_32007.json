@@ -1,0 +1,162 @@
+{
+  "id": 32007,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "strawberry",
+    "vanilla",
+    "blueberry",
+    "soybean"
+  ],
+  "score_avg": 24.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "strawberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "vanilla",
+      "value": 35
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "strawberry",
+      "y": "soybean",
+      "value": 70
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "strawberry",
+      "value": 35
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "blueberry",
+      "value": 12
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "blueberry",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "vanilla",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "soybean",
+      "value": 32
+    },
+    {
+      "x": "soybean",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "strawberry",
+      "value": 70
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "blueberry",
+      "value": 32
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 34.25
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 20.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

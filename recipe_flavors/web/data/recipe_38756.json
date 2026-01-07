@@ -1,0 +1,112 @@
+{
+  "id": 38756,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "mango",
+    "cream",
+    "pineapple"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "mango",
+      "value": 25
+    },
+    {
+      "x": "coconut",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "coconut",
+      "y": "pineapple",
+      "value": 14
+    },
+    {
+      "x": "mango",
+      "y": "coconut",
+      "value": 25
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "mango",
+      "y": "pineapple",
+      "value": 43
+    },
+    {
+      "x": "cream",
+      "y": "coconut",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "mango",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "pineapple",
+      "y": "mango",
+      "value": 43
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.666666666666666
+    }
+  ]
+}

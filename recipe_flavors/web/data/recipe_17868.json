@@ -1,0 +1,162 @@
+{
+  "id": 17868,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "chive",
+    "lemon_juice",
+    "mustard",
+    "parsley"
+  ],
+  "score_avg": 1.3,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "yogurt",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parsley",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "chive",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

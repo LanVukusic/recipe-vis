@@ -1,0 +1,112 @@
+{
+  "id": 49690,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "black_pepper",
+    "olive_oil",
+    "macaroni",
+    "romano_cheese"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "romano_cheese",
+      "value": 5
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "romano_cheese",
+      "value": 2
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "romano_cheese",
+      "value": 1
+    },
+    {
+      "x": "romano_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "romano_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "romano_cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "romano_cheese",
+      "y": "romano_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "romano_cheese",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

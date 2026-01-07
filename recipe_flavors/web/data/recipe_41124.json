@@ -1,0 +1,72 @@
+{
+  "id": 41124,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "bread",
+    "strawberry"
+  ],
+  "score_avg": 44.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "strawberry",
+      "value": 30
+    },
+    {
+      "x": "strawberry",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "strawberry",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 48.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 34.0
+    }
+  ]
+}

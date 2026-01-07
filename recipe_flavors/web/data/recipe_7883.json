@@ -1,0 +1,112 @@
+{
+  "id": 7883,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "blue_cheese",
+    "pecan",
+    "potato"
+  ],
+  "score_avg": 18.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "blue_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "blue_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pecan",
+      "value": 31
+    },
+    {
+      "x": "blue_cheese",
+      "y": "potato",
+      "value": 50
+    },
+    {
+      "x": "pecan",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "blue_cheese",
+      "value": 31
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "potato",
+      "value": 27
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "blue_cheese",
+      "value": 50
+    },
+    {
+      "x": "potato",
+      "y": "pecan",
+      "value": 27
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 27.666666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

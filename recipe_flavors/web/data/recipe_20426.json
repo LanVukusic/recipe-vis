@@ -1,0 +1,562 @@
+{
+  "id": 20426,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "ham",
+    "yeast",
+    "potato",
+    "parsley",
+    "buttermilk",
+    "garlic",
+    "cheddar_cheese",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 10.444444444444445,
+  "pair_coverage": 0.7333333333333333,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "potato",
+      "value": 28
+    },
+    {
+      "x": "ham",
+      "y": "parsley",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "ham",
+      "value": 28
+    },
+    {
+      "x": "potato",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "buttermilk",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "potato",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "ham",
+      "value": 3
+    },
+    {
+      "x": "parsley",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "ham",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "buttermilk",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "buttermilk",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "buttermilk",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "potato",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "potato",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "parsley",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 24.88888888888889
+    },
+    {
+      "ingredient": "milk",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "potato",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 13.555555555555555
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.444444444444445
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.2222222222222223
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5555555555555556
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 7241,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "feta_cheese",
+    "watermelon",
+    "cayenne"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "watermelon",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "watermelon",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "watermelon",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "watermelon",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "cayenne",
+      "value": 2
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "feta_cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "watermelon",
+      "value": 2
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "watermelon",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

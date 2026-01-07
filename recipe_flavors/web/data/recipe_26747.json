@@ -1,0 +1,162 @@
+{
+  "id": 26747,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "pepper",
+    "wheat",
+    "onion",
+    "bay"
+  ],
+  "score_avg": 0.8,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bay",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bay",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

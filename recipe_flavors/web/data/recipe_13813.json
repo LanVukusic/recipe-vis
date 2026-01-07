@@ -1,0 +1,112 @@
+{
+  "id": 13813,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "garlic",
+    "almond",
+    "egg"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "celery",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "celery",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "celery",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

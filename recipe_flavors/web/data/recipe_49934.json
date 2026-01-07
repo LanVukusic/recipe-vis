@@ -1,0 +1,292 @@
+{
+  "id": 49934,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "milk_fat",
+    "coffee",
+    "rum",
+    "starch",
+    "almond",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 14.619047619047619,
+  "pair_coverage": 0.5714285714285714,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "coffee",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "rum",
+      "value": 77
+    },
+    {
+      "x": "coffee",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "coffee",
+      "y": "egg",
+      "value": 37
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "rum",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "coffee",
+      "value": 77
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "starch",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "coffee",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "coffee",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "rum",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 30.666666666666668
+    },
+    {
+      "ingredient": "rum",
+      "mean": 27.166666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 26.166666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

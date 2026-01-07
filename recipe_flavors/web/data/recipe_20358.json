@@ -1,0 +1,72 @@
+{
+  "id": 20358,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "wheat",
+    "peanut_butter"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "peanut_butter",
+      "value": 23
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    }
+  ]
+}

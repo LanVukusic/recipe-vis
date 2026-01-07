@@ -1,0 +1,42 @@
+{
+  "id": 23269,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nut",
+    "bacon"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 4.0
+    }
+  ]
+}

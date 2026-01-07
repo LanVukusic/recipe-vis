@@ -1,0 +1,72 @@
+{
+  "id": 27471,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tequila",
+    "banana",
+    "lime"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "lime",
+      "value": 22
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "banana",
+      "value": 22
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 47619,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "pork_sausage"
+  ],
+  "score_avg": 65.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 65.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 65.0
+    }
+  ]
+}

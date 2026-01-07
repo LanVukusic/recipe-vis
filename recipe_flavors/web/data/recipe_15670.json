@@ -1,0 +1,112 @@
+{
+  "id": 15670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "vegetable_oil",
+    "pork",
+    "pepper"
+  ],
+  "score_avg": 5.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mandarin",
+      "y": "pork",
+      "value": 17
+    },
+    {
+      "x": "mandarin",
+      "y": "pepper",
+      "value": 13
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mandarin",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mandarin",
+      "value": 17
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mandarin",
+      "value": 13
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mandarin",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "pork",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 24152,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cream_cheese",
+    "potato"
+  ],
+  "score_avg": 49.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cream_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "cream_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "potato",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "cream_cheese",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 54.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 43.5
+    }
+  ]
+}

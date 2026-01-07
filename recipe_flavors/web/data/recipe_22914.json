@@ -1,0 +1,162 @@
+{
+  "id": 22914,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "lemon_juice",
+    "raisin",
+    "apple",
+    "pumpkin"
+  ],
+  "score_avg": 2.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "raisin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "pumpkin",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pumpkin",
+      "value": 3
+    },
+    {
+      "x": "pumpkin",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "raisin",
+      "value": 2
+    },
+    {
+      "x": "pumpkin",
+      "y": "apple",
+      "value": 3
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

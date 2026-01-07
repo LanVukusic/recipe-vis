@@ -1,0 +1,112 @@
+{
+  "id": 2085,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "citrus_peel",
+    "honey",
+    "nut",
+    "rice"
+  ],
+  "score_avg": 6.833333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus_peel",
+      "y": "citrus_peel",
+      "value": 0
+    },
+    {
+      "x": "citrus_peel",
+      "y": "honey",
+      "value": 7
+    },
+    {
+      "x": "citrus_peel",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "citrus_peel",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "honey",
+      "y": "citrus_peel",
+      "value": 7
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "rice",
+      "value": 13
+    },
+    {
+      "x": "nut",
+      "y": "citrus_peel",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "citrus_peel",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "rice",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "honey",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "citrus_peel",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "nut",
+      "mean": 3.3333333333333335
+    }
+  ]
+}

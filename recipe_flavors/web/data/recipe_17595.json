@@ -1,0 +1,112 @@
+{
+  "id": 17595,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "soy_sauce",
+    "lime_juice",
+    "chicken"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "chicken",
+      "value": 19
+    },
+    {
+      "x": "soy_sauce",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "honey",
+      "value": 19
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

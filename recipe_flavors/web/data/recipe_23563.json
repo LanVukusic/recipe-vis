@@ -1,0 +1,112 @@
+{
+  "id": 23563,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "lemon_juice",
+    "lemon",
+    "ham"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "lemon",
+      "value": 7
+    },
+    {
+      "x": "asparagus",
+      "y": "ham",
+      "value": 16
+    },
+    {
+      "x": "lemon_juice",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon_juice",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "asparagus",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ham",
+      "value": 10
+    },
+    {
+      "x": "ham",
+      "y": "asparagus",
+      "value": 16
+    },
+    {
+      "x": "ham",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "lemon",
+      "value": 10
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ham",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 1.0
+    }
+  ]
+}

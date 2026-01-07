@@ -1,0 +1,292 @@
+{
+  "id": 1664,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "cod",
+    "vegetable_oil",
+    "black_pepper",
+    "egg",
+    "oyster",
+    "pumpkin"
+  ],
+  "score_avg": 3.0476190476190474,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cod",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cod",
+      "y": "cod",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cod",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "cod",
+      "y": "oyster",
+      "value": 17
+    },
+    {
+      "x": "cod",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cod",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cod",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cod",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "oyster",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "pumpkin",
+      "value": 7
+    },
+    {
+      "x": "oyster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "cod",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "cod",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "pumpkin",
+      "y": "oyster",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cod",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "egg",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 2.8333333333333335
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

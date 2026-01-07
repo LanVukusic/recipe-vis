@@ -1,0 +1,222 @@
+{
+  "id": 585,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "soy_sauce",
+    "wine",
+    "fish",
+    "ginger",
+    "scallion"
+  ],
+  "score_avg": 4.733333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "fish",
+      "value": 26
+    },
+    {
+      "x": "wine",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wine",
+      "value": 26
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "fish",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 10.8
+    },
+    {
+      "ingredient": "fish",
+      "mean": 8.6
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 8.4
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

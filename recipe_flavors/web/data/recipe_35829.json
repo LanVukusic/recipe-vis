@@ -1,0 +1,162 @@
+{
+  "id": 35829,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "wheat",
+    "onion",
+    "beef",
+    "potato"
+  ],
+  "score_avg": 26.7,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "potato",
+      "value": 54
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "potato",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 36.75
+    },
+    {
+      "ingredient": "potato",
+      "mean": 34.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.5
+    }
+  ]
+}

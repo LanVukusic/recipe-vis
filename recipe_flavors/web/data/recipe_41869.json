@@ -1,0 +1,72 @@
+{
+  "id": 41869,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "white_bread",
+    "bacon",
+    "cream_cheese"
+  ],
+  "score_avg": 47.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "white_bread",
+      "y": "cream_cheese",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "white_bread",
+      "value": 43
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 49.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 40.0
+    }
+  ]
+}

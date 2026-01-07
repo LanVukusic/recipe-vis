@@ -1,0 +1,72 @@
+{
+  "id": 8039,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "corn",
+    "parmesan_cheese"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "corn",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "parmesan_cheese",
+      "value": 51
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "corn",
+      "value": 51
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "corn",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

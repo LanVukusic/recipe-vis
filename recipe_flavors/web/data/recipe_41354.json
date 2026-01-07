@@ -1,0 +1,222 @@
+{
+  "id": 41354,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "pork",
+    "mustard",
+    "vegetable_oil",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 9.133333333333333,
+  "pair_coverage": 0.4666666666666667,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "mustard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "milk",
+      "value": 9
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "pork",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 19.2
+    },
+    {
+      "ingredient": "pork",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.4
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

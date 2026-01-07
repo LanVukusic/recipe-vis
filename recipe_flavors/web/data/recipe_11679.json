@@ -1,0 +1,162 @@
+{
+  "id": 11679,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "black_pepper",
+    "pecan",
+    "blue_cheese"
+  ],
+  "score_avg": 15.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "pecan",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "blue_cheese",
+      "value": 71
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "blue_cheese",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "blue_cheese",
+      "value": 6
+    },
+    {
+      "x": "pecan",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "pecan",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "blue_cheese",
+      "value": 31
+    },
+    {
+      "x": "blue_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "blue_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "blue_cheese",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "blue_cheese",
+      "y": "pecan",
+      "value": 31
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "blue_cheese",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    }
+  ]
+}

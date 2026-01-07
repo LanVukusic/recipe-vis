@@ -1,0 +1,112 @@
+{
+  "id": 15765,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "carrot",
+    "meat",
+    "mushroom"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "meat",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "meat",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "meat",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "meat",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "meat",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "meat",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.0
+    }
+  ]
+}

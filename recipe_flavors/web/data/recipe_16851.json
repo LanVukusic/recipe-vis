@@ -1,0 +1,162 @@
+{
+  "id": 16851,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "cucumber",
+    "egg",
+    "garlic",
+    "vegetable_oil"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

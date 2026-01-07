@@ -1,0 +1,42 @@
+{
+  "id": 41532,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "wheat"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 4.0
+    }
+  ]
+}

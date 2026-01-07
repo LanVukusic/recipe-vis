@@ -1,0 +1,42 @@
+{
+  "id": 19225,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cocoa"
+  ],
+  "score_avg": 53.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cocoa",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "butter",
+      "value": 53
+    },
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 53.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 53.0
+    }
+  ]
+}

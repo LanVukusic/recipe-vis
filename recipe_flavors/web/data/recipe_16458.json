@@ -1,0 +1,112 @@
+{
+  "id": 16458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mango",
+    "wheat",
+    "cheese"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mango",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "mango",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "cheese",
+      "value": 45
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "mango",
+      "value": 45
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "mango",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 37729,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "chicken",
+    "cheddar_cheese",
+    "macaroni",
+    "milk"
+  ],
+  "score_avg": 35.8,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "chicken",
+      "y": "tomato",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cheddar_cheese",
+      "value": 68
+    },
+    {
+      "x": "chicken",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken",
+      "value": 68
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "tomato",
+      "value": 43
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 51.25
+    },
+    {
+      "ingredient": "milk",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 36.25
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    }
+  ]
+}

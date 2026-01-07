@@ -1,0 +1,112 @@
+{
+  "id": 31499,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "lemon",
+    "salmon",
+    "mustard"
+  ],
+  "score_avg": 4.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "salmon",
+      "value": 15
+    },
+    {
+      "x": "lemon",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "salmon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "mustard",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "lemon",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "salmon",
+      "value": 6
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

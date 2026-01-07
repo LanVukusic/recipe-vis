@@ -1,0 +1,112 @@
+{
+  "id": 44894,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "orange_juice",
+    "papaya",
+    "mango"
+  ],
+  "score_avg": 44.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "orange_juice",
+      "value": 23
+    },
+    {
+      "x": "strawberry",
+      "y": "papaya",
+      "value": 71
+    },
+    {
+      "x": "strawberry",
+      "y": "mango",
+      "value": 82
+    },
+    {
+      "x": "orange_juice",
+      "y": "strawberry",
+      "value": 23
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "papaya",
+      "value": 14
+    },
+    {
+      "x": "orange_juice",
+      "y": "mango",
+      "value": 19
+    },
+    {
+      "x": "papaya",
+      "y": "strawberry",
+      "value": 71
+    },
+    {
+      "x": "papaya",
+      "y": "orange_juice",
+      "value": 14
+    },
+    {
+      "x": "papaya",
+      "y": "papaya",
+      "value": 0
+    },
+    {
+      "x": "papaya",
+      "y": "mango",
+      "value": 55
+    },
+    {
+      "x": "mango",
+      "y": "strawberry",
+      "value": 82
+    },
+    {
+      "x": "mango",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "mango",
+      "y": "papaya",
+      "value": 55
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "mango",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "papaya",
+      "mean": 46.666666666666664
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 18.666666666666668
+    }
+  ]
+}

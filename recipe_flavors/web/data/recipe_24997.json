@@ -1,0 +1,42 @@
+{
+  "id": 24997,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "cream_cheese"
+  ],
+  "score_avg": 63.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cream_cheese",
+      "value": 63
+    },
+    {
+      "x": "cream_cheese",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 63.0
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 63.0
+    }
+  ]
+}

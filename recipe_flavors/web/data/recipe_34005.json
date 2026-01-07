@@ -1,0 +1,72 @@
+{
+  "id": 34005,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "chicken",
+    "onion"
+  ],
+  "score_avg": 17.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "chicken",
+      "value": 26
+    },
+    {
+      "x": "apricot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "apricot",
+      "value": 26
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.0
+    }
+  ]
+}

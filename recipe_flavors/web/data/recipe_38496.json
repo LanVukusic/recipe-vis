@@ -1,0 +1,112 @@
+{
+  "id": 38496,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "garlic",
+    "ginger",
+    "beef"
+  ],
+  "score_avg": 21.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "ginger",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "beef",
+      "value": 42
+    },
+    {
+      "x": "garlic",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "orange",
+      "value": 42
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.333333333333333
+    }
+  ]
+}

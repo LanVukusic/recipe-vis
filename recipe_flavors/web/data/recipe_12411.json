@@ -1,0 +1,162 @@
+{
+  "id": 12411,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "potato_chip",
+    "cheddar_cheese",
+    "wheat",
+    "mustard"
+  ],
+  "score_avg": 12.2,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "potato_chip",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "potato_chip",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "potato_chip",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "potato_chip",
+      "y": "cheddar_cheese",
+      "value": 12
+    },
+    {
+      "x": "potato_chip",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "potato_chip",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato_chip",
+      "value": 12
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "potato_chip",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "potato_chip",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "potato_chip",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    }
+  ]
+}

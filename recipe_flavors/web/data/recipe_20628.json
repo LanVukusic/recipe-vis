@@ -1,0 +1,162 @@
+{
+  "id": 20628,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "mace",
+    "wheat",
+    "apple"
+  ],
+  "score_avg": 7.6,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "mace",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "mace",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "mace",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "mace",
+      "y": "apple",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "mace",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "mace",
+      "value": 9
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 17.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "mace",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 36858,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "egg",
+    "sesame_seed",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 25.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "sesame_seed",
+      "value": 10
+    },
+    {
+      "x": "chicken",
+      "y": "parmesan_cheese",
+      "value": 72
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "sesame_seed",
+      "y": "chicken",
+      "value": 10
+    },
+    {
+      "x": "sesame_seed",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "parmesan_cheese",
+      "value": 13
+    },
+    {
+      "x": "sesame_seed",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken",
+      "value": 72
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sesame_seed",
+      "value": 13
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 35.5
+    },
+    {
+      "ingredient": "bread",
+      "mean": 22.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 9.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 16651,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bread",
+    "cheddar_cheese",
+    "meat",
+    "cream"
+  ],
+  "score_avg": 23.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "meat",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "meat",
+      "value": 33
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "meat",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "meat",
+      "y": "cheddar_cheese",
+      "value": 33
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "meat",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.333333333333334
+    }
+  ]
+}

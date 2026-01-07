@@ -1,0 +1,792 @@
+{
+  "id": 19554,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "wheat",
+    "onion",
+    "beef",
+    "asparagus",
+    "feta_cheese",
+    "bacon",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "mushroom"
+  ],
+  "score_avg": 24.53030303030303,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheddar_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "feta_cheese",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "asparagus",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "asparagus",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "feta_cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "asparagus",
+      "value": 37
+    },
+    {
+      "x": "beef",
+      "y": "feta_cheese",
+      "value": 74
+    },
+    {
+      "x": "beef",
+      "y": "bacon",
+      "value": 102
+    },
+    {
+      "x": "beef",
+      "y": "cheddar_cheese",
+      "value": 85
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "asparagus",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "asparagus",
+      "y": "beef",
+      "value": 37
+    },
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "feta_cheese",
+      "value": 26
+    },
+    {
+      "x": "asparagus",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "asparagus",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "asparagus",
+      "y": "egg",
+      "value": 14
+    },
+    {
+      "x": "asparagus",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "asparagus",
+      "y": "mushroom",
+      "value": 25
+    },
+    {
+      "x": "feta_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "feta_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "feta_cheese",
+      "y": "beef",
+      "value": 74
+    },
+    {
+      "x": "feta_cheese",
+      "y": "asparagus",
+      "value": 26
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "feta_cheese",
+      "y": "cheddar_cheese",
+      "value": 129
+    },
+    {
+      "x": "feta_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "feta_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "feta_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "beef",
+      "value": 102
+    },
+    {
+      "x": "bacon",
+      "y": "asparagus",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "feta_cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "beef",
+      "value": 85
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "asparagus",
+      "value": 28
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "feta_cheese",
+      "value": 129
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "asparagus",
+      "value": 14
+    },
+    {
+      "x": "egg",
+      "y": "feta_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "asparagus",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "feta_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "asparagus",
+      "value": 25
+    },
+    {
+      "x": "mushroom",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 47.18181818181818
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 45.81818181818182
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 41.63636363636363
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 36.81818181818182
+    },
+    {
+      "ingredient": "milk",
+      "mean": 36.54545454545455
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 31.09090909090909
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.09090909090909
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 17.636363636363637
+    },
+    {
+      "ingredient": "onion",
+      "mean": 13.454545454545455
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.4545454545454546
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6363636363636365
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

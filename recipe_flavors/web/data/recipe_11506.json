@@ -1,0 +1,112 @@
+{
+  "id": 11506,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raspberry",
+    "blueberry",
+    "peach",
+    "wine"
+  ],
+  "score_avg": 38.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "blueberry",
+      "value": 55
+    },
+    {
+      "x": "raspberry",
+      "y": "peach",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "blueberry",
+      "y": "raspberry",
+      "value": 55
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "peach",
+      "value": 31
+    },
+    {
+      "x": "blueberry",
+      "y": "wine",
+      "value": 27
+    },
+    {
+      "x": "peach",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "peach",
+      "y": "blueberry",
+      "value": 31
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "wine",
+      "value": 28
+    },
+    {
+      "x": "wine",
+      "y": "raspberry",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "blueberry",
+      "value": 27
+    },
+    {
+      "x": "wine",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 47.666666666666664
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "wine",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 33.333333333333336
+    }
+  ]
+}

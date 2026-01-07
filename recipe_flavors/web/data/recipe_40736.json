@@ -1,0 +1,72 @@
+{
+  "id": 40736,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "black_tea",
+    "rhubarb"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "black_tea",
+      "value": 27
+    },
+    {
+      "x": "honey",
+      "y": "rhubarb",
+      "value": 1
+    },
+    {
+      "x": "black_tea",
+      "y": "honey",
+      "value": 27
+    },
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    },
+    {
+      "x": "black_tea",
+      "y": "rhubarb",
+      "value": 4
+    },
+    {
+      "x": "rhubarb",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "rhubarb",
+      "y": "black_tea",
+      "value": 4
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_tea",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "honey",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 2.5
+    }
+  ]
+}

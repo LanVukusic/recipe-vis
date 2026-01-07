@@ -1,0 +1,792 @@
+{
+  "id": 624,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pepper",
+    "vinegar",
+    "fish",
+    "wasabi",
+    "carrot",
+    "seaweed",
+    "katsuobushi",
+    "onion",
+    "soy_sauce",
+    "starch",
+    "shrimp",
+    "vegetable_oil"
+  ],
+  "score_avg": 2.090909090909091,
+  "pair_coverage": 0.3484848484848485,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "fish",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "katsuobushi",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "fish",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "katsuobushi",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "fish",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "fish",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "katsuobushi",
+      "value": 8
+    },
+    {
+      "x": "fish",
+      "y": "onion",
+      "value": 11
+    },
+    {
+      "x": "fish",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "shrimp",
+      "value": 24
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "wasabi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "wasabi",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "fish",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "katsuobushi",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "katsuobushi",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "katsuobushi",
+      "y": "fish",
+      "value": 8
+    },
+    {
+      "x": "katsuobushi",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "katsuobushi",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "katsuobushi",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "katsuobushi",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "fish",
+      "value": 11
+    },
+    {
+      "x": "onion",
+      "y": "wasabi",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "katsuobushi",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "shrimp",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "shrimp",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "fish",
+      "value": 24
+    },
+    {
+      "x": "shrimp",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "katsuobushi",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "shrimp",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wasabi",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "fish",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "onion",
+      "mean": 4.2727272727272725
+    },
+    {
+      "ingredient": "katsuobushi",
+      "mean": 3.4545454545454546
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.0909090909090908
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "wasabi",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "seaweed",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

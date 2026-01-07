@@ -1,0 +1,72 @@
+{
+  "id": 23592,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "milk",
+    "cream_cheese"
+  ],
+  "score_avg": 61.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "cream_cheese",
+      "value": 66
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cocoa",
+      "value": 66
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 66.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 59.0
+    }
+  ]
+}

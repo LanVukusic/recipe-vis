@@ -1,0 +1,162 @@
+{
+  "id": 3016,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "egg_noodle",
+    "cottage_cheese",
+    "bacon",
+    "smoke",
+    "cream"
+  ],
+  "score_avg": 10.8,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "bacon",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "cottage_cheese",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "smoke",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cottage_cheese",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg_noodle",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cottage_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 22.25
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.25
+    }
+  ]
+}

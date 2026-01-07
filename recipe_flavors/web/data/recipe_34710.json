@@ -1,0 +1,112 @@
+{
+  "id": 34710,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "raisin",
+    "wheat",
+    "milk",
+    "walnut"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "raisin",
+      "y": "walnut",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "walnut",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "raisin",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "walnut",
+      "value": 7
+    },
+    {
+      "x": "walnut",
+      "y": "raisin",
+      "value": 5
+    },
+    {
+      "x": "walnut",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "walnut",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "walnut",
+      "y": "walnut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "walnut",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

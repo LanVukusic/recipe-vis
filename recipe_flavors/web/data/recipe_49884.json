@@ -1,0 +1,112 @@
+{
+  "id": 49884,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "honey",
+    "nut",
+    "almond",
+    "egg"
+  ],
+  "score_avg": 3.1666666666666665,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "honey",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "egg",
+      "value": 10
+    },
+    {
+      "x": "nut",
+      "y": "honey",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.0
+    }
+  ]
+}

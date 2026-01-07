@@ -1,0 +1,112 @@
+{
+  "id": 40201,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "vanilla",
+    "apple",
+    "pineapple"
+  ],
+  "score_avg": 29.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "mandarin",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "mandarin",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "mandarin",
+      "value": 9
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "apple",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "apple",
+      "y": "mandarin",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "mandarin",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "vanilla",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 34.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 20.0
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 22343,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "lemon_juice",
+    "garlic",
+    "mustard",
+    "yogurt",
+    "black_pepper"
+  ],
+  "score_avg": 2.4,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "yogurt",
+      "value": 15
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lamb",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "mustard",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "lamb",
+      "value": 15
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "mustard",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lamb",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 2.2
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.6
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.2
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.4
+    }
+  ]
+}

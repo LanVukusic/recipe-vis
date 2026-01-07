@@ -1,0 +1,112 @@
+{
+  "id": 27697,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mango",
+    "lemon",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 22.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "mango",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "mango",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 29.333333333333332
+    },
+    {
+      "ingredient": "mango",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 13.333333333333334
+    }
+  ]
+}

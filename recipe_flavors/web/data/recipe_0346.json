@@ -1,0 +1,792 @@
+{
+  "id": 346,
+  "cuisine": "African",
+  "ingredients": [
+    "tomato",
+    "cayenne",
+    "onion",
+    "peanut",
+    "black_pepper",
+    "ginger",
+    "scallion",
+    "garlic",
+    "bell_pepper",
+    "sweet_potato",
+    "rice",
+    "peanut_butter"
+  ],
+  "score_avg": 13.727272727272727,
+  "pair_coverage": 0.803030303030303,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "peanut",
+      "value": 47
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "ginger",
+      "value": 31
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "sweet_potato",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "rice",
+      "value": 42
+    },
+    {
+      "x": "tomato",
+      "y": "peanut_butter",
+      "value": 58
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "peanut",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "cayenne",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "peanut",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "sweet_potato",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "peanut_butter",
+      "value": 28
+    },
+    {
+      "x": "peanut",
+      "y": "tomato",
+      "value": 47
+    },
+    {
+      "x": "peanut",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "peanut",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "peanut",
+      "y": "ginger",
+      "value": 20
+    },
+    {
+      "x": "peanut",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "peanut",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "peanut",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "peanut",
+      "y": "rice",
+      "value": 47
+    },
+    {
+      "x": "peanut",
+      "y": "peanut_butter",
+      "value": 97
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "peanut",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "ginger",
+      "y": "tomato",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "cayenne",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "peanut",
+      "value": 20
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "bell_pepper",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "ginger",
+      "y": "rice",
+      "value": 20
+    },
+    {
+      "x": "ginger",
+      "y": "peanut_butter",
+      "value": 26
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "peanut_butter",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "peanut",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "peanut_butter",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "peanut",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "bell_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "sweet_potato",
+      "value": 3
+    },
+    {
+      "x": "bell_pepper",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "bell_pepper",
+      "y": "peanut_butter",
+      "value": 19
+    },
+    {
+      "x": "sweet_potato",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "sweet_potato",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "peanut",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "ginger",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "sweet_potato",
+      "y": "peanut_butter",
+      "value": 7
+    },
+    {
+      "x": "rice",
+      "y": "tomato",
+      "value": 42
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "peanut",
+      "value": 47
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "ginger",
+      "value": 20
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "bell_pepper",
+      "value": 15
+    },
+    {
+      "x": "rice",
+      "y": "sweet_potato",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "peanut_butter",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "tomato",
+      "value": 58
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "onion",
+      "value": 28
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut",
+      "value": 97
+    },
+    {
+      "x": "peanut_butter",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "ginger",
+      "value": 26
+    },
+    {
+      "x": "peanut_butter",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "peanut_butter",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "peanut_butter",
+      "y": "bell_pepper",
+      "value": 19
+    },
+    {
+      "x": "peanut_butter",
+      "y": "sweet_potato",
+      "value": 7
+    },
+    {
+      "x": "peanut_butter",
+      "y": "rice",
+      "value": 53
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 27.636363636363637
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 23.727272727272727
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 23.454545454545453
+    },
+    {
+      "ingredient": "rice",
+      "mean": 19.272727272727273
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 16.90909090909091
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 15.272727272727273
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.818181818181818
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.181818181818182
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 15001,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_tea",
+    "bourbon_whiskey",
+    "lemon",
+    "pineapple",
+    "orange_juice",
+    "lime",
+    "whiskey"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_tea",
+      "y": "black_tea",
+      "value": 0
+    },
+    {
+      "x": "black_tea",
+      "y": "bourbon_whiskey",
+      "value": 7
+    },
+    {
+      "x": "black_tea",
+      "y": "lemon",
+      "value": 34
+    },
+    {
+      "x": "black_tea",
+      "y": "pineapple",
+      "value": 41
+    },
+    {
+      "x": "black_tea",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "black_tea",
+      "y": "lime",
+      "value": 26
+    },
+    {
+      "x": "black_tea",
+      "y": "whiskey",
+      "value": 53
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "black_tea",
+      "value": 7
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "bourbon_whiskey",
+      "value": 0
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "pineapple",
+      "value": 4
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "orange_juice",
+      "value": 3
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "bourbon_whiskey",
+      "y": "whiskey",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "black_tea",
+      "value": 34
+    },
+    {
+      "x": "lemon",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "lemon",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lemon",
+      "y": "whiskey",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "black_tea",
+      "value": 41
+    },
+    {
+      "x": "pineapple",
+      "y": "bourbon_whiskey",
+      "value": 4
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "lime",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "whiskey",
+      "value": 38
+    },
+    {
+      "x": "orange_juice",
+      "y": "black_tea",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "orange_juice",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "lime",
+      "y": "black_tea",
+      "value": 26
+    },
+    {
+      "x": "lime",
+      "y": "bourbon_whiskey",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "lime",
+      "y": "orange_juice",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "whiskey",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "black_tea",
+      "value": 53
+    },
+    {
+      "x": "whiskey",
+      "y": "bourbon_whiskey",
+      "value": 3
+    },
+    {
+      "x": "whiskey",
+      "y": "lemon",
+      "value": 15
+    },
+    {
+      "x": "whiskey",
+      "y": "pineapple",
+      "value": 38
+    },
+    {
+      "x": "whiskey",
+      "y": "orange_juice",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "lime",
+      "value": 12
+    },
+    {
+      "x": "whiskey",
+      "y": "whiskey",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_tea",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 23.166666666666668
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "whiskey",
+      "mean": 22.166666666666668
+    },
+    {
+      "ingredient": "lime",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "bourbon_whiskey",
+      "mean": 3.5
+    }
+  ]
+}

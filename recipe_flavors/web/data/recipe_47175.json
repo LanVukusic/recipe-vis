@@ -1,0 +1,162 @@
+{
+  "id": 47175,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheddar_cheese",
+    "bacon",
+    "mustard",
+    "bread"
+  ],
+  "score_avg": 30.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "cheddar_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "tomato",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 42.75
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 38.5
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 35.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 26.75
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 7.25
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 8641,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "olive_oil",
+    "garlic",
+    "bell_pepper",
+    "vinegar",
+    "cayenne",
+    "cider"
+  ],
+  "score_avg": 8.571428571428571,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "cider",
+      "value": 36
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cider",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cider",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cider",
+      "value": 10
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cider",
+      "value": 18
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cider",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "tomato",
+      "value": 36
+    },
+    {
+      "x": "cider",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cider",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cider",
+      "y": "bell_pepper",
+      "value": 10
+    },
+    {
+      "x": "cider",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "cider",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "cider",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

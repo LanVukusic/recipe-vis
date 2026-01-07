@@ -1,0 +1,42 @@
+{
+  "id": 40139,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "beer",
+    "lobster"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "lobster",
+      "value": 2
+    },
+    {
+      "x": "lobster",
+      "y": "beer",
+      "value": 2
+    },
+    {
+      "x": "lobster",
+      "y": "lobster",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lobster",
+      "mean": 2.0
+    }
+  ]
+}

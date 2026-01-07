@@ -1,0 +1,112 @@
+{
+  "id": 47392,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "soy_sauce",
+    "grape_juice",
+    "cabbage"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cabbage",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

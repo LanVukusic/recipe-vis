@@ -1,0 +1,792 @@
+{
+  "id": 11707,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "thyme",
+    "beef",
+    "potato",
+    "red_wine",
+    "onion",
+    "parsnip",
+    "parsley",
+    "carrot",
+    "garlic",
+    "vegetable_oil",
+    "beef_broth",
+    "bay"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 0.5454545454545454,
+  "heatmap": [
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "thyme",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "parsnip",
+      "value": 3
+    },
+    {
+      "x": "thyme",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "thyme",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "red_wine",
+      "value": 33
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "carrot",
+      "value": 14
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "potato",
+      "value": 33
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "thyme",
+      "value": 3
+    },
+    {
+      "x": "parsnip",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "parsnip",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "parsnip",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsnip",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "potato",
+      "value": 14
+    },
+    {
+      "x": "carrot",
+      "y": "red_wine",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "parsnip",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "parsley",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "beef_broth",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "bay",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "bay",
+      "y": "bay",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 18.181818181818183
+    },
+    {
+      "ingredient": "potato",
+      "mean": 13.636363636363637
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 12.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.272727272727273
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 6.181818181818182
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 4.363636363636363
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.5454545454545454
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.7272727272727273
+    },
+    {
+      "ingredient": "parsnip",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "bay",
+      "mean": 0.0
+    }
+  ]
+}

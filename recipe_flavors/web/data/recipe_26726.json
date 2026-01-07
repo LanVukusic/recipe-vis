@@ -1,0 +1,112 @@
+{
+  "id": 26726,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "vegetable_oil",
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 22.166666666666668,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cocoa",
+      "y": "peanut_butter",
+      "value": 77
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cocoa",
+      "value": 77
+    },
+    {
+      "x": "peanut_butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

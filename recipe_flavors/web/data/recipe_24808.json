@@ -1,0 +1,42 @@
+{
+  "id": 24808,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "peach"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "peach",
+      "value": 18
+    },
+    {
+      "x": "peach",
+      "y": "citrus",
+      "value": 18
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "peach",
+      "mean": 18.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 35130,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "fruit",
+    "cream_cheese",
+    "gelatin"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "fruit",
+      "value": 9
+    },
+    {
+      "x": "cherry",
+      "y": "cream_cheese",
+      "value": 14
+    },
+    {
+      "x": "cherry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cherry",
+      "value": 9
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream_cheese",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cherry",
+      "value": 14
+    },
+    {
+      "x": "cream_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 7.666666666666667
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

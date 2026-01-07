@@ -1,0 +1,112 @@
+{
+  "id": 389,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "chicken",
+    "wine",
+    "ginger",
+    "scallion"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "chicken",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "chicken",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "ginger",
+      "value": 25
+    },
+    {
+      "x": "wine",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "wine",
+      "value": 25
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

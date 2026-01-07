@@ -1,0 +1,162 @@
+{
+  "id": 28833,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "garlic",
+    "beer",
+    "chicken",
+    "soy_sauce"
+  ],
+  "score_avg": 9.8,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "beer",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beer",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "beer",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "chicken",
+      "value": 69
+    },
+    {
+      "x": "beer",
+      "y": "soy_sauce",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "beer",
+      "value": 69
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beer",
+      "value": 3
+    },
+    {
+      "x": "soy_sauce",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 21.75
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 19.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.75
+    }
+  ]
+}

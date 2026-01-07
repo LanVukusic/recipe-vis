@@ -1,0 +1,162 @@
+{
+  "id": 30230,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "soy_sauce",
+    "garlic",
+    "oyster",
+    "ginger"
+  ],
+  "score_avg": 3.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "oyster",
+      "value": 6
+    },
+    {
+      "x": "honey",
+      "y": "ginger",
+      "value": 13
+    },
+    {
+      "x": "soy_sauce",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "oyster",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "oyster",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "oyster",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "ginger",
+      "value": 6
+    },
+    {
+      "x": "ginger",
+      "y": "honey",
+      "value": 13
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "oyster",
+      "value": 6
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "ginger",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "honey",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

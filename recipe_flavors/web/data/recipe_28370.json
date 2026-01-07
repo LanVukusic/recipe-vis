@@ -1,0 +1,112 @@
+{
+  "id": 28370,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_flake",
+    "rice",
+    "milk",
+    "coconut"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "rice",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "coconut",
+      "value": 31
+    },
+    {
+      "x": "coconut",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 0.0
+    }
+  ]
+}

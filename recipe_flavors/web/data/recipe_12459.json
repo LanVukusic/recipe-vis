@@ -1,0 +1,112 @@
+{
+  "id": 12459,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mozzarella_cheese",
+    "green_bell_pepper",
+    "cayenne",
+    "oregano"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "green_bell_pepper",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "mozzarella_cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "green_bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

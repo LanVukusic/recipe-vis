@@ -1,0 +1,162 @@
+{
+  "id": 15470,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "wheat",
+    "pepper",
+    "garlic",
+    "thyme"
+  ],
+  "score_avg": 2.1,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "lamb",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "thyme",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "thyme",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "lamb",
+      "value": 5
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lamb",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.75
+    }
+  ]
+}

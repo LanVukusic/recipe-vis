@@ -1,0 +1,112 @@
+{
+  "id": 49635,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "butter",
+    "black_pepper",
+    "macaroni",
+    "parmesan_cheese"
+  ],
+  "score_avg": 16.166666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 30.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 47150,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "vanilla",
+    "oat",
+    "sesame_seed"
+  ],
+  "score_avg": 9.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "oat",
+      "value": 11
+    },
+    {
+      "x": "vanilla",
+      "y": "sesame_seed",
+      "value": 6
+    },
+    {
+      "x": "oat",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "vanilla",
+      "value": 11
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "sesame_seed",
+      "value": 5
+    },
+    {
+      "x": "sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "sesame_seed",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "sesame_seed",
+      "y": "oat",
+      "value": 5
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "oat",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

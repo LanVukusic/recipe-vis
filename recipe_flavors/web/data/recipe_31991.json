@@ -1,0 +1,112 @@
+{
+  "id": 31991,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "pecan",
+    "fruit",
+    "cottage_cheese"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cottage_cheese",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "cottage_cheese",
+      "value": 30
+    },
+    {
+      "x": "fruit",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "pecan",
+      "value": 2
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cottage_cheese",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pecan",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

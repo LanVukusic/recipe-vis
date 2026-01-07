@@ -1,0 +1,792 @@
+{
+  "id": 1365,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pork",
+    "wheat",
+    "starch",
+    "black_pepper",
+    "ginger",
+    "lettuce",
+    "garlic",
+    "soybean",
+    "onion",
+    "sake",
+    "shiitake",
+    "cayenne"
+  ],
+  "score_avg": 8.166666666666666,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "ginger",
+      "value": 22
+    },
+    {
+      "x": "pork",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "soybean",
+      "value": 64
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "sake",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "shiitake",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "black_pepper",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "soybean",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "cayenne",
+      "value": 36
+    },
+    {
+      "x": "ginger",
+      "y": "pork",
+      "value": 22
+    },
+    {
+      "x": "ginger",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "black_pepper",
+      "value": 16
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "lettuce",
+      "value": 5
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "sake",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "cayenne",
+      "value": 16
+    },
+    {
+      "x": "lettuce",
+      "y": "pork",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "ginger",
+      "value": 5
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "soybean",
+      "value": 6
+    },
+    {
+      "x": "lettuce",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "pork",
+      "value": 64
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "lettuce",
+      "value": 6
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "onion",
+      "value": 25
+    },
+    {
+      "x": "soybean",
+      "y": "sake",
+      "value": 15
+    },
+    {
+      "x": "soybean",
+      "y": "shiitake",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "soybean",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sake",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "shiitake",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "sake",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "sake",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "soybean",
+      "value": 15
+    },
+    {
+      "x": "sake",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "shiitake",
+      "value": 14
+    },
+    {
+      "x": "sake",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "shiitake",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "shiitake",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "lettuce",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "shiitake",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "shiitake",
+      "y": "sake",
+      "value": 14
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "cayenne",
+      "y": "ginger",
+      "value": 16
+    },
+    {
+      "x": "cayenne",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "shiitake",
+      "value": 9
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 21.272727272727273
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 17.454545454545453
+    },
+    {
+      "ingredient": "pork",
+      "mean": 15.454545454545455
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 12.181818181818182
+    },
+    {
+      "ingredient": "onion",
+      "mean": 8.363636363636363
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 6.454545454545454
+    },
+    {
+      "ingredient": "sake",
+      "mean": 5.181818181818182
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 1.5454545454545454
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

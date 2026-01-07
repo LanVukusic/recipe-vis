@@ -1,0 +1,162 @@
+{
+  "id": 23017,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "vegetable_oil",
+    "nut",
+    "oat",
+    "egg"
+  ],
+  "score_avg": 5.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "orange",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "orange",
+      "y": "oat",
+      "value": 12
+    },
+    {
+      "x": "orange",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "orange",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "oat",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "oat",
+      "y": "orange",
+      "value": 12
+    },
+    {
+      "x": "oat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "orange",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "oat",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "oat",
+      "mean": 7.75
+    },
+    {
+      "ingredient": "nut",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

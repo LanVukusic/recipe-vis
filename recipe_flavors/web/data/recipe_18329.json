@@ -1,0 +1,112 @@
+{
+  "id": 18329,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "buttermilk",
+    "wheat",
+    "lard"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "butter",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.0
+    }
+  ]
+}

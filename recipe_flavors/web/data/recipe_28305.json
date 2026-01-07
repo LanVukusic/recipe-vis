@@ -1,0 +1,292 @@
+{
+  "id": 28305,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "celery",
+    "wheat",
+    "onion",
+    "bread",
+    "broccoli",
+    "cream"
+  ],
+  "score_avg": 8.095238095238095,
+  "pair_coverage": 0.8571428571428571,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "broccoli",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "celery",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "bread",
+      "mean": 11.833333333333334
+    },
+    {
+      "ingredient": "celery",
+      "mean": 9.833333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    }
+  ]
+}

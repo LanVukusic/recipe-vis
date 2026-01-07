@@ -1,0 +1,112 @@
+{
+  "id": 31256,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "apricot",
+    "cashew",
+    "milk"
+  ],
+  "score_avg": 21.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "apricot",
+      "value": 28
+    },
+    {
+      "x": "cocoa",
+      "y": "cashew",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "apricot",
+      "y": "cocoa",
+      "value": 28
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cashew",
+      "value": 7
+    },
+    {
+      "x": "apricot",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "cashew",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "cashew",
+      "y": "apricot",
+      "value": 7
+    },
+    {
+      "x": "cashew",
+      "y": "cashew",
+      "value": 0
+    },
+    {
+      "x": "cashew",
+      "y": "milk",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "apricot",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "cashew",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "cashew",
+      "mean": 6.0
+    }
+  ]
+}

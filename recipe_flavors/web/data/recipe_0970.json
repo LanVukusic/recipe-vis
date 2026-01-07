@@ -1,0 +1,162 @@
+{
+  "id": 970,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "starch",
+    "shrimp",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "shrimp",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "shrimp",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

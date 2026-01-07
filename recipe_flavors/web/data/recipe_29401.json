@@ -1,0 +1,72 @@
+{
+  "id": 29401,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "vanilla",
+    "ginger"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

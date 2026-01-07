@@ -1,0 +1,72 @@
+{
+  "id": 3082,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "pepper",
+    "cheddar_cheese",
+    "potato"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 6.5
+    }
+  ]
+}

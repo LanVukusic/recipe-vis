@@ -1,0 +1,112 @@
+{
+  "id": 22666,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "strawberry",
+    "lemon",
+    "cheese"
+  ],
+  "score_avg": 30.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "strawberry",
+      "value": 19
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "yogurt",
+      "y": "cheese",
+      "value": 26
+    },
+    {
+      "x": "strawberry",
+      "y": "yogurt",
+      "value": 19
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "lemon",
+      "y": "yogurt",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cheese",
+      "value": 22
+    },
+    {
+      "x": "cheese",
+      "y": "yogurt",
+      "value": 26
+    },
+    {
+      "x": "cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "cheese",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 42.666666666666664
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 38.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 23.333333333333332
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 16.666666666666668
+    }
+  ]
+}

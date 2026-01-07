@@ -1,0 +1,112 @@
+{
+  "id": 16351,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive",
+    "garlic",
+    "roasted_beef",
+    "potato"
+  ],
+  "score_avg": 22.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive",
+      "y": "olive",
+      "value": 0
+    },
+    {
+      "x": "olive",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "olive",
+      "y": "roasted_beef",
+      "value": 30
+    },
+    {
+      "x": "olive",
+      "y": "potato",
+      "value": 20
+    },
+    {
+      "x": "garlic",
+      "y": "olive",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_beef",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "roasted_beef",
+      "y": "olive",
+      "value": 30
+    },
+    {
+      "x": "roasted_beef",
+      "y": "garlic",
+      "value": 11
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "potato",
+      "value": 66
+    },
+    {
+      "x": "potato",
+      "y": "olive",
+      "value": 20
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "roasted_beef",
+      "value": 66
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "potato",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "olive",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 6.0
+    }
+  ]
+}

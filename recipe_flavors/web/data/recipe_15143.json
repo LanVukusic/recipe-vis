@@ -1,0 +1,292 @@
+{
+  "id": 15143,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "onion",
+    "vegetable_oil",
+    "cheddar_cheese",
+    "egg",
+    "squash",
+    "bread"
+  ],
+  "score_avg": 13.19047619047619,
+  "pair_coverage": 0.5714285714285714,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "squash",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "squash",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "squash",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.833333333333334
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "squash",
+      "mean": 0.0
+    }
+  ]
+}

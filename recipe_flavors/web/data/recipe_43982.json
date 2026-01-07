@@ -1,0 +1,42 @@
+{
+  "id": 43982,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bread",
+    "pumpkin"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "pumpkin",
+      "value": 4
+    },
+    {
+      "x": "pumpkin",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bread",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 4.0
+    }
+  ]
+}

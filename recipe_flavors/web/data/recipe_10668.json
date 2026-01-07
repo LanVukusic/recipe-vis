@@ -1,0 +1,112 @@
+{
+  "id": 10668,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "caviar",
+    "rosemary",
+    "potato"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "caviar",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "caviar",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "caviar",
+      "y": "caviar",
+      "value": 0
+    },
+    {
+      "x": "caviar",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "caviar",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "caviar",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "potato",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "caviar",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "rosemary",
+      "value": 6
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "caviar",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

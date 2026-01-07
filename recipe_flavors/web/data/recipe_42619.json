@@ -1,0 +1,112 @@
+{
+  "id": 42619,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "corn",
+    "vanilla",
+    "peppermint"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "corn",
+      "value": 35
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "peppermint",
+      "value": 14
+    },
+    {
+      "x": "corn",
+      "y": "butter",
+      "value": 35
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "peppermint",
+      "value": 12
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "peppermint",
+      "value": 4
+    },
+    {
+      "x": "peppermint",
+      "y": "butter",
+      "value": 14
+    },
+    {
+      "x": "peppermint",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "peppermint",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 10.0
+    }
+  ]
+}

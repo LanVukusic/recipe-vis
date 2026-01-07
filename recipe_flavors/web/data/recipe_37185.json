@@ -1,0 +1,162 @@
+{
+  "id": 37185,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "roasted_pork",
+    "pepper",
+    "caraway",
+    "seed",
+    "sauerkraut"
+  ],
+  "score_avg": 1.7,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "roasted_pork",
+      "y": "roasted_pork",
+      "value": 0
+    },
+    {
+      "x": "roasted_pork",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "caraway",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "caraway",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "caraway",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "caraway",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "caraway",
+      "y": "caraway",
+      "value": 0
+    },
+    {
+      "x": "caraway",
+      "y": "seed",
+      "value": 2
+    },
+    {
+      "x": "caraway",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "caraway",
+      "value": 2
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "roasted_pork",
+      "value": 6
+    },
+    {
+      "x": "sauerkraut",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "caraway",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_pork",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "caraway",
+      "mean": 1.0
+    }
+  ]
+}

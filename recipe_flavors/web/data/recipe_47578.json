@@ -1,0 +1,72 @@
+{
+  "id": 47578,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "gelatin",
+    "raspberry"
+  ],
+  "score_avg": 19.333333333333332,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "raspberry",
+      "value": 58
+    },
+    {
+      "x": "gelatin",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "tomato",
+      "value": 58
+    },
+    {
+      "x": "raspberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

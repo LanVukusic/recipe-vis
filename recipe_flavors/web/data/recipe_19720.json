@@ -1,0 +1,112 @@
+{
+  "id": 19720,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "swiss_cheese",
+    "mushroom",
+    "cream"
+  ],
+  "score_avg": 38.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cream",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "swiss_cheese",
+      "value": 27
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 49.333333333333336
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "cream",
+      "mean": 18.0
+    }
+  ]
+}

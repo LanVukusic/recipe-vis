@@ -1,0 +1,222 @@
+{
+  "id": 35729,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "vegetable_oil",
+    "rice",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 6.4,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "milk",
+      "value": 41
+    },
+    {
+      "x": "rice",
+      "y": "bread",
+      "value": 24
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "rice",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "rice",
+      "value": 24
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 13.2
+    },
+    {
+      "ingredient": "bread",
+      "mean": 10.6
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}

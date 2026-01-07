@@ -1,0 +1,112 @@
+{
+  "id": 725,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "soy_sauce",
+    "wheat",
+    "sesame_seed",
+    "wine"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wine",
+      "value": 6
+    },
+    {
+      "x": "wine",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "sesame_seed",
+      "value": 6
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

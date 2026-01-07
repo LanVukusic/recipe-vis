@@ -1,0 +1,72 @@
+{
+  "id": 27160,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "wheat",
+    "peanut_butter"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut_butter",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 24667,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "pork",
+    "soy_sauce",
+    "mustard"
+  ],
+  "score_avg": 11.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "pork",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

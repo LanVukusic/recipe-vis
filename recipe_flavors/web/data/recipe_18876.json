@@ -1,0 +1,162 @@
+{
+  "id": 18876,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "red_wine",
+    "wine",
+    "fruit",
+    "rum"
+  ],
+  "score_avg": 29.3,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "red_wine",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "red_wine",
+      "y": "rum",
+      "value": 86
+    },
+    {
+      "x": "wine",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "rum",
+      "value": 76
+    },
+    {
+      "x": "fruit",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "fruit",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "rum",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "red_wine",
+      "value": 86
+    },
+    {
+      "x": "rum",
+      "y": "wine",
+      "value": 76
+    },
+    {
+      "x": "rum",
+      "y": "fruit",
+      "value": 2
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 53.75
+    },
+    {
+      "ingredient": "wine",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 41.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 11430,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "shallot",
+    "olive_oil",
+    "lemon_juice",
+    "lobster",
+    "avocado"
+  ],
+  "score_avg": 0.2,
+  "pair_coverage": 0.2,
+  "heatmap": [
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "lobster",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "lobster",
+      "value": 0
+    },
+    {
+      "x": "lobster",
+      "y": "avocado",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lobster",
+      "value": 1
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lobster",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

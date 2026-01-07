@@ -1,0 +1,112 @@
+{
+  "id": 8014,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "basil",
+    "lime_juice",
+    "onion"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "melon",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "basil",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "melon",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "melon",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "basil",
+      "mean": 0.0
+    }
+  ]
+}

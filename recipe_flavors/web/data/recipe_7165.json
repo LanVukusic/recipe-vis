@@ -1,0 +1,372 @@
+{
+  "id": 7165,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "marjoram",
+    "vinegar",
+    "parmesan_cheese",
+    "white_wine",
+    "chicken",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 18.928571428571427,
+  "pair_coverage": 0.9285714285714286,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "marjoram",
+      "value": 0
+    },
+    {
+      "x": "marjoram",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "marjoram",
+      "y": "parmesan_cheese",
+      "value": 6
+    },
+    {
+      "x": "marjoram",
+      "y": "white_wine",
+      "value": 11
+    },
+    {
+      "x": "marjoram",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "marjoram",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "marjoram",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "marjoram",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "parmesan_cheese",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "marjoram",
+      "value": 6
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "white_wine",
+      "value": 98
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken",
+      "value": 72
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "marjoram",
+      "value": 11
+    },
+    {
+      "x": "white_wine",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "parmesan_cheese",
+      "value": 98
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "chicken",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "egg",
+      "value": 22
+    },
+    {
+      "x": "white_wine",
+      "y": "bread",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "marjoram",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "parmesan_cheese",
+      "value": 72
+    },
+    {
+      "x": "chicken",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "marjoram",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "white_wine",
+      "value": 22
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "marjoram",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "white_wine",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 18.857142857142858
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.714285714285714
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 10.571428571428571
+    },
+    {
+      "ingredient": "marjoram",
+      "mean": 4.142857142857143
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.1428571428571428
+    }
+  ]
+}

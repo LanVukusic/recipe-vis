@@ -1,0 +1,162 @@
+{
+  "id": 7859,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "egg_noodle",
+    "seed",
+    "lemon",
+    "chive"
+  ],
+  "score_avg": 3.9,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "chive",
+      "value": 5
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "chive",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "chive",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "chive",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "chive",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "chive",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.0
+    }
+  ]
+}

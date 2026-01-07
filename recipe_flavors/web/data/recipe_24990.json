@@ -1,0 +1,162 @@
+{
+  "id": 24990,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "pepper",
+    "brassica",
+    "ham",
+    "bell_pepper"
+  ],
+  "score_avg": 4.4,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "brassica",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "ham",
+      "value": 7
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 9.25
+    },
+    {
+      "ingredient": "ham",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.0
+    }
+  ]
+}

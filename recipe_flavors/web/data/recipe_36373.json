@@ -1,0 +1,112 @@
+{
+  "id": 36373,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "orange_juice",
+    "carrot",
+    "cumin"
+  ],
+  "score_avg": 8.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "cumin",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "orange_juice",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "orange_juice",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cumin",
+      "value": 8
+    },
+    {
+      "x": "cumin",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cumin",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 3.0
+    }
+  ]
+}

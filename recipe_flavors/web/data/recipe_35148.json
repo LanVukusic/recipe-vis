@@ -1,0 +1,162 @@
+{
+  "id": 35148,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bacon",
+    "macaroni",
+    "egg",
+    "parmesan_cheese",
+    "olive_oil"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 24.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

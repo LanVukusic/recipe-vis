@@ -1,0 +1,112 @@
+{
+  "id": 11477,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "chicken_broth",
+    "garlic",
+    "pea"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.16666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pea",
+      "value": 4
+    },
+    {
+      "x": "pea",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "garlic",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "pea",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

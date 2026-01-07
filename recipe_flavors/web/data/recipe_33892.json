@@ -1,0 +1,162 @@
+{
+  "id": 33892,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "lemon_juice",
+    "cheddar_cheese",
+    "peanut_butter",
+    "bread"
+  ],
+  "score_avg": 23.5,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "lemon_juice",
+      "value": 2
+    },
+    {
+      "x": "orange",
+      "y": "cheddar_cheese",
+      "value": 43
+    },
+    {
+      "x": "orange",
+      "y": "peanut_butter",
+      "value": 33
+    },
+    {
+      "x": "orange",
+      "y": "bread",
+      "value": 17
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cheddar_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "orange",
+      "value": 43
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "peanut_butter",
+      "value": 64
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "peanut_butter",
+      "y": "orange",
+      "value": 33
+    },
+    {
+      "x": "peanut_butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "cheddar_cheese",
+      "value": 64
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "bread",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "orange",
+      "value": 17
+    },
+    {
+      "x": "bread",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "peanut_butter",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 37.25
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 32.75
+    },
+    {
+      "ingredient": "orange",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.75
+    }
+  ]
+}

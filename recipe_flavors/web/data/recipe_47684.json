@@ -1,0 +1,162 @@
+{
+  "id": 47684,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable_oil",
+    "pork",
+    "orange_juice",
+    "soy_sauce",
+    "starch"
+  ],
+  "score_avg": 0.8,
+  "pair_coverage": 0.1,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "pork",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

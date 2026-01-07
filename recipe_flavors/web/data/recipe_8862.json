@@ -1,0 +1,112 @@
+{
+  "id": 8862,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gruyere_cheese",
+    "cheese",
+    "parsley",
+    "potato"
+  ],
+  "score_avg": 40.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "gruyere_cheese",
+      "y": "gruyere_cheese",
+      "value": 0
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "potato",
+      "value": 47
+    },
+    {
+      "x": "cheese",
+      "y": "gruyere_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "potato",
+      "value": 44
+    },
+    {
+      "x": "parsley",
+      "y": "gruyere_cheese",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "potato",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "gruyere_cheese",
+      "value": 47
+    },
+    {
+      "x": "potato",
+      "y": "cheese",
+      "value": 44
+    },
+    {
+      "x": "potato",
+      "y": "parsley",
+      "value": 8
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "gruyere_cheese",
+      "mean": 61.333333333333336
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "potato",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 7.666666666666667
+    }
+  ]
+}

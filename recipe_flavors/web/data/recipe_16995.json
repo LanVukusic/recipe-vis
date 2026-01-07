@@ -1,0 +1,72 @@
+{
+  "id": 16995,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk",
+    "passion_fruit",
+    "cream"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "passion_fruit",
+      "value": 38
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "passion_fruit",
+      "y": "milk",
+      "value": 38
+    },
+    {
+      "x": "passion_fruit",
+      "y": "passion_fruit",
+      "value": 0
+    },
+    {
+      "x": "passion_fruit",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "passion_fruit",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "passion_fruit",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.0
+    }
+  ]
+}

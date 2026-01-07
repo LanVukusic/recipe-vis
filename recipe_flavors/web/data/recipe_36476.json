@@ -1,0 +1,112 @@
+{
+  "id": 36476,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "lemon_juice",
+    "milk",
+    "mango"
+  ],
+  "score_avg": 14.166666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "mango",
+      "value": 22
+    },
+    {
+      "x": "lemon_juice",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mango",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mango",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "mango",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mango",
+      "y": "milk",
+      "value": 42
+    },
+    {
+      "x": "mango",
+      "y": "mango",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mango",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "milk",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

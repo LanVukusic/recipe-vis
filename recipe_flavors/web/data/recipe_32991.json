@@ -1,0 +1,112 @@
+{
+  "id": 32991,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "ham",
+    "peach",
+    "mustard"
+  ],
+  "score_avg": 4.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "peach",
+      "value": 15
+    },
+    {
+      "x": "ham",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "peach",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "peach",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "ham",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

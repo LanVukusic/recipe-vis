@@ -1,0 +1,292 @@
+{
+  "id": 44006,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "bean",
+    "garlic",
+    "vegetable_oil",
+    "chicken",
+    "egg",
+    "parmesan_cheese"
+  ],
+  "score_avg": 12.952380952380953,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "bean",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "bean",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "chicken",
+      "value": 41
+    },
+    {
+      "x": "bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "bean",
+      "y": "parmesan_cheese",
+      "value": 48
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bean",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "bean",
+      "value": 41
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "parmesan_cheese",
+      "value": 72
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bean",
+      "value": 48
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken",
+      "value": 72
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 27.166666666666668
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 25.333333333333332
+    },
+    {
+      "ingredient": "bean",
+      "mean": 18.833333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8333333333333334
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.5
+    }
+  ]
+}

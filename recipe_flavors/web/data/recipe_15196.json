@@ -1,0 +1,112 @@
+{
+  "id": 15196,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "rice",
+    "egg",
+    "almond"
+  ],
+  "score_avg": 9.833333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "coconut",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "coconut",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "coconut",
+      "value": 21
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "egg",
+      "value": 23
+    },
+    {
+      "x": "rice",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "coconut",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "rice",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "coconut",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    }
+  ]
+}

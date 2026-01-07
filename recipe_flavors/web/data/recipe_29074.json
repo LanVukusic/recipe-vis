@@ -1,0 +1,42 @@
+{
+  "id": 29074,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "peppermint"
+  ],
+  "score_avg": 6.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "peppermint",
+      "value": 6
+    },
+    {
+      "x": "peppermint",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "peppermint",
+      "y": "peppermint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "peppermint",
+      "mean": 6.0
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 17810,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "vegetable",
+    "black_pepper",
+    "sage",
+    "pork_sausage"
+  ],
+  "score_avg": 0.9333333333333333,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "vegetable",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sage",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "pork_sausage",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.4
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.4
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 1.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.2
+    }
+  ]
+}

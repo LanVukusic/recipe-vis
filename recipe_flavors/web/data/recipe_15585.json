@@ -1,0 +1,112 @@
+{
+  "id": 15585,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "bacon",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 19.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

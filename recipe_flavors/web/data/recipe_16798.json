@@ -1,0 +1,162 @@
+{
+  "id": 16798,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "smoked_sausage",
+    "beef",
+    "mushroom",
+    "potato"
+  ],
+  "score_avg": 27.1,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "beef",
+      "value": 44
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "potato",
+      "value": 26
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "smoked_sausage",
+      "value": 44
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "smoked_sausage",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "potato",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "smoked_sausage",
+      "value": 26
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "mushroom",
+      "value": 42
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 43.75
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 33.25
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.75
+    }
+  ]
+}

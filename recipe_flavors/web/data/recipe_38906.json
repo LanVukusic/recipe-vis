@@ -1,0 +1,162 @@
+{
+  "id": 38906,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "baked_potato",
+    "wheat",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 18.8,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "baked_potato",
+      "value": 50
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "baked_potato",
+      "y": "butter",
+      "value": 50
+    },
+    {
+      "x": "baked_potato",
+      "y": "baked_potato",
+      "value": 0
+    },
+    {
+      "x": "baked_potato",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "baked_potato",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "baked_potato",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "baked_potato",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "baked_potato",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "baked_potato",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "baked_potato",
+      "mean": 28.25
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.5
+    }
+  ]
+}

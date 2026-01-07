@@ -1,0 +1,162 @@
+{
+  "id": 43330,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "savory",
+    "sage",
+    "mushroom",
+    "parmesan_cheese",
+    "bread"
+  ],
+  "score_avg": 13.7,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "savory",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "savory",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "savory",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "parmesan_cheese",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "savory",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "savory",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 27.25
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 16.75
+    },
+    {
+      "ingredient": "sage",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "savory",
+      "mean": 0.25
+    }
+  ]
+}

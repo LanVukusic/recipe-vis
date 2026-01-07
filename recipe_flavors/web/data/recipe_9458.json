@@ -1,0 +1,72 @@
+{
+  "id": 9458,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_flake",
+    "almond",
+    "egg"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "corn_flake",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "corn_flake",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "almond",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 1.0
+    }
+  ]
+}

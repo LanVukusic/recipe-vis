@@ -1,0 +1,112 @@
+{
+  "id": 34192,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "vegetable_oil",
+    "coffee",
+    "egg"
+  ],
+  "score_avg": 26.833333333333332,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "coffee",
+      "value": 95
+    },
+    {
+      "x": "cocoa",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "coffee",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "cocoa",
+      "value": 95
+    },
+    {
+      "x": "coffee",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "egg",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "cocoa",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "coffee",
+      "value": 37
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coffee",
+      "mean": 44.666666666666664
+    },
+    {
+      "ingredient": "cocoa",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

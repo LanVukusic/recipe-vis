@@ -1,0 +1,42 @@
+{
+  "id": 20473,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cherry"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cherry",
+      "value": 8
+    },
+    {
+      "x": "cherry",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 8.0
+    }
+  ]
+}

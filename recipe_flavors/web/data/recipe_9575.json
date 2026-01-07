@@ -1,0 +1,562 @@
+{
+  "id": 9575,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "onion",
+    "mushroom",
+    "bacon",
+    "sage",
+    "parmesan_cheese",
+    "garlic",
+    "macaroni",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 14.844444444444445,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "sage",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "bacon",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parmesan_cheese",
+      "value": 21
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "sage",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "sage",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "sage",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "parmesan_cheese",
+      "value": 3
+    },
+    {
+      "x": "sage",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "sage",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "onion",
+      "value": 21
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "sage",
+      "value": 3
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "sage",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "sage",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 32.22222222222222
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 25.666666666666668
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 24.666666666666668
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.11111111111111
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.222222222222221
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.222222222222221
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.444444444444445
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "sage",
+      "mean": 0.8888888888888888
+    }
+  ]
+}

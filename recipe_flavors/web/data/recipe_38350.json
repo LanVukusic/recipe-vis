@@ -1,0 +1,162 @@
+{
+  "id": 38350,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lettuce",
+    "chicken",
+    "grape",
+    "ham",
+    "pineapple"
+  ],
+  "score_avg": 19.9,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "grape",
+      "value": 3
+    },
+    {
+      "x": "lettuce",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "lettuce",
+      "y": "pineapple",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "grape",
+      "value": 38
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "pineapple",
+      "value": 30
+    },
+    {
+      "x": "grape",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "grape",
+      "y": "chicken",
+      "value": 38
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "grape",
+      "y": "pineapple",
+      "value": 39
+    },
+    {
+      "x": "ham",
+      "y": "lettuce",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "grape",
+      "value": 20
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pineapple",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "lettuce",
+      "value": 3
+    },
+    {
+      "x": "pineapple",
+      "y": "chicken",
+      "value": 30
+    },
+    {
+      "x": "pineapple",
+      "y": "grape",
+      "value": 39
+    },
+    {
+      "x": "pineapple",
+      "y": "ham",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 29.25
+    },
+    {
+      "ingredient": "grape",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 21.75
+    },
+    {
+      "ingredient": "ham",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 2.5
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 37581,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "turnip",
+    "beet",
+    "rosemary",
+    "onion",
+    "olive_oil"
+  ],
+  "score_avg": 0.4,
+  "pair_coverage": 0.3,
+  "heatmap": [
+    {
+      "x": "turnip",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "turnip",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "turnip",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "rosemary",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "turnip",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rosemary",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "turnip",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "turnip",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "beet",
+      "mean": 0.0
+    }
+  ]
+}

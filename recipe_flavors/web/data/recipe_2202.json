@@ -1,0 +1,792 @@
+{
+  "id": 2202,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "sesame_oil",
+    "onion",
+    "black_pepper",
+    "pear",
+    "scallion",
+    "soybean",
+    "radish",
+    "vegetable",
+    "tuna",
+    "rice",
+    "cabbage"
+  ],
+  "score_avg": 5.9393939393939394,
+  "pair_coverage": 0.5757575757575758,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tuna",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "rice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "pear",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soybean",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "tuna",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cabbage",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "soybean",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "radish",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tuna",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cabbage",
+      "value": 15
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pear",
+      "value": 4
+    },
+    {
+      "x": "black_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "soybean",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tuna",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "pear",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "black_pepper",
+      "value": 4
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "soybean",
+      "value": 20
+    },
+    {
+      "x": "pear",
+      "y": "radish",
+      "value": 3
+    },
+    {
+      "x": "pear",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "tuna",
+      "value": 9
+    },
+    {
+      "x": "pear",
+      "y": "rice",
+      "value": 11
+    },
+    {
+      "x": "pear",
+      "y": "cabbage",
+      "value": 8
+    },
+    {
+      "x": "scallion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cabbage",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "soybean",
+      "y": "onion",
+      "value": 25
+    },
+    {
+      "x": "soybean",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "soybean",
+      "y": "pear",
+      "value": 20
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "radish",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "tuna",
+      "value": 56
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "cabbage",
+      "value": 18
+    },
+    {
+      "x": "radish",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "radish",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "pear",
+      "value": 3
+    },
+    {
+      "x": "radish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "radish",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "radish",
+      "y": "tuna",
+      "value": 9
+    },
+    {
+      "x": "radish",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "radish",
+      "y": "cabbage",
+      "value": 9
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "radish",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tuna",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "tuna",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "tuna",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "tuna",
+      "y": "pear",
+      "value": 9
+    },
+    {
+      "x": "tuna",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "soybean",
+      "value": 56
+    },
+    {
+      "x": "tuna",
+      "y": "radish",
+      "value": 9
+    },
+    {
+      "x": "tuna",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "rice",
+      "value": 38
+    },
+    {
+      "x": "tuna",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "rice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "pear",
+      "value": 11
+    },
+    {
+      "x": "rice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "rice",
+      "y": "radish",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "tuna",
+      "value": 38
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cabbage",
+      "value": 12
+    },
+    {
+      "x": "cabbage",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "cabbage",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "cabbage",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "pear",
+      "value": 8
+    },
+    {
+      "x": "cabbage",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "cabbage",
+      "y": "soybean",
+      "value": 18
+    },
+    {
+      "x": "cabbage",
+      "y": "radish",
+      "value": 9
+    },
+    {
+      "x": "cabbage",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "tuna",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "rice",
+      "value": 12
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 17.727272727272727
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 13.454545454545455
+    },
+    {
+      "ingredient": "rice",
+      "mean": 13.181818181818182
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.2727272727272725
+    },
+    {
+      "ingredient": "pear",
+      "mean": 5.363636363636363
+    },
+    {
+      "ingredient": "radish",
+      "mean": 3.272727272727273
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.9090909090909092
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 9958,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "gruyere_cheese",
+    "wheat",
+    "ham",
+    "cheese",
+    "black_pepper",
+    "milk",
+    "nutmeg",
+    "smoke",
+    "mozzarella_cheese",
+    "egg",
+    "leek"
+  ],
+  "score_avg": 21.045454545454547,
+  "pair_coverage": 0.7424242424242424,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "gruyere_cheese",
+      "value": 68
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "mozzarella_cheese",
+      "value": 65
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "butter",
+      "value": 68
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "gruyere_cheese",
+      "value": 0
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "milk",
+      "value": 72
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "mozzarella_cheese",
+      "value": 128
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "gruyere_cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "gruyere_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "butter",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "gruyere_cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "wheat",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "ham",
+      "y": "nutmeg",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "mozzarella_cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "leek",
+      "value": 14
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "gruyere_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cheese",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "gruyere_cheese",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "nutmeg",
+      "value": 17
+    },
+    {
+      "x": "black_pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mozzarella_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "gruyere_cheese",
+      "value": 72
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "ham",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mozzarella_cheese",
+      "value": 68
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "leek",
+      "value": 21
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "gruyere_cheese",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "nutmeg",
+      "y": "cheese",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "black_pepper",
+      "value": 17
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "mozzarella_cheese",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "leek",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "gruyere_cheese",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "butter",
+      "value": 65
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "gruyere_cheese",
+      "value": 128
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "milk",
+      "value": 68
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "gruyere_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "leek",
+      "value": 8
+    },
+    {
+      "x": "leek",
+      "y": "butter",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "gruyere_cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "ham",
+      "value": 14
+    },
+    {
+      "x": "leek",
+      "y": "cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "milk",
+      "value": 21
+    },
+    {
+      "x": "leek",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "leek",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "mozzarella_cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "gruyere_cheese",
+      "mean": 45.09090909090909
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 43.45454545454545
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 42.90909090909091
+    },
+    {
+      "ingredient": "milk",
+      "mean": 34.09090909090909
+    },
+    {
+      "ingredient": "butter",
+      "mean": 32.81818181818182
+    },
+    {
+      "ingredient": "ham",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 15.454545454545455
+    },
+    {
+      "ingredient": "leek",
+      "mean": 11.272727272727273
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.454545454545454
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.363636363636363
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.09090909090909091
+    }
+  ]
+}

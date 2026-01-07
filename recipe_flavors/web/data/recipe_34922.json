@@ -1,0 +1,162 @@
+{
+  "id": 34922,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "orange_juice",
+    "almond",
+    "pineapple",
+    "cranberry"
+  ],
+  "score_avg": 7.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cranberry",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "cranberry",
+      "value": 15
+    },
+    {
+      "x": "almond",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "pineapple",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "cranberry",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "cranberry",
+      "value": 35
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cranberry",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "cranberry",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "cranberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

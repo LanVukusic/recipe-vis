@@ -1,0 +1,112 @@
+{
+  "id": 18804,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "cherry",
+    "almond",
+    "milk"
+  ],
+  "score_avg": 14.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cherry",
+      "y": "cocoa",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "milk",
+      "value": 11
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cherry",
+      "value": 11
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "milk",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.0
+    }
+  ]
+}

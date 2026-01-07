@@ -1,0 +1,72 @@
+{
+  "id": 33007,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "pork",
+    "mustard"
+  ],
+  "score_avg": 13.333333333333334,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "pork",
+      "value": 25
+    },
+    {
+      "x": "apricot",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "pork",
+      "y": "apricot",
+      "value": 25
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "apricot",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 16.5
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 7.5
+    }
+  ]
+}

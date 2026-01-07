@@ -1,0 +1,792 @@
+{
+  "id": 7060,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "cream",
+    "meat",
+    "cheese",
+    "black_pepper",
+    "cured_pork",
+    "milk_fat",
+    "fennel",
+    "garlic",
+    "wine",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 11.318181818181818,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "cheese",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "meat",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cured_pork",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "wine",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "meat",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "meat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "cheese",
+      "value": 32
+    },
+    {
+      "x": "meat",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "meat",
+      "y": "cured_pork",
+      "value": 44
+    },
+    {
+      "x": "meat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "meat",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "meat",
+      "y": "wine",
+      "value": 22
+    },
+    {
+      "x": "meat",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "meat",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheese",
+      "y": "meat",
+      "value": 32
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "cured_pork",
+      "value": 61
+    },
+    {
+      "x": "cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "wine",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "meat",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cured_pork",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "fennel",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "cured_pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "cured_pork",
+      "y": "meat",
+      "value": 44
+    },
+    {
+      "x": "cured_pork",
+      "y": "cheese",
+      "value": 61
+    },
+    {
+      "x": "cured_pork",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "milk_fat",
+      "value": 4
+    },
+    {
+      "x": "cured_pork",
+      "y": "fennel",
+      "value": 2
+    },
+    {
+      "x": "cured_pork",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cured_pork",
+      "y": "wine",
+      "value": 41
+    },
+    {
+      "x": "cured_pork",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "cured_pork",
+      "y": "milk",
+      "value": 62
+    },
+    {
+      "x": "milk_fat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cured_pork",
+      "value": 4
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "meat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "fennel",
+      "y": "cured_pork",
+      "value": 2
+    },
+    {
+      "x": "fennel",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "fennel",
+      "y": "wine",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "fennel",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "meat",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cured_pork",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "wine",
+      "y": "meat",
+      "value": 22
+    },
+    {
+      "x": "wine",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "cured_pork",
+      "value": 41
+    },
+    {
+      "x": "wine",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "egg",
+      "value": 16
+    },
+    {
+      "x": "wine",
+      "y": "milk",
+      "value": 43
+    },
+    {
+      "x": "egg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "meat",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cured_pork",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "fennel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "wine",
+      "value": 16
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "meat",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "cured_pork",
+      "value": 62
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "fennel",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "wine",
+      "value": 43
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 25.818181818181817
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.454545454545453
+    },
+    {
+      "ingredient": "cured_pork",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 18.818181818181817
+    },
+    {
+      "ingredient": "meat",
+      "mean": 14.454545454545455
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.181818181818182
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.909090909090909
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "fennel",
+      "mean": 1.2727272727272727
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

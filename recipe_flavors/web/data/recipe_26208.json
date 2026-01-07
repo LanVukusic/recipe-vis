@@ -1,0 +1,72 @@
+{
+  "id": 26208,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "asparagus",
+    "olive_oil",
+    "sesame_seed"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "asparagus",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "asparagus",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

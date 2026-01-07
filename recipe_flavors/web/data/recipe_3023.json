@@ -1,0 +1,162 @@
+{
+  "id": 3023,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "chicken",
+    "swiss_cheese",
+    "black_pepper",
+    "sauerkraut",
+    "parsley"
+  ],
+  "score_avg": 11.6,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "chicken",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "swiss_cheese",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "sauerkraut",
+      "y": "chicken",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "swiss_cheese",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "sauerkraut",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 5.0
+    }
+  ]
+}

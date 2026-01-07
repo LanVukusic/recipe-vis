@@ -1,0 +1,112 @@
+{
+  "id": 19312,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vegetable",
+    "pork",
+    "rice",
+    "pineapple"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "rice",
+      "value": 43
+    },
+    {
+      "x": "pork",
+      "y": "pineapple",
+      "value": 28
+    },
+    {
+      "x": "rice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pork",
+      "value": 43
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pineapple",
+      "value": 21
+    },
+    {
+      "x": "pineapple",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pork",
+      "value": 28
+    },
+    {
+      "x": "pineapple",
+      "y": "rice",
+      "value": 21
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "rice",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

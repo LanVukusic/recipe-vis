@@ -1,0 +1,162 @@
+{
+  "id": 47123,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "pepper",
+    "beer",
+    "wheat",
+    "cilantro"
+  ],
+  "score_avg": 11.7,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "beer",
+      "value": 87
+    },
+    {
+      "x": "cheese",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cilantro",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "beer",
+      "value": 8
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cheese",
+      "value": 87
+    },
+    {
+      "x": "beer",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beer",
+      "y": "cilantro",
+      "value": 11
+    },
+    {
+      "x": "wheat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beer",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "cilantro",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "beer",
+      "value": 11
+    },
+    {
+      "x": "cilantro",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beer",
+      "mean": 26.5
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 24.5
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 23560,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "beer"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "beer",
+      "value": 19
+    },
+    {
+      "x": "beer",
+      "y": "cherry",
+      "value": 19
+    },
+    {
+      "x": "beer",
+      "y": "beer",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "beer",
+      "mean": 19.0
+    }
+  ]
+}

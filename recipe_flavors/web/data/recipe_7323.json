@@ -1,0 +1,112 @@
+{
+  "id": 7323,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "vinegar",
+    "cabbage",
+    "red_wine"
+  ],
+  "score_avg": 22.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vinegar",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "cabbage",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "red_wine",
+      "value": 58
+    },
+    {
+      "x": "vinegar",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cabbage",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "cabbage",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "cabbage",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "red_wine",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "butter",
+      "value": 58
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "cabbage",
+      "value": 17
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 31.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 13.666666666666666
+    }
+  ]
+}

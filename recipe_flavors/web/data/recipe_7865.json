@@ -1,0 +1,112 @@
+{
+  "id": 7865,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chive",
+    "olive_oil",
+    "black_pepper",
+    "potato"
+  ],
+  "score_avg": 1.6666666666666667,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "chive",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chive",
+      "y": "potato",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "chive",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "chive",
+      "value": 2
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "chive",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

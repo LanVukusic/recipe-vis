@@ -1,0 +1,112 @@
+{
+  "id": 9982,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "popcorn",
+    "olive_oil",
+    "black_pepper",
+    "parmesan_cheese"
+  ],
+  "score_avg": 4.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "popcorn",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "popcorn",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "popcorn",
+      "y": "parmesan_cheese",
+      "value": 14
+    },
+    {
+      "x": "olive_oil",
+      "y": "popcorn",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "popcorn",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parmesan_cheese",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "popcorn",
+      "value": 14
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 8.333333333333334
+    },
+    {
+      "ingredient": "popcorn",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 21214,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat_bread",
+    "banana",
+    "peanut_butter"
+  ],
+  "score_avg": 39.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "banana",
+      "value": 33
+    },
+    {
+      "x": "wheat_bread",
+      "y": "peanut_butter",
+      "value": 56
+    },
+    {
+      "x": "banana",
+      "y": "wheat_bread",
+      "value": 33
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "wheat_bread",
+      "value": 56
+    },
+    {
+      "x": "peanut_butter",
+      "y": "banana",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat_bread",
+      "mean": 44.5
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 42.5
+    },
+    {
+      "ingredient": "banana",
+      "mean": 31.0
+    }
+  ]
+}

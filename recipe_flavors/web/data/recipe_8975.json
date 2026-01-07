@@ -1,0 +1,292 @@
+{
+  "id": 8975,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "seed",
+    "lettuce",
+    "lime_juice",
+    "almond",
+    "black_pepper",
+    "watercress"
+  ],
+  "score_avg": 0.47619047619047616,
+  "pair_coverage": 0.2857142857142857,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "lettuce",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "lettuce",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "watercress",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "watercress",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "lettuce",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "watercress",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "watercress",
+      "y": "watercress",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "seed",
+      "mean": 1.1666666666666667
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "watercress",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "almond",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "lettuce",
+      "mean": 0.0
+    }
+  ]
+}

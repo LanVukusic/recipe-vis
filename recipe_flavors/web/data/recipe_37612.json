@@ -1,0 +1,292 @@
+{
+  "id": 37612,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "cereal",
+    "egg",
+    "nut",
+    "orange_juice",
+    "bacon"
+  ],
+  "score_avg": 7.9523809523809526,
+  "pair_coverage": 0.6190476190476191,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "cereal",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "nut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "orange_juice",
+      "value": 2
+    },
+    {
+      "x": "nut",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "orange_juice",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "nut",
+      "value": 2
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "bacon",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 17.333333333333332
+    },
+    {
+      "ingredient": "egg",
+      "mean": 10.333333333333334
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "nut",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.0
+    }
+  ]
+}

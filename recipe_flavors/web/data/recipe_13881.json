@@ -1,0 +1,162 @@
+{
+  "id": 13881,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "beef_broth",
+    "garlic",
+    "chicken_broth",
+    "brown_rice"
+  ],
+  "score_avg": 5.8,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "brown_rice",
+      "value": 45
+    },
+    {
+      "x": "beef_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "brown_rice",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "brown_rice",
+      "value": 5
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "brown_rice",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "brown_rice",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "brown_rice",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "brown_rice",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "brown_rice",
+      "y": "brown_rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "brown_rice",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 12.75
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

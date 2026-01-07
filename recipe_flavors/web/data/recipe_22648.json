@@ -1,0 +1,162 @@
+{
+  "id": 22648,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "basil",
+    "grape_juice",
+    "sweet_potato",
+    "feta_cheese"
+  ],
+  "score_avg": 6.9,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "sweet_potato",
+      "value": 8
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "grape_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "sweet_potato",
+      "y": "tomato",
+      "value": 8
+    },
+    {
+      "x": "sweet_potato",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "sweet_potato",
+      "value": 0
+    },
+    {
+      "x": "sweet_potato",
+      "y": "feta_cheese",
+      "value": 3
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "sweet_potato",
+      "value": 3
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 15.75
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 14.5
+    },
+    {
+      "ingredient": "sweet_potato",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "basil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.5
+    }
+  ]
+}

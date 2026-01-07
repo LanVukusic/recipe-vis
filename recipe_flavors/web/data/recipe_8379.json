@@ -1,0 +1,112 @@
+{
+  "id": 8379,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "gelatin",
+    "fruit",
+    "cream"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "gelatin",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "fruit",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "basil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 47087,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "tequila",
+    "lime"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "lime",
+      "value": 51
+    },
+    {
+      "x": "tequila",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

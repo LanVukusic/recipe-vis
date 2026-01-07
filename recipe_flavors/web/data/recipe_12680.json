@@ -1,0 +1,42 @@
+{
+  "id": 12680,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "peanut_butter"
+  ],
+  "score_avg": 29.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut_butter",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "peanut_butter",
+      "mean": 29.0
+    }
+  ]
+}

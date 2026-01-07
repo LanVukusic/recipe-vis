@@ -1,0 +1,112 @@
+{
+  "id": 42994,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "mushroom",
+    "leek",
+    "onion"
+  ],
+  "score_avg": 25.166666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "leek",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "leek",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "leek",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "onion",
+      "value": 23
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "leek",
+      "value": 23
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 32.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.333333333333332
+    },
+    {
+      "ingredient": "leek",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "onion",
+      "mean": 19.333333333333332
+    }
+  ]
+}

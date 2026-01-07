@@ -1,0 +1,162 @@
+{
+  "id": 34081,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "mozzarella_cheese",
+    "chicken",
+    "chicken_broth",
+    "cream"
+  ],
+  "score_avg": 14.4,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "mozzarella_cheese",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "mozzarella_cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cream",
+      "value": 17
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "mozzarella_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "chicken",
+      "value": 17
+    },
+    {
+      "x": "cream",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 25.25
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 11.75
+    },
+    {
+      "ingredient": "celery",
+      "mean": 10.75
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

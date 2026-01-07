@@ -1,0 +1,72 @@
+{
+  "id": 811,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "chicken_broth",
+    "egg",
+    "pea"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pea",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pea",
+      "value": 17
+    },
+    {
+      "x": "pea",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pea",
+      "y": "egg",
+      "value": 17
+    },
+    {
+      "x": "pea",
+      "y": "pea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "pea",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

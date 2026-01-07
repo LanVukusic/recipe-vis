@@ -1,0 +1,292 @@
+{
+  "id": 14094,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon_juice",
+    "vegetable_oil",
+    "fish",
+    "egg",
+    "parmesan_cheese",
+    "scallion"
+  ],
+  "score_avg": 10.904761904761905,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "fish",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "parmesan_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "fish",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "fish",
+      "y": "parmesan_cheese",
+      "value": 37
+    },
+    {
+      "x": "fish",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "fish",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "fish",
+      "value": 37
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "egg",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 23.166666666666668
+    },
+    {
+      "ingredient": "fish",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.166666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 1468,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "black_pepper",
+    "pumpkin"
+  ],
+  "score_avg": 1.8333333333333333,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

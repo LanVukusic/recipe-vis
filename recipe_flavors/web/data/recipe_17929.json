@@ -1,0 +1,112 @@
+{
+  "id": 17929,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "milk",
+    "sour_cherry"
+  ],
+  "score_avg": 15.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "sour_cherry",
+      "value": 9
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "sour_cherry",
+      "value": 8
+    },
+    {
+      "x": "sour_cherry",
+      "y": "butter",
+      "value": 9
+    },
+    {
+      "x": "sour_cherry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "milk",
+      "value": 8
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

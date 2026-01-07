@@ -1,0 +1,112 @@
+{
+  "id": 4216,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "cayenne",
+    "mushroom"
+  ],
+  "score_avg": 29.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "cayenne",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cayenne",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 7.666666666666667
+    }
+  ]
+}

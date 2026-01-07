@@ -1,0 +1,222 @@
+{
+  "id": 37294,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "clam",
+    "onion",
+    "cream",
+    "black_pepper",
+    "cottage_cheese"
+  ],
+  "score_avg": 7.466666666666667,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "clam",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cottage_cheese",
+      "value": 1
+    },
+    {
+      "x": "clam",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "clam",
+      "y": "clam",
+      "value": 0
+    },
+    {
+      "x": "clam",
+      "y": "onion",
+      "value": 12
+    },
+    {
+      "x": "clam",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "clam",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "clam",
+      "y": "cottage_cheese",
+      "value": 32
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "clam",
+      "value": 12
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cottage_cheese",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "clam",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cottage_cheese",
+      "value": 24
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "clam",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cottage_cheese",
+      "value": 5
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "clam",
+      "value": 32
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "clam",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.4
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.8
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.6
+    }
+  ]
+}

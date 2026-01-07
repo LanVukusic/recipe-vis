@@ -1,0 +1,292 @@
+{
+  "id": 1250,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pork",
+    "wheat",
+    "onion",
+    "starch",
+    "vegetable_oil",
+    "black_pepper",
+    "pumpkin"
+  ],
+  "score_avg": 1.5714285714285714,
+  "pair_coverage": 0.23809523809523808,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pumpkin",
+      "value": 8
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pumpkin",
+      "value": 5
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "pork",
+      "value": 8
+    },
+    {
+      "x": "pumpkin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "pumpkin",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "onion",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 2.1666666666666665
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

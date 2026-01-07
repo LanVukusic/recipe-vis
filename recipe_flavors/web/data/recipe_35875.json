@@ -1,0 +1,162 @@
+{
+  "id": 35875,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "corn_flake",
+    "wheat",
+    "milk",
+    "chicken"
+  ],
+  "score_avg": 11.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "chicken",
+      "value": 19
+    },
+    {
+      "x": "corn_flake",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "chicken",
+      "y": "honey",
+      "value": 19
+    },
+    {
+      "x": "chicken",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 20.25
+    },
+    {
+      "ingredient": "honey",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    }
+  ]
+}

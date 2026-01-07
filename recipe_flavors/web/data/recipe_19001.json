@@ -1,0 +1,112 @@
+{
+  "id": 19001,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "green_bell_pepper",
+    "cucumber",
+    "onion"
+  ],
+  "score_avg": 1.8333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "green_bell_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 46156,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "cheddar_cheese",
+    "chicken_broth",
+    "cauliflower",
+    "milk"
+  ],
+  "score_avg": 24.5,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cheddar_cheese",
+      "value": 68
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "chicken",
+      "y": "milk",
+      "value": 61
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken",
+      "value": 68
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "chicken",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "cheddar_cheese",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "chicken",
+      "value": 61
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 39.25
+    },
+    {
+      "ingredient": "milk",
+      "mean": 37.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 35.75
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.25
+    }
+  ]
+}

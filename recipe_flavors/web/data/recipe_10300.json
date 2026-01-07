@@ -1,0 +1,112 @@
+{
+  "id": 10300,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wine",
+    "endive",
+    "vinegar"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "endive",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "endive",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "endive",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "endive",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "endive",
+      "y": "endive",
+      "value": 0
+    },
+    {
+      "x": "endive",
+      "y": "vinegar",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "endive",
+      "value": 5
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "endive",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.0
+    }
+  ]
+}

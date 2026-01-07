@@ -1,0 +1,72 @@
+{
+  "id": 25540,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "pepper",
+    "salmon"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "salmon",
+      "value": 2
+    },
+    {
+      "x": "salmon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

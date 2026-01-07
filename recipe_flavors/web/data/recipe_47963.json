@@ -1,0 +1,112 @@
+{
+  "id": 47963,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "brandy",
+    "garlic",
+    "soy_sauce",
+    "prawn"
+  ],
+  "score_avg": 0.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "brandy",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "brandy",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "brandy",
+      "y": "prawn",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "prawn",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "brandy",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "prawn",
+      "value": 0
+    },
+    {
+      "x": "prawn",
+      "y": "brandy",
+      "value": 1
+    },
+    {
+      "x": "prawn",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "prawn",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "prawn",
+      "y": "prawn",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "brandy",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "prawn",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

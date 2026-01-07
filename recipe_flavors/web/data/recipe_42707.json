@@ -1,0 +1,72 @@
+{
+  "id": 42707,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coffee",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 35.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "coffee",
+      "y": "cream",
+      "value": 21
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "coffee",
+      "value": 21
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 22.0
+    }
+  ]
+}

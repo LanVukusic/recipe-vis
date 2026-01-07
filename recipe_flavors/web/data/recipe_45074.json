@@ -1,0 +1,42 @@
+{
+  "id": 45074,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "almond",
+    "milk"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "almond",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 3.0
+    }
+  ]
+}

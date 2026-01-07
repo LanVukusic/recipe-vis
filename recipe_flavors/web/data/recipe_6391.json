@@ -1,0 +1,72 @@
+{
+  "id": 6391,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "cane_molasses",
+    "pecan",
+    "egg"
+  ],
+  "score_avg": 6.333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "pecan",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

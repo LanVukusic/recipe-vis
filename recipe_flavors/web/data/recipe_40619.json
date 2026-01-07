@@ -1,0 +1,162 @@
+{
+  "id": 40619,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "celery",
+    "chicken",
+    "carrot",
+    "bread",
+    "blue_cheese"
+  ],
+  "score_avg": 24.7,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "carrot",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "blue_cheese",
+      "value": 22
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "chicken",
+      "y": "blue_cheese",
+      "value": 69
+    },
+    {
+      "x": "carrot",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "carrot",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "blue_cheese",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "blue_cheese",
+      "value": 42
+    },
+    {
+      "x": "blue_cheese",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "blue_cheese",
+      "y": "chicken",
+      "value": 69
+    },
+    {
+      "x": "blue_cheese",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "blue_cheese",
+      "y": "bread",
+      "value": 42
+    },
+    {
+      "x": "blue_cheese",
+      "y": "blue_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blue_cheese",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 32.25
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "celery",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 12.5
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "id": 1356,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "wheat",
+    "sesame_oil",
+    "beef",
+    "soy_sauce",
+    "black_pepper",
+    "carrot",
+    "cucumber",
+    "garlic",
+    "beef_broth",
+    "egg",
+    "pumpkin"
+  ],
+  "score_avg": 2.890909090909091,
+  "pair_coverage": 0.4909090909090909,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "beef",
+      "value": 3
+    },
+    {
+      "x": "sesame_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "sesame_oil",
+      "value": 3
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "cucumber",
+      "value": 12
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "pumpkin",
+      "value": 10
+    },
+    {
+      "x": "soy_sauce",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "pumpkin",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "beef",
+      "value": 12
+    },
+    {
+      "x": "cucumber",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "pumpkin",
+      "value": 3
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "pumpkin",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "pumpkin",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "pumpkin",
+      "value": 7
+    },
+    {
+      "x": "pumpkin",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "pumpkin",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "carrot",
+      "value": 3
+    },
+    {
+      "x": "pumpkin",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "pumpkin",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pumpkin",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "pumpkin",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "pumpkin",
+      "y": "pumpkin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 10.6
+    },
+    {
+      "ingredient": "egg",
+      "mean": 6.5
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.2
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.8
+    },
+    {
+      "ingredient": "pumpkin",
+      "mean": 2.4
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.3
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 0.7
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.2
+    }
+  ]
+}

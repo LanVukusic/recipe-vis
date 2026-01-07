@@ -1,0 +1,72 @@
+{
+  "id": 33160,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "nutmeg",
+    "peach"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "peach",
+      "value": 3
+    },
+    {
+      "x": "peach",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nutmeg",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "peach",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

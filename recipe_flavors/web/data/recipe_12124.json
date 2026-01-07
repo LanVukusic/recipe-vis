@@ -1,0 +1,222 @@
+{
+  "id": 12124,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "smoke",
+    "pepper",
+    "ham",
+    "onion",
+    "rice",
+    "bean"
+  ],
+  "score_avg": 8.933333333333334,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "bean",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "ham",
+      "y": "rice",
+      "value": 25
+    },
+    {
+      "x": "ham",
+      "y": "bean",
+      "value": 24
+    },
+    {
+      "x": "onion",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "ham",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "rice",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "bean",
+      "value": 13
+    },
+    {
+      "x": "rice",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "ham",
+      "value": 25
+    },
+    {
+      "x": "rice",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "bean",
+      "value": 36
+    },
+    {
+      "x": "bean",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "bean",
+      "y": "ham",
+      "value": 24
+    },
+    {
+      "x": "bean",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "bean",
+      "y": "rice",
+      "value": 36
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 16.4
+    },
+    {
+      "ingredient": "bean",
+      "mean": 15.6
+    },
+    {
+      "ingredient": "ham",
+      "mean": 11.8
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.6
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.2
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.0
+    }
+  ]
+}

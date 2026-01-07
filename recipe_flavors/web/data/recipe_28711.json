@@ -1,0 +1,292 @@
+{
+  "id": 28711,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "yeast",
+    "black_pepper",
+    "milk",
+    "oyster",
+    "bread"
+  ],
+  "score_avg": 8.80952380952381,
+  "pair_coverage": 0.6190476190476191,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "oyster",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "oyster",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "oyster",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "oyster",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 21.166666666666668
+    },
+    {
+      "ingredient": "milk",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "bread",
+      "mean": 11.166666666666666
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 6.833333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

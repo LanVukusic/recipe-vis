@@ -1,0 +1,562 @@
+{
+  "id": 23521,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "cheese",
+    "mushroom",
+    "parmesan_cheese",
+    "scallion",
+    "bell_pepper",
+    "macaroni",
+    "butter",
+    "garlic",
+    "cream"
+  ],
+  "score_avg": 19.822222222222223,
+  "pair_coverage": 0.7111111111111111,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cheese",
+      "value": 51
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "parmesan_cheese",
+      "value": 66
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cheese",
+      "y": "tomato",
+      "value": 51
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "cheese",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "parmesan_cheese",
+      "value": 65
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bell_pepper",
+      "value": 21
+    },
+    {
+      "x": "mushroom",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tomato",
+      "value": 66
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "mushroom",
+      "value": 65
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cream",
+      "value": 24
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "mushroom",
+      "value": 21
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "bell_pepper",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "parmesan_cheese",
+      "value": 24
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "bell_pepper",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 44.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 37.666666666666664
+    },
+    {
+      "ingredient": "butter",
+      "mean": 32.111111111111114
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 28.88888888888889
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 28.11111111111111
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 13.11111111111111
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.555555555555555
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.1111111111111111
+    }
+  ]
+}

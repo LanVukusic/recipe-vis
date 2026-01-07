@@ -1,0 +1,112 @@
+{
+  "id": 48495,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "bean",
+    "rice",
+    "sesame_oil",
+    "cream"
+  ],
+  "score_avg": 10.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "rice",
+      "value": 36
+    },
+    {
+      "x": "bean",
+      "y": "sesame_oil",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "rice",
+      "y": "bean",
+      "value": 36
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "sesame_oil",
+      "value": 2
+    },
+    {
+      "x": "rice",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "sesame_oil",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "sesame_oil",
+      "y": "rice",
+      "value": 2
+    },
+    {
+      "x": "sesame_oil",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "sesame_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "bean",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "rice",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "sesame_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rice",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "bean",
+      "mean": 15.333333333333334
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "sesame_oil",
+      "mean": 1.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 46162,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "onion",
+    "swiss_cheese",
+    "sauerkraut",
+    "beef",
+    "bread"
+  ],
+  "score_avg": 24.2,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "swiss_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "beef",
+      "value": 78
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "sauerkraut",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "beef",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "bread",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "swiss_cheese",
+      "value": 78
+    },
+    {
+      "x": "beef",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.75
+    },
+    {
+      "ingredient": "onion",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 6.75
+    }
+  ]
+}

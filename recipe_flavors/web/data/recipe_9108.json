@@ -1,0 +1,672 @@
+{
+  "id": 9108,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "pork",
+    "wheat",
+    "mushroom",
+    "onion",
+    "cardamom",
+    "chicken_broth",
+    "garlic",
+    "roasted_beef",
+    "cream"
+  ],
+  "score_avg": 12.618181818181819,
+  "pair_coverage": 0.7272727272727273,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "cardamom",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "roasted_beef",
+      "value": 81
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "roasted_beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "cardamom",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "roasted_beef",
+      "value": 97
+    },
+    {
+      "x": "pork",
+      "y": "cream",
+      "value": 12
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "roasted_beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pork",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "roasted_beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cardamom",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "roasted_beef",
+      "value": 32
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cardamom",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "cardamom",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "cardamom",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "mushroom",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cardamom",
+      "y": "roasted_beef",
+      "value": 19
+    },
+    {
+      "x": "cardamom",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "roasted_beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "cardamom",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_beef",
+      "value": 11
+    },
+    {
+      "x": "garlic",
+      "y": "cream",
+      "value": 2
+    },
+    {
+      "x": "roasted_beef",
+      "y": "butter",
+      "value": 81
+    },
+    {
+      "x": "roasted_beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "roasted_beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "roasted_beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "roasted_beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "roasted_beef",
+      "y": "onion",
+      "value": 32
+    },
+    {
+      "x": "roasted_beef",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "roasted_beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "roasted_beef",
+      "y": "garlic",
+      "value": 11
+    },
+    {
+      "x": "roasted_beef",
+      "y": "roasted_beef",
+      "value": 0
+    },
+    {
+      "x": "roasted_beef",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "pork",
+      "value": 12
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cardamom",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "cream",
+      "y": "roasted_beef",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_beef",
+      "mean": 33.4
+    },
+    {
+      "ingredient": "pork",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 25.2
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 21.2
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.7
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.1
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.4
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.8
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.7
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 22298,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "salmon"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "salmon",
+      "value": 2
+    },
+    {
+      "x": "salmon",
+      "y": "pepper",
+      "value": 2
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 31407,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peach",
+    "cranberry"
+  ],
+  "score_avg": 36.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cranberry",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "peach",
+      "value": 36
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 36.0
+    }
+  ]
+}

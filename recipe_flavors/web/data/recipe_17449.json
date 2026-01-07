@@ -1,0 +1,112 @@
+{
+  "id": 17449,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "provolone_cheese",
+    "chicken",
+    "cayenne"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "provolone_cheese",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "provolone_cheese",
+      "value": 0
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "provolone_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "provolone_cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "provolone_cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 43.666666666666664
+    },
+    {
+      "ingredient": "provolone_cheese",
+      "mean": 42.333333333333336
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.0
+    }
+  ]
+}

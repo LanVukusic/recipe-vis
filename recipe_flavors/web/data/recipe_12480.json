@@ -1,0 +1,162 @@
+{
+  "id": 12480,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "cheddar_cheese",
+    "egg",
+    "bell_pepper",
+    "bread"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bell_pepper",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 24.75
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 18.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 13.75
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 10.75
+    }
+  ]
+}

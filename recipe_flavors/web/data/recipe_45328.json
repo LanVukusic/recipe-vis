@@ -1,0 +1,72 @@
+{
+  "id": 45328,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bacon",
+    "pork_sausage"
+  ],
+  "score_avg": 39.666666666666664,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pork_sausage",
+      "value": 119
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bacon",
+      "value": 119
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 59.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

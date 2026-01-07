@@ -1,0 +1,292 @@
+{
+  "id": 39097,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "cream_cheese",
+    "bacon",
+    "cheddar_cheese",
+    "cayenne",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 29.61904761904762,
+  "pair_coverage": 0.9047619047619048,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bacon",
+      "value": 61
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cheddar_cheese",
+      "value": 130
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "bacon",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "cream_cheese",
+      "value": 61
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "bacon",
+      "y": "bread",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream_cheese",
+      "value": 130
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cayenne",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "cayenne",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "bacon",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cream_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "bacon",
+      "value": 32
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 53.666666666666664
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 50.833333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 38.166666666666664
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "bread",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.1666666666666665
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 21181,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "cream",
+    "banana",
+    "pineapple"
+  ],
+  "score_avg": 7.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "banana",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "banana",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

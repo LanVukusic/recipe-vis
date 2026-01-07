@@ -1,0 +1,112 @@
+{
+  "id": 13942,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "scallion",
+    "cheddar_cheese",
+    "garlic",
+    "bread"
+  ],
+  "score_avg": 8.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "bread",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.3333333333333335
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

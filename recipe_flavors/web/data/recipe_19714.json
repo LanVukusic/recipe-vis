@@ -1,0 +1,792 @@
+{
+  "id": 19714,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "onion",
+    "beef",
+    "yeast",
+    "celery",
+    "buttermilk",
+    "seed",
+    "vegetable",
+    "egg",
+    "milk",
+    "mushroom",
+    "cream"
+  ],
+  "score_avg": 8.893939393939394,
+  "pair_coverage": 0.6212121212121212,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "buttermilk",
+      "value": 10
+    },
+    {
+      "x": "beef",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "celery",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "celery",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "celery",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "celery",
+      "y": "mushroom",
+      "value": 17
+    },
+    {
+      "x": "celery",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "beef",
+      "value": 10
+    },
+    {
+      "x": "buttermilk",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "celery",
+      "value": 4
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "milk",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "mushroom",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "celery",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "seed",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "milk",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "celery",
+      "value": 17
+    },
+    {
+      "x": "mushroom",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "mushroom",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "beef",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 24.90909090909091
+    },
+    {
+      "ingredient": "milk",
+      "mean": 20.90909090909091
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 16.636363636363637
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.272727272727273
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.181818181818182
+    },
+    {
+      "ingredient": "celery",
+      "mean": 8.818181818181818
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.727272727272727
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

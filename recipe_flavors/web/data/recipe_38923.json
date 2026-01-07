@@ -1,0 +1,162 @@
+{
+  "id": 38923,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "rye_bread",
+    "beef",
+    "pork_sausage",
+    "oregano"
+  ],
+  "score_avg": 36.5,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "rye_bread",
+      "value": 46
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "pork_sausage",
+      "value": 58
+    },
+    {
+      "x": "cheese",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "rye_bread",
+      "y": "cheese",
+      "value": 46
+    },
+    {
+      "x": "rye_bread",
+      "y": "rye_bread",
+      "value": 0
+    },
+    {
+      "x": "rye_bread",
+      "y": "beef",
+      "value": 50
+    },
+    {
+      "x": "rye_bread",
+      "y": "pork_sausage",
+      "value": 37
+    },
+    {
+      "x": "rye_bread",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "rye_bread",
+      "value": 50
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "pork_sausage",
+      "value": 101
+    },
+    {
+      "x": "beef",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheese",
+      "value": 58
+    },
+    {
+      "x": "pork_sausage",
+      "y": "rye_bread",
+      "value": 37
+    },
+    {
+      "x": "pork_sausage",
+      "y": "beef",
+      "value": 101
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "oregano",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "rye_bread",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "oregano",
+      "y": "oregano",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 56.0
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 49.0
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 44.25
+    },
+    {
+      "ingredient": "rye_bread",
+      "mean": 33.25
+    },
+    {
+      "ingredient": "oregano",
+      "mean": 0.0
+    }
+  ]
+}

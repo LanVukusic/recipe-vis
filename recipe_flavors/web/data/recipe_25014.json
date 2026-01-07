@@ -1,0 +1,72 @@
+{
+  "id": 25014,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "egg",
+    "mustard"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "vinegar",
+      "y": "mustard",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "mustard",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 43032,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tequila",
+    "raspberry",
+    "rum"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "rum",
+      "value": 54
+    },
+    {
+      "x": "rum",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "raspberry",
+      "value": 54
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "rum",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

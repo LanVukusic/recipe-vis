@@ -1,0 +1,112 @@
+{
+  "id": 10497,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pear",
+    "almond",
+    "egg"
+  ],
+  "score_avg": 9.5,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pear",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "pear",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "pear",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "pear",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "pear",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "pear",
+      "value": 5
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.666666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "pear",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

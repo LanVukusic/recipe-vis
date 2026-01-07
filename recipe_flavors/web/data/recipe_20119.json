@@ -1,0 +1,162 @@
+{
+  "id": 20119,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "black_pepper",
+    "lemon_juice",
+    "cucumber",
+    "onion"
+  ],
+  "score_avg": 4.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "cucumber",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "cucumber",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 5.75
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

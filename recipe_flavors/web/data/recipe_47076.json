@@ -1,0 +1,112 @@
+{
+  "id": 47076,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "almond",
+    "pineapple",
+    "ginger",
+    "cranberry"
+  ],
+  "score_avg": 16.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "pineapple",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "cranberry",
+      "value": 2
+    },
+    {
+      "x": "pineapple",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "cranberry",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "cranberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "cranberry",
+      "y": "ginger",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 26.333333333333332
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.6666666666666667
+    }
+  ]
+}

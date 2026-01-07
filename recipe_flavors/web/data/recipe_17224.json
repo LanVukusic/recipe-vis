@@ -1,0 +1,112 @@
+{
+  "id": 17224,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "raspberry",
+    "wheat",
+    "cream"
+  ],
+  "score_avg": 12.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "raspberry",
+      "value": 42
+    },
+    {
+      "x": "cocoa",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "raspberry",
+      "y": "cocoa",
+      "value": 42
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "wheat",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "raspberry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

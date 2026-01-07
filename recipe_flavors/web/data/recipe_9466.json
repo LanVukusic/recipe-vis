@@ -1,0 +1,112 @@
+{
+  "id": 9466,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "orange",
+    "vanilla",
+    "lime_peel_oil"
+  ],
+  "score_avg": 3.5,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lime_peel_oil",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "vanilla",
+      "value": 18
+    },
+    {
+      "x": "orange",
+      "y": "lime_peel_oil",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "orange",
+      "value": 18
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lime_peel_oil",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "orange",
+      "value": 2
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lime_peel_oil",
+      "y": "lime_peel_oil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "orange",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "lime_peel_oil",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

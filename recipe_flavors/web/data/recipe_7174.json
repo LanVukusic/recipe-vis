@@ -1,0 +1,162 @@
+{
+  "id": 7174,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "mint",
+    "wine",
+    "black_pepper",
+    "vinegar"
+  ],
+  "score_avg": 5.1,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "wine",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "wine",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "mint",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wine",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "mint",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.75
+    }
+  ]
+}

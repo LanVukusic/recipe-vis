@@ -1,0 +1,72 @@
+{
+  "id": 16652,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon",
+    "cucumber",
+    "lime"
+  ],
+  "score_avg": 24.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cucumber",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "cucumber",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "cucumber",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 7.0
+    }
+  ]
+}

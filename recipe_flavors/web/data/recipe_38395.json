@@ -1,0 +1,112 @@
+{
+  "id": 38395,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "dill",
+    "corn",
+    "black_pepper"
+  ],
+  "score_avg": 15.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "dill",
+      "value": 18
+    },
+    {
+      "x": "tomato",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "tomato",
+      "value": 18
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "corn",
+      "value": 17
+    },
+    {
+      "x": "dill",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "dill",
+      "value": 17
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "corn",
+      "mean": 17.666666666666668
+    },
+    {
+      "ingredient": "dill",
+      "mean": 15.666666666666666
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 8.333333333333334
+    }
+  ]
+}

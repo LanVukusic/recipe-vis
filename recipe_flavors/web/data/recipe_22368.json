@@ -1,0 +1,112 @@
+{
+  "id": 22368,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "chicken",
+    "onion",
+    "vinegar"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "chicken",
+      "value": 26
+    },
+    {
+      "x": "apricot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "apricot",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "apricot",
+      "value": 26
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "onion",
+      "y": "apricot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "apricot",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 10.666666666666666
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 42184,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "butter",
+    "vanilla",
+    "carrot",
+    "lemon_peel"
+  ],
+  "score_avg": 6.2,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "carrot",
+      "value": 4
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "vanilla",
+      "value": 4
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 9.75
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

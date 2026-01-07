@@ -1,0 +1,292 @@
+{
+  "id": 10067,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "horseradish",
+    "mustard",
+    "roquefort_cheese",
+    "cream",
+    "leek",
+    "bread"
+  ],
+  "score_avg": 12.857142857142858,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "roquefort_cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "cream",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "horseradish",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "roquefort_cheese",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "roquefort_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "leek",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "bread",
+      "value": 5
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "roquefort_cheese",
+      "value": 0
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "leek",
+      "value": 20
+    },
+    {
+      "x": "roquefort_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cream",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "cream",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "roquefort_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "leek",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "leek",
+      "y": "butter",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "leek",
+      "y": "roquefort_cheese",
+      "value": 20
+    },
+    {
+      "x": "leek",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "leek",
+      "y": "leek",
+      "value": 0
+    },
+    {
+      "x": "leek",
+      "y": "bread",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "bread",
+      "y": "roquefort_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "leek",
+      "value": 12
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roquefort_cheese",
+      "mean": 25.166666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.833333333333334
+    },
+    {
+      "ingredient": "leek",
+      "mean": 10.666666666666666
+    },
+    {
+      "ingredient": "cream",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

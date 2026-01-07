@@ -1,0 +1,112 @@
+{
+  "id": 6452,
+  "cuisine": "MiddleEastern",
+  "ingredients": [
+    "asparagus",
+    "olive_oil",
+    "nut",
+    "white_wine"
+  ],
+  "score_avg": 6.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "asparagus",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "asparagus",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "asparagus",
+      "y": "white_wine",
+      "value": 30
+    },
+    {
+      "x": "olive_oil",
+      "y": "asparagus",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "nut",
+      "y": "asparagus",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "white_wine",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "asparagus",
+      "value": 30
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "white_wine",
+      "mean": 12.333333333333334
+    },
+    {
+      "ingredient": "asparagus",
+      "mean": 11.333333333333334
+    },
+    {
+      "ingredient": "nut",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

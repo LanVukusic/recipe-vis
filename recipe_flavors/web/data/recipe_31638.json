@@ -1,0 +1,42 @@
+{
+  "id": 31638,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "whole_grain_wheat_flour"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "whole_grain_wheat_flour",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "whole_grain_wheat_flour",
+      "y": "whole_grain_wheat_flour",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "wheat",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "whole_grain_wheat_flour",
+      "mean": 4.0
+    }
+  ]
+}

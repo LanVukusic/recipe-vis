@@ -1,0 +1,792 @@
+{
+  "id": 6979,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "wheat",
+    "thyme",
+    "mushroom",
+    "shallot",
+    "chicken_broth",
+    "red_wine",
+    "parsley",
+    "cured_pork",
+    "garlic",
+    "chicken",
+    "porcini"
+  ],
+  "score_avg": 11.227272727272727,
+  "pair_coverage": 0.6818181818181818,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "porcini",
+      "value": 1
+    },
+    {
+      "x": "thyme",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "thyme",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "red_wine",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "cured_pork",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "thyme",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "thyme",
+      "y": "porcini",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "red_wine",
+      "value": 45
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "cured_pork",
+      "value": 53
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "porcini",
+      "value": 117
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "red_wine",
+      "value": 3
+    },
+    {
+      "x": "shallot",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "cured_pork",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "porcini",
+      "value": 4
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cured_pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "porcini",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "red_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "red_wine",
+      "y": "mushroom",
+      "value": 45
+    },
+    {
+      "x": "red_wine",
+      "y": "shallot",
+      "value": 3
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "cured_pork",
+      "value": 47
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "chicken",
+      "value": 43
+    },
+    {
+      "x": "red_wine",
+      "y": "porcini",
+      "value": 45
+    },
+    {
+      "x": "parsley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "shallot",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cured_pork",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "porcini",
+      "value": 6
+    },
+    {
+      "x": "cured_pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "cured_pork",
+      "y": "mushroom",
+      "value": 53
+    },
+    {
+      "x": "cured_pork",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "cured_pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "cured_pork",
+      "y": "red_wine",
+      "value": 47
+    },
+    {
+      "x": "cured_pork",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cured_pork",
+      "y": "cured_pork",
+      "value": 0
+    },
+    {
+      "x": "cured_pork",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cured_pork",
+      "y": "chicken",
+      "value": 83
+    },
+    {
+      "x": "cured_pork",
+      "y": "porcini",
+      "value": 53
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "thyme",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "cured_pork",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "porcini",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "chicken",
+      "y": "thyme",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "red_wine",
+      "value": 43
+    },
+    {
+      "x": "chicken",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "cured_pork",
+      "value": 83
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "porcini",
+      "value": 55
+    },
+    {
+      "x": "porcini",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "porcini",
+      "y": "thyme",
+      "value": 8
+    },
+    {
+      "x": "porcini",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "porcini",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "porcini",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "porcini",
+      "y": "red_wine",
+      "value": 45
+    },
+    {
+      "x": "porcini",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "porcini",
+      "y": "cured_pork",
+      "value": 53
+    },
+    {
+      "x": "porcini",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "porcini",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "porcini",
+      "y": "porcini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 26.727272727272727
+    },
+    {
+      "ingredient": "porcini",
+      "mean": 26.727272727272727
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 24.363636363636363
+    },
+    {
+      "ingredient": "cured_pork",
+      "mean": 23.818181818181817
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 18.454545454545453
+    },
+    {
+      "ingredient": "thyme",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 3.6363636363636362
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.6363636363636364
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 25177,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "strawberry"
+  ],
+  "score_avg": 33.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "strawberry",
+      "value": 33
+    },
+    {
+      "x": "strawberry",
+      "y": "citrus",
+      "value": 33
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "citrus",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "strawberry",
+      "mean": 33.0
+    }
+  ]
+}

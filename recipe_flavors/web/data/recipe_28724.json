@@ -1,0 +1,162 @@
+{
+  "id": 28724,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange_juice",
+    "pineapple",
+    "apple",
+    "ginger",
+    "cranberry"
+  ],
+  "score_avg": 32.6,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "pineapple",
+      "value": 18
+    },
+    {
+      "x": "orange_juice",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "orange_juice",
+      "y": "ginger",
+      "value": 11
+    },
+    {
+      "x": "orange_juice",
+      "y": "cranberry",
+      "value": 15
+    },
+    {
+      "x": "pineapple",
+      "y": "orange_juice",
+      "value": 18
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "pineapple",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "pineapple",
+      "y": "cranberry",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "orange_juice",
+      "value": 30
+    },
+    {
+      "x": "apple",
+      "y": "pineapple",
+      "value": 64
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "cranberry",
+      "value": 59
+    },
+    {
+      "x": "ginger",
+      "y": "orange_juice",
+      "value": 11
+    },
+    {
+      "x": "ginger",
+      "y": "pineapple",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "cranberry",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "orange_juice",
+      "value": 15
+    },
+    {
+      "x": "cranberry",
+      "y": "pineapple",
+      "value": 35
+    },
+    {
+      "x": "cranberry",
+      "y": "apple",
+      "value": 59
+    },
+    {
+      "x": "cranberry",
+      "y": "ginger",
+      "value": 42
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 47.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 37.75
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 26.25
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 18.5
+    }
+  ]
+}

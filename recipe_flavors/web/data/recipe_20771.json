@@ -1,0 +1,372 @@
+{
+  "id": 20771,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "mushroom",
+    "bacon",
+    "scallion",
+    "mozzarella_cheese",
+    "cheddar_cheese",
+    "egg",
+    "cream"
+  ],
+  "score_avg": 30.0,
+  "pair_coverage": 0.75,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "bacon",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "tomato",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "bacon",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mozzarella_cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "cheddar_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "bacon",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "bacon",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "mozzarella_cheese",
+      "value": 59
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "bacon",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "bacon",
+      "y": "cream",
+      "value": 13
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "bacon",
+      "value": 59
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cheddar_cheese",
+      "value": 127
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "tomato",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "mozzarella_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "bacon",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "mozzarella_cheese",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "tomato",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "bacon",
+      "value": 13
+    },
+    {
+      "x": "cream",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mozzarella_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 52.285714285714285
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 48.714285714285715
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 37.142857142857146
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 34.285714285714285
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 34.142857142857146
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.571428571428573
+    },
+    {
+      "ingredient": "cream",
+      "mean": 12.857142857142858
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.0
+    }
+  ]
+}

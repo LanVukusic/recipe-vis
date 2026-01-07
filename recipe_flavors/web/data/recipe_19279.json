@@ -1,0 +1,72 @@
+{
+  "id": 19279,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime",
+    "lemon",
+    "cranberry"
+  ],
+  "score_avg": 42.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lemon",
+      "value": 58
+    },
+    {
+      "x": "lime",
+      "y": "cranberry",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "lime",
+      "value": 58
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cranberry",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "lime",
+      "value": 32
+    },
+    {
+      "x": "cranberry",
+      "y": "lemon",
+      "value": 37
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 47.5
+    },
+    {
+      "ingredient": "lime",
+      "mean": 45.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 34.5
+    }
+  ]
+}

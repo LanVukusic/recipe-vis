@@ -1,0 +1,72 @@
+{
+  "id": 9503,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pistachio",
+    "coconut",
+    "grapefruit"
+  ],
+  "score_avg": 5.666666666666667,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pistachio",
+      "y": "pistachio",
+      "value": 0
+    },
+    {
+      "x": "pistachio",
+      "y": "coconut",
+      "value": 3
+    },
+    {
+      "x": "pistachio",
+      "y": "grapefruit",
+      "value": 2
+    },
+    {
+      "x": "coconut",
+      "y": "pistachio",
+      "value": 3
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "grapefruit",
+      "value": 12
+    },
+    {
+      "x": "grapefruit",
+      "y": "pistachio",
+      "value": 2
+    },
+    {
+      "x": "grapefruit",
+      "y": "coconut",
+      "value": 12
+    },
+    {
+      "x": "grapefruit",
+      "y": "grapefruit",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 7.5
+    },
+    {
+      "ingredient": "grapefruit",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "pistachio",
+      "mean": 2.5
+    }
+  ]
+}

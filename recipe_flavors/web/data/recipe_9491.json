@@ -1,0 +1,162 @@
+{
+  "id": 9491,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "lemon",
+    "lemon_peel",
+    "parsley",
+    "cod"
+  ],
+  "score_avg": 9.3,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "butter",
+      "y": "cod",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "cod",
+      "value": 11
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cod",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "butter",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "lemon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "cod",
+      "value": 5
+    },
+    {
+      "x": "cod",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "cod",
+      "y": "lemon",
+      "value": 11
+    },
+    {
+      "x": "cod",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "cod",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "cod",
+      "y": "cod",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "cod",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 2.0
+    }
+  ]
+}

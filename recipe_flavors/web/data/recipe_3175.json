@@ -1,0 +1,672 @@
+{
+  "id": 3175,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "butter",
+    "sauerkraut",
+    "mushroom",
+    "egg_noodle",
+    "onion",
+    "smoked_sausage",
+    "wheat_bread",
+    "swiss_cheese",
+    "milk",
+    "pork_sausage",
+    "mustard"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 0.8727272727272727,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "smoked_sausage",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "wheat_bread",
+      "value": 45
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "pork_sausage",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "smoked_sausage",
+      "value": 4
+    },
+    {
+      "x": "sauerkraut",
+      "y": "wheat_bread",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "milk",
+      "value": 10
+    },
+    {
+      "x": "sauerkraut",
+      "y": "pork_sausage",
+      "value": 6
+    },
+    {
+      "x": "sauerkraut",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "smoked_sausage",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "wheat_bread",
+      "value": 39
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "milk",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "pork_sausage",
+      "value": 47
+    },
+    {
+      "x": "mushroom",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "egg_noodle",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "wheat_bread",
+      "value": 1
+    },
+    {
+      "x": "egg_noodle",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "egg_noodle",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "egg_noodle",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "egg_noodle",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "smoked_sausage",
+      "value": 9
+    },
+    {
+      "x": "onion",
+      "y": "wheat_bread",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "swiss_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "onion",
+      "y": "pork_sausage",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "mustard",
+      "value": 4
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "onion",
+      "value": 9
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "smoked_sausage",
+      "value": 0
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "wheat_bread",
+      "value": 26
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "swiss_cheese",
+      "value": 33
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "milk",
+      "value": 31
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "pork_sausage",
+      "value": 45
+    },
+    {
+      "x": "smoked_sausage",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "wheat_bread",
+      "y": "butter",
+      "value": 45
+    },
+    {
+      "x": "wheat_bread",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "wheat_bread",
+      "y": "mushroom",
+      "value": 39
+    },
+    {
+      "x": "wheat_bread",
+      "y": "egg_noodle",
+      "value": 1
+    },
+    {
+      "x": "wheat_bread",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "wheat_bread",
+      "y": "smoked_sausage",
+      "value": 26
+    },
+    {
+      "x": "wheat_bread",
+      "y": "wheat_bread",
+      "value": 0
+    },
+    {
+      "x": "wheat_bread",
+      "y": "swiss_cheese",
+      "value": 56
+    },
+    {
+      "x": "wheat_bread",
+      "y": "milk",
+      "value": 44
+    },
+    {
+      "x": "wheat_bread",
+      "y": "pork_sausage",
+      "value": 50
+    },
+    {
+      "x": "wheat_bread",
+      "y": "mustard",
+      "value": 7
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg_noodle",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "smoked_sausage",
+      "value": 33
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "wheat_bread",
+      "value": 56
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "milk",
+      "value": 73
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "pork_sausage",
+      "value": 62
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "sauerkraut",
+      "value": 10
+    },
+    {
+      "x": "milk",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "milk",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "smoked_sausage",
+      "value": 31
+    },
+    {
+      "x": "milk",
+      "y": "wheat_bread",
+      "value": 44
+    },
+    {
+      "x": "milk",
+      "y": "swiss_cheese",
+      "value": 73
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "mustard",
+      "value": 9
+    },
+    {
+      "x": "pork_sausage",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork_sausage",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mushroom",
+      "value": 47
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg_noodle",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork_sausage",
+      "y": "smoked_sausage",
+      "value": 45
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat_bread",
+      "value": 50
+    },
+    {
+      "x": "pork_sausage",
+      "y": "swiss_cheese",
+      "value": 62
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "sauerkraut",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "mushroom",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "egg_noodle",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "mustard",
+      "y": "smoked_sausage",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "wheat_bread",
+      "value": 7
+    },
+    {
+      "x": "mustard",
+      "y": "swiss_cheese",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "milk",
+      "value": 9
+    },
+    {
+      "x": "mustard",
+      "y": "pork_sausage",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 38.9
+    },
+    {
+      "ingredient": "milk",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 36.4
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 35.6
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 29.9
+    },
+    {
+      "ingredient": "wheat_bread",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "smoked_sausage",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.3
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 6.2
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 6.1
+    },
+    {
+      "ingredient": "egg_noodle",
+      "mean": 0.6
+    }
+  ]
+}

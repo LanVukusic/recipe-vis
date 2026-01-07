@@ -1,0 +1,292 @@
+{
+  "id": 20607,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "garlic",
+    "ham",
+    "potato",
+    "chicken_broth",
+    "cheddar_cheese",
+    "parmesan_cheese"
+  ],
+  "score_avg": 18.095238095238095,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "parmesan_cheese",
+      "value": 8
+    },
+    {
+      "x": "garlic",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ham",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "potato",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "garlic",
+      "y": "parmesan_cheese",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "potato",
+      "value": 28
+    },
+    {
+      "x": "ham",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "ham",
+      "y": "cheddar_cheese",
+      "value": 35
+    },
+    {
+      "x": "ham",
+      "y": "parmesan_cheese",
+      "value": 35
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "potato",
+      "y": "ham",
+      "value": 28
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "cheddar_cheese",
+      "value": 53
+    },
+    {
+      "x": "potato",
+      "y": "parmesan_cheese",
+      "value": 53
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ham",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "garlic",
+      "value": 6
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "parmesan_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "pepper",
+      "value": 8
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "ham",
+      "value": 35
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "potato",
+      "value": 53
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheddar_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 39.166666666666664
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "potato",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "ham",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.8333333333333335
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

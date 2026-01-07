@@ -1,0 +1,72 @@
+{
+  "id": 5709,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "melon",
+    "lemon_juice",
+    "mint"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "lemon_juice",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mint",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "melon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

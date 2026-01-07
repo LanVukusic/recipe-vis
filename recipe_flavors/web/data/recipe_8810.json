@@ -1,0 +1,792 @@
+{
+  "id": 8810,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "pepper",
+    "onion",
+    "beef",
+    "starch",
+    "chicken_broth",
+    "celery",
+    "milk_fat",
+    "cauliflower",
+    "bread",
+    "milk"
+  ],
+  "score_avg": 13.242424242424242,
+  "pair_coverage": 0.6060606060606061,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "milk_fat",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "cauliflower",
+      "value": 11
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "beef",
+      "value": 73
+    },
+    {
+      "x": "cheese",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "cheese",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "cauliflower",
+      "value": 12
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "celery",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "cauliflower",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cauliflower",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "milk",
+      "value": 22
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "cheese",
+      "value": 73
+    },
+    {
+      "x": "beef",
+      "y": "pepper",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "milk_fat",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "beef",
+      "y": "milk",
+      "value": 75
+    },
+    {
+      "x": "starch",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "cheese",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "cauliflower",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "milk",
+      "value": 20
+    },
+    {
+      "x": "milk_fat",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "milk_fat",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "milk_fat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "butter",
+      "value": 11
+    },
+    {
+      "x": "cauliflower",
+      "y": "cheese",
+      "value": 12
+    },
+    {
+      "x": "cauliflower",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cauliflower",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "cauliflower",
+      "y": "beef",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "cauliflower",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "bread",
+      "value": 6
+    },
+    {
+      "x": "cauliflower",
+      "y": "milk",
+      "value": 13
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cauliflower",
+      "value": 6
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "cheese",
+      "value": 67
+    },
+    {
+      "x": "milk",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "onion",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "beef",
+      "value": 75
+    },
+    {
+      "x": "milk",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "celery",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 31.09090909090909
+    },
+    {
+      "ingredient": "butter",
+      "mean": 27.545454545454547
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.454545454545453
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 26.545454545454547
+    },
+    {
+      "ingredient": "bread",
+      "mean": 15.272727272727273
+    },
+    {
+      "ingredient": "celery",
+      "mean": 11.454545454545455
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 6.545454545454546
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 2.272727272727273
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.5454545454545454
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.18181818181818182
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

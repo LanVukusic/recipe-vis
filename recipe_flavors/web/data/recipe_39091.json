@@ -1,0 +1,112 @@
+{
+  "id": 39091,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "rum",
+    "milk",
+    "banana",
+    "cream"
+  ],
+  "score_avg": 31.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "banana",
+      "value": 47
+    },
+    {
+      "x": "rum",
+      "y": "cream",
+      "value": 20
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "banana",
+      "value": 30
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "banana",
+      "y": "rum",
+      "value": 47
+    },
+    {
+      "x": "banana",
+      "y": "milk",
+      "value": 30
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "rum",
+      "value": 20
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "banana",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "banana",
+      "mean": 28.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 16.666666666666668
+    }
+  ]
+}

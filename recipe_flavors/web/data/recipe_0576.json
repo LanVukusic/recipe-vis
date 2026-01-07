@@ -1,0 +1,792 @@
+{
+  "id": 576,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "pork",
+    "starch",
+    "corn",
+    "chicken_broth",
+    "shrimp",
+    "celery",
+    "bean",
+    "carrot",
+    "vegetable",
+    "cabbage",
+    "bread",
+    "egg"
+  ],
+  "score_avg": 10.045454545454545,
+  "pair_coverage": 0.5909090909090909,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "corn",
+      "value": 36
+    },
+    {
+      "x": "pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "shrimp",
+      "value": 38
+    },
+    {
+      "x": "pork",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "pork",
+      "y": "bean",
+      "value": 42
+    },
+    {
+      "x": "pork",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "pork",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "cabbage",
+      "value": 14
+    },
+    {
+      "x": "pork",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "starch",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "pork",
+      "value": 36
+    },
+    {
+      "x": "corn",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "shrimp",
+      "value": 28
+    },
+    {
+      "x": "corn",
+      "y": "celery",
+      "value": 19
+    },
+    {
+      "x": "corn",
+      "y": "bean",
+      "value": 33
+    },
+    {
+      "x": "corn",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "corn",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "cabbage",
+      "value": 12
+    },
+    {
+      "x": "corn",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "corn",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "pork",
+      "value": 38
+    },
+    {
+      "x": "shrimp",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "corn",
+      "value": 28
+    },
+    {
+      "x": "shrimp",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "shrimp",
+      "y": "bean",
+      "value": 27
+    },
+    {
+      "x": "shrimp",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "shrimp",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "shrimp",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "shrimp",
+      "y": "bread",
+      "value": 21
+    },
+    {
+      "x": "shrimp",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "celery",
+      "y": "pork",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "corn",
+      "value": 19
+    },
+    {
+      "x": "celery",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "shrimp",
+      "value": 11
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "bean",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "carrot",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "bean",
+      "y": "pork",
+      "value": 42
+    },
+    {
+      "x": "bean",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "bean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "bean",
+      "y": "shrimp",
+      "value": 27
+    },
+    {
+      "x": "bean",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "carrot",
+      "value": 17
+    },
+    {
+      "x": "bean",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "bean",
+      "y": "bread",
+      "value": 26
+    },
+    {
+      "x": "bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "carrot",
+      "y": "pork",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "corn",
+      "value": 8
+    },
+    {
+      "x": "carrot",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "shrimp",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "carrot",
+      "y": "bean",
+      "value": 17
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cabbage",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "bread",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vegetable",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "shrimp",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "pork",
+      "value": 14
+    },
+    {
+      "x": "cabbage",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "corn",
+      "value": 12
+    },
+    {
+      "x": "cabbage",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "shrimp",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "bean",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cabbage",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "cabbage",
+      "value": 0
+    },
+    {
+      "x": "cabbage",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "cabbage",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "bread",
+      "y": "pork",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "corn",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "shrimp",
+      "value": 21
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bean",
+      "value": 26
+    },
+    {
+      "x": "bread",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "bread",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cabbage",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "pork",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "shrimp",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "carrot",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cabbage",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 20.09090909090909
+    },
+    {
+      "ingredient": "bean",
+      "mean": 17.636363636363637
+    },
+    {
+      "ingredient": "corn",
+      "mean": 15.818181818181818
+    },
+    {
+      "ingredient": "shrimp",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 13.090909090909092
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.090909090909092
+    },
+    {
+      "ingredient": "celery",
+      "mean": 11.454545454545455
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "cabbage",
+      "mean": 7.363636363636363
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2727272727272727
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

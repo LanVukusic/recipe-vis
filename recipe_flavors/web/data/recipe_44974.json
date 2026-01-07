@@ -1,0 +1,162 @@
+{
+  "id": 44974,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "green_bell_pepper",
+    "carrot",
+    "mushroom",
+    "onion"
+  ],
+  "score_avg": 13.7,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "green_bell_pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "green_bell_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "green_bell_pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "green_bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "green_bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mushroom",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 22.25
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.25
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "green_bell_pepper",
+      "mean": 4.75
+    }
+  ]
+}

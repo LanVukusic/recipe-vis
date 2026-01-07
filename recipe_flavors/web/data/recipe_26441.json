@@ -1,0 +1,112 @@
+{
+  "id": 26441,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "avocado",
+    "lemon_juice",
+    "wheat",
+    "milk"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "lemon_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "avocado",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 5.666666666666667
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

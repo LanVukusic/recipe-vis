@@ -1,0 +1,112 @@
+{
+  "id": 46491,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "raisin",
+    "apple",
+    "beef"
+  ],
+  "score_avg": 40.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "raisin",
+      "value": 15
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "beef",
+      "value": 97
+    },
+    {
+      "x": "raisin",
+      "y": "pork",
+      "value": 15
+    },
+    {
+      "x": "raisin",
+      "y": "raisin",
+      "value": 0
+    },
+    {
+      "x": "raisin",
+      "y": "apple",
+      "value": 12
+    },
+    {
+      "x": "raisin",
+      "y": "beef",
+      "value": 19
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "raisin",
+      "value": 12
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "beef",
+      "value": 60
+    },
+    {
+      "x": "beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "beef",
+      "y": "raisin",
+      "value": 19
+    },
+    {
+      "x": "beef",
+      "y": "apple",
+      "value": 60
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 58.666666666666664
+    },
+    {
+      "ingredient": "pork",
+      "mean": 50.666666666666664
+    },
+    {
+      "ingredient": "apple",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "raisin",
+      "mean": 15.333333333333334
+    }
+  ]
+}

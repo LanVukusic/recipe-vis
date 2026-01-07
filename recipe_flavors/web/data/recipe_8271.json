@@ -1,0 +1,72 @@
+{
+  "id": 8271,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "basil",
+    "lime_juice",
+    "lime"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "lime",
+      "value": 6
+    },
+    {
+      "x": "lime_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "basil",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    }
+  ]
+}

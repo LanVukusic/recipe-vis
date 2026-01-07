@@ -1,0 +1,372 @@
+{
+  "id": 12523,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "parmesan_cheese",
+    "macaroni",
+    "bell_pepper",
+    "cheddar_cheese",
+    "milk",
+    "bread"
+  ],
+  "score_avg": 27.321428571428573,
+  "pair_coverage": 0.8214285714285714,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bell_pepper",
+      "value": 17
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bell_pepper",
+      "value": 26
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheddar_cheese",
+      "value": 134
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "milk",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "parmesan_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "butter",
+      "value": 17
+    },
+    {
+      "x": "bell_pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "parmesan_cheese",
+      "value": 26
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "cheddar_cheese",
+      "value": 20
+    },
+    {
+      "x": "bell_pepper",
+      "y": "milk",
+      "value": 16
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bread",
+      "value": 11
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "parmesan_cheese",
+      "value": 134
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "milk",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bell_pepper",
+      "value": 16
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "bell_pepper",
+      "value": 11
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "milk",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 52.285714285714285
+    },
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 50.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 39.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 38.857142857142854
+    },
+    {
+      "ingredient": "bread",
+      "mean": 21.714285714285715
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 12.857142857142858
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.8571428571428572
+    }
+  ]
+}

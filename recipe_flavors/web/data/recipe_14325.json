@@ -1,0 +1,112 @@
+{
+  "id": 14325,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "green_tea",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 29.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "green_tea",
+      "value": 44
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "green_tea",
+      "y": "vanilla",
+      "value": 44
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    },
+    {
+      "x": "green_tea",
+      "y": "milk",
+      "value": 65
+    },
+    {
+      "x": "green_tea",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "green_tea",
+      "value": 65
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "green_tea",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "green_tea",
+      "mean": 41.333333333333336
+    },
+    {
+      "ingredient": "milk",
+      "mean": 37.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 24.333333333333332
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.666666666666666
+    }
+  ]
+}

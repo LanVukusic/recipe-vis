@@ -1,0 +1,112 @@
+{
+  "id": 39520,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "red_wine",
+    "black_pepper",
+    "beef",
+    "grape_juice"
+  ],
+  "score_avg": 12.333333333333334,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "red_wine",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "beef",
+      "mean": 21.666666666666668
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.6666666666666666
+    }
+  ]
+}

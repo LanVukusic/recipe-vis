@@ -1,0 +1,112 @@
+{
+  "id": 35441,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pineapple",
+    "white_bread",
+    "cheddar_cheese",
+    "cream"
+  ],
+  "score_avg": 26.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "white_bread",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "pineapple",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "white_bread",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "white_bread",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pineapple",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "pineapple",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "white_bread",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 40.0
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 7190,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "milk_fat",
+    "nutmeg",
+    "rum",
+    "vanilla",
+    "egg",
+    "milk",
+    "cream"
+  ],
+  "score_avg": 12.476190476190476,
+  "pair_coverage": 0.8095238095238095,
+  "heatmap": [
+    {
+      "x": "milk_fat",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "rum",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "milk_fat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk_fat",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "rum",
+      "value": 8
+    },
+    {
+      "x": "nutmeg",
+      "y": "vanilla",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "milk",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "rum",
+      "y": "nutmeg",
+      "value": 8
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "vanilla",
+      "value": 31
+    },
+    {
+      "x": "rum",
+      "y": "egg",
+      "value": 25
+    },
+    {
+      "x": "rum",
+      "y": "milk",
+      "value": 59
+    },
+    {
+      "x": "rum",
+      "y": "cream",
+      "value": 20
+    },
+    {
+      "x": "vanilla",
+      "y": "milk_fat",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "vanilla",
+      "y": "rum",
+      "value": 31
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "rum",
+      "value": 25
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "milk",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "milk",
+      "y": "rum",
+      "value": 59
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "milk_fat",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "rum",
+      "value": 20
+    },
+    {
+      "x": "cream",
+      "y": "vanilla",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 24.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 9.833333333333334
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "milk_fat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

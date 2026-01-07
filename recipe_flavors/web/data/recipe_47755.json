@@ -1,0 +1,222 @@
+{
+  "id": 47755,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape_juice",
+    "garlic",
+    "cinnamon",
+    "roasted_pork",
+    "black_pepper",
+    "seed"
+  ],
+  "score_avg": 2.533333333333333,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "roasted_pork",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "roasted_pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "roasted_pork",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "seed",
+      "value": 7
+    },
+    {
+      "x": "roasted_pork",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "roasted_pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "roasted_pork",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "roasted_pork",
+      "y": "roasted_pork",
+      "value": 0
+    },
+    {
+      "x": "roasted_pork",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "roasted_pork",
+      "y": "seed",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "black_pepper",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "seed",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "cinnamon",
+      "value": 7
+    },
+    {
+      "x": "seed",
+      "y": "roasted_pork",
+      "value": 1
+    },
+    {
+      "x": "seed",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cinnamon",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.6
+    },
+    {
+      "ingredient": "roasted_pork",
+      "mean": 2.2
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.4
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.0
+    }
+  ]
+}

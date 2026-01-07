@@ -1,0 +1,72 @@
+{
+  "id": 27891,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "chicken",
+    "corn_flake"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "chicken",
+      "value": 21
+    },
+    {
+      "x": "yogurt",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "yogurt",
+      "value": 21
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "corn_flake",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "chicken",
+      "value": 4
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 12.5
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 2.0
+    }
+  ]
+}

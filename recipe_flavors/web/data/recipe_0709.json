@@ -1,0 +1,72 @@
+{
+  "id": 709,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "katsuobushi",
+    "fish",
+    "seaweed"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "katsuobushi",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "katsuobushi",
+      "y": "fish",
+      "value": 8
+    },
+    {
+      "x": "katsuobushi",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "katsuobushi",
+      "value": 8
+    },
+    {
+      "x": "fish",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "fish",
+      "y": "seaweed",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "katsuobushi",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "fish",
+      "value": 0
+    },
+    {
+      "x": "seaweed",
+      "y": "seaweed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "katsuobushi",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "fish",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "seaweed",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 12140,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "buttermilk",
+    "wheat"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "buttermilk",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "buttermilk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 2.0
+    }
+  ]
+}

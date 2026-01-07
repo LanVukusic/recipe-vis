@@ -1,0 +1,372 @@
+{
+  "id": 38552,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pepper",
+    "mushroom",
+    "cauliflower",
+    "onion",
+    "carrot",
+    "swiss_cheese",
+    "broccoli",
+    "cream"
+  ],
+  "score_avg": 9.357142857142858,
+  "pair_coverage": 0.9642857142857143,
+  "heatmap": [
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "pepper",
+      "y": "cauliflower",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "pepper",
+      "y": "swiss_cheese",
+      "value": 6
+    },
+    {
+      "x": "pepper",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "cauliflower",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "cream",
+      "value": 10
+    },
+    {
+      "x": "cauliflower",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cauliflower",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "cauliflower",
+      "y": "cauliflower",
+      "value": 0
+    },
+    {
+      "x": "cauliflower",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "cauliflower",
+      "y": "carrot",
+      "value": 7
+    },
+    {
+      "x": "cauliflower",
+      "y": "swiss_cheese",
+      "value": 13
+    },
+    {
+      "x": "cauliflower",
+      "y": "broccoli",
+      "value": 10
+    },
+    {
+      "x": "cauliflower",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "cauliflower",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "swiss_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "broccoli",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "mushroom",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "cauliflower",
+      "value": 7
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "swiss_cheese",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "broccoli",
+      "value": 2
+    },
+    {
+      "x": "carrot",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "pepper",
+      "value": 6
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cauliflower",
+      "value": 13
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "cream",
+      "value": 27
+    },
+    {
+      "x": "broccoli",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "broccoli",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "cauliflower",
+      "value": 10
+    },
+    {
+      "x": "broccoli",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "broccoli",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "broccoli",
+      "y": "swiss_cheese",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "mushroom",
+      "value": 10
+    },
+    {
+      "x": "cream",
+      "y": "cauliflower",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "swiss_cheese",
+      "value": 27
+    },
+    {
+      "x": "cream",
+      "y": "broccoli",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 19.857142857142858
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 7.857142857142857
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.857142857142857
+    },
+    {
+      "ingredient": "cauliflower",
+      "mean": 7.285714285714286
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 7.285714285714286
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 4.142857142857143
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 3.5714285714285716
+    }
+  ]
+}

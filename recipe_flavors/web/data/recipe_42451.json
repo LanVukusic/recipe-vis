@@ -1,0 +1,42 @@
+{
+  "id": 42451,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "bean",
+    "almond"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "bean",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.0
+    }
+  ]
+}

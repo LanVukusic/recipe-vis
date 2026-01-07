@@ -1,0 +1,72 @@
+{
+  "id": 29170,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "cherry",
+    "orange_juice"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "cherry",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "orange_juice",
+      "value": 10
+    },
+    {
+      "x": "cherry",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "orange_juice",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "honey",
+      "value": 10
+    },
+    {
+      "x": "orange_juice",
+      "y": "cherry",
+      "value": 4
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "honey",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 6.0
+    }
+  ]
+}

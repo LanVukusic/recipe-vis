@@ -1,0 +1,42 @@
+{
+  "id": 32984,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "orange"
+  ],
+  "score_avg": 57.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "orange",
+      "value": 57
+    },
+    {
+      "x": "orange",
+      "y": "mandarin",
+      "value": 57
+    },
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mandarin",
+      "mean": 57.0
+    },
+    {
+      "ingredient": "orange",
+      "mean": 57.0
+    }
+  ]
+}

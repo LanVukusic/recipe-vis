@@ -1,0 +1,112 @@
+{
+  "id": 8180,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "lemon_juice",
+    "mustard"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pepper",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

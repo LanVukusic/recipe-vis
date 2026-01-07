@@ -1,0 +1,292 @@
+{
+  "id": 31933,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "yeast",
+    "cheddar_cheese",
+    "egg",
+    "milk",
+    "pork_sausage",
+    "broccoli"
+  ],
+  "score_avg": 15.142857142857142,
+  "pair_coverage": 0.6190476190476191,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "yeast",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "yeast",
+      "y": "broccoli",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "milk",
+      "value": 76
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pork_sausage",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "pork_sausage",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "yeast",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "cheddar_cheese",
+      "value": 76
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "milk",
+      "y": "broccoli",
+      "value": 5
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "pork_sausage",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "broccoli",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "yeast",
+      "value": 0
+    },
+    {
+      "x": "broccoli",
+      "y": "cheddar_cheese",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "egg",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "milk",
+      "value": 5
+    },
+    {
+      "x": "broccoli",
+      "y": "pork_sausage",
+      "value": 6
+    },
+    {
+      "x": "broccoli",
+      "y": "broccoli",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 30.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 28.166666666666668
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 26.166666666666668
+    },
+    {
+      "ingredient": "egg",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "broccoli",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.3333333333333333
+    },
+    {
+      "ingredient": "yeast",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

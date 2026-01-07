@@ -1,0 +1,72 @@
+{
+  "id": 12645,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "oat"
+  ],
+  "score_avg": 7.666666666666667,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "oat",
+      "value": 22
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "oat",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "oat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "oat",
+      "y": "oat",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "oat",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.5
+    }
+  ]
+}

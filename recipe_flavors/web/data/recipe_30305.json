@@ -1,0 +1,42 @@
+{
+  "id": 30305,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "soybean",
+    "green_tea"
+  ],
+  "score_avg": 86.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "green_tea",
+      "value": 86
+    },
+    {
+      "x": "green_tea",
+      "y": "soybean",
+      "value": 86
+    },
+    {
+      "x": "green_tea",
+      "y": "green_tea",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 86.0
+    },
+    {
+      "ingredient": "green_tea",
+      "mean": 86.0
+    }
+  ]
+}

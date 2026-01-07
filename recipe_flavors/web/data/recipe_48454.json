@@ -1,0 +1,162 @@
+{
+  "id": 48454,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "honey",
+    "vegetable_oil",
+    "tamarind",
+    "cucumber",
+    "lime_juice"
+  ],
+  "score_avg": 1.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "tamarind",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "honey",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "tamarind",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tamarind",
+      "y": "honey",
+      "value": 8
+    },
+    {
+      "x": "tamarind",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "tamarind",
+      "y": "tamarind",
+      "value": 0
+    },
+    {
+      "x": "tamarind",
+      "y": "cucumber",
+      "value": 4
+    },
+    {
+      "x": "tamarind",
+      "y": "lime_juice",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "tamarind",
+      "value": 4
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "honey",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tamarind",
+      "value": 1
+    },
+    {
+      "x": "lime_juice",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tamarind",
+      "mean": 3.25
+    },
+    {
+      "ingredient": "honey",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.25
+    }
+  ]
+}

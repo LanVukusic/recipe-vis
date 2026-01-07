@@ -1,0 +1,162 @@
+{
+  "id": 1903,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "cayenne",
+    "soy_sauce",
+    "cucumber",
+    "onion",
+    "vinegar"
+  ],
+  "score_avg": 1.2,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cucumber",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "cayenne",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "onion",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 41219,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "yogurt",
+    "lemon_juice",
+    "almond",
+    "peach"
+  ],
+  "score_avg": 2.3333333333333335,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "almond",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "peach",
+      "value": 11
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "almond",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "peach",
+      "value": 2
+    },
+    {
+      "x": "peach",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "peach",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peach",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "almond",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

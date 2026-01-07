@@ -1,0 +1,292 @@
+{
+  "id": 5819,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheese",
+    "carrot",
+    "ham",
+    "smoke",
+    "vegetable_oil",
+    "chicken",
+    "zucchini"
+  ],
+  "score_avg": 7.9523809523809526,
+  "pair_coverage": 0.38095238095238093,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "carrot",
+      "value": 9
+    },
+    {
+      "x": "cheese",
+      "y": "ham",
+      "value": 33
+    },
+    {
+      "x": "cheese",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "cheese",
+      "value": 9
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "ham",
+      "value": 5
+    },
+    {
+      "x": "carrot",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "chicken",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "cheese",
+      "value": 33
+    },
+    {
+      "x": "ham",
+      "y": "carrot",
+      "value": 5
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "smoke",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "zucchini",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "smoke",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "zucchini",
+      "y": "zucchini",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 19.833333333333332
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 17.166666666666668
+    },
+    {
+      "ingredient": "ham",
+      "mean": 14.166666666666666
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 4.166666666666667
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "zucchini",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 18114,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "milk"
+  ],
+  "score_avg": 52.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 52.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 52.0
+    }
+  ]
+}

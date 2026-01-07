@@ -1,0 +1,112 @@
+{
+  "id": 26660,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "pineapple",
+    "banana",
+    "gelatin"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "pineapple",
+      "value": 67
+    },
+    {
+      "x": "strawberry",
+      "y": "banana",
+      "value": 69
+    },
+    {
+      "x": "strawberry",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "strawberry",
+      "value": 67
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "banana",
+      "value": 32
+    },
+    {
+      "x": "pineapple",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "strawberry",
+      "value": 69
+    },
+    {
+      "x": "banana",
+      "y": "pineapple",
+      "value": 32
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "banana",
+      "mean": 33.666666666666664
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

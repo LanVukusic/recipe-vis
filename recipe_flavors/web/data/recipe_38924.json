@@ -1,0 +1,112 @@
+{
+  "id": 38924,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "vinegar",
+    "starch",
+    "pineapple"
+  ],
+  "score_avg": 12.833333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pineapple",
+      "value": 36
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "starch",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "tomato",
+      "value": 36
+    },
+    {
+      "x": "pineapple",
+      "y": "vinegar",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pineapple",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

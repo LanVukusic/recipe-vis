@@ -1,0 +1,112 @@
+{
+  "id": 15047,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "chicken",
+    "mushroom",
+    "wine"
+  ],
+  "score_avg": 49.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "wine",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "wine",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "butter",
+      "value": 47
+    },
+    {
+      "x": "wine",
+      "y": "chicken",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "mushroom",
+      "value": 40
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 53.666666666666664
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 52.666666666666664
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 48.666666666666664
+    },
+    {
+      "ingredient": "wine",
+      "mean": 42.333333333333336
+    }
+  ]
+}

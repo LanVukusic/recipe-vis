@@ -1,0 +1,162 @@
+{
+  "id": 10927,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "shallot",
+    "garlic",
+    "chicken",
+    "grape_juice",
+    "bacon"
+  ],
+  "score_avg": 11.1,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "shallot",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bacon",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "shallot",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "bacon",
+      "value": 84
+    },
+    {
+      "x": "grape_juice",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "shallot",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "bacon",
+      "y": "chicken",
+      "value": 84
+    },
+    {
+      "x": "bacon",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 24.25
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 23.25
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.25
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.25
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 48241,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "butter",
+    "plum",
+    "wheat",
+    "apple"
+  ],
+  "score_avg": 25.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "plum",
+      "value": 27
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "plum",
+      "y": "butter",
+      "value": 27
+    },
+    {
+      "x": "plum",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "plum",
+      "y": "apple",
+      "value": 64
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "plum",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "plum",
+      "value": 64
+    },
+    {
+      "x": "apple",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 42.0
+    },
+    {
+      "ingredient": "plum",
+      "mean": 30.333333333333332
+    },
+    {
+      "ingredient": "butter",
+      "mean": 30.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

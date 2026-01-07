@@ -1,0 +1,72 @@
+{
+  "id": 12955,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "nut",
+    "milk"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "milk",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "date",
+      "mean": 0.0
+    }
+  ]
+}

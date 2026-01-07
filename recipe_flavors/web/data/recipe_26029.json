@@ -1,0 +1,72 @@
+{
+  "id": 26029,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "lemon",
+    "cream"
+  ],
+  "score_avg": 7.333333333333333,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "egg",
+      "mean": 8.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 6.5
+    }
+  ]
+}

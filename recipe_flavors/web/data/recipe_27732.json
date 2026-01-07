@@ -1,0 +1,72 @@
+{
+  "id": 27732,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "bean",
+    "bacon"
+  ],
+  "score_avg": 14.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bacon",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

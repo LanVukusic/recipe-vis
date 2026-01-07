@@ -1,0 +1,112 @@
+{
+  "id": 49293,
+  "cuisine": "SoutheastAsian",
+  "ingredients": [
+    "cardamom",
+    "coffee",
+    "bean",
+    "milk"
+  ],
+  "score_avg": 32.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cardamom",
+      "y": "cardamom",
+      "value": 0
+    },
+    {
+      "x": "cardamom",
+      "y": "coffee",
+      "value": 10
+    },
+    {
+      "x": "cardamom",
+      "y": "bean",
+      "value": 17
+    },
+    {
+      "x": "cardamom",
+      "y": "milk",
+      "value": 19
+    },
+    {
+      "x": "coffee",
+      "y": "cardamom",
+      "value": 10
+    },
+    {
+      "x": "coffee",
+      "y": "coffee",
+      "value": 0
+    },
+    {
+      "x": "coffee",
+      "y": "bean",
+      "value": 43
+    },
+    {
+      "x": "coffee",
+      "y": "milk",
+      "value": 63
+    },
+    {
+      "x": "bean",
+      "y": "cardamom",
+      "value": 17
+    },
+    {
+      "x": "bean",
+      "y": "coffee",
+      "value": 43
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "milk",
+      "value": 40
+    },
+    {
+      "x": "milk",
+      "y": "cardamom",
+      "value": 19
+    },
+    {
+      "x": "milk",
+      "y": "coffee",
+      "value": 63
+    },
+    {
+      "x": "milk",
+      "y": "bean",
+      "value": 40
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "coffee",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "bean",
+      "mean": 33.333333333333336
+    },
+    {
+      "ingredient": "cardamom",
+      "mean": 15.333333333333334
+    }
+  ]
+}

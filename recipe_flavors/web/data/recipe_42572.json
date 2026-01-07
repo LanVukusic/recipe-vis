@@ -1,0 +1,162 @@
+{
+  "id": 42572,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cane_molasses",
+    "pork",
+    "apple",
+    "cinnamon"
+  ],
+  "score_avg": 18.9,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "apple",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "cinnamon",
+      "value": 8
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "apple",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "apple",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pork",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "cinnamon",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "apple",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 33.0
+    },
+    {
+      "ingredient": "apple",
+      "mean": 28.75
+    },
+    {
+      "ingredient": "pork",
+      "mean": 26.25
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.25
+    }
+  ]
+}

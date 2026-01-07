@@ -1,0 +1,72 @@
+{
+  "id": 44663,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tea",
+    "lemon",
+    "mint"
+  ],
+  "score_avg": 22.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "tea",
+      "y": "tea",
+      "value": 0
+    },
+    {
+      "x": "tea",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "tea",
+      "y": "mint",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "tea",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "mint",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "tea",
+      "value": 22
+    },
+    {
+      "x": "mint",
+      "y": "lemon",
+      "value": 13
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tea",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "mint",
+      "mean": 17.5
+    }
+  ]
+}

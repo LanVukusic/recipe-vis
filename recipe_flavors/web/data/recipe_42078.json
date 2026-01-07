@@ -1,0 +1,72 @@
+{
+  "id": 42078,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "yogurt",
+    "raspberry"
+  ],
+  "score_avg": 21.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "yogurt",
+      "value": 11
+    },
+    {
+      "x": "melon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "yogurt",
+      "y": "melon",
+      "value": 11
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "raspberry",
+      "value": 13
+    },
+    {
+      "x": "raspberry",
+      "y": "melon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "yogurt",
+      "value": 13
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "melon",
+      "mean": 26.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 12.0
+    }
+  ]
+}

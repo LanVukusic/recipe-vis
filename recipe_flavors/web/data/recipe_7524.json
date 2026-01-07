@@ -1,0 +1,42 @@
+{
+  "id": 7524,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "grape",
+    "egg"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "egg",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "grape",
+      "value": 19
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "grape",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 19.0
+    }
+  ]
+}

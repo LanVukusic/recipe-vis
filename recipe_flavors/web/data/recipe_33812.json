@@ -1,0 +1,112 @@
+{
+  "id": 33812,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pineapple",
+    "white_bread",
+    "bacon",
+    "cheddar_cheese"
+  ],
+  "score_avg": 40.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    },
+    {
+      "x": "pineapple",
+      "y": "white_bread",
+      "value": 22
+    },
+    {
+      "x": "pineapple",
+      "y": "bacon",
+      "value": 28
+    },
+    {
+      "x": "pineapple",
+      "y": "cheddar_cheese",
+      "value": 47
+    },
+    {
+      "x": "white_bread",
+      "y": "pineapple",
+      "value": 22
+    },
+    {
+      "x": "white_bread",
+      "y": "white_bread",
+      "value": 0
+    },
+    {
+      "x": "white_bread",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "white_bread",
+      "y": "cheddar_cheese",
+      "value": 45
+    },
+    {
+      "x": "bacon",
+      "y": "pineapple",
+      "value": 28
+    },
+    {
+      "x": "bacon",
+      "y": "white_bread",
+      "value": 37
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "cheddar_cheese",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "pineapple",
+      "value": 47
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "white_bread",
+      "value": 45
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bacon",
+      "value": 65
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 52.333333333333336
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 43.333333333333336
+    },
+    {
+      "ingredient": "white_bread",
+      "mean": 34.666666666666664
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 32.333333333333336
+    }
+  ]
+}

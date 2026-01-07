@@ -1,0 +1,42 @@
+{
+  "id": 33687,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "lemon"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_juice",
+      "value": 3
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon_juice",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 3.0
+    }
+  ]
+}

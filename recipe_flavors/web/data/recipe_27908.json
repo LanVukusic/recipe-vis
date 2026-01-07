@@ -1,0 +1,72 @@
+{
+  "id": 27908,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "chicken",
+    "pepper",
+    "bell_pepper"
+  ],
+  "score_avg": 17.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "pepper",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "bell_pepper",
+      "value": 14
+    },
+    {
+      "x": "pepper",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "bell_pepper",
+      "y": "pepper",
+      "value": 36
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bell_pepper",
+      "mean": 25.0
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 19.5
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 8.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9791,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "pork",
+    "banana",
+    "smoke"
+  ],
+  "score_avg": 11.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "banana",
+      "value": 31
+    },
+    {
+      "x": "pork",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "banana",
+      "y": "pork",
+      "value": 31
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "smoke",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "banana",
+      "value": 1
+    },
+    {
+      "x": "smoke",
+      "y": "smoke",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "smoke",
+      "mean": 1.0
+    }
+  ]
+}

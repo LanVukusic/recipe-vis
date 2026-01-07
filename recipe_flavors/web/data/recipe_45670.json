@@ -1,0 +1,792 @@
+{
+  "id": 45670,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "beef",
+    "mushroom",
+    "nut",
+    "almond",
+    "onion",
+    "celery",
+    "swiss_cheese",
+    "vegetable_oil",
+    "chicken",
+    "bread",
+    "egg"
+  ],
+  "score_avg": 20.37878787878788,
+  "pair_coverage": 0.8787878787878788,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "butter",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "swiss_cheese",
+      "value": 72
+    },
+    {
+      "x": "butter",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "chicken",
+      "value": 63
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "almond",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "swiss_cheese",
+      "value": 78
+    },
+    {
+      "x": "beef",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "chicken",
+      "value": 98
+    },
+    {
+      "x": "beef",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "mushroom",
+      "y": "almond",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "celery",
+      "value": 17
+    },
+    {
+      "x": "mushroom",
+      "y": "swiss_cheese",
+      "value": 57
+    },
+    {
+      "x": "mushroom",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "bread",
+      "value": 27
+    },
+    {
+      "x": "mushroom",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "nut",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "mushroom",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "nut",
+      "y": "celery",
+      "value": 2
+    },
+    {
+      "x": "nut",
+      "y": "swiss_cheese",
+      "value": 5
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "chicken",
+      "value": 6
+    },
+    {
+      "x": "nut",
+      "y": "bread",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "egg",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "almond",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "almond",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "swiss_cheese",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "chicken",
+      "value": 5
+    },
+    {
+      "x": "almond",
+      "y": "bread",
+      "value": 2
+    },
+    {
+      "x": "almond",
+      "y": "egg",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "nut",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "swiss_cheese",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "bread",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "egg",
+      "value": 13
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "mushroom",
+      "value": 17
+    },
+    {
+      "x": "celery",
+      "y": "nut",
+      "value": 2
+    },
+    {
+      "x": "celery",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "swiss_cheese",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "chicken",
+      "value": 18
+    },
+    {
+      "x": "celery",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "egg",
+      "value": 11
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "butter",
+      "value": 72
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "beef",
+      "value": 78
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "mushroom",
+      "value": 57
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "nut",
+      "value": 5
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "butter",
+      "value": 63
+    },
+    {
+      "x": "chicken",
+      "y": "beef",
+      "value": 98
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "nut",
+      "value": 6
+    },
+    {
+      "x": "chicken",
+      "y": "almond",
+      "value": 5
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "celery",
+      "value": 18
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "beef",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "mushroom",
+      "value": 27
+    },
+    {
+      "x": "bread",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bread",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "bread",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "bread",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "nut",
+      "value": 3
+    },
+    {
+      "x": "egg",
+      "y": "almond",
+      "value": 2
+    },
+    {
+      "x": "egg",
+      "y": "onion",
+      "value": 13
+    },
+    {
+      "x": "egg",
+      "y": "celery",
+      "value": 11
+    },
+    {
+      "x": "egg",
+      "y": "swiss_cheese",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 42.63636363636363
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 35.45454545454545
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 35.18181818181818
+    },
+    {
+      "ingredient": "butter",
+      "mean": 33.54545454545455
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 29.09090909090909
+    },
+    {
+      "ingredient": "bread",
+      "mean": 19.363636363636363
+    },
+    {
+      "ingredient": "egg",
+      "mean": 17.727272727272727
+    },
+    {
+      "ingredient": "celery",
+      "mean": 12.818181818181818
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.363636363636363
+    },
+    {
+      "ingredient": "nut",
+      "mean": 3.3636363636363638
+    },
+    {
+      "ingredient": "almond",
+      "mean": 2.5454545454545454
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.45454545454545453
+    }
+  ]
+}

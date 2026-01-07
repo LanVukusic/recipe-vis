@@ -1,0 +1,292 @@
+{
+  "id": 48259,
+  "cuisine": "NorthernEuropean",
+  "ingredients": [
+    "vinegar",
+    "cinnamon",
+    "sour_cherry",
+    "starch",
+    "red_wine",
+    "black_pepper",
+    "wine"
+  ],
+  "score_avg": 11.571428571428571,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "cinnamon",
+      "value": 2
+    },
+    {
+      "x": "vinegar",
+      "y": "sour_cherry",
+      "value": 3
+    },
+    {
+      "x": "vinegar",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "red_wine",
+      "value": 20
+    },
+    {
+      "x": "vinegar",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "wine",
+      "value": 18
+    },
+    {
+      "x": "cinnamon",
+      "y": "vinegar",
+      "value": 2
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "sour_cherry",
+      "value": 5
+    },
+    {
+      "x": "cinnamon",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "red_wine",
+      "value": 12
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "wine",
+      "value": 12
+    },
+    {
+      "x": "sour_cherry",
+      "y": "vinegar",
+      "value": 3
+    },
+    {
+      "x": "sour_cherry",
+      "y": "cinnamon",
+      "value": 5
+    },
+    {
+      "x": "sour_cherry",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "sour_cherry",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "sour_cherry",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "sour_cherry",
+      "y": "wine",
+      "value": 5
+    },
+    {
+      "x": "starch",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "sour_cherry",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "vinegar",
+      "value": 20
+    },
+    {
+      "x": "red_wine",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "red_wine",
+      "y": "sour_cherry",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "wine",
+      "value": 128
+    },
+    {
+      "x": "black_pepper",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "black_pepper",
+      "y": "sour_cherry",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "wine",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "vinegar",
+      "value": 18
+    },
+    {
+      "x": "wine",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "wine",
+      "y": "sour_cherry",
+      "value": 5
+    },
+    {
+      "x": "wine",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wine",
+      "y": "red_wine",
+      "value": 128
+    },
+    {
+      "x": "wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "wine",
+      "y": "wine",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 29.0
+    },
+    {
+      "ingredient": "wine",
+      "mean": 28.5
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 5.333333333333333
+    },
+    {
+      "ingredient": "sour_cherry",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

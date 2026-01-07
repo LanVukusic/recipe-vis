@@ -1,0 +1,162 @@
+{
+  "id": 23249,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "bread",
+    "cheddar_cheese",
+    "macaroni",
+    "cottage_cheese"
+  ],
+  "score_avg": 38.3,
+  "pair_coverage": 0.9,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "butter",
+      "y": "cheddar_cheese",
+      "value": 71
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cottage_cheese",
+      "value": 62
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "cheddar_cheese",
+      "value": 41
+    },
+    {
+      "x": "bread",
+      "y": "macaroni",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "cottage_cheese",
+      "value": 39
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "butter",
+      "value": 71
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "bread",
+      "value": 41
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cottage_cheese",
+      "value": 131
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "macaroni",
+      "y": "cheddar_cheese",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "cottage_cheese",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cheddar_cheese",
+      "value": 131
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 61.75
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 59.0
+    },
+    {
+      "ingredient": "butter",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 27.75
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 2.25
+    }
+  ]
+}

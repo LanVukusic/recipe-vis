@@ -1,0 +1,372 @@
+{
+  "id": 9179,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "lemon_juice",
+    "dill",
+    "shallot",
+    "celery",
+    "carrot",
+    "pecan",
+    "barley"
+  ],
+  "score_avg": 3.392857142857143,
+  "pair_coverage": 0.5357142857142857,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "dill",
+      "y": "celery",
+      "value": 16
+    },
+    {
+      "x": "dill",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "dill",
+      "y": "pecan",
+      "value": 8
+    },
+    {
+      "x": "dill",
+      "y": "barley",
+      "value": 2
+    },
+    {
+      "x": "shallot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "shallot",
+      "y": "celery",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "carrot",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "pecan",
+      "value": 1
+    },
+    {
+      "x": "shallot",
+      "y": "barley",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "dill",
+      "value": 16
+    },
+    {
+      "x": "celery",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "carrot",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "pecan",
+      "value": 15
+    },
+    {
+      "x": "celery",
+      "y": "barley",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "dill",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "carrot",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "pecan",
+      "value": 10
+    },
+    {
+      "x": "carrot",
+      "y": "barley",
+      "value": 2
+    },
+    {
+      "x": "pecan",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "dill",
+      "value": 8
+    },
+    {
+      "x": "pecan",
+      "y": "shallot",
+      "value": 1
+    },
+    {
+      "x": "pecan",
+      "y": "celery",
+      "value": 15
+    },
+    {
+      "x": "pecan",
+      "y": "carrot",
+      "value": 10
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "barley",
+      "value": 5
+    },
+    {
+      "x": "barley",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "dill",
+      "value": 2
+    },
+    {
+      "x": "barley",
+      "y": "shallot",
+      "value": 0
+    },
+    {
+      "x": "barley",
+      "y": "celery",
+      "value": 1
+    },
+    {
+      "x": "barley",
+      "y": "carrot",
+      "value": 2
+    },
+    {
+      "x": "barley",
+      "y": "pecan",
+      "value": 5
+    },
+    {
+      "x": "barley",
+      "y": "barley",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "celery",
+      "mean": 7.714285714285714
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 6.285714285714286
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 5.571428571428571
+    },
+    {
+      "ingredient": "dill",
+      "mean": 5.428571428571429
+    },
+    {
+      "ingredient": "barley",
+      "mean": 1.4285714285714286
+    },
+    {
+      "ingredient": "shallot",
+      "mean": 0.5714285714285714
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.14285714285714285
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

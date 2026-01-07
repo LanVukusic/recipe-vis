@@ -1,0 +1,72 @@
+{
+  "id": 10063,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "parsnip",
+    "potato"
+  ],
+  "score_avg": 13.666666666666666,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "parsnip",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "parsnip",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "parsnip",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "parsnip",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "parsnip",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "potato",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "parsnip",
+      "mean": 0.5
+    }
+  ]
+}

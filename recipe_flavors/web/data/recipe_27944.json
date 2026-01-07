@@ -1,0 +1,72 @@
+{
+  "id": 27944,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "banana",
+    "cereal"
+  ],
+  "score_avg": 12.666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "banana",
+      "value": 38
+    },
+    {
+      "x": "cocoa",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cocoa",
+      "value": 38
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "banana",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "banana",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "banana",
+      "mean": 19.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.0
+    }
+  ]
+}

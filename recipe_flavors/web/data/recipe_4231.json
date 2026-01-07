@@ -1,0 +1,162 @@
+{
+  "id": 4231,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "cheese",
+    "chicken",
+    "cayenne",
+    "corn",
+    "mushroom"
+  ],
+  "score_avg": 30.7,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "chicken",
+      "value": 60
+    },
+    {
+      "x": "cheese",
+      "y": "cayenne",
+      "value": 4
+    },
+    {
+      "x": "cheese",
+      "y": "corn",
+      "value": 43
+    },
+    {
+      "x": "cheese",
+      "y": "mushroom",
+      "value": 52
+    },
+    {
+      "x": "chicken",
+      "y": "cheese",
+      "value": 60
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "chicken",
+      "y": "corn",
+      "value": 45
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "cayenne",
+      "y": "cheese",
+      "value": 4
+    },
+    {
+      "x": "cayenne",
+      "y": "chicken",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "cayenne",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "corn",
+      "y": "cheese",
+      "value": 43
+    },
+    {
+      "x": "corn",
+      "y": "chicken",
+      "value": 45
+    },
+    {
+      "x": "corn",
+      "y": "cayenne",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "mushroom",
+      "value": 33
+    },
+    {
+      "x": "mushroom",
+      "y": "cheese",
+      "value": 52
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "cayenne",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "corn",
+      "value": 33
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 40.75
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 39.75
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 37.25
+    },
+    {
+      "ingredient": "corn",
+      "mean": 31.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.75
+    }
+  ]
+}

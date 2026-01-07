@@ -1,0 +1,112 @@
+{
+  "id": 46179,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "apricot",
+    "chicken",
+    "vinegar"
+  ],
+  "score_avg": 8.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "chicken",
+      "value": 26
+    },
+    {
+      "x": "apricot",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "chicken",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "apricot",
+      "value": 26
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "apricot",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 13.333333333333334
+    },
+    {
+      "ingredient": "apricot",
+      "mean": 12.666666666666666
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 8.666666666666666
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.0
+    }
+  ]
+}

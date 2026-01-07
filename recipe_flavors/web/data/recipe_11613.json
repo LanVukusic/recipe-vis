@@ -1,0 +1,112 @@
+{
+  "id": 11613,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "gelatin",
+    "corn",
+    "vanilla",
+    "coconut"
+  ],
+  "score_avg": 9.166666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "gelatin",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "gelatin",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "corn",
+      "y": "coconut",
+      "value": 25
+    },
+    {
+      "x": "vanilla",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "corn",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "coconut",
+      "value": 14
+    },
+    {
+      "x": "coconut",
+      "y": "gelatin",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "corn",
+      "value": 25
+    },
+    {
+      "x": "coconut",
+      "y": "vanilla",
+      "value": 14
+    },
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 13.666666666666666
+    },
+    {
+      "ingredient": "coconut",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "gelatin",
+      "mean": 0.0
+    }
+  ]
+}

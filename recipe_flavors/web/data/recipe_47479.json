@@ -1,0 +1,72 @@
+{
+  "id": 47479,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "chicken_broth",
+    "salmon"
+  ],
+  "score_avg": 3.6666666666666665,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "salmon",
+      "value": 11
+    },
+    {
+      "x": "chicken_broth",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "salmon",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "dill",
+      "value": 11
+    },
+    {
+      "x": "salmon",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "salmon",
+      "y": "salmon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "salmon",
+      "mean": 5.5
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.0
+    }
+  ]
+}

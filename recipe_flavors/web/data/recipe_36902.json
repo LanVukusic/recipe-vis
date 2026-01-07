@@ -1,0 +1,72 @@
+{
+  "id": 36902,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "rum",
+    "lime"
+  ],
+  "score_avg": 17.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "rum",
+      "value": 18
+    },
+    {
+      "x": "cherry",
+      "y": "lime",
+      "value": 16
+    },
+    {
+      "x": "rum",
+      "y": "cherry",
+      "value": 18
+    },
+    {
+      "x": "rum",
+      "y": "rum",
+      "value": 0
+    },
+    {
+      "x": "rum",
+      "y": "lime",
+      "value": 18
+    },
+    {
+      "x": "lime",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "lime",
+      "y": "rum",
+      "value": 18
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "rum",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 17.0
+    }
+  ]
+}

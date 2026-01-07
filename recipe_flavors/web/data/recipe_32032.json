@@ -1,0 +1,112 @@
+{
+  "id": 32032,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "melon",
+    "butter",
+    "honey",
+    "mint"
+  ],
+  "score_avg": 16.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "melon",
+      "y": "melon",
+      "value": 0
+    },
+    {
+      "x": "melon",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "melon",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "melon",
+      "y": "mint",
+      "value": 10
+    },
+    {
+      "x": "butter",
+      "y": "melon",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "honey",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "mint",
+      "value": 8
+    },
+    {
+      "x": "honey",
+      "y": "melon",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "melon",
+      "value": 10
+    },
+    {
+      "x": "mint",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mint",
+      "y": "honey",
+      "value": 6
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "melon",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "butter",
+      "mean": 20.666666666666668
+    },
+    {
+      "ingredient": "honey",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "mint",
+      "mean": 8.0
+    }
+  ]
+}

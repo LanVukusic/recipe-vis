@@ -1,0 +1,162 @@
+{
+  "id": 11793,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "vanilla",
+    "orange_juice",
+    "watermelon",
+    "blueberry"
+  ],
+  "score_avg": 4.0,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "vanilla",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "blueberry",
+      "value": 12
+    },
+    {
+      "x": "orange_juice",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "watermelon",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "blueberry",
+      "value": 8
+    },
+    {
+      "x": "watermelon",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "orange_juice",
+      "value": 1
+    },
+    {
+      "x": "watermelon",
+      "y": "watermelon",
+      "value": 0
+    },
+    {
+      "x": "watermelon",
+      "y": "blueberry",
+      "value": 9
+    },
+    {
+      "x": "blueberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "vanilla",
+      "value": 12
+    },
+    {
+      "x": "blueberry",
+      "y": "orange_juice",
+      "value": 8
+    },
+    {
+      "x": "blueberry",
+      "y": "watermelon",
+      "value": 9
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "blueberry",
+      "mean": 7.25
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "watermelon",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.5
+    }
+  ]
+}

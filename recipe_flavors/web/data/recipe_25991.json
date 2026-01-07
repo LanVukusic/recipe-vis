@@ -1,0 +1,72 @@
+{
+  "id": 25991,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "milk",
+    "pork_sausage"
+  ],
+  "score_avg": 19.666666666666668,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork_sausage",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "pork_sausage",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "pork_sausage",
+      "y": "milk",
+      "value": 55
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork_sausage",
+      "mean": 29.5
+    },
+    {
+      "ingredient": "milk",
+      "mean": 27.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 11069,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "strawberry",
+    "lemon_juice",
+    "mint",
+    "cream"
+  ],
+  "score_avg": 5.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "lemon_juice",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "strawberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "mint",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 9.666666666666666
+    },
+    {
+      "ingredient": "mint",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

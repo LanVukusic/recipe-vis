@@ -1,0 +1,162 @@
+{
+  "id": 11414,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "wheat",
+    "anise_seed",
+    "egg",
+    "sesame_seed"
+  ],
+  "score_avg": 5.2,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "anise_seed",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "sesame_seed",
+      "value": 12
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "anise_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "anise_seed",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "anise_seed",
+      "y": "sesame_seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "anise_seed",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "sesame_seed",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "butter",
+      "value": 12
+    },
+    {
+      "x": "sesame_seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "anise_seed",
+      "value": 0
+    },
+    {
+      "x": "sesame_seed",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "sesame_seed",
+      "y": "sesame_seed",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 10.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "sesame_seed",
+      "mean": 5.25
+    },
+    {
+      "ingredient": "anise_seed",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    }
+  ]
+}

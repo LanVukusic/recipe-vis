@@ -1,0 +1,112 @@
+{
+  "id": 25107,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "dill",
+    "cream",
+    "cucumber",
+    "vinegar"
+  ],
+  "score_avg": 2.8333333333333335,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "dill",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    },
+    {
+      "x": "cream",
+      "y": "cucumber",
+      "value": 3
+    },
+    {
+      "x": "cream",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "cucumber",
+      "y": "dill",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "cream",
+      "value": 3
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    },
+    {
+      "x": "cucumber",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "dill",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "cucumber",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 2.6666666666666665
+    },
+    {
+      "ingredient": "dill",
+      "mean": 2.3333333333333335
+    },
+    {
+      "ingredient": "cucumber",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

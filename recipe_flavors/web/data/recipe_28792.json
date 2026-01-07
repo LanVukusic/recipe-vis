@@ -1,0 +1,112 @@
+{
+  "id": 28792,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nutmeg",
+    "cheddar_cheese",
+    "egg",
+    "cottage_cheese"
+  ],
+  "score_avg": 33.166666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "cheddar_cheese",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "nutmeg",
+      "y": "cottage_cheese",
+      "value": 3
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cottage_cheese",
+      "value": 131
+    },
+    {
+      "x": "egg",
+      "y": "nutmeg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "cheddar_cheese",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cottage_cheese",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cheddar_cheese",
+      "value": 131
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cottage_cheese",
+      "y": "cottage_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 56.0
+    },
+    {
+      "ingredient": "cottage_cheese",
+      "mean": 53.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 3.0
+    }
+  ]
+}

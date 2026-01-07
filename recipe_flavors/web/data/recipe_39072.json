@@ -1,0 +1,112 @@
+{
+  "id": 39072,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "almond",
+    "milk",
+    "lard"
+  ],
+  "score_avg": 10.333333333333334,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "almond",
+      "value": 6
+    },
+    {
+      "x": "cocoa",
+      "y": "milk",
+      "value": 52
+    },
+    {
+      "x": "cocoa",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "cocoa",
+      "value": 6
+    },
+    {
+      "x": "almond",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "almond",
+      "y": "milk",
+      "value": 3
+    },
+    {
+      "x": "almond",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cocoa",
+      "value": 52
+    },
+    {
+      "x": "milk",
+      "y": "almond",
+      "value": 3
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "almond",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "milk",
+      "mean": 18.666666666666668
+    },
+    {
+      "ingredient": "almond",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

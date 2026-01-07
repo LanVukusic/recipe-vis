@@ -1,0 +1,292 @@
+{
+  "id": 21938,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "chickpea",
+    "lemon_juice",
+    "garlic",
+    "yogurt",
+    "black_pepper",
+    "cumin"
+  ],
+  "score_avg": 0.5714285714285714,
+  "pair_coverage": 0.2857142857142857,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "chickpea",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "chickpea",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 0.6666666666666666
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "chickpea",
+      "mean": 0.0
+    }
+  ]
+}

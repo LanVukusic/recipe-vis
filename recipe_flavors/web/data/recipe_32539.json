@@ -1,0 +1,112 @@
+{
+  "id": 32539,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "orange",
+    "raspberry",
+    "mint",
+    "banana"
+  ],
+  "score_avg": 28.5,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "orange",
+      "y": "orange",
+      "value": 0
+    },
+    {
+      "x": "orange",
+      "y": "raspberry",
+      "value": 55
+    },
+    {
+      "x": "orange",
+      "y": "mint",
+      "value": 16
+    },
+    {
+      "x": "orange",
+      "y": "banana",
+      "value": 35
+    },
+    {
+      "x": "raspberry",
+      "y": "orange",
+      "value": 55
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "mint",
+      "value": 14
+    },
+    {
+      "x": "raspberry",
+      "y": "banana",
+      "value": 40
+    },
+    {
+      "x": "mint",
+      "y": "orange",
+      "value": 16
+    },
+    {
+      "x": "mint",
+      "y": "raspberry",
+      "value": 14
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "banana",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "orange",
+      "value": 35
+    },
+    {
+      "x": "banana",
+      "y": "raspberry",
+      "value": 40
+    },
+    {
+      "x": "banana",
+      "y": "mint",
+      "value": 11
+    },
+    {
+      "x": "banana",
+      "y": "banana",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "raspberry",
+      "mean": 36.333333333333336
+    },
+    {
+      "ingredient": "orange",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "banana",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "mint",
+      "mean": 13.666666666666666
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 48360,
+  "cuisine": "SouthAsian",
+  "ingredients": [
+    "yogurt",
+    "cilantro",
+    "cucumber"
+  ],
+  "score_avg": 2.6666666666666665,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "yogurt",
+      "y": "yogurt",
+      "value": 0
+    },
+    {
+      "x": "yogurt",
+      "y": "cilantro",
+      "value": 1
+    },
+    {
+      "x": "yogurt",
+      "y": "cucumber",
+      "value": 2
+    },
+    {
+      "x": "cilantro",
+      "y": "yogurt",
+      "value": 1
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cucumber",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "yogurt",
+      "value": 2
+    },
+    {
+      "x": "cucumber",
+      "y": "cilantro",
+      "value": 5
+    },
+    {
+      "x": "cucumber",
+      "y": "cucumber",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cucumber",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "yogurt",
+      "mean": 1.5
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 16834,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "vegetable",
+    "pork",
+    "sauerkraut"
+  ],
+  "score_avg": 10.666666666666666,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "vegetable",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "sauerkraut",
+      "value": 6
+    },
+    {
+      "x": "sauerkraut",
+      "y": "tomato",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "pork",
+      "value": 6
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 19.333333333333332
+    },
+    {
+      "ingredient": "pork",
+      "mean": 18.333333333333332
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 5.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.0
+    }
+  ]
+}

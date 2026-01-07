@@ -1,0 +1,72 @@
+{
+  "id": 34642,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "citrus",
+    "lemon",
+    "ginger"
+  ],
+  "score_avg": 35.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "citrus",
+      "y": "citrus",
+      "value": 0
+    },
+    {
+      "x": "citrus",
+      "y": "lemon",
+      "value": 51
+    },
+    {
+      "x": "citrus",
+      "y": "ginger",
+      "value": 21
+    },
+    {
+      "x": "lemon",
+      "y": "citrus",
+      "value": 51
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "citrus",
+      "value": 21
+    },
+    {
+      "x": "ginger",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lemon",
+      "mean": 43.0
+    },
+    {
+      "ingredient": "citrus",
+      "mean": 36.0
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 28.0
+    }
+  ]
+}

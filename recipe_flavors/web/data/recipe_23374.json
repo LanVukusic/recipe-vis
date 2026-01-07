@@ -1,0 +1,162 @@
+{
+  "id": 23374,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "black_pepper",
+    "catfish",
+    "mustard"
+  ],
+  "score_avg": 5.3,
+  "pair_coverage": 0.7,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "catfish",
+      "value": 32
+    },
+    {
+      "x": "butter",
+      "y": "mustard",
+      "value": 8
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "catfish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mustard",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "catfish",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "mustard",
+      "value": 1
+    },
+    {
+      "x": "catfish",
+      "y": "butter",
+      "value": 32
+    },
+    {
+      "x": "catfish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "catfish",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "catfish",
+      "y": "catfish",
+      "value": 0
+    },
+    {
+      "x": "catfish",
+      "y": "mustard",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "butter",
+      "value": 8
+    },
+    {
+      "x": "mustard",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mustard",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "mustard",
+      "y": "catfish",
+      "value": 5
+    },
+    {
+      "x": "mustard",
+      "y": "mustard",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "catfish",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "mustard",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 1.75
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    }
+  ]
+}

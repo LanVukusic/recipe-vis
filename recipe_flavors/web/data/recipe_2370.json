@@ -1,0 +1,112 @@
+{
+  "id": 2370,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "rice",
+    "cayenne",
+    "soybean"
+  ],
+  "score_avg": 11.5,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "cayenne",
+      "value": 5
+    },
+    {
+      "x": "rice",
+      "y": "soybean",
+      "value": 55
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "rice",
+      "value": 5
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "rice",
+      "value": 55
+    },
+    {
+      "x": "soybean",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 21.333333333333332
+    },
+    {
+      "ingredient": "rice",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 4.333333333333333
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

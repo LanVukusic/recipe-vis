@@ -1,0 +1,162 @@
+{
+  "id": 42063,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pepper",
+    "wheat",
+    "catfish",
+    "oyster"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "catfish",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "catfish",
+      "value": 1
+    },
+    {
+      "x": "pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "catfish",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "catfish",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "catfish",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "catfish",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "catfish",
+      "y": "catfish",
+      "value": 0
+    },
+    {
+      "x": "catfish",
+      "y": "oyster",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "catfish",
+      "value": 17
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "catfish",
+      "mean": 4.75
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 46332,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "apple",
+    "pork_sausage",
+    "bread"
+  ],
+  "score_avg": 17.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "apple",
+      "value": 1
+    },
+    {
+      "x": "maple_syrup",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "maple_syrup",
+      "value": 1
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    },
+    {
+      "x": "apple",
+      "y": "pork_sausage",
+      "value": 40
+    },
+    {
+      "x": "apple",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "pork_sausage",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "apple",
+      "value": 40
+    },
+    {
+      "x": "pork_sausage",
+      "y": "pork_sausage",
+      "value": 0
+    },
+    {
+      "x": "pork_sausage",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "apple",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "pork_sausage",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "pork_sausage",
+      "mean": 23.666666666666668
+    },
+    {
+      "ingredient": "bread",
+      "mean": 20.333333333333332
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 10630,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "pork",
+    "garlic",
+    "cinnamon",
+    "chicken_broth",
+    "cilantro",
+    "cumin"
+  ],
+  "score_avg": 1.7619047619047619,
+  "pair_coverage": 0.42857142857142855,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "pork",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "pork",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "cilantro",
+      "value": 10
+    },
+    {
+      "x": "pork",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "pork",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "pork",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "cilantro",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "cumin",
+      "value": 10
+    },
+    {
+      "x": "chicken_broth",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cilantro",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "pork",
+      "value": 10
+    },
+    {
+      "x": "cilantro",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "cilantro",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "cilantro",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cilantro",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cinnamon",
+      "value": 10
+    },
+    {
+      "x": "cumin",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cilantro",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "pork",
+      "mean": 3.5
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 3.1666666666666665
+    },
+    {
+      "ingredient": "cilantro",
+      "mean": 2.5
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 1.6666666666666667
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

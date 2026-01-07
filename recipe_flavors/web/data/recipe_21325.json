@@ -1,0 +1,112 @@
+{
+  "id": 21325,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "goat_cheese",
+    "grape",
+    "pecan",
+    "bread"
+  ],
+  "score_avg": 32.333333333333336,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "grape",
+      "value": 56
+    },
+    {
+      "x": "goat_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "goat_cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "grape",
+      "y": "goat_cheese",
+      "value": 56
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    },
+    {
+      "x": "grape",
+      "y": "pecan",
+      "value": 22
+    },
+    {
+      "x": "grape",
+      "y": "bread",
+      "value": 28
+    },
+    {
+      "x": "pecan",
+      "y": "goat_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "grape",
+      "value": 22
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "goat_cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "grape",
+      "value": 28
+    },
+    {
+      "x": "bread",
+      "y": "pecan",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "goat_cheese",
+      "mean": 41.333333333333336
+    },
+    {
+      "ingredient": "grape",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "bread",
+      "mean": 28.666666666666668
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 24.0
+    }
+  ]
+}

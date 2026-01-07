@@ -1,0 +1,72 @@
+{
+  "id": 11947,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "black_pepper",
+    "corn",
+    "bacon"
+  ],
+  "score_avg": 14.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "corn",
+      "value": 3
+    },
+    {
+      "x": "black_pepper",
+      "y": "bacon",
+      "value": 1
+    },
+    {
+      "x": "corn",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "corn",
+      "y": "corn",
+      "value": 0
+    },
+    {
+      "x": "corn",
+      "y": "bacon",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bacon",
+      "y": "corn",
+      "value": 40
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn",
+      "mean": 21.5
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 20.5
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.0
+    }
+  ]
+}

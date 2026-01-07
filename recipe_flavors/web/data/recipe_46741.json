@@ -1,0 +1,292 @@
+{
+  "id": 46741,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "seed",
+    "wheat",
+    "lemon_peel",
+    "vanilla",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 10.476190476190476,
+  "pair_coverage": 0.7142857142857143,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "lemon_peel",
+      "value": 4
+    },
+    {
+      "x": "butter",
+      "y": "vanilla",
+      "value": 33
+    },
+    {
+      "x": "butter",
+      "y": "egg",
+      "value": 28
+    },
+    {
+      "x": "butter",
+      "y": "milk",
+      "value": 74
+    },
+    {
+      "x": "seed",
+      "y": "butter",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "seed",
+      "y": "vanilla",
+      "value": 3
+    },
+    {
+      "x": "seed",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "seed",
+      "y": "milk",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "butter",
+      "value": 4
+    },
+    {
+      "x": "lemon_peel",
+      "y": "seed",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "vanilla",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "milk",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "butter",
+      "value": 33
+    },
+    {
+      "x": "vanilla",
+      "y": "seed",
+      "value": 3
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "egg",
+      "y": "butter",
+      "value": 28
+    },
+    {
+      "x": "egg",
+      "y": "seed",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "butter",
+      "value": 74
+    },
+    {
+      "x": "milk",
+      "y": "seed",
+      "value": 4
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "milk",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 23.833333333333332
+    },
+    {
+      "ingredient": "milk",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 11.5
+    },
+    {
+      "ingredient": "seed",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.8333333333333333
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

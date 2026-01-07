@@ -1,0 +1,72 @@
+{
+  "id": 13060,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheddar_cheese",
+    "port_wine",
+    "cream"
+  ],
+  "score_avg": 33.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheddar_cheese",
+      "y": "cheddar_cheese",
+      "value": 0
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "port_wine",
+      "value": 64
+    },
+    {
+      "x": "cheddar_cheese",
+      "y": "cream",
+      "value": 28
+    },
+    {
+      "x": "port_wine",
+      "y": "cheddar_cheese",
+      "value": 64
+    },
+    {
+      "x": "port_wine",
+      "y": "port_wine",
+      "value": 0
+    },
+    {
+      "x": "port_wine",
+      "y": "cream",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cheddar_cheese",
+      "value": 28
+    },
+    {
+      "x": "cream",
+      "y": "port_wine",
+      "value": 9
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheddar_cheese",
+      "mean": 46.0
+    },
+    {
+      "ingredient": "port_wine",
+      "mean": 36.5
+    },
+    {
+      "ingredient": "cream",
+      "mean": 18.5
+    }
+  ]
+}

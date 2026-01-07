@@ -1,0 +1,222 @@
+{
+  "id": 21328,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato_juice",
+    "beef",
+    "onion",
+    "potato",
+    "vegetable",
+    "black_pepper"
+  ],
+  "score_avg": 8.466666666666667,
+  "pair_coverage": 0.5333333333333333,
+  "heatmap": [
+    {
+      "x": "tomato_juice",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "tomato_juice",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "tomato_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "tomato_juice",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "potato",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "potato",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "potato",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "vegetable",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "onion",
+      "value": 1
+    },
+    {
+      "x": "vegetable",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 20.6
+    },
+    {
+      "ingredient": "potato",
+      "mean": 17.6
+    },
+    {
+      "ingredient": "onion",
+      "mean": 9.4
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.4
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.6
+    },
+    {
+      "ingredient": "tomato_juice",
+      "mean": 0.2
+    }
+  ]
+}

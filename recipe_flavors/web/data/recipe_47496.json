@@ -1,0 +1,42 @@
+{
+  "id": 47496,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "apricot",
+    "grape"
+  ],
+  "score_avg": 51.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "apricot",
+      "y": "apricot",
+      "value": 0
+    },
+    {
+      "x": "apricot",
+      "y": "grape",
+      "value": 51
+    },
+    {
+      "x": "grape",
+      "y": "apricot",
+      "value": 51
+    },
+    {
+      "x": "grape",
+      "y": "grape",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apricot",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "grape",
+      "mean": 51.0
+    }
+  ]
+}

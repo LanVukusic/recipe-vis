@@ -1,0 +1,112 @@
+{
+  "id": 34804,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "maple_syrup",
+    "cane_molasses",
+    "orange_juice",
+    "butter"
+  ],
+  "score_avg": 3.3333333333333335,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "maple_syrup",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "maple_syrup",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "orange_juice",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "orange_juice",
+      "value": 0
+    },
+    {
+      "x": "orange_juice",
+      "y": "butter",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "maple_syrup",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "orange_juice",
+      "value": 19
+    },
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 6.666666666666667
+    },
+    {
+      "ingredient": "orange_juice",
+      "mean": 6.333333333333333
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.3333333333333333
+    },
+    {
+      "ingredient": "maple_syrup",
+      "mean": 0.0
+    }
+  ]
+}

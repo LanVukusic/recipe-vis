@@ -1,0 +1,112 @@
+{
+  "id": 44226,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "goat_cheese",
+    "bacon",
+    "pecan",
+    "fig"
+  ],
+  "score_avg": 28.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "goat_cheese",
+      "y": "goat_cheese",
+      "value": 0
+    },
+    {
+      "x": "goat_cheese",
+      "y": "bacon",
+      "value": 58
+    },
+    {
+      "x": "goat_cheese",
+      "y": "pecan",
+      "value": 30
+    },
+    {
+      "x": "goat_cheese",
+      "y": "fig",
+      "value": 18
+    },
+    {
+      "x": "bacon",
+      "y": "goat_cheese",
+      "value": 58
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "pecan",
+      "value": 37
+    },
+    {
+      "x": "bacon",
+      "y": "fig",
+      "value": 17
+    },
+    {
+      "x": "pecan",
+      "y": "goat_cheese",
+      "value": 30
+    },
+    {
+      "x": "pecan",
+      "y": "bacon",
+      "value": 37
+    },
+    {
+      "x": "pecan",
+      "y": "pecan",
+      "value": 0
+    },
+    {
+      "x": "pecan",
+      "y": "fig",
+      "value": 13
+    },
+    {
+      "x": "fig",
+      "y": "goat_cheese",
+      "value": 18
+    },
+    {
+      "x": "fig",
+      "y": "bacon",
+      "value": 17
+    },
+    {
+      "x": "fig",
+      "y": "pecan",
+      "value": 13
+    },
+    {
+      "x": "fig",
+      "y": "fig",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 37.333333333333336
+    },
+    {
+      "ingredient": "goat_cheese",
+      "mean": 35.333333333333336
+    },
+    {
+      "ingredient": "pecan",
+      "mean": 26.666666666666668
+    },
+    {
+      "ingredient": "fig",
+      "mean": 16.0
+    }
+  ]
+}

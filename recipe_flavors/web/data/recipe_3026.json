@@ -1,0 +1,112 @@
+{
+  "id": 3026,
+  "cuisine": "EasternEuropean",
+  "ingredients": [
+    "beef",
+    "swiss_cheese",
+    "sauerkraut",
+    "rye_bread"
+  ],
+  "score_avg": 33.666666666666664,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "swiss_cheese",
+      "value": 78
+    },
+    {
+      "x": "beef",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "beef",
+      "y": "rye_bread",
+      "value": 50
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "beef",
+      "value": 78
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "sauerkraut",
+      "value": 9
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "rye_bread",
+      "value": 49
+    },
+    {
+      "x": "sauerkraut",
+      "y": "beef",
+      "value": 8
+    },
+    {
+      "x": "sauerkraut",
+      "y": "swiss_cheese",
+      "value": 9
+    },
+    {
+      "x": "sauerkraut",
+      "y": "sauerkraut",
+      "value": 0
+    },
+    {
+      "x": "sauerkraut",
+      "y": "rye_bread",
+      "value": 8
+    },
+    {
+      "x": "rye_bread",
+      "y": "beef",
+      "value": 50
+    },
+    {
+      "x": "rye_bread",
+      "y": "swiss_cheese",
+      "value": 49
+    },
+    {
+      "x": "rye_bread",
+      "y": "sauerkraut",
+      "value": 8
+    },
+    {
+      "x": "rye_bread",
+      "y": "rye_bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 45.333333333333336
+    },
+    {
+      "ingredient": "rye_bread",
+      "mean": 35.666666666666664
+    },
+    {
+      "ingredient": "sauerkraut",
+      "mean": 8.333333333333334
+    }
+  ]
+}

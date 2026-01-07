@@ -1,0 +1,112 @@
+{
+  "id": 40516,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "wheat",
+    "bean",
+    "egg",
+    "vanilla"
+  ],
+  "score_avg": 8.333333333333334,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "bean",
+      "value": 0
+    },
+    {
+      "x": "bean",
+      "y": "egg",
+      "value": 20
+    },
+    {
+      "x": "bean",
+      "y": "vanilla",
+      "value": 22
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bean",
+      "value": 20
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "bean",
+      "value": 22
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bean",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 10.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.333333333333334
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.0
+    }
+  ]
+}

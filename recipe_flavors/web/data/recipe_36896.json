@@ -1,0 +1,42 @@
+{
+  "id": 36896,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "egg"
+  ],
+  "score_avg": 8.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "vanilla",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 8.0
+    }
+  ]
+}

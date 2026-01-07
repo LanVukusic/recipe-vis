@@ -1,0 +1,72 @@
+{
+  "id": 23490,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lemon_juice",
+    "flower",
+    "elderberry"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "flower",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "elderberry",
+      "value": 0
+    },
+    {
+      "x": "flower",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "flower",
+      "y": "flower",
+      "value": 0
+    },
+    {
+      "x": "flower",
+      "y": "elderberry",
+      "value": 1
+    },
+    {
+      "x": "elderberry",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "elderberry",
+      "y": "flower",
+      "value": 1
+    },
+    {
+      "x": "elderberry",
+      "y": "elderberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "flower",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "elderberry",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.0
+    }
+  ]
+}

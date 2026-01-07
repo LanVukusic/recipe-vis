@@ -1,0 +1,42 @@
+{
+  "id": 32265,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vinegar",
+    "soybean"
+  ],
+  "score_avg": 14.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vinegar",
+      "mean": 14.0
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 14.0
+    }
+  ]
+}

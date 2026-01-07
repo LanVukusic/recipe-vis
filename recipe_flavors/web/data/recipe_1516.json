@@ -1,0 +1,792 @@
+{
+  "id": 1516,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "tomato",
+    "vinegar",
+    "lemon",
+    "celery_oil",
+    "beef",
+    "sake",
+    "soy_sauce",
+    "ginger",
+    "scallion",
+    "garlic",
+    "beef_broth",
+    "egg"
+  ],
+  "score_avg": 6.833333333333333,
+  "pair_coverage": 0.5909090909090909,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "vinegar",
+      "value": 19
+    },
+    {
+      "x": "tomato",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "tomato",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "sake",
+      "value": 13
+    },
+    {
+      "x": "tomato",
+      "y": "soy_sauce",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "ginger",
+      "value": 31
+    },
+    {
+      "x": "tomato",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "beef_broth",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "egg",
+      "value": 24
+    },
+    {
+      "x": "vinegar",
+      "y": "tomato",
+      "value": 19
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "lemon",
+      "value": 4
+    },
+    {
+      "x": "vinegar",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "sake",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "egg",
+      "value": 7
+    },
+    {
+      "x": "lemon",
+      "y": "tomato",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "vinegar",
+      "value": 4
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "beef",
+      "value": 25
+    },
+    {
+      "x": "lemon",
+      "y": "sake",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "ginger",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "celery_oil",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "celery_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "lemon",
+      "value": 25
+    },
+    {
+      "x": "beef",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "sake",
+      "value": 18
+    },
+    {
+      "x": "beef",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "beef_broth",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "egg",
+      "value": 41
+    },
+    {
+      "x": "sake",
+      "y": "tomato",
+      "value": 13
+    },
+    {
+      "x": "sake",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "sake",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "sake",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "beef",
+      "value": 18
+    },
+    {
+      "x": "sake",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "sake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "sake",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "sake",
+      "y": "beef_broth",
+      "value": 3
+    },
+    {
+      "x": "sake",
+      "y": "egg",
+      "value": 6
+    },
+    {
+      "x": "soy_sauce",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "tomato",
+      "value": 31
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "ginger",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "ginger",
+      "y": "sake",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "scallion",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "sake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "sake",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "egg",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "beef_broth",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "lemon",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "beef_broth",
+      "y": "sake",
+      "value": 3
+    },
+    {
+      "x": "beef_broth",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "beef_broth",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "beef_broth",
+      "value": 0
+    },
+    {
+      "x": "beef_broth",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "tomato",
+      "value": 24
+    },
+    {
+      "x": "egg",
+      "y": "vinegar",
+      "value": 7
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "celery_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "beef",
+      "value": 41
+    },
+    {
+      "x": "egg",
+      "y": "sake",
+      "value": 6
+    },
+    {
+      "x": "egg",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "egg",
+      "y": "beef_broth",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 19.545454545454547
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 17.454545454545453
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 11.090909090909092
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 9.454545454545455
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.090909090909092
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 5.909090909090909
+    },
+    {
+      "ingredient": "sake",
+      "mean": 5.545454545454546
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.1818181818181817
+    },
+    {
+      "ingredient": "beef_broth",
+      "mean": 1.1818181818181819
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.45454545454545453
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.09090909090909091
+    },
+    {
+      "ingredient": "celery_oil",
+      "mean": 0.0
+    }
+  ]
+}

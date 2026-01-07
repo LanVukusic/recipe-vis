@@ -1,0 +1,72 @@
+{
+  "id": 44146,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "vanilla",
+    "ginger",
+    "soybean"
+  ],
+  "score_avg": 28.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "ginger",
+      "value": 17
+    },
+    {
+      "x": "vanilla",
+      "y": "soybean",
+      "value": 34
+    },
+    {
+      "x": "ginger",
+      "y": "vanilla",
+      "value": 17
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "vanilla",
+      "value": 34
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 33.5
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 25.0
+    }
+  ]
+}

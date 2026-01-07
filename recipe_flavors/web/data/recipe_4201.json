@@ -1,0 +1,72 @@
+{
+  "id": 4201,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "tequila",
+    "lime_juice",
+    "lime"
+  ],
+  "score_avg": 0.6666666666666666,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "tequila",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "tequila",
+      "y": "lime",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "lime",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "tequila",
+      "value": 0
+    },
+    {
+      "x": "lime",
+      "y": "lime_juice",
+      "value": 2
+    },
+    {
+      "x": "lime",
+      "y": "lime",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "lime_juice",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "lime",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "tequila",
+      "mean": 0.0
+    }
+  ]
+}

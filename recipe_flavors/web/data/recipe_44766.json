@@ -1,0 +1,42 @@
+{
+  "id": 44766,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "litchi",
+    "cranberry"
+  ],
+  "score_avg": 22.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "litchi",
+      "y": "litchi",
+      "value": 0
+    },
+    {
+      "x": "litchi",
+      "y": "cranberry",
+      "value": 22
+    },
+    {
+      "x": "cranberry",
+      "y": "litchi",
+      "value": 22
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "litchi",
+      "mean": 22.0
+    },
+    {
+      "ingredient": "cranberry",
+      "mean": 22.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 38721,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "pepper",
+    "potato"
+  ],
+  "score_avg": 17.333333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "pepper",
+      "value": 5
+    },
+    {
+      "x": "butter",
+      "y": "potato",
+      "value": 40
+    },
+    {
+      "x": "pepper",
+      "y": "butter",
+      "value": 5
+    },
+    {
+      "x": "pepper",
+      "y": "pepper",
+      "value": 0
+    },
+    {
+      "x": "pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "butter",
+      "value": 40
+    },
+    {
+      "x": "potato",
+      "y": "pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "potato",
+      "mean": 23.5
+    },
+    {
+      "ingredient": "butter",
+      "mean": 22.5
+    },
+    {
+      "ingredient": "pepper",
+      "mean": 6.0
+    }
+  ]
+}

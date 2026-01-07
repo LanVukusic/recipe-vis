@@ -1,0 +1,222 @@
+{
+  "id": 13389,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "swiss_cheese",
+    "ham",
+    "vegetable_oil",
+    "chicken",
+    "egg",
+    "bread"
+  ],
+  "score_avg": 21.866666666666667,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "swiss_cheese",
+      "y": "swiss_cheese",
+      "value": 0
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "ham",
+      "value": 34
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "chicken",
+      "value": 64
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "swiss_cheese",
+      "y": "bread",
+      "value": 39
+    },
+    {
+      "x": "ham",
+      "y": "swiss_cheese",
+      "value": 34
+    },
+    {
+      "x": "ham",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "ham",
+      "y": "chicken",
+      "value": 47
+    },
+    {
+      "x": "ham",
+      "y": "egg",
+      "value": 18
+    },
+    {
+      "x": "ham",
+      "y": "bread",
+      "value": 20
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "swiss_cheese",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "ham",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "swiss_cheese",
+      "value": 64
+    },
+    {
+      "x": "chicken",
+      "y": "ham",
+      "value": 47
+    },
+    {
+      "x": "chicken",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "egg",
+      "value": 29
+    },
+    {
+      "x": "chicken",
+      "y": "bread",
+      "value": 31
+    },
+    {
+      "x": "egg",
+      "y": "swiss_cheese",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "ham",
+      "value": 18
+    },
+    {
+      "x": "egg",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "chicken",
+      "value": 29
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "bread",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "swiss_cheese",
+      "value": 39
+    },
+    {
+      "x": "bread",
+      "y": "ham",
+      "value": 20
+    },
+    {
+      "x": "bread",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "chicken",
+      "value": 31
+    },
+    {
+      "x": "bread",
+      "y": "egg",
+      "value": 15
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "chicken",
+      "mean": 34.4
+    },
+    {
+      "ingredient": "swiss_cheese",
+      "mean": 33.4
+    },
+    {
+      "ingredient": "ham",
+      "mean": 23.8
+    },
+    {
+      "ingredient": "bread",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "egg",
+      "mean": 18.2
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.4
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 11665,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "lemon_juice",
+    "black_pepper",
+    "potato",
+    "lemon_peel"
+  ],
+  "score_avg": 1.3,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "potato",
+      "value": 7
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "potato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "potato",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "black_pepper",
+      "value": 7
+    },
+    {
+      "x": "potato",
+      "y": "potato",
+      "value": 0
+    },
+    {
+      "x": "potato",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "black_pepper",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "potato",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "black_pepper",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "potato",
+      "mean": 2.25
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.25
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.25
+    }
+  ]
+}

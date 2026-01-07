@@ -1,0 +1,72 @@
+{
+  "id": 6040,
+  "cuisine": "LatinAmerican",
+  "ingredients": [
+    "red_wine",
+    "rosemary",
+    "beef"
+  ],
+  "score_avg": 23.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "rosemary",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "rosemary",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "red_wine",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "beef",
+      "mean": 32.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 5.0
+    }
+  ]
+}

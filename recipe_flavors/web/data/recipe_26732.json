@@ -1,0 +1,292 @@
+{
+  "id": 26732,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "grape_juice",
+    "garlic",
+    "bell_pepper",
+    "basil",
+    "feta_cheese",
+    "black_pepper"
+  ],
+  "score_avg": 8.619047619047619,
+  "pair_coverage": 0.7619047619047619,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "bell_pepper",
+      "value": 28
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "tomato",
+      "y": "feta_cheese",
+      "value": 52
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "grape_juice",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "grape_juice",
+      "y": "feta_cheese",
+      "value": 1
+    },
+    {
+      "x": "grape_juice",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "bell_pepper",
+      "y": "tomato",
+      "value": 28
+    },
+    {
+      "x": "bell_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "basil",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "feta_cheese",
+      "value": 18
+    },
+    {
+      "x": "bell_pepper",
+      "y": "black_pepper",
+      "value": 36
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "bell_pepper",
+      "value": 9
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "feta_cheese",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "tomato",
+      "value": 52
+    },
+    {
+      "x": "feta_cheese",
+      "y": "grape_juice",
+      "value": 1
+    },
+    {
+      "x": "feta_cheese",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "feta_cheese",
+      "y": "bell_pepper",
+      "value": 18
+    },
+    {
+      "x": "feta_cheese",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "feta_cheese",
+      "y": "feta_cheese",
+      "value": 0
+    },
+    {
+      "x": "feta_cheese",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "grape_juice",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "bell_pepper",
+      "value": 36
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "feta_cheese",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tomato",
+      "mean": 16.166666666666668
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 15.5
+    },
+    {
+      "ingredient": "feta_cheese",
+      "mean": 13.833333333333334
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 9.5
+    },
+    {
+      "ingredient": "basil",
+      "mean": 3.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "grape_juice",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": 202,
+  "cuisine": "African",
+  "ingredients": [
+    "olive_oil",
+    "lemon_juice",
+    "beet",
+    "mint",
+    "black_pepper",
+    "cumin"
+  ],
+  "score_avg": 1.5333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "lemon_juice",
+      "y": "mint",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "lemon_juice",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "beet",
+      "y": "cumin",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "mint",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "mint",
+      "value": 0
+    },
+    {
+      "x": "mint",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mint",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "black_pepper",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lemon_juice",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mint",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "cumin",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "lemon_juice",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "beet",
+      "value": 0
+    },
+    {
+      "x": "cumin",
+      "y": "mint",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "black_pepper",
+      "value": 6
+    },
+    {
+      "x": "cumin",
+      "y": "cumin",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "mint",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 3.2
+    },
+    {
+      "ingredient": "cumin",
+      "mean": 2.4
+    },
+    {
+      "ingredient": "lemon_juice",
+      "mean": 0.4
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.0
+    },
+    {
+      "ingredient": "beet",
+      "mean": 0.0
+    }
+  ]
+}

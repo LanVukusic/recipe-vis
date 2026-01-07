@@ -1,0 +1,112 @@
+{
+  "id": 32744,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "honey",
+    "vanilla",
+    "roasted_peanut",
+    "cereal"
+  ],
+  "score_avg": 10.0,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "honey",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "honey",
+      "y": "vanilla",
+      "value": 16
+    },
+    {
+      "x": "honey",
+      "y": "roasted_peanut",
+      "value": 20
+    },
+    {
+      "x": "honey",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "honey",
+      "value": 16
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "roasted_peanut",
+      "value": 23
+    },
+    {
+      "x": "vanilla",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "honey",
+      "value": 20
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "vanilla",
+      "value": 23
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "roasted_peanut",
+      "value": 0
+    },
+    {
+      "x": "roasted_peanut",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "honey",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "roasted_peanut",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "roasted_peanut",
+      "mean": 14.666666666666666
+    },
+    {
+      "ingredient": "vanilla",
+      "mean": 13.0
+    },
+    {
+      "ingredient": "honey",
+      "mean": 12.0
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.3333333333333333
+    }
+  ]
+}

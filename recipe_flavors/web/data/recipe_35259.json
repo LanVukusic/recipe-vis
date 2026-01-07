@@ -1,0 +1,42 @@
+{
+  "id": 35259,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "mushroom"
+  ],
+  "score_avg": 51.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "mushroom",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "butter",
+      "value": 51
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "butter",
+      "mean": 51.0
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 51.0
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 10309,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "chicken"
+  ],
+  "score_avg": 2.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "chicken",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "olive_oil",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 2.0
+    }
+  ]
+}

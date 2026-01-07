@@ -1,0 +1,112 @@
+{
+  "id": 32461,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "lemon",
+    "milk",
+    "cream_cheese"
+  ],
+  "score_avg": 29.833333333333332,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lemon",
+      "value": 8
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "lemon",
+      "y": "egg",
+      "value": 8
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "milk",
+      "value": 23
+    },
+    {
+      "x": "lemon",
+      "y": "cream_cheese",
+      "value": 22
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "lemon",
+      "value": 23
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cream_cheese",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "cream_cheese",
+      "y": "milk",
+      "value": 67
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 40.666666666666664
+    },
+    {
+      "ingredient": "cream_cheese",
+      "mean": 38.666666666666664
+    },
+    {
+      "ingredient": "egg",
+      "mean": 22.333333333333332
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 17.666666666666668
+    }
+  ]
+}

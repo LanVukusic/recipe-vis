@@ -1,0 +1,72 @@
+{
+  "id": 24421,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "nut",
+    "bacon",
+    "soy_sauce"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "bacon",
+      "value": 4
+    },
+    {
+      "x": "nut",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "bacon",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 7223,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "date",
+    "bacon",
+    "parmesan_cheese"
+  ],
+  "score_avg": 23.666666666666668,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "date",
+      "y": "date",
+      "value": 0
+    },
+    {
+      "x": "date",
+      "y": "bacon",
+      "value": 2
+    },
+    {
+      "x": "date",
+      "y": "parmesan_cheese",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "bacon",
+      "y": "bacon",
+      "value": 0
+    },
+    {
+      "x": "bacon",
+      "y": "parmesan_cheese",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "date",
+      "value": 2
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bacon",
+      "value": 67
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bacon",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 34.5
+    },
+    {
+      "ingredient": "date",
+      "mean": 2.0
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": 24215,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cane_molasses",
+    "wheat",
+    "cereal",
+    "lard",
+    "peanut",
+    "egg",
+    "milk"
+  ],
+  "score_avg": 5.095238095238095,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "cane_molasses",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "cane_molasses",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "cane_molasses",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "peanut",
+      "value": 3
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "peanut",
+      "value": 1
+    },
+    {
+      "x": "cereal",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "cereal",
+      "y": "milk",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "lard",
+      "y": "milk",
+      "value": 1
+    },
+    {
+      "x": "peanut",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "wheat",
+      "value": 3
+    },
+    {
+      "x": "peanut",
+      "y": "cereal",
+      "value": 1
+    },
+    {
+      "x": "peanut",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "peanut",
+      "value": 0
+    },
+    {
+      "x": "peanut",
+      "y": "egg",
+      "value": 21
+    },
+    {
+      "x": "peanut",
+      "y": "milk",
+      "value": 48
+    },
+    {
+      "x": "egg",
+      "y": "cane_molasses",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "lard",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "peanut",
+      "value": 21
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "milk",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "cane_molasses",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "cereal",
+      "value": 0
+    },
+    {
+      "x": "milk",
+      "y": "lard",
+      "value": 1
+    },
+    {
+      "x": "milk",
+      "y": "peanut",
+      "value": 48
+    },
+    {
+      "x": "milk",
+      "y": "egg",
+      "value": 32
+    },
+    {
+      "x": "milk",
+      "y": "milk",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "milk",
+      "mean": 13.5
+    },
+    {
+      "ingredient": "peanut",
+      "mean": 12.166666666666666
+    },
+    {
+      "ingredient": "egg",
+      "mean": 9.0
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "cane_molasses",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "cereal",
+      "mean": 0.16666666666666666
+    },
+    {
+      "ingredient": "lard",
+      "mean": 0.16666666666666666
+    }
+  ]
+}

@@ -1,0 +1,792 @@
+{
+  "id": 49673,
+  "cuisine": "SouthernEuropean",
+  "ingredients": [
+    "butter",
+    "olive_oil",
+    "pork",
+    "wheat",
+    "beef",
+    "onion",
+    "white_wine",
+    "celery",
+    "carrot",
+    "nutmeg",
+    "tomato",
+    "macaroni"
+  ],
+  "score_avg": 16.651515151515152,
+  "pair_coverage": 0.696969696969697,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "pork",
+      "value": 61
+    },
+    {
+      "x": "butter",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "butter",
+      "y": "beef",
+      "value": 80
+    },
+    {
+      "x": "butter",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "butter",
+      "y": "white_wine",
+      "value": 69
+    },
+    {
+      "x": "butter",
+      "y": "celery",
+      "value": 22
+    },
+    {
+      "x": "butter",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "butter",
+      "y": "nutmeg",
+      "value": 7
+    },
+    {
+      "x": "butter",
+      "y": "tomato",
+      "value": 54
+    },
+    {
+      "x": "butter",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "pork",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "white_wine",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "olive_oil",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "butter",
+      "value": 61
+    },
+    {
+      "x": "pork",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "pork",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "pork",
+      "y": "beef",
+      "value": 97
+    },
+    {
+      "x": "pork",
+      "y": "onion",
+      "value": 18
+    },
+    {
+      "x": "pork",
+      "y": "white_wine",
+      "value": 50
+    },
+    {
+      "x": "pork",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "pork",
+      "y": "carrot",
+      "value": 12
+    },
+    {
+      "x": "pork",
+      "y": "nutmeg",
+      "value": 3
+    },
+    {
+      "x": "pork",
+      "y": "tomato",
+      "value": 49
+    },
+    {
+      "x": "pork",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "butter",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "wheat",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "tomato",
+      "value": 1
+    },
+    {
+      "x": "wheat",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "butter",
+      "value": 80
+    },
+    {
+      "x": "beef",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "pork",
+      "value": 97
+    },
+    {
+      "x": "beef",
+      "y": "wheat",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "white_wine",
+      "value": 70
+    },
+    {
+      "x": "beef",
+      "y": "celery",
+      "value": 24
+    },
+    {
+      "x": "beef",
+      "y": "carrot",
+      "value": 16
+    },
+    {
+      "x": "beef",
+      "y": "nutmeg",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "butter",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "pork",
+      "value": 18
+    },
+    {
+      "x": "onion",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "white_wine",
+      "value": 19
+    },
+    {
+      "x": "onion",
+      "y": "celery",
+      "value": 10
+    },
+    {
+      "x": "onion",
+      "y": "carrot",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "butter",
+      "value": 69
+    },
+    {
+      "x": "white_wine",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "white_wine",
+      "y": "pork",
+      "value": 50
+    },
+    {
+      "x": "white_wine",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "beef",
+      "value": 70
+    },
+    {
+      "x": "white_wine",
+      "y": "onion",
+      "value": 19
+    },
+    {
+      "x": "white_wine",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "white_wine",
+      "y": "celery",
+      "value": 26
+    },
+    {
+      "x": "white_wine",
+      "y": "carrot",
+      "value": 18
+    },
+    {
+      "x": "white_wine",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "white_wine",
+      "y": "tomato",
+      "value": 68
+    },
+    {
+      "x": "white_wine",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "butter",
+      "value": 22
+    },
+    {
+      "x": "celery",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "pork",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "beef",
+      "value": 24
+    },
+    {
+      "x": "celery",
+      "y": "onion",
+      "value": 10
+    },
+    {
+      "x": "celery",
+      "y": "white_wine",
+      "value": 26
+    },
+    {
+      "x": "celery",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "celery",
+      "y": "carrot",
+      "value": 21
+    },
+    {
+      "x": "celery",
+      "y": "nutmeg",
+      "value": 8
+    },
+    {
+      "x": "celery",
+      "y": "tomato",
+      "value": 33
+    },
+    {
+      "x": "celery",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "butter",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "pork",
+      "value": 12
+    },
+    {
+      "x": "carrot",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "beef",
+      "value": 16
+    },
+    {
+      "x": "carrot",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "carrot",
+      "y": "white_wine",
+      "value": 18
+    },
+    {
+      "x": "carrot",
+      "y": "celery",
+      "value": 21
+    },
+    {
+      "x": "carrot",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "carrot",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "carrot",
+      "y": "tomato",
+      "value": 22
+    },
+    {
+      "x": "carrot",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "butter",
+      "value": 7
+    },
+    {
+      "x": "nutmeg",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "pork",
+      "value": 3
+    },
+    {
+      "x": "nutmeg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "nutmeg",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "white_wine",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "celery",
+      "value": 8
+    },
+    {
+      "x": "nutmeg",
+      "y": "carrot",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "nutmeg",
+      "y": "tomato",
+      "value": 11
+    },
+    {
+      "x": "nutmeg",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "butter",
+      "value": 54
+    },
+    {
+      "x": "tomato",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "pork",
+      "value": 49
+    },
+    {
+      "x": "tomato",
+      "y": "wheat",
+      "value": 1
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "white_wine",
+      "value": 68
+    },
+    {
+      "x": "tomato",
+      "y": "celery",
+      "value": 33
+    },
+    {
+      "x": "tomato",
+      "y": "carrot",
+      "value": 22
+    },
+    {
+      "x": "tomato",
+      "y": "nutmeg",
+      "value": 11
+    },
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "pork",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "macaroni",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "white_wine",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "celery",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "carrot",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "nutmeg",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 36.81818181818182
+    },
+    {
+      "ingredient": "white_wine",
+      "mean": 30.272727272727273
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 30.09090909090909
+    },
+    {
+      "ingredient": "butter",
+      "mean": 29.636363636363637
+    },
+    {
+      "ingredient": "pork",
+      "mean": 28.363636363636363
+    },
+    {
+      "ingredient": "celery",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "carrot",
+      "mean": 11.090909090909092
+    },
+    {
+      "ingredient": "onion",
+      "mean": 10.909090909090908
+    },
+    {
+      "ingredient": "nutmeg",
+      "mean": 5.090909090909091
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 0.7272727272727273
+    }
+  ]
+}

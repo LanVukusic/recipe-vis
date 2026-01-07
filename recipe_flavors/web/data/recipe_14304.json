@@ -1,0 +1,42 @@
+{
+  "id": 14304,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cocoa",
+    "cream"
+  ],
+  "score_avg": 18.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cocoa",
+      "y": "cocoa",
+      "value": 0
+    },
+    {
+      "x": "cocoa",
+      "y": "cream",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "cocoa",
+      "value": 18
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cocoa",
+      "mean": 18.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 18.0
+    }
+  ]
+}

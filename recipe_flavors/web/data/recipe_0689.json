@@ -1,0 +1,792 @@
+{
+  "id": 689,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "chicken_broth",
+    "mushroom",
+    "garlic",
+    "ginger",
+    "brassica",
+    "soybean",
+    "chicken",
+    "vinegar",
+    "onion",
+    "beef",
+    "shiitake",
+    "scallion"
+  ],
+  "score_avg": 17.424242424242426,
+  "pair_coverage": 0.7121212121212122,
+  "heatmap": [
+    {
+      "x": "chicken_broth",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "chicken_broth",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "chicken_broth",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "mushroom",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "mushroom",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "mushroom",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "mushroom",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "shiitake",
+      "value": 117
+    },
+    {
+      "x": "mushroom",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "ginger",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "brassica",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "soybean",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "chicken",
+      "value": 7
+    },
+    {
+      "x": "garlic",
+      "y": "vinegar",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "shiitake",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "scallion",
+      "value": 1
+    },
+    {
+      "x": "ginger",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "mushroom",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "ginger",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "ginger",
+      "y": "soybean",
+      "value": 33
+    },
+    {
+      "x": "ginger",
+      "y": "chicken",
+      "value": 23
+    },
+    {
+      "x": "ginger",
+      "y": "vinegar",
+      "value": 9
+    },
+    {
+      "x": "ginger",
+      "y": "onion",
+      "value": 8
+    },
+    {
+      "x": "ginger",
+      "y": "beef",
+      "value": 28
+    },
+    {
+      "x": "ginger",
+      "y": "shiitake",
+      "value": 24
+    },
+    {
+      "x": "ginger",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "mushroom",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "brassica",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "chicken",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "brassica",
+      "y": "onion",
+      "value": 2
+    },
+    {
+      "x": "brassica",
+      "y": "beef",
+      "value": 2
+    },
+    {
+      "x": "brassica",
+      "y": "shiitake",
+      "value": 1
+    },
+    {
+      "x": "brassica",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "mushroom",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "soybean",
+      "y": "ginger",
+      "value": 33
+    },
+    {
+      "x": "soybean",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "soybean",
+      "y": "chicken",
+      "value": 71
+    },
+    {
+      "x": "soybean",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "soybean",
+      "y": "onion",
+      "value": 25
+    },
+    {
+      "x": "soybean",
+      "y": "beef",
+      "value": 96
+    },
+    {
+      "x": "soybean",
+      "y": "shiitake",
+      "value": 68
+    },
+    {
+      "x": "soybean",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "mushroom",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "garlic",
+      "value": 7
+    },
+    {
+      "x": "chicken",
+      "y": "ginger",
+      "value": 23
+    },
+    {
+      "x": "chicken",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "chicken",
+      "y": "soybean",
+      "value": 71
+    },
+    {
+      "x": "chicken",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "chicken",
+      "y": "vinegar",
+      "value": 14
+    },
+    {
+      "x": "chicken",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "chicken",
+      "y": "beef",
+      "value": 98
+    },
+    {
+      "x": "chicken",
+      "y": "shiitake",
+      "value": 55
+    },
+    {
+      "x": "chicken",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "vinegar",
+      "y": "ginger",
+      "value": 9
+    },
+    {
+      "x": "vinegar",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "soybean",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "chicken",
+      "value": 14
+    },
+    {
+      "x": "vinegar",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "vinegar",
+      "y": "onion",
+      "value": 6
+    },
+    {
+      "x": "vinegar",
+      "y": "beef",
+      "value": 17
+    },
+    {
+      "x": "vinegar",
+      "y": "shiitake",
+      "value": 12
+    },
+    {
+      "x": "vinegar",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "ginger",
+      "value": 8
+    },
+    {
+      "x": "onion",
+      "y": "brassica",
+      "value": 2
+    },
+    {
+      "x": "onion",
+      "y": "soybean",
+      "value": 25
+    },
+    {
+      "x": "onion",
+      "y": "chicken",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "vinegar",
+      "value": 6
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "shiitake",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "scallion",
+      "value": 3
+    },
+    {
+      "x": "beef",
+      "y": "chicken_broth",
+      "value": 1
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "ginger",
+      "value": 28
+    },
+    {
+      "x": "beef",
+      "y": "brassica",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "soybean",
+      "value": 96
+    },
+    {
+      "x": "beef",
+      "y": "chicken",
+      "value": 98
+    },
+    {
+      "x": "beef",
+      "y": "vinegar",
+      "value": 17
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "shiitake",
+      "value": 65
+    },
+    {
+      "x": "beef",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "mushroom",
+      "value": 117
+    },
+    {
+      "x": "shiitake",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "shiitake",
+      "y": "ginger",
+      "value": 24
+    },
+    {
+      "x": "shiitake",
+      "y": "brassica",
+      "value": 1
+    },
+    {
+      "x": "shiitake",
+      "y": "soybean",
+      "value": 68
+    },
+    {
+      "x": "shiitake",
+      "y": "chicken",
+      "value": 55
+    },
+    {
+      "x": "shiitake",
+      "y": "vinegar",
+      "value": 12
+    },
+    {
+      "x": "shiitake",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "shiitake",
+      "y": "beef",
+      "value": 65
+    },
+    {
+      "x": "shiitake",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "shiitake",
+      "y": "scallion",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken_broth",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "scallion",
+      "y": "ginger",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "brassica",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "soybean",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "chicken",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "vinegar",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "onion",
+      "value": 3
+    },
+    {
+      "x": "scallion",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "shiitake",
+      "value": 0
+    },
+    {
+      "x": "scallion",
+      "y": "scallion",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 37.27272727272727
+    },
+    {
+      "ingredient": "soybean",
+      "mean": 34.63636363636363
+    },
+    {
+      "ingredient": "shiitake",
+      "mean": 32.81818181818182
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 32.72727272727273
+    },
+    {
+      "ingredient": "chicken",
+      "mean": 31.363636363636363
+    },
+    {
+      "ingredient": "ginger",
+      "mean": 13.727272727272727
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.727272727272727
+    },
+    {
+      "ingredient": "vinegar",
+      "mean": 7.7272727272727275
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.636363636363637
+    },
+    {
+      "ingredient": "brassica",
+      "mean": 0.8181818181818182
+    },
+    {
+      "ingredient": "scallion",
+      "mean": 0.36363636363636365
+    },
+    {
+      "ingredient": "chicken_broth",
+      "mean": 0.2727272727272727
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 30649,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "egg",
+    "rhubarb",
+    "wheat",
+    "cream_cheese",
+    "starch"
+  ],
+  "score_avg": 3.6,
+  "pair_coverage": 0.4,
+  "heatmap": [
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "rhubarb",
+      "value": 1
+    },
+    {
+      "x": "egg",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "cream_cheese",
+      "value": 27
+    },
+    {
+      "x": "egg",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "egg",
+      "value": 1
+    },
+    {
+      "x": "rhubarb",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "rhubarb",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "rhubarb",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "wheat",
+      "y": "cream_cheese",
+      "value": 4
+    },
+    {
+      "x": "wheat",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "egg",
+      "value": 27
+    },
+    {
+      "x": "cream_cheese",
+      "y": "rhubarb",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "wheat",
+      "value": 4
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "starch",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "rhubarb",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "wheat",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "starch",
+      "y": "starch",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 8.75
+    },
+    {
+      "ingredient": "egg",
+      "mean": 7.0
+    },
+    {
+      "ingredient": "rhubarb",
+      "mean": 1.25
+    },
+    {
+      "ingredient": "wheat",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "starch",
+      "mean": 0.0
+    }
+  ]
+}

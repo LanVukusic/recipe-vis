@@ -1,0 +1,562 @@
+{
+  "id": 21486,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "tomato",
+    "beef",
+    "onion",
+    "mushroom",
+    "red_wine",
+    "black_pepper",
+    "parsley",
+    "garlic",
+    "cinnamon",
+    "basil"
+  ],
+  "score_avg": 14.28888888888889,
+  "pair_coverage": 0.9333333333333333,
+  "heatmap": [
+    {
+      "x": "tomato",
+      "y": "tomato",
+      "value": 0
+    },
+    {
+      "x": "tomato",
+      "y": "beef",
+      "value": 72
+    },
+    {
+      "x": "tomato",
+      "y": "onion",
+      "value": 20
+    },
+    {
+      "x": "tomato",
+      "y": "mushroom",
+      "value": 50
+    },
+    {
+      "x": "tomato",
+      "y": "red_wine",
+      "value": 62
+    },
+    {
+      "x": "tomato",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "tomato",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "tomato",
+      "y": "cinnamon",
+      "value": 16
+    },
+    {
+      "x": "tomato",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "beef",
+      "y": "tomato",
+      "value": 72
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    },
+    {
+      "x": "beef",
+      "y": "onion",
+      "value": 30
+    },
+    {
+      "x": "beef",
+      "y": "mushroom",
+      "value": 64
+    },
+    {
+      "x": "beef",
+      "y": "red_wine",
+      "value": 59
+    },
+    {
+      "x": "beef",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "beef",
+      "y": "parsley",
+      "value": 7
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "beef",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "onion",
+      "y": "tomato",
+      "value": 20
+    },
+    {
+      "x": "onion",
+      "y": "beef",
+      "value": 30
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "mushroom",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "red_wine",
+      "value": 15
+    },
+    {
+      "x": "onion",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "parsley",
+      "value": 5
+    },
+    {
+      "x": "onion",
+      "y": "garlic",
+      "value": 16
+    },
+    {
+      "x": "onion",
+      "y": "cinnamon",
+      "value": 4
+    },
+    {
+      "x": "onion",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "tomato",
+      "value": 50
+    },
+    {
+      "x": "mushroom",
+      "y": "beef",
+      "value": 64
+    },
+    {
+      "x": "mushroom",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "mushroom",
+      "y": "mushroom",
+      "value": 0
+    },
+    {
+      "x": "mushroom",
+      "y": "red_wine",
+      "value": 45
+    },
+    {
+      "x": "mushroom",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "mushroom",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "mushroom",
+      "y": "garlic",
+      "value": 4
+    },
+    {
+      "x": "mushroom",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "mushroom",
+      "y": "basil",
+      "value": 4
+    },
+    {
+      "x": "red_wine",
+      "y": "tomato",
+      "value": 62
+    },
+    {
+      "x": "red_wine",
+      "y": "beef",
+      "value": 59
+    },
+    {
+      "x": "red_wine",
+      "y": "onion",
+      "value": 15
+    },
+    {
+      "x": "red_wine",
+      "y": "mushroom",
+      "value": 45
+    },
+    {
+      "x": "red_wine",
+      "y": "red_wine",
+      "value": 0
+    },
+    {
+      "x": "red_wine",
+      "y": "black_pepper",
+      "value": 8
+    },
+    {
+      "x": "red_wine",
+      "y": "parsley",
+      "value": 6
+    },
+    {
+      "x": "red_wine",
+      "y": "garlic",
+      "value": 5
+    },
+    {
+      "x": "red_wine",
+      "y": "cinnamon",
+      "value": 12
+    },
+    {
+      "x": "red_wine",
+      "y": "basil",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "beef",
+      "value": 5
+    },
+    {
+      "x": "black_pepper",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "mushroom",
+      "value": 9
+    },
+    {
+      "x": "black_pepper",
+      "y": "red_wine",
+      "value": 8
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "parsley",
+      "value": 10
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "cinnamon",
+      "value": 13
+    },
+    {
+      "x": "black_pepper",
+      "y": "basil",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "tomato",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "beef",
+      "value": 7
+    },
+    {
+      "x": "parsley",
+      "y": "onion",
+      "value": 5
+    },
+    {
+      "x": "parsley",
+      "y": "mushroom",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "red_wine",
+      "value": 6
+    },
+    {
+      "x": "parsley",
+      "y": "black_pepper",
+      "value": 10
+    },
+    {
+      "x": "parsley",
+      "y": "parsley",
+      "value": 0
+    },
+    {
+      "x": "parsley",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "parsley",
+      "y": "cinnamon",
+      "value": 9
+    },
+    {
+      "x": "parsley",
+      "y": "basil",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "tomato",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "garlic",
+      "y": "onion",
+      "value": 16
+    },
+    {
+      "x": "garlic",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "red_wine",
+      "value": 5
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "parsley",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "cinnamon",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "basil",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "tomato",
+      "value": 16
+    },
+    {
+      "x": "cinnamon",
+      "y": "beef",
+      "value": 6
+    },
+    {
+      "x": "cinnamon",
+      "y": "onion",
+      "value": 4
+    },
+    {
+      "x": "cinnamon",
+      "y": "mushroom",
+      "value": 12
+    },
+    {
+      "x": "cinnamon",
+      "y": "red_wine",
+      "value": 12
+    },
+    {
+      "x": "cinnamon",
+      "y": "black_pepper",
+      "value": 13
+    },
+    {
+      "x": "cinnamon",
+      "y": "parsley",
+      "value": 9
+    },
+    {
+      "x": "cinnamon",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "cinnamon",
+      "y": "cinnamon",
+      "value": 0
+    },
+    {
+      "x": "cinnamon",
+      "y": "basil",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "tomato",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "beef",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "mushroom",
+      "value": 4
+    },
+    {
+      "x": "basil",
+      "y": "red_wine",
+      "value": 2
+    },
+    {
+      "x": "basil",
+      "y": "black_pepper",
+      "value": 5
+    },
+    {
+      "x": "basil",
+      "y": "parsley",
+      "value": 1
+    },
+    {
+      "x": "basil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "basil",
+      "y": "cinnamon",
+      "value": 6
+    },
+    {
+      "x": "basil",
+      "y": "basil",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 28.11111111111111
+    },
+    {
+      "ingredient": "tomato",
+      "mean": 27.333333333333332
+    },
+    {
+      "ingredient": "red_wine",
+      "mean": 23.77777777777778
+    },
+    {
+      "ingredient": "mushroom",
+      "mean": 23.22222222222222
+    },
+    {
+      "ingredient": "onion",
+      "mean": 11.666666666666666
+    },
+    {
+      "ingredient": "cinnamon",
+      "mean": 8.777777777777779
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.777777777777778
+    },
+    {
+      "ingredient": "parsley",
+      "mean": 6.222222222222222
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 4.666666666666667
+    },
+    {
+      "ingredient": "basil",
+      "mean": 2.3333333333333335
+    }
+  ]
+}

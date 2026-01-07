@@ -1,0 +1,162 @@
+{
+  "id": 30793,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lamb",
+    "dill",
+    "garlic",
+    "black_pepper",
+    "rosemary"
+  ],
+  "score_avg": 5.0,
+  "pair_coverage": 0.8,
+  "heatmap": [
+    {
+      "x": "lamb",
+      "y": "lamb",
+      "value": 0
+    },
+    {
+      "x": "lamb",
+      "y": "dill",
+      "value": 8
+    },
+    {
+      "x": "lamb",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "black_pepper",
+      "value": 2
+    },
+    {
+      "x": "lamb",
+      "y": "rosemary",
+      "value": 4
+    },
+    {
+      "x": "dill",
+      "y": "lamb",
+      "value": 8
+    },
+    {
+      "x": "dill",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "dill",
+      "y": "black_pepper",
+      "value": 12
+    },
+    {
+      "x": "dill",
+      "y": "rosemary",
+      "value": 12
+    },
+    {
+      "x": "garlic",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "dill",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "black_pepper",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "rosemary",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "lamb",
+      "value": 2
+    },
+    {
+      "x": "black_pepper",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "black_pepper",
+      "y": "garlic",
+      "value": 1
+    },
+    {
+      "x": "black_pepper",
+      "y": "black_pepper",
+      "value": 0
+    },
+    {
+      "x": "black_pepper",
+      "y": "rosemary",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "lamb",
+      "value": 4
+    },
+    {
+      "x": "rosemary",
+      "y": "dill",
+      "value": 12
+    },
+    {
+      "x": "rosemary",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "rosemary",
+      "y": "black_pepper",
+      "value": 9
+    },
+    {
+      "x": "rosemary",
+      "y": "rosemary",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "dill",
+      "mean": 8.0
+    },
+    {
+      "ingredient": "rosemary",
+      "mean": 6.25
+    },
+    {
+      "ingredient": "black_pepper",
+      "mean": 6.0
+    },
+    {
+      "ingredient": "lamb",
+      "mean": 4.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 0.75
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": 24599,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "mandarin",
+    "olive_oil",
+    "tuna",
+    "apple"
+  ],
+  "score_avg": 13.666666666666666,
+  "pair_coverage": 0.8333333333333334,
+  "heatmap": [
+    {
+      "x": "mandarin",
+      "y": "mandarin",
+      "value": 0
+    },
+    {
+      "x": "mandarin",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "mandarin",
+      "y": "tuna",
+      "value": 12
+    },
+    {
+      "x": "mandarin",
+      "y": "apple",
+      "value": 35
+    },
+    {
+      "x": "olive_oil",
+      "y": "mandarin",
+      "value": 2
+    },
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "apple",
+      "value": 2
+    },
+    {
+      "x": "tuna",
+      "y": "mandarin",
+      "value": 12
+    },
+    {
+      "x": "tuna",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "tuna",
+      "value": 0
+    },
+    {
+      "x": "tuna",
+      "y": "apple",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "mandarin",
+      "value": 35
+    },
+    {
+      "x": "apple",
+      "y": "olive_oil",
+      "value": 2
+    },
+    {
+      "x": "apple",
+      "y": "tuna",
+      "value": 31
+    },
+    {
+      "x": "apple",
+      "y": "apple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "apple",
+      "mean": 22.666666666666668
+    },
+    {
+      "ingredient": "mandarin",
+      "mean": 16.333333333333332
+    },
+    {
+      "ingredient": "tuna",
+      "mean": 14.333333333333334
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

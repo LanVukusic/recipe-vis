@@ -1,0 +1,72 @@
+{
+  "id": 13522,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "lime_juice",
+    "vanilla",
+    "avocado"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "lime_juice",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "lime_juice",
+      "y": "avocado",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "vanilla",
+      "value": 0
+    },
+    {
+      "x": "vanilla",
+      "y": "avocado",
+      "value": 9
+    },
+    {
+      "x": "avocado",
+      "y": "lime_juice",
+      "value": 0
+    },
+    {
+      "x": "avocado",
+      "y": "vanilla",
+      "value": 9
+    },
+    {
+      "x": "avocado",
+      "y": "avocado",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "vanilla",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "avocado",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "lime_juice",
+      "mean": 0.0
+    }
+  ]
+}

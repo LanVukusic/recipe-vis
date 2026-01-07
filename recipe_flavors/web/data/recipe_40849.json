@@ -1,0 +1,72 @@
+{
+  "id": 40849,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "olive_oil",
+    "garlic",
+    "bread"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "olive_oil",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "olive_oil",
+      "y": "bread",
+      "value": 1
+    },
+    {
+      "x": "garlic",
+      "y": "olive_oil",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bread",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "olive_oil",
+      "value": 1
+    },
+    {
+      "x": "bread",
+      "y": "garlic",
+      "value": 3
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "bread",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 1.5
+    },
+    {
+      "ingredient": "olive_oil",
+      "mean": 0.5
+    }
+  ]
+}

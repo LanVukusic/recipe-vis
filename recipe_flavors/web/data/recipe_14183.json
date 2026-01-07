@@ -1,0 +1,42 @@
+{
+  "id": 14183,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "pineapple"
+  ],
+  "score_avg": 16.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "pineapple",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "cherry",
+      "value": 16
+    },
+    {
+      "x": "pineapple",
+      "y": "pineapple",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cherry",
+      "mean": 16.0
+    },
+    {
+      "ingredient": "pineapple",
+      "mean": 16.0
+    }
+  ]
+}

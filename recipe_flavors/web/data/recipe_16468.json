@@ -1,0 +1,162 @@
+{
+  "id": 16468,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "butter",
+    "cheese",
+    "parmesan_cheese",
+    "tarragon",
+    "bread"
+  ],
+  "score_avg": 37.6,
+  "pair_coverage": 0.6,
+  "heatmap": [
+    {
+      "x": "butter",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "cheese",
+      "value": 62
+    },
+    {
+      "x": "butter",
+      "y": "parmesan_cheese",
+      "value": 79
+    },
+    {
+      "x": "butter",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "butter",
+      "y": "bread",
+      "value": 30
+    },
+    {
+      "x": "cheese",
+      "y": "butter",
+      "value": 62
+    },
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "parmesan_cheese",
+      "value": 127
+    },
+    {
+      "x": "cheese",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "bread",
+      "value": 38
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "butter",
+      "value": 79
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "cheese",
+      "value": 127
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "parmesan_cheese",
+      "y": "bread",
+      "value": 40
+    },
+    {
+      "x": "tarragon",
+      "y": "butter",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "parmesan_cheese",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "tarragon",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "butter",
+      "value": 30
+    },
+    {
+      "x": "bread",
+      "y": "cheese",
+      "value": 38
+    },
+    {
+      "x": "bread",
+      "y": "parmesan_cheese",
+      "value": 40
+    },
+    {
+      "x": "bread",
+      "y": "tarragon",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "parmesan_cheese",
+      "mean": 61.5
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 56.75
+    },
+    {
+      "ingredient": "butter",
+      "mean": 42.75
+    },
+    {
+      "ingredient": "bread",
+      "mean": 27.0
+    },
+    {
+      "ingredient": "tarragon",
+      "mean": 0.0
+    }
+  ]
+}

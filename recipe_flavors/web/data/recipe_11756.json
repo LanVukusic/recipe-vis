@@ -1,0 +1,72 @@
+{
+  "id": 11756,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cherry",
+    "cider",
+    "cranberry"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cherry",
+      "y": "cherry",
+      "value": 0
+    },
+    {
+      "x": "cherry",
+      "y": "cider",
+      "value": 15
+    },
+    {
+      "x": "cherry",
+      "y": "cranberry",
+      "value": 20
+    },
+    {
+      "x": "cider",
+      "y": "cherry",
+      "value": 15
+    },
+    {
+      "x": "cider",
+      "y": "cider",
+      "value": 0
+    },
+    {
+      "x": "cider",
+      "y": "cranberry",
+      "value": 22
+    },
+    {
+      "x": "cranberry",
+      "y": "cherry",
+      "value": 20
+    },
+    {
+      "x": "cranberry",
+      "y": "cider",
+      "value": 22
+    },
+    {
+      "x": "cranberry",
+      "y": "cranberry",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cranberry",
+      "mean": 21.0
+    },
+    {
+      "ingredient": "cider",
+      "mean": 18.5
+    },
+    {
+      "ingredient": "cherry",
+      "mean": 17.5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 13481,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "fruit",
+    "peanut_butter",
+    "bread"
+  ],
+  "score_avg": 11.333333333333334,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "fruit",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "fruit",
+      "y": "bread",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "peanut_butter",
+      "value": 0
+    },
+    {
+      "x": "peanut_butter",
+      "y": "bread",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "fruit",
+      "value": 0
+    },
+    {
+      "x": "bread",
+      "y": "peanut_butter",
+      "value": 34
+    },
+    {
+      "x": "bread",
+      "y": "bread",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "peanut_butter",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "bread",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "fruit",
+      "mean": 0.0
+    }
+  ]
+}

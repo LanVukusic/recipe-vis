@@ -1,0 +1,562 @@
+{
+  "id": 10606,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "berry",
+    "lemon",
+    "buttermilk",
+    "strawberry",
+    "blackberry",
+    "raspberry",
+    "lemon_peel",
+    "blueberry",
+    "cream"
+  ],
+  "score_avg": 25.08888888888889,
+  "pair_coverage": 0.9777777777777777,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "berry",
+      "value": 24
+    },
+    {
+      "x": "cheese",
+      "y": "lemon",
+      "value": 22
+    },
+    {
+      "x": "cheese",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cheese",
+      "y": "strawberry",
+      "value": 66
+    },
+    {
+      "x": "cheese",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "cheese",
+      "y": "raspberry",
+      "value": 48
+    },
+    {
+      "x": "cheese",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "cheese",
+      "y": "blueberry",
+      "value": 28
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "berry",
+      "y": "cheese",
+      "value": 24
+    },
+    {
+      "x": "berry",
+      "y": "berry",
+      "value": 0
+    },
+    {
+      "x": "berry",
+      "y": "lemon",
+      "value": 27
+    },
+    {
+      "x": "berry",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "berry",
+      "y": "strawberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "blackberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "raspberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "berry",
+      "y": "blueberry",
+      "value": 52
+    },
+    {
+      "x": "berry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "lemon",
+      "y": "cheese",
+      "value": 22
+    },
+    {
+      "x": "lemon",
+      "y": "berry",
+      "value": 27
+    },
+    {
+      "x": "lemon",
+      "y": "lemon",
+      "value": 0
+    },
+    {
+      "x": "lemon",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "strawberry",
+      "value": 43
+    },
+    {
+      "x": "lemon",
+      "y": "blackberry",
+      "value": 35
+    },
+    {
+      "x": "lemon",
+      "y": "raspberry",
+      "value": 41
+    },
+    {
+      "x": "lemon",
+      "y": "lemon_peel",
+      "value": 2
+    },
+    {
+      "x": "lemon",
+      "y": "blueberry",
+      "value": 32
+    },
+    {
+      "x": "lemon",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "cheese",
+      "value": 6
+    },
+    {
+      "x": "buttermilk",
+      "y": "berry",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "strawberry",
+      "value": 5
+    },
+    {
+      "x": "buttermilk",
+      "y": "blackberry",
+      "value": 3
+    },
+    {
+      "x": "buttermilk",
+      "y": "raspberry",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "buttermilk",
+      "y": "blueberry",
+      "value": 2
+    },
+    {
+      "x": "buttermilk",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "strawberry",
+      "y": "cheese",
+      "value": 66
+    },
+    {
+      "x": "strawberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon",
+      "value": 43
+    },
+    {
+      "x": "strawberry",
+      "y": "buttermilk",
+      "value": 5
+    },
+    {
+      "x": "strawberry",
+      "y": "strawberry",
+      "value": 0
+    },
+    {
+      "x": "strawberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "strawberry",
+      "y": "raspberry",
+      "value": 89
+    },
+    {
+      "x": "strawberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "strawberry",
+      "y": "blueberry",
+      "value": 58
+    },
+    {
+      "x": "strawberry",
+      "y": "cream",
+      "value": 15
+    },
+    {
+      "x": "blackberry",
+      "y": "cheese",
+      "value": 35
+    },
+    {
+      "x": "blackberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon",
+      "value": 35
+    },
+    {
+      "x": "blackberry",
+      "y": "buttermilk",
+      "value": 3
+    },
+    {
+      "x": "blackberry",
+      "y": "strawberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "blackberry",
+      "value": 0
+    },
+    {
+      "x": "blackberry",
+      "y": "raspberry",
+      "value": 72
+    },
+    {
+      "x": "blackberry",
+      "y": "lemon_peel",
+      "value": 3
+    },
+    {
+      "x": "blackberry",
+      "y": "blueberry",
+      "value": 57
+    },
+    {
+      "x": "blackberry",
+      "y": "cream",
+      "value": 8
+    },
+    {
+      "x": "raspberry",
+      "y": "cheese",
+      "value": 48
+    },
+    {
+      "x": "raspberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon",
+      "value": 41
+    },
+    {
+      "x": "raspberry",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "raspberry",
+      "y": "strawberry",
+      "value": 89
+    },
+    {
+      "x": "raspberry",
+      "y": "blackberry",
+      "value": 72
+    },
+    {
+      "x": "raspberry",
+      "y": "raspberry",
+      "value": 0
+    },
+    {
+      "x": "raspberry",
+      "y": "lemon_peel",
+      "value": 5
+    },
+    {
+      "x": "raspberry",
+      "y": "blueberry",
+      "value": 55
+    },
+    {
+      "x": "raspberry",
+      "y": "cream",
+      "value": 11
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cheese",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "berry",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon",
+      "value": 2
+    },
+    {
+      "x": "lemon_peel",
+      "y": "buttermilk",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "strawberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "blackberry",
+      "value": 3
+    },
+    {
+      "x": "lemon_peel",
+      "y": "raspberry",
+      "value": 5
+    },
+    {
+      "x": "lemon_peel",
+      "y": "lemon_peel",
+      "value": 0
+    },
+    {
+      "x": "lemon_peel",
+      "y": "blueberry",
+      "value": 1
+    },
+    {
+      "x": "lemon_peel",
+      "y": "cream",
+      "value": 1
+    },
+    {
+      "x": "blueberry",
+      "y": "cheese",
+      "value": 28
+    },
+    {
+      "x": "blueberry",
+      "y": "berry",
+      "value": 52
+    },
+    {
+      "x": "blueberry",
+      "y": "lemon",
+      "value": 32
+    },
+    {
+      "x": "blueberry",
+      "y": "buttermilk",
+      "value": 2
+    },
+    {
+      "x": "blueberry",
+      "y": "strawberry",
+      "value": 58
+    },
+    {
+      "x": "blueberry",
+      "y": "blackberry",
+      "value": 57
+    },
+    {
+      "x": "blueberry",
+      "y": "raspberry",
+      "value": 55
+    },
+    {
+      "x": "blueberry",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "blueberry",
+      "y": "blueberry",
+      "value": 0
+    },
+    {
+      "x": "blueberry",
+      "y": "cream",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "berry",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "lemon",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "buttermilk",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "strawberry",
+      "value": 15
+    },
+    {
+      "x": "cream",
+      "y": "blackberry",
+      "value": 8
+    },
+    {
+      "x": "cream",
+      "y": "raspberry",
+      "value": 11
+    },
+    {
+      "x": "cream",
+      "y": "lemon_peel",
+      "value": 1
+    },
+    {
+      "x": "cream",
+      "y": "blueberry",
+      "value": 5
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "strawberry",
+      "mean": 44.77777777777778
+    },
+    {
+      "ingredient": "raspberry",
+      "mean": 41.666666666666664
+    },
+    {
+      "ingredient": "blackberry",
+      "mean": 37.44444444444444
+    },
+    {
+      "ingredient": "blueberry",
+      "mean": 32.22222222222222
+    },
+    {
+      "ingredient": "berry",
+      "mean": 29.666666666666668
+    },
+    {
+      "ingredient": "cheese",
+      "mean": 28.11111111111111
+    },
+    {
+      "ingredient": "lemon",
+      "mean": 23.22222222222222
+    },
+    {
+      "ingredient": "cream",
+      "mean": 8.777777777777779
+    },
+    {
+      "ingredient": "buttermilk",
+      "mean": 3.111111111111111
+    },
+    {
+      "ingredient": "lemon_peel",
+      "mean": 1.8888888888888888
+    }
+  ]
+}

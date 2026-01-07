@@ -1,0 +1,72 @@
+{
+  "id": 45749,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "peach",
+    "cream_cheese",
+    "cream"
+  ],
+  "score_avg": 19.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "peach",
+      "y": "peach",
+      "value": 0
+    },
+    {
+      "x": "peach",
+      "y": "cream_cheese",
+      "value": 28
+    },
+    {
+      "x": "peach",
+      "y": "cream",
+      "value": 6
+    },
+    {
+      "x": "cream_cheese",
+      "y": "peach",
+      "value": 28
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream_cheese",
+      "value": 0
+    },
+    {
+      "x": "cream_cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "peach",
+      "value": 6
+    },
+    {
+      "x": "cream",
+      "y": "cream_cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cream_cheese",
+      "mean": 25.5
+    },
+    {
+      "ingredient": "peach",
+      "mean": 17.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 14.5
+    }
+  ]
+}

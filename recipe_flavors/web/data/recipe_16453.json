@@ -1,0 +1,112 @@
+{
+  "id": 16453,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "macaroni",
+    "garlic",
+    "bell_pepper",
+    "beef"
+  ],
+  "score_avg": 5.833333333333333,
+  "pair_coverage": 0.6666666666666666,
+  "heatmap": [
+    {
+      "x": "macaroni",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "macaroni",
+      "y": "beef",
+      "value": 4
+    },
+    {
+      "x": "garlic",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "garlic",
+      "value": 0
+    },
+    {
+      "x": "garlic",
+      "y": "bell_pepper",
+      "value": 2
+    },
+    {
+      "x": "garlic",
+      "y": "beef",
+      "value": 9
+    },
+    {
+      "x": "bell_pepper",
+      "y": "macaroni",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "garlic",
+      "value": 2
+    },
+    {
+      "x": "bell_pepper",
+      "y": "bell_pepper",
+      "value": 0
+    },
+    {
+      "x": "bell_pepper",
+      "y": "beef",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "macaroni",
+      "value": 4
+    },
+    {
+      "x": "beef",
+      "y": "garlic",
+      "value": 9
+    },
+    {
+      "x": "beef",
+      "y": "bell_pepper",
+      "value": 20
+    },
+    {
+      "x": "beef",
+      "y": "beef",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "beef",
+      "mean": 11.0
+    },
+    {
+      "ingredient": "bell_pepper",
+      "mean": 7.333333333333333
+    },
+    {
+      "ingredient": "garlic",
+      "mean": 3.6666666666666665
+    },
+    {
+      "ingredient": "macaroni",
+      "mean": 1.3333333333333333
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 32126,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "horseradish",
+    "tabasco_pepper",
+    "oyster"
+  ],
+  "score_avg": 0.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "horseradish",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "horseradish",
+      "y": "oyster",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "tabasco_pepper",
+      "value": 0
+    },
+    {
+      "x": "tabasco_pepper",
+      "y": "oyster",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "horseradish",
+      "value": 0
+    },
+    {
+      "x": "oyster",
+      "y": "tabasco_pepper",
+      "value": 1
+    },
+    {
+      "x": "oyster",
+      "y": "oyster",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "tabasco_pepper",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "oyster",
+      "mean": 0.5
+    },
+    {
+      "ingredient": "horseradish",
+      "mean": 0.0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": 1652,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable",
+    "vegetable_oil",
+    "soy_sauce",
+    "cayenne",
+    "soybean"
+  ],
+  "score_avg": 1.3,
+  "pair_coverage": 0.5,
+  "heatmap": [
+    {
+      "x": "vegetable",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "vegetable_oil",
+      "value": 2
+    },
+    {
+      "x": "vegetable",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable",
+      "value": 2
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "soy_sauce",
+      "y": "soybean",
+      "value": 1
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "soy_sauce",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "cayenne",
+      "value": 0
+    },
+    {
+      "x": "cayenne",
+      "y": "soybean",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "vegetable_oil",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "soy_sauce",
+      "value": 1
+    },
+    {
+      "x": "soybean",
+      "y": "cayenne",
+      "value": 8
+    },
+    {
+      "x": "soybean",
+      "y": "soybean",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "soybean",
+      "mean": 2.75
+    },
+    {
+      "ingredient": "cayenne",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.75
+    },
+    {
+      "ingredient": "soy_sauce",
+      "mean": 0.25
+    }
+  ]
+}

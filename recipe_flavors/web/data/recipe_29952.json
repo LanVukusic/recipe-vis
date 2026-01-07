@@ -1,0 +1,72 @@
+{
+  "id": 29952,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "cheese",
+    "onion",
+    "cream"
+  ],
+  "score_avg": 15.666666666666666,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "cheese",
+      "y": "cheese",
+      "value": 0
+    },
+    {
+      "x": "cheese",
+      "y": "onion",
+      "value": 17
+    },
+    {
+      "x": "cheese",
+      "y": "cream",
+      "value": 23
+    },
+    {
+      "x": "onion",
+      "y": "cheese",
+      "value": 17
+    },
+    {
+      "x": "onion",
+      "y": "onion",
+      "value": 0
+    },
+    {
+      "x": "onion",
+      "y": "cream",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cheese",
+      "value": 23
+    },
+    {
+      "x": "cream",
+      "y": "onion",
+      "value": 7
+    },
+    {
+      "x": "cream",
+      "y": "cream",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "cheese",
+      "mean": 20.0
+    },
+    {
+      "ingredient": "cream",
+      "mean": 15.0
+    },
+    {
+      "ingredient": "onion",
+      "mean": 12.0
+    }
+  ]
+}

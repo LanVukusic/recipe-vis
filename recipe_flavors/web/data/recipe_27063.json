@@ -1,0 +1,72 @@
+{
+  "id": 27063,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "coconut",
+    "egg",
+    "corn_flake"
+  ],
+  "score_avg": 3.0,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "coconut",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "coconut",
+      "y": "egg",
+      "value": 9
+    },
+    {
+      "x": "coconut",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "coconut",
+      "value": 9
+    },
+    {
+      "x": "egg",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "egg",
+      "y": "corn_flake",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "coconut",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "egg",
+      "value": 0
+    },
+    {
+      "x": "corn_flake",
+      "y": "corn_flake",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "coconut",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "egg",
+      "mean": 4.5
+    },
+    {
+      "ingredient": "corn_flake",
+      "mean": 0.0
+    }
+  ]
+}

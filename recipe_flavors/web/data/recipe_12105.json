@@ -1,0 +1,42 @@
+{
+  "id": 12105,
+  "cuisine": "NorthAmerican",
+  "ingredients": [
+    "corn_grit",
+    "mozzarella_cheese"
+  ],
+  "score_avg": 1.0,
+  "pair_coverage": 1.0,
+  "heatmap": [
+    {
+      "x": "corn_grit",
+      "y": "corn_grit",
+      "value": 0
+    },
+    {
+      "x": "corn_grit",
+      "y": "mozzarella_cheese",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "corn_grit",
+      "value": 1
+    },
+    {
+      "x": "mozzarella_cheese",
+      "y": "mozzarella_cheese",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "corn_grit",
+      "mean": 1.0
+    },
+    {
+      "ingredient": "mozzarella_cheese",
+      "mean": 1.0
+    }
+  ]
+}

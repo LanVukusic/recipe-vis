@@ -1,0 +1,72 @@
+{
+  "id": 1844,
+  "cuisine": "EastAsian",
+  "ingredients": [
+    "vegetable_oil",
+    "nut",
+    "rice"
+  ],
+  "score_avg": 1.3333333333333333,
+  "pair_coverage": 0.3333333333333333,
+  "heatmap": [
+    {
+      "x": "vegetable_oil",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "vegetable_oil",
+      "y": "rice",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "nut",
+      "value": 0
+    },
+    {
+      "x": "nut",
+      "y": "rice",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "vegetable_oil",
+      "value": 0
+    },
+    {
+      "x": "rice",
+      "y": "nut",
+      "value": 4
+    },
+    {
+      "x": "rice",
+      "y": "rice",
+      "value": 0
+    }
+  ],
+  "contributions": [
+    {
+      "ingredient": "nut",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "rice",
+      "mean": 2.0
+    },
+    {
+      "ingredient": "vegetable_oil",
+      "mean": 0.0
+    }
+  ]
+}
