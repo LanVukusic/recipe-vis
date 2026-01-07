@@ -109,7 +109,7 @@ export function constructRecipeGraph(
   const nodes: GraphNode[] = Array.from(nodeMap.values()); // Convert map values to array
   const edgeMap: Map<string, GraphEdge> = new Map();
 
-  console.log({ ingredientRecipeMap });
+  // console.log({ ingredientRecipeMap });
 
   // connect weighted edges
   ingredientRecipeMap.forEach((recipeNodes, ingredientName) => {
@@ -137,7 +137,7 @@ export function constructRecipeGraph(
     }
   });
   const edges: GraphEdge[] = Array.from(edgeMap.values());
-  console.log({ nodes });
+  // console.log({ nodes });
 
   for (const n of nodes) {
     if (n.siblings.length == 0) {
@@ -249,7 +249,7 @@ export function randomWalkWithRestarts(
     }
   }
 
-  console.log("random walk", graph);
+  // console.log("random walk", graph);
 
   return graph;
 }

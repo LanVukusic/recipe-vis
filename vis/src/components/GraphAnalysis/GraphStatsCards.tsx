@@ -17,7 +17,9 @@ const GraphStatsCardsComponent = ({ stats }: GraphStatsCardsProps) => {
           <span className="font-bold text-zinc-500 text-sm">
             {data.title.toUpperCase()}
           </span>
-          <span className="text-yellow-400 text-xl">{data.value}</span>
+          <span className="text-yellow-400 text-xl">
+            {data.value.toPrecision(4)}
+          </span>
         </div>
       ))}
     </div>

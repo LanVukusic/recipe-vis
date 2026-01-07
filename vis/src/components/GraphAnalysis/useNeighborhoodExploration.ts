@@ -4,8 +4,6 @@ import {
   type GraphNode,
   type GraphEdge,
   constructRecipeGraph,
-  randomWalkWithRestarts,
-  sampleConnectedSubgraph,
   type CustomGraph,
 } from "./graphHelpers";
 import type { FreqMap } from "../../App";
@@ -14,56 +12,20 @@ export interface ExplorationState {
   finalSubgraph: { nodes: GraphNode[]; edges: GraphEdge[] } | null;
   isExploring: boolean;
   error: string | null;
+  progress: number | null;
+  currentStep: number | null;
+  totalSteps: number | null;
 }
 
-/**
- * Creates a lightweight copy of the graph for random walks
- * Only copies essential data and resets visit counts
- */
+// Keep the lightweight copy function
 function createLightweightGraphCopy(originalGraph: CustomGraph): CustomGraph {
-  // Create node map for quick lookup
-  const nodeMap = new Map<string, GraphNode>();
-
-  // Create minimal node copies with reset visit counts
-  const nodes = originalGraph.nodes.map((node) => {
-    const newNode: GraphNode = {
-      id: node.id,
-      recipe: node.recipe,
-      visitedCount: 0, // Reset for each walk
-      siblings: [], // Will rebuild references
-    };
-    nodeMap.set(node.id, newNode);
-    return newNode;
-  });
-
-  // Create edge copies with proper node references
-  const edges = originalGraph.edges.map((edge) => {
-    const sourceNode = nodeMap.get(edge.source);
-    const targetNode = nodeMap.get(edge.target);
-
-    if (!sourceNode || !targetNode) {
-      throw new Error(`Node not found for edge ${edge.id}`);
-    }
-
-    const newEdge: GraphEdge = {
-      id: edge.id,
-      ingredient: { ...edge.ingredient },
-      source: edge.source,
-      sourceNode: sourceNode,
-      target: edge.target,
-      targetNode: targetNode,
-    };
-
-    // Add edge to both nodes' siblings
-    sourceNode.siblings.push(newEdge);
-    targetNode.siblings.push(newEdge);
-
-    return newEdge;
-  });
-
   return {
-    nodes,
-    edges,
+    nodes: originalGraph.nodes.map((node) => ({
+      ...node,
+      visitedCount: 0,
+      siblings: [...node.siblings],
+    })),
+    edges: [...originalGraph.edges],
   };
 }
 
@@ -71,42 +33,35 @@ export const useNeighborhoodExploration = (
   ingredientFrequencies: FreqMap,
   recipes: Recipe[]
 ) => {
-  // USE REF FOR LARGE GRAPH OBJECT - doesn't trigger re-renders
   const graphRef = useRef<CustomGraph | null>(null);
+  const workerRef = useRef<Worker | null>(null);
+  const isMountedRef = useRef(true);
 
-  // STATE ONLY FOR UI-RELATED DATA
   const [explorationState, setExplorationState] = useState<ExplorationState>({
     finalSubgraph: null,
     isExploring: false,
     error: null,
+    progress: null,
+    currentStep: null,
+    totalSteps: null,
   });
 
-  // Memoize ingredientFrequencies to prevent unnecessary rebuilds
   const memoizedFrequencies = useMemo(
     () => ingredientFrequencies,
     [ingredientFrequencies]
   );
 
-  // Build the graph from recipes - store in ref, not state
   const buildGraph = useCallback(
     (recipes: Recipe[]) => {
       try {
-        console.log("BG", { ingredientFrequencies: memoizedFrequencies });
-
         const graph = constructRecipeGraph(recipes, memoizedFrequencies);
-        console.log("created graph: ", graph);
-
-        // ✅ Store in ref instead of state
         graphRef.current = graph;
-
         setExplorationState((prev) => ({
           ...prev,
           error: null,
         }));
         return graph;
       } catch (error) {
-        console.log({ error });
-
         setExplorationState((prev) => ({
           ...prev,
           error: "Failed to build graph: " + (error as Error).message,
@@ -117,94 +72,213 @@ export const useNeighborhoodExploration = (
     [memoizedFrequencies]
   );
 
-  // Build graph when recipes change
   useEffect(() => {
-    if (recipes.length === 0) {
+    if (!recipes) {
       return;
     }
+    buildGraph(recipes);
+  }, [buildGraph, recipes]);
 
-    // ✅ Debounce rapid recipe changes
-    const timeoutId = setTimeout(() => {
-      buildGraph(recipes);
-    }, 300);
+  // Initialize the worker with proper error handling
+  useEffect(() => {
+    isMountedRef.current = true;
 
-    return () => clearTimeout(timeoutId);
-  }, [recipes, buildGraph]);
+    // Create worker only once
+    if (!workerRef.current) {
+      try {
+        console.log("Initializing worker...");
+        // Use dynamic import for better TypeScript support
+        const worker = new Worker(
+          new URL("/workers/randomWalker.ts", import.meta.url),
+          {
+            type: "module",
+          }
+        );
+        workerRef.current = worker;
 
-  // Start exploration from a specific recipe
+        // Set up message handler
+        worker.onmessage = (event) => {
+          const {
+            type,
+            data,
+            result,
+            progress,
+            currentStep,
+            totalSteps,
+            error,
+          } = event.data;
+
+          if (!isMountedRef.current) return;
+
+          switch (type) {
+            case "PROGRESS":
+              setExplorationState((prev) => ({
+                ...prev,
+                progress: progress || prev.progress,
+                currentStep: currentStep || prev.currentStep,
+                totalSteps: totalSteps || prev.totalSteps,
+              }));
+              break;
+
+            case "COMPLETE":
+              setExplorationState((prev) => ({
+                ...prev,
+                finalSubgraph: result,
+                isExploring: false,
+                progress: 100,
+                currentStep: totalSteps,
+                totalSteps: totalSteps,
+              }));
+              console.log("Exploration completed successfully");
+              break;
+
+            case "ERROR":
+              setExplorationState((prev) => ({
+                ...prev,
+                isExploring: false,
+                error: `Worker error: ${error}`,
+                progress: null,
+                currentStep: null,
+                totalSteps: null,
+              }));
+              console.error("Worker reported error:", error);
+              break;
+
+            case "ECHO":
+              console.log("Worker echo response:", data);
+              break;
+          }
+        };
+
+        // Set up error handler
+        worker.onerror = (error) => {
+          if (!isMountedRef.current) return;
+
+          console.error("Worker error:", error);
+          setExplorationState((prev) => ({
+            ...prev,
+            isExploring: false,
+            error: `Worker initialization error: ${error.message}`,
+            progress: null,
+            currentStep: null,
+            totalSteps: null,
+          }));
+        };
+
+        // Send initialization message
+        worker.postMessage({
+          type: "ECHO",
+          payload: { data: "Worker is ready!" },
+        });
+      } catch (error) {
+        console.error("Failed to initialize worker:", error);
+        setExplorationState((prev) => ({
+          ...prev,
+          error: `Failed to initialize worker: ${(error as Error).message}`,
+        }));
+      }
+    }
+
+    // Cleanup function
+    return () => {
+      console.log("Cleaning up worker...");
+      isMountedRef.current = false;
+
+      if (workerRef.current) {
+        workerRef.current.terminate();
+        workerRef.current = null;
+      }
+    };
+  }, []);
+
+  // Start exploration with proper worker communication
   const startExploration = useCallback(
     async (
-      recipes: Recipe[],
       startingRecipes: Recipe[],
       restartProbability: number,
       maxSteps: number,
       minVisits: number,
       useFilteredGraph: boolean
     ) => {
-      if (!graphRef.current) {
-        console.log("no graph. exiting");
+      if (!graphRef.current || !workerRef.current) {
+        console.error("No graph or worker available");
+        setExplorationState((prev) => ({
+          ...prev,
+          error:
+            "Graph or worker not available. Please wait for initialization.",
+          isExploring: false,
+        }));
         return;
       }
-
-      if (useFilteredGraph) {
-        console.log("using only filtered recipes");
-      }
-
-      console.log(`starting with ${recipes.length} recipes`);
 
       setExplorationState((prev) => ({
         ...prev,
         isExploring: true,
-        error: null, // Clear previous errors
+        error: null,
+        finalSubgraph: null,
+        progress: 0,
+        currentStep: 0,
+        totalSteps: maxSteps,
       }));
 
       try {
-        console.log("starting random walk");
-
-        // ✅ Use lightweight copy instead of structuredClone
         const graphCopy = createLightweightGraphCopy(graphRef.current);
 
-        // Perform the complete random walk
-        const walkResult = randomWalkWithRestarts(
-          graphCopy,
-          startingRecipes.map((recipe) => recipe.index.toString()),
+        // Prepare payload for worker (only send serializable data)
+        const payload = {
+          graph: {
+            nodes: graphCopy.nodes.map((n) => ({
+              id: n.id,
+              recipe: n.recipe,
+              visitedCount: n.visitedCount,
+            })),
+            edges: graphCopy.edges.map((e) => ({
+              id: e.id,
+              source: e.source,
+              target: e.target,
+              ingredient: e.ingredient,
+            })),
+          },
+          startNodeIds: startingRecipes.map((r) => r.index.toString()),
           restartProbability,
           maxSteps,
-          useFilteredGraph
-        );
+          minVisits,
+          useFilteredGraph,
+        };
 
-        console.log({ walkResult });
-
-        // Get the final subgraph
-        const finalSubgraph = sampleConnectedSubgraph(walkResult, minVisits);
-
-        setExplorationState((prev) => ({
-          ...prev,
-          isExploring: false,
-          finalSubgraph,
-        }));
+        console.log("Sending random walk request to worker...");
+        workerRef.current.postMessage({
+          type: "RANDOM_WALK",
+          payload,
+        });
       } catch (error) {
         console.error("Exploration error:", error);
-        setExplorationState((prev) => ({
-          ...prev,
-          isExploring: false,
-          error: "Exploration failed: " + (error as Error).message,
-        }));
+        if (isMountedRef.current) {
+          setExplorationState((prev) => ({
+            ...prev,
+            isExploring: false,
+            error: "Exploration failed: " + (error as Error).message,
+            progress: null,
+            currentStep: null,
+            totalSteps: null,
+          }));
+        }
       }
     },
-    [] // ✅ Empty dependency array - graphRef doesn't change reference
+    []
   );
 
-  // Reset exploration
   const resetExploration = useCallback(() => {
     setExplorationState({
       finalSubgraph: null,
       isExploring: false,
       error: null,
+      progress: null,
+      currentStep: null,
+      totalSteps: null,
     });
   }, []);
 
-  // ✅ Expose graph for debugging/other purposes if needed
   const getGraph = useCallback(() => {
     return graphRef.current;
   }, []);
@@ -214,6 +288,6 @@ export const useNeighborhoodExploration = (
     buildGraph,
     startExploration,
     resetExploration,
-    getGraph, // Optional: for external access to the graph
+    getGraph,
   };
 };

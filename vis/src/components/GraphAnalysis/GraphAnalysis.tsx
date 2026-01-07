@@ -23,26 +23,21 @@ interface graphAnalysisData {
 }
 
 const graphAnalysisStats: graphAnalysisData[] = [
-  {
-    title: "Node count",
-    value: 50000,
-  },
-  {
-    title: "Edge count",
-    value: 500,
-  },
-  {
-    title: "Betweeness",
-    value: 153.4,
-  },
-  {
-    title: "Average node degree",
-    value: 153.4,
-  },
-  {
-    title: "Hubbing",
-    value: 15.4,
-  },
+  { title: "Node Count", value: 1000 },
+  { title: "Edge Count", value: 228233 },
+  { title: "Average Node Degree", value: 456.466 },
+  { title: "Density", value: 0.4569229229229229 },
+  { title: "Connected Components Count", value: 2 },
+  { title: "Largest Component Size", value: 999 },
+  { title: "Average Clustering Coefficient", value: 0.7427057317683866 },
+  { title: "Max Degree Centrality", value: 0.8098098098098098 },
+  { title: "Avg Degree Centrality", value: 0.4569229229229229 },
+  { title: "Max Betweenness Centrality", value: 0.004345996739948956 },
+  { title: "Avg Betweenness Centrality", value: 0.0005568332423485893 },
+  { title: "Diameter", value: 4 },
+  { title: "Radius", value: 2 },
+  { title: "Total Unique Ingredients", value: 897 },
+  { title: "Total Ingredients", value: 7308 },
 ];
 
 const GraphAnalysisComponent = ({ freqMap }: { freqMap: FreqMap }) => {
@@ -121,7 +116,6 @@ const GraphAnalysisComponent = ({ freqMap }: { freqMap: FreqMap }) => {
       setError(null);
 
       await startExploration(
-        data,
         selected,
         restartChance,
         numIterations,
@@ -207,7 +201,7 @@ const GraphAnalysisComponent = ({ freqMap }: { freqMap: FreqMap }) => {
       <div className="p-4 max-w-prose text-sm text-gray-300 font-light opacity-80">
         Graph analysis scripts are taken and adapted from course materials of{" "}
         <a
-          href="https://github.com/lovro/NetworkAnalysis"
+          href="https://github.com/lovre/www/tree/master/ina"
           target="_blank"
           rel="noopener noreferrer"
           className="text-yellow-300 underline hover:text-yellow-200 transition-colors"

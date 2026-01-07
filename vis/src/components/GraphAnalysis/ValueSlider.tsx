@@ -94,7 +94,7 @@ const ValueSliderComponent = ({
   const percent = ((value - min) / (max - min)) * 100;
 
   return (
-    <div className="">
+    <div className="flex flex-col gap-0.5">
       <span className="text-sm">{label}</span>
       {tooltip && <span className="text-xs opacity-50">{tooltip}</span>}
       <div
