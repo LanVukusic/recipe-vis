@@ -152,14 +152,15 @@ export default function FlavourComponent() {
       const top = topSuggestedAdditions(neighborMap, editedIngredientsA, 10);
 
       if (top.length === 0) {
-        box.innerHTML = `<span class="small">No suggestions (try adding more base ingredients).</span>`;
+        box.innerHTML = `<span class="text-sm text-zinc-300">No suggestions (try adding more base ingredients).</span>`;
         return;
       }
 
       for (const item of top) {
         const btn = document.createElement("button");
         btn.type = "button";
-        btn.className = "suggest-btn";
+        btn.className =
+          "px-3 py-1 rounded-full  bg-zinc-800 text-sm hover:bg-yellow-50";
         btn.textContent = `${item.ingredient} (${item.avg.toFixed(1)})`;
         btn.title = `Avg compatibility: ${item.avg.toFixed(
           2
@@ -182,7 +183,8 @@ export default function FlavourComponent() {
       chips.innerHTML = "";
       for (const ing of editedIngredientsA) {
         const el = document.createElement("div");
-        el.className = "chip";
+        el.className =
+          "inline-flex gap-2 items-center px-3 py-1  rounded-full bg-zinc-800 text-sm";
         el.innerHTML = `<span>${ing}</span><button title="Remove">×</button>`;
         el.querySelector("button")!.addEventListener("click", () => {
           editedIngredientsA = editedIngredientsA!.filter((x) => x !== ing);
@@ -211,7 +213,7 @@ export default function FlavourComponent() {
       }${dScore.toFixed(2)} vs original) |
     <b>Edited coverage:</b> ${(coverage * 100).toFixed(1)}%
     <br/>
-    <span class="small">If an ingredient has no links in the network, it contributes ~0.</span>
+      <span class="text-sm text-zinc-300">If an ingredient has no links in the network, it contributes ~0.</span>
   `;
 
       renderChipsA();
@@ -426,95 +428,131 @@ export default function FlavourComponent() {
   }, []);
 
   return (
-    <div>
-      <h1>Recipe Compatibility Explorer</h1>
+    <div className="p-6 font-sans  min-h-screen text-zinc-300">
+      <h1 className="text-2xl font-semibold mb-4 bg-yellow-400 py-6 w-fit px-16 -ml-6 text-zinc-800 mt-16">
+        Recipe Compatibility Explorer
+      </h1>
 
-      <div className="card">
-        <div className="controls">
+      <div className="pt-16"></div>
+
+      <div className="bg-zinc-800   rounded-lg p-4 shadow-sm ">
+        <div className="flex gap-3 flex-wrap items-end">
           <div>
-            <label htmlFor="cuisineSelectA">Cuisine (A)</label>
+            <label htmlFor="cuisineSelectA" className="font-semibold">
+              Cuisine (A)
+            </label>
             <br />
-            <select id="cuisineSelectA"></select>
+            <select
+              id="cuisineSelectA"
+              className="mt-1  rounded px-2 py-1"
+            ></select>
           </div>
 
           <div>
-            <label htmlFor="searchInputA">Search (A)</label>
+            <label htmlFor="searchInputA" className="font-semibold">
+              Search (A)
+            </label>
             <br />
-            <input id="searchInputA" placeholder="e.g., chicken garlic" />
-            <div className="small">
+            <input
+              id="searchInputA"
+              placeholder="e.g., chicken garlic"
+              className="mt-1  rounded px-2 py-1"
+            />
+            <div className="text-sm text-zinc-300">
               Matches recipe preview text (first ingredients).
             </div>
           </div>
 
-          <div style={{ flex: 1 }}>
-            <label htmlFor="recipeSelectA">Recipe (A)</label>
+          <div className="flex-1">
+            <label htmlFor="recipeSelectA" className="font-semibold">
+              Recipe (A)
+            </label>
             <br />
             <select
               id="recipeSelectA"
-              style={{ width: "100%", minWidth: 320 }}
+              className="mt-1 w-full  rounded px-2 py-1"
             ></select>
           </div>
 
-          <div style={{ display: "flex", gap: 8 }}>
-            <button id="compareBtn">Compare</button>
-            <button id="closeCompareBtn" className="hidden">
+          <div className="flex gap-2">
+            <button
+              id="compareBtn"
+              className="px-3 py-1 bg-zinc-700 cursor-pointer "
+            >
+              Compare
+            </button>
+            <button
+              id="closeCompareBtn"
+              className="hidden px-3 py-1 bg-zinc-800  rounded "
+            >
               Close comparison
             </button>
           </div>
         </div>
 
-        <div id="delta" className="delta hidden"></div>
+        <div id="delta" className="mt-3 text-lg hidden "></div>
       </div>
 
-      <div className="card" style={{ marginTop: 16 }}>
-        <h2>Recipe A</h2>
-        <div id="metaA" className="meta"></div>
+      <div className="mt-4 bg-zinc-800   rounded-lg p-4 shadow-sm">
+        <h2 className="text-xl font-semibold">Recipe A</h2>
+        <div id="metaA" className="mt-2 text-sm text-zinc-300"></div>
 
-        <hr style={{ margin: "12px 0" }} />
+        <hr className="my-3" />
 
-        <div className="card" style={{ border: "1px dashed #ccc" }}>
-          <h3>Edit ingredients (what-if)</h3>
-          <div id="editInfoA" className="small"></div>
+        <div className="bg-zinc-800  -dashed rounded-md p-3">
+          <h3 className="font-semibold">Edit ingredients (what-if)</h3>
+          <div id="editInfoA" className="text-sm text-zinc-300"></div>
 
-          <div
-            id="chipsA"
-            style={{
-              display: "flex",
-              flexWrap: "wrap",
-              gap: 8,
-              margin: "10px 0",
-            }}
-          ></div>
+          <div id="chipsA" className="flex flex-wrap gap-2 my-2"></div>
 
-          <div className="controls" style={{ alignItems: "center" }}>
-            <div style={{ flex: 1 }}>
-              <label htmlFor="addIngA">Add ingredient</label>
+          <div className="flex items-center gap-3">
+            <div className="flex-1">
+              <label htmlFor="addIngA" className="font-semibold">
+                Add ingredient
+              </label>
               <br />
               <input
                 id="addIngA"
                 placeholder="e.g., black_pepper (spaces become _ )"
-                style={{ width: "100%" }}
+                className="mt-1 w-full  rounded px-2 py-1 border-b border-yellow-400"
               />
-              <div className="small">
-                Tip: use tokens like <code>lemon_juice</code>,{" "}
-                <code>black_pepper</code>.
+              <div className="text-sm text-zinc-300 pt-2">
+                Tip: use tokens like{" "}
+                <code className="bg-zinc-700 text-zinc-200 rounded px-1">
+                  lemon_juice
+                </code>
+                ,{" "}
+                <code className="bg-zinc-700 text-zinc-200 rounded px-1">
+                  black_pepper
+                </code>
+                .
               </div>
             </div>
 
-            <div style={{ display: "flex", gap: 8 }}>
-              <button id="addBtnA">Add</button>
-              <button id="resetBtnA">Reset</button>
+            <div className="flex gap-2">
+              <button
+                id="addBtnA"
+                className="px-3 py-1 bg-zinc-700 cursor-pointer "
+              >
+                Add
+              </button>
+              <button
+                id="resetBtnA"
+                className="px-3 py-1 bg-zinc-700 cursor-pointer "
+              >
+                Reset
+              </button>
             </div>
           </div>
         </div>
 
-        <div className="charts" style={{ marginTop: 14 }}>
+        <div className="grid md:grid-cols-2 gap-4 mt-3">
           <div>
-            <h3>Heatmap</h3>
+            <h3 className="font-semibold">Heatmap</h3>
             <div id="heatmapA"></div>
           </div>
           <div>
-            <h3>Contributions</h3>
+            <h3 className="font-semibold">Contributions</h3>
             <div id="barsA"></div>
           </div>
         </div>
@@ -522,46 +560,58 @@ export default function FlavourComponent() {
 
       <div
         id="compareSection"
-        className="card hidden"
-        style={{ marginTop: 16 }}
+        className="mt-4 bg-zinc-800   rounded-lg p-4 shadow-sm hidden"
       >
-        <h2>Recipe B (comparison)</h2>
+        <h2 className="text-xl font-semibold">Recipe B (comparison)</h2>
 
-        <div className="controls" style={{ marginBottom: 10 }}>
+        <div className="flex gap-3 items-end mb-2">
           <div>
-            <label htmlFor="cuisineSelectB">Cuisine (B)</label>
+            <label htmlFor="cuisineSelectB" className="font-semibold">
+              Cuisine (B)
+            </label>
             <br />
-            <select id="cuisineSelectB"></select>
+            <select
+              id="cuisineSelectB"
+              className="mt-1  rounded px-2 py-1"
+            ></select>
           </div>
 
           <div>
-            <label htmlFor="searchInputB">Search (B)</label>
+            <label htmlFor="searchInputB" className="font-semibold">
+              Search (B)
+            </label>
             <br />
-            <input id="searchInputB" placeholder="e.g., beef onion" />
-            <div className="small">
+            <input
+              id="searchInputB"
+              placeholder="e.g., beef onion"
+              className="mt-1  rounded px-2 py-1"
+            />
+            <div className="text-sm text-zinc-300">
               Matches recipe preview text (first ingredients).
             </div>
           </div>
 
-          <div style={{ flex: 1 }}>
-            <label htmlFor="recipeSelectB">Recipe (B)</label>
+          <div className="flex-1">
+            <label htmlFor="recipeSelectB" className="font-semibold">
+              Recipe (B)
+            </label>
             <br />
             <select
               id="recipeSelectB"
-              style={{ width: "100%", minWidth: 320 }}
+              className="mt-1 w-full  rounded px-2 py-1"
             ></select>
           </div>
         </div>
 
-        <div id="metaB" className="meta"></div>
+        <div id="metaB" className="mt-2 text-sm text-gray-700"></div>
 
-        <div className="charts" style={{ marginTop: 14 }}>
+        <div className="grid md:grid-cols-2 gap-4 mt-3">
           <div>
-            <h3>Heatmap</h3>
+            <h3 className="font-semibold">Heatmap</h3>
             <div id="heatmapB"></div>
           </div>
           <div>
-            <h3>Contributions</h3>
+            <h3 className="font-semibold">Contributions</h3>
             <div id="barsB"></div>
           </div>
         </div>

@@ -20,23 +20,29 @@ function App() {
     <div className="w-full border-t-3 border-yellow-300 ">
       <Header />
 
-      <div className="p-2 flex gap-2">
-        <button
-          onClick={() => setMode("flavour")}
-          className={`px-3 py-1 rounded ${
-            mode === "flavour" ? "bg-yellow-400" : "bg-white"
-          }`}
-        >
-          Flavour UI
-        </button>
-        <button
-          onClick={() => setMode("graph")}
-          className={`px-3 py-1 rounded ${
-            mode === "graph" ? "bg-yellow-400" : "bg-white"
-          }`}
-        >
-          Graph Analysis
-        </button>
+      <div className="flex flex-col gap-4 justify-center items-center">
+        <div className="p-2 flex gap-6 pt-8  w-fit text-2xl">
+          <button
+            onClick={() => setMode("flavour")}
+            className={`px-6 py-2 cursor-pointer  ${
+              mode === "flavour" ? "bg-yellow-400" : "bg-zinc-700"
+            } ${mode === "graph" ? "text-yellow-400" : "text-zinc-800"}`}
+          >
+            Flavour compatibility
+          </button>
+          <button
+            onClick={() => setMode("graph")}
+            className={`px-6 py-2 cursor-pointer  ${
+              mode === "graph" ? "bg-yellow-400" : "bg-zinc-700"
+            } ${mode === "flavour" ? "text-yellow-400" : "text-zinc-800"}`}
+          >
+            Graph Analysis
+          </button>
+        </div>
+        <p className="text-center text-zinc-500 max-w-prose">
+          Explore recipe flavour compatibility or switch to graph based recipe
+          exploration
+        </p>
       </div>
 
       {mode === "flavour" && <FlavourComponent />}

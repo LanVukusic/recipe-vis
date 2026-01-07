@@ -8,6 +8,13 @@ export function heatmapSpec(values: any[]) {
     height: 420,
     data: { values },
     mark: "rect",
+    config: {
+      background: "transparent",
+      view: { stroke: "transparent" },
+      axis: { labelColor: "#ffffff", titleColor: "#ffffff" },
+      legend: { labelColor: "#ffffff", titleColor: "#ffffff" },
+      title: { color: "#ffffff" },
+    },
     encoding: {
       x: { field: "x", type: "nominal", sort: null, title: "Ingredient" },
       y: { field: "y", type: "nominal", sort: null, title: "Ingredient" },
@@ -15,6 +22,7 @@ export function heatmapSpec(values: any[]) {
         field: "value",
         type: "quantitative",
         title: "Shared compounds",
+        scale: { range: ["#27272a", "#fdc700"] },
       },
       tooltip: [
         { field: "x", type: "nominal", title: "Ingredient A" },
@@ -31,7 +39,14 @@ export function barsSpec(values: any[]) {
     width: 420,
     height: Math.max(220, values.length * 16),
     data: { values },
-    mark: "bar",
+    mark: { type: "bar", color: "#fdc700" },
+    config: {
+      background: "transparent",
+      view: { stroke: "transparent" },
+      axis: { labelColor: "#ffffff", titleColor: "#ffffff" },
+      legend: { labelColor: "#ffffff", titleColor: "#ffffff" },
+      title: { color: "#ffffff" },
+    },
     encoding: {
       y: { field: "ingredient", type: "nominal", sort: "-x", title: null },
       x: {
