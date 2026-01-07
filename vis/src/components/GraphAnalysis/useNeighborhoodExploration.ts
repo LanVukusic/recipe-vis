@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo, useEffect } from "react";
+import { useState, useCallback, useMemo, useEffect, useRef } from "react";
 import {
   type Recipe,
   type GraphNode,
@@ -11,18 +11,71 @@ import {
 import type { FreqMap } from "../../App";
 
 export interface ExplorationState {
-  graph: CustomGraph | null;
   finalSubgraph: { nodes: GraphNode[]; edges: GraphEdge[] } | null;
   isExploring: boolean;
   error: string | null;
+}
+
+/**
+ * Creates a lightweight copy of the graph for random walks
+ * Only copies essential data and resets visit counts
+ */
+function createLightweightGraphCopy(originalGraph: CustomGraph): CustomGraph {
+  // Create node map for quick lookup
+  const nodeMap = new Map<string, GraphNode>();
+
+  // Create minimal node copies with reset visit counts
+  const nodes = originalGraph.nodes.map((node) => {
+    const newNode: GraphNode = {
+      id: node.id,
+      recipe: node.recipe,
+      visitedCount: 0, // Reset for each walk
+      siblings: [], // Will rebuild references
+    };
+    nodeMap.set(node.id, newNode);
+    return newNode;
+  });
+
+  // Create edge copies with proper node references
+  const edges = originalGraph.edges.map((edge) => {
+    const sourceNode = nodeMap.get(edge.source);
+    const targetNode = nodeMap.get(edge.target);
+
+    if (!sourceNode || !targetNode) {
+      throw new Error(`Node not found for edge ${edge.id}`);
+    }
+
+    const newEdge: GraphEdge = {
+      id: edge.id,
+      ingredient: { ...edge.ingredient },
+      source: edge.source,
+      sourceNode: sourceNode,
+      target: edge.target,
+      targetNode: targetNode,
+    };
+
+    // Add edge to both nodes' siblings
+    sourceNode.siblings.push(newEdge);
+    targetNode.siblings.push(newEdge);
+
+    return newEdge;
+  });
+
+  return {
+    nodes,
+    edges,
+  };
 }
 
 export const useNeighborhoodExploration = (
   ingredientFrequencies: FreqMap,
   recipes: Recipe[]
 ) => {
+  // USE REF FOR LARGE GRAPH OBJECT - doesn't trigger re-renders
+  const graphRef = useRef<CustomGraph | null>(null);
+
+  // STATE ONLY FOR UI-RELATED DATA
   const [explorationState, setExplorationState] = useState<ExplorationState>({
-    graph: null,
     finalSubgraph: null,
     isExploring: false,
     error: null,
@@ -34,7 +87,7 @@ export const useNeighborhoodExploration = (
     [ingredientFrequencies]
   );
 
-  // Build the graph from recipes
+  // Build the graph from recipes - store in ref, not state
   const buildGraph = useCallback(
     (recipes: Recipe[]) => {
       try {
@@ -43,9 +96,11 @@ export const useNeighborhoodExploration = (
         const graph = constructRecipeGraph(recipes, memoizedFrequencies);
         console.log("created graph: ", graph);
 
+        // ✅ Store in ref instead of state
+        graphRef.current = graph;
+
         setExplorationState((prev) => ({
           ...prev,
-          graph,
           error: null,
         }));
         return graph;
@@ -62,16 +117,19 @@ export const useNeighborhoodExploration = (
     [memoizedFrequencies]
   );
 
+  // Build graph when recipes change
   useEffect(() => {
-    if (recipes.length == 0) {
+    if (recipes.length === 0) {
       return;
     }
 
-    setExplorationState({
-      ...explorationState,
-      graph: buildGraph(recipes),
-    });
-  }, [recipes]);
+    // ✅ Debounce rapid recipe changes
+    const timeoutId = setTimeout(() => {
+      buildGraph(recipes);
+    }, 300);
+
+    return () => clearTimeout(timeoutId);
+  }, [recipes, buildGraph]);
 
   // Start exploration from a specific recipe
   const startExploration = useCallback(
@@ -83,7 +141,7 @@ export const useNeighborhoodExploration = (
       minVisits: number,
       useFilteredGraph: boolean
     ) => {
-      if (explorationState.graph == null) {
+      if (!graphRef.current) {
         console.log("no graph. exiting");
         return;
       }
@@ -97,15 +155,18 @@ export const useNeighborhoodExploration = (
       setExplorationState((prev) => ({
         ...prev,
         isExploring: true,
+        error: null, // Clear previous errors
       }));
 
       try {
-        console.log("trying ranom walk");
+        console.log("starting random walk");
+
+        // ✅ Use lightweight copy instead of structuredClone
+        const graphCopy = createLightweightGraphCopy(graphRef.current);
 
         // Perform the complete random walk
         const walkResult = randomWalkWithRestarts(
-          structuredClone(explorationState.graph),
-          // JSON.parse(JSON.stringify(explorationState.graph)),
+          graphCopy,
           startingRecipes.map((recipe) => recipe.index.toString()),
           restartProbability,
           maxSteps,
@@ -121,12 +182,9 @@ export const useNeighborhoodExploration = (
           ...prev,
           isExploring: false,
           finalSubgraph,
-          // visitCounts: walkResult.nodes.reduce((map, node) => {
-          //   map.set(node.id, node.visitedCount);
-          //   return map;
-          // }, new Map<string, number>()),
         }));
       } catch (error) {
+        console.error("Exploration error:", error);
         setExplorationState((prev) => ({
           ...prev,
           isExploring: false,
@@ -134,23 +192,28 @@ export const useNeighborhoodExploration = (
         }));
       }
     },
-    [explorationState.graph]
+    [] // ✅ Empty dependency array - graphRef doesn't change reference
   );
 
   // Reset exploration
   const resetExploration = useCallback(() => {
     setExplorationState({
-      graph: explorationState.graph,
       finalSubgraph: null,
       isExploring: false,
       error: null,
     });
-  }, [explorationState.graph]);
+  }, []);
+
+  // ✅ Expose graph for debugging/other purposes if needed
+  const getGraph = useCallback(() => {
+    return graphRef.current;
+  }, []);
 
   return {
     explorationState,
     buildGraph,
     startExploration,
     resetExploration,
+    getGraph, // Optional: for external access to the graph
   };
 };

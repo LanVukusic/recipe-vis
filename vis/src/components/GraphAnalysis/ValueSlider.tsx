@@ -8,6 +8,7 @@ interface ValueSliderProps {
   max: number;
   step: number;
   onChange?: (value: number) => void;
+  tooltip?: string;
 }
 
 const ValueSliderComponent = ({
@@ -17,6 +18,7 @@ const ValueSliderComponent = ({
   max,
   step,
   onChange,
+  tooltip,
 }: ValueSliderProps) => {
   const [value, setValue] = useState(initialValue);
   const [isDragging, setIsDragging] = useState(false);
@@ -94,6 +96,7 @@ const ValueSliderComponent = ({
   return (
     <div className="">
       <span className="text-sm">{label}</span>
+      {tooltip && <span className="text-xs opacity-50">{tooltip}</span>}
       <div
         ref={containerRef}
         className="flex bg-zinc-70 h-10 gap-1 cursor-pointer relative"
